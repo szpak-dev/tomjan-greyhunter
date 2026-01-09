@@ -1,0 +1,33 @@
+---
+import CategoryCard from './CategoryCard.astro';
+import { useTranslations } from '../i18n/utils';
+import type { MarttiiniCategoryWithImage } from '../libs/marttiini';
+
+interface Props {
+  categories: MarttiiniCategoryWithImage[];
+  lang: string;
+}
+
+const { categories, lang } = Astro.props;
+const t = useTranslations(lang as 'en' | 'pl');
+---
+
+<section class="py-5">
+  <div class="container">
+    <h2 class="display-6 fw-bold text-center mb-4">{t('marttiini.allCategories')}</h2>
+    
+    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-3 g-md-4">
+      {categories.map((category) => (
+        <div class="col">
+          <CategoryCard
+            slug={category.slug}
+            name={category.name}
+            count={category.count}
+            imageUrl={category.imageUrl}
+            lang={lang}
+          />
+        </div>
+      ))}
+    </div>
+  </div>
+</section>

@@ -1,0 +1,98 @@
+---
+import { Carousel } from 'astro-bootstrap';
+import MarttiiniPicture from './MarttiiniPicture.astro';
+import { getPromotedProductsForLanguage } from '../libs/promotedProducts';
+
+interface Props {
+  lang: string;
+}
+
+const { lang } = Astro.props;
+
+// Fetch promoted products with full details
+const productsWithDetails = await getPromotedProductsForLanguage(lang);
+
+// Prepare slides data for astro-bootstrap Carousel
+const slides = productsWithDetails.map((product, index) => ({
+  img: product.imageUrl,
+  alt: product.name,
+  active: index === 0,
+  product
+}));
+
+const carouselId = 'promotedProductsCarousel';
+---
+
+<section class="promoted-products my-5">
+  <Carousel id={carouselId} fade>
+    <Carousel.Indicators id={carouselId} {slides} />
+    <Carousel.Inner>
+      {slides.map((slide) => (
+        <Carousel.Item active={slide.active}>
+          <div class={`row align-items-center ${slide.product.imageOrientation === 'landscape' ? 'landscape-layout' : 'portrait-layout'}`}>
+            <div class={slide.product.imageOrientation === 'landscape' ? 'col-md-8' : 'col-md-6'}>
+              {slide.img ? (
+                <MarttiiniPicture 
+                  src={slide.img}
+                  alt={slide.alt}
+                  place="front-slider"
+                  imageOrientation={slide.product.imageOrientation}
+                />
+              ) : (
+                <div class="placeholder-image bg-secondary d-flex align-items-center justify-content-center" style="height: 400px;">
+                  <span class="text-white">No Image</span>
+                </div>
+              )}
+            </div>
+            <div class={slide.product.imageOrientation === 'landscape' ? 'col-md-4' : 'col-md-6'}>
+              <div class="product-info p-4">
+                <h2 class="product-name">{slide.product.name}</h2>
+                <p class="manufacturer-name text-muted">{slide.product.manufacturer}</p>
+              </div>
+            </div>
+          </div>
+        </Carousel.Item>
+      ))}
+    </Carousel.Inner>
+    <Carousel.Controls id={carouselId} />
+  </Carousel>
+</section>
+
+<style>
+  .promoted-products {
+    background: #ffffff;
+    padding: 2rem 0;
+    border-radius: 8px;
+  }
+  
+  .carousel-item {
+    min-height: 500px;
+  }
+  
+  .portrait-layout {
+    display: flex;
+    align-items: center;
+  }
+  
+  .portrait-layout > div:first-child {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .product-name {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 0.5rem;
+  }
+  
+  .manufacturer-name {
+    font-size: 1rem;
+    text-transform: capitalize;
+  }
+  
+  .carousel-control-prev,
+  .carousel-control-next {
+    filter: invert(1);
+  }
+</style>

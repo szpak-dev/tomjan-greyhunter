@@ -1,0 +1,22 @@
+---
+import { Navbar } from "astro-bootstrap";
+import type { NavbarItemType } from "astro-bootstrap";
+
+const siteTitle = "Astro site"; // pull this in from a config file
+const items: NavbarItemType[] = [
+  // pull this in from a config file
+  { text: "Company", href: "#" },
+  { text: "Business Partners", href: "#" },
+  { text: "Databank", href: "#" },
+  { text: "Contact", href: "#" },
+];
+
+const id = "navbarDemo";
+---
+
+<Navbar class="navbar-expand-lg">
+    <Navbar.Toggler controls={id} />
+    <Navbar.Collapse {id}>
+      <Navbar.Items {items} class="me-auto mb-2 mb-lg-0 justify-content-between w-100" />
+    </Navbar.Collapse>
+</Navbar>

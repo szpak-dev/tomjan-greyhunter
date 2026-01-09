@@ -1,0 +1,53 @@
+---
+import MarttiiniPicture from './MarttiiniPicture.astro';
+import type { FullMarttiiniProduct } from '../libs/marttiini';
+import { getLocalizedUrl } from '../i18n/utils';
+
+interface Props {
+  product: FullMarttiiniProduct;
+  lang: string;
+}
+
+const { product, lang } = Astro.props;
+const productUrl = getLocalizedUrl(lang, `marttiini/${product.category_slug}/${product.slug}`);
+---
+
+<div class="card h-100 shadow-sm border-0 transition-hover">
+  <a href={productUrl} class="text-decoration-none text-dark d-flex flex-column h-100">
+    <div class="position-relative overflow-hidden bg-light" style="aspect-ratio: 4/5;">
+      {product.cdn_images?.[0] ? (
+        <MarttiiniPicture 
+          src={product.cdn_images[0]}
+          alt={product.name}
+          place="product-card"
+          imageOrientation="portrait"
+        />
+      ) : (
+        <div class="w-100 h-100 bg-secondary d-flex align-items-center justify-content-center">
+          <span class="text-white">No Image</span>
+        </div>
+      )}
+    </div>
+    <div class="card-body d-flex flex-column justify-content-end p-3">
+      <h3 class="card-title h6 fw-semibold mb-0 lh-sm">{product.name}</h3>
+    </div>
+  </a>
+</div>
+
+<style>
+  .transition-hover {
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+  }
+
+  .transition-hover:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15) !important;
+  }
+
+  .line-clamp-3 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+  }
+</style>

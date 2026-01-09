@@ -1,0 +1,60 @@
+---
+import Layout from "../../../../layouts/Layout.astro";
+import MarttiiniProductPage from "../../../../components/MarttiiniProductPage.astro";
+import { languages } from "../../../../i18n/ui";
+import { 
+  getMarttiiniProductBySlug,
+  getAllMarttiiniProducts 
+} from "../../../../libs/marttiini";
+import { useTranslations } from "../../../../i18n/utils";
+
+const { lang, category, product: productSlug } = Astro.params;
+const t = useTranslations(lang as 'en' | 'pl');
+
+// Fetch product data
+const product = await getMarttiiniProductBySlug(
+  productSlug as string,
+  lang as 'en' | 'pl'
+);
+
+// Redirect to 404 if product not found or inactive
+if (!product || !product.active) {
+  return Astro.redirect('/404');
+}
+
+// Verify category matches
+if (product.category_slug !== category) {
+  return Astro.redirect(`/${lang}/marttiini/${product.category_slug}/${product.slug}`);
+}
+
+export async function getStaticPaths() {
+  const paths = [];
+  
+  for (const lang of Object.keys(languages)) {
+    // Get all products for this language
+    const products = await getAllMarttiiniProducts(lang as 'en' | 'pl');
+    
+    // Create a path for each product
+    for (const product of products) {
+      if (product.active) {
+        paths.push({
+          params: { 
+            lang, 
+            category: product.category_slug,
+            product: product.slug
+          }
+        });
+      }
+    }
+  }
+  
+  return paths;
+}
+
+const pageTitle = `${product.name} - Marttiini`;
+const pageDescription = product.lead || product.description.substring(0, 160);
+---
+
+<Layout title={pageTitle} description={pageDescription}>
+  <MarttiiniProductPage product={product} lang={lang as 'en' | 'pl'} />
+</Layout>

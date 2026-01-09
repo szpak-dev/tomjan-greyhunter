@@ -1,0 +1,94 @@
+---
+import { CldImage } from "astro-cloudinary";
+
+interface Props {
+  src: string;
+  alt: string;
+  place: "front-slider" | "product-card" | "details-page" | "category-card";
+  imageOrientation?: "landscape" | "portrait";
+}
+
+const { src, alt, place, imageOrientation = "portrait" } = Astro.props;
+
+// Define configurations for different places
+const configs = {
+  "front-slider": {
+    width: imageOrientation === "landscape" ? 1200 : 600,
+    height: imageOrientation === "landscape" ? 600 : 800,
+    crop: "pad" as const,
+    gravity: "center",
+    background: "white",
+    class: "slider-image",
+  },
+  "product-card": {
+    width: 200,
+    height: 250,
+    crop: "pad" as const,
+    gravity: "center",
+    background: "white",
+    class: "card-img-top",
+  },
+  "category-card": {
+    width: 250,
+    height: 191,
+    crop: "pad" as const,
+    gravity: "center",
+    background: "white",
+    class: "category-img",
+  },
+  "details-page": {
+    width: 600,
+    height: 800,
+    crop: "pad" as const,
+    gravity: "center",
+    background: "white",
+    class: "img-fluid",
+  },
+};
+
+const config = configs[place];
+---
+
+<CldImage
+  src={src}
+  alt={alt}
+  width={config.width}
+  height={config.height}
+  crop={config.crop}
+  gravity={config.gravity}
+  background={config.background}
+  quality="auto"
+  format="auto"
+  class={config.class}
+  loading={place === "front-slider" ? "eager" : "lazy"}
+  sizes={place === "front-slider"
+    ? "(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 600px"
+    : place === "product-card"
+      ? "(max-width: 576px) 100vw, (max-width: 768px) 50vw, (max-width: 992px) 33vw, 400px"
+      : place === "category-card"
+        ? "(max-width: 576px) 100vw, (max-width: 768px) 50vw, (max-width: 992px) 33vw, 600px"
+        : "(max-width: 768px) 100vw, (max-width: 1200px) 80vw, 1200px"}
+/>
+
+<style>
+  .slider-image {
+    max-height: 800px;
+    width: 100%;
+    object-fit: contain;
+  }
+
+  .card-img-top {
+    object-fit: contain;
+  }
+
+  .category-img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+
+  .img-fluid {
+    max-width: 100%;
+    height: auto;
+  }
+</style>

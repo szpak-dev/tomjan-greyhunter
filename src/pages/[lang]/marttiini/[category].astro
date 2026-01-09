@@ -1,0 +1,98 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import ProductsGrid from "../../../components/ProductsGrid.astro";
+import { languages } from "../../../i18n/ui";
+import { 
+  getMarttiiniProductsByCategory, 
+  getMarttiiniCategoriesWithImages 
+} from "../../../libs/marttiini";
+import { useTranslations, getLocalizedUrl } from "../../../i18n/utils";
+
+const { lang, category } = Astro.params;
+const t = useTranslations(lang as 'en' | 'pl');
+
+// Fetch products for this category
+const products = await getMarttiiniProductsByCategory(
+  category as string, 
+  lang as 'en' | 'pl'
+);
+
+// Get category name from the first product
+const categoryName = products[0]?.category || category;
+
+// Filter only active products
+const activeProducts = products.filter(p => p.active);
+
+export async function getStaticPaths() {
+  const paths = [];
+  
+  for (const lang of Object.keys(languages)) {
+    // Get all categories for this language
+    const categories = await getMarttiiniCategoriesWithImages(lang as 'en' | 'pl');
+    
+    // Create a path for each category
+    for (const category of categories) {
+      paths.push({
+        params: { 
+          lang, 
+          category: category.slug 
+        }
+      });
+    }
+  }
+  
+  return paths;
+}
+
+const pageTitle = `${categoryName} - Marttiini`;
+---
+
+<Layout title={pageTitle}>
+  <div class="container">
+    <nav aria-label="breadcrumb" class="my-3">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href={getLocalizedUrl(lang as string)}>{t('nav.home')}</a>
+        </li>
+        <li class="breadcrumb-item">
+          <a href={getLocalizedUrl(lang as string, 'marttiini')}>Marttiini</a>
+        </li>
+        <li class="breadcrumb-item active" aria-current="page">
+          {categoryName}
+        </li>
+      </ol>
+    </nav>
+  </div>
+
+  <ProductsGrid 
+    products={activeProducts} 
+    lang={lang as string}
+    categoryName={categoryName}
+  />
+</Layout>
+
+<style>
+  .breadcrumb {
+    background: transparent;
+    padding: 0;
+    margin-bottom: 1rem;
+  }
+
+  .breadcrumb-item + .breadcrumb-item::before {
+    content: "›";
+    color: #6c757d;
+  }
+
+  .breadcrumb-item a {
+    color: #0d6efd;
+    text-decoration: none;
+  }
+
+  .breadcrumb-item a:hover {
+    text-decoration: underline;
+  }
+
+  .breadcrumb-item.active {
+    color: #6c757d;
+  }
+</style>
