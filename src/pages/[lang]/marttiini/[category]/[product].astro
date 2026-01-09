@@ -5,24 +5,21 @@ import { languages } from "../../../../i18n/ui";
 import { 
   getMarttiiniProductBySlug,
   getAllMarttiiniProducts 
-} from "../../../../libs/marttiini";
+} from "../../../../loaders/marttiini/marttiini";
 import { useTranslations } from "../../../../i18n/utils";
 
 const { lang, category, product: productSlug } = Astro.params;
 const t = useTranslations(lang as 'en' | 'pl');
 
-// Fetch product data
 const product = await getMarttiiniProductBySlug(
   productSlug as string,
   lang as 'en' | 'pl'
 );
 
-// Redirect to 404 if product not found or inactive
 if (!product || !product.active) {
   return Astro.redirect('/404');
 }
 
-// Verify category matches
 if (product.category_slug !== category) {
   return Astro.redirect(`/${lang}/marttiini/${product.category_slug}/${product.slug}`);
 }
@@ -31,10 +28,8 @@ export async function getStaticPaths() {
   const paths = [];
   
   for (const lang of Object.keys(languages)) {
-    // Get all products for this language
     const products = await getAllMarttiiniProducts(lang as 'en' | 'pl');
     
-    // Create a path for each product
     for (const product of products) {
       if (product.active) {
         paths.push({

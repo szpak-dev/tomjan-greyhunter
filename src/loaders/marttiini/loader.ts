@@ -11,18 +11,11 @@ import {
 export type MarttiiniLoaderType = 'base' | 'i18n';
 
 export interface MarttiiniLoaderOptions {
-  /** Path to JSONL file relative to project root */
   filePath: string;
-  /** Type of data to load */
   type: MarttiiniLoaderType;
-  /** Language code (required for i18n type) */
   lang?: string;
 }
 
-/**
- * Custom Astro loader for Marttiini JSONL product data
- * Automatically splits products into base and i18n collections
- */
 export function marttiiniProductLoader(options: MarttiiniLoaderOptions): Loader {
   const { filePath, type, lang } = options;
 
@@ -71,9 +64,6 @@ export function marttiiniProductLoader(options: MarttiiniLoaderOptions): Loader 
   };
 }
 
-/**
- * Load base products (language-agnostic data)
- */
 function loadBaseProducts(products: any[], store: any): void {
   for (const product of products) {
     const baseProduct = toBaseProduct(product);
@@ -84,9 +74,6 @@ function loadBaseProducts(products: any[], store: any): void {
   }
 }
 
-/**
- * Load product translations (language-specific data)
- */
 function loadTranslations(products: any[], lang: string, store: any): void {
   for (const product of products) {
     const translation = toProductTranslation(product, lang);
@@ -99,9 +86,6 @@ function loadTranslations(products: any[], lang: string, store: any): void {
   }
 }
 
-/**
- * Helper to create Marttiini loader with simplified options
- */
 export function createMarttiiniLoader(
   type: MarttiiniLoaderType,
   lang?: string

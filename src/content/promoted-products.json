@@ -5,5 +5,12 @@
         "productSku": "131030",
         "imageOrientation": "portrait",
         "order": 1
+    },
+    {
+        "id": "marttiini-lapp-knife-230",
+        "manufacturer": "marttiini",
+        "productSku": "230010",
+        "imageOrientation": "portrait",
+        "order": 2
     }
 ]

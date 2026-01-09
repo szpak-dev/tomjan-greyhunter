@@ -14,5 +14,13 @@ export default defineConfig({
             prefixDefaultLocale: true,
             redirectToDefaultLocale: true,
         }
+    },
+    vite: {
+        optimizeDeps: {
+            include: ['bootstrap']
+        },
+        ssr: {
+            noExternal: ['bootstrap']
+        }
     }
 });

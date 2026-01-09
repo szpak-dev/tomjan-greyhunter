@@ -1,4 +1,4 @@
-import type { MarttiiniRawProduct } from '../../../types/marttiini/product';
+import type { MarttiiniRawProduct } from '../types';
 
 /**
  * Parse JSONL file content into Marttiini product objects

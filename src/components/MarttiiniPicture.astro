@@ -13,8 +13,8 @@ const { src, alt, place, imageOrientation = "portrait" } = Astro.props;
 // Define configurations for different places
 const configs = {
   "front-slider": {
-    width: imageOrientation === "landscape" ? 1200 : 600,
-    height: imageOrientation === "landscape" ? 600 : 800,
+    width: 300,
+    height: 400,
     crop: "pad" as const,
     gravity: "center",
     background: "white",

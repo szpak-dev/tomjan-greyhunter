@@ -1,7 +1,6 @@
 import { defineCollection, z } from 'astro:content';
 import { createMarttiiniLoader } from './loaders/marttiini';
 
-// Manufacturers collection with custom inline loader
 const manufacturers = defineCollection({
     schema: z.object({
         lang: z.string(),
@@ -31,7 +30,6 @@ const manufacturers = defineCollection({
     }
 });
 
-// Marttiini - Base products (language-agnostic data)
 const marttiiniProducts = defineCollection({
     schema: z.object({
         sku: z.string(),
@@ -44,7 +42,6 @@ const marttiiniProducts = defineCollection({
     loader: createMarttiiniLoader('base'),
 });
 
-// Product translations schema (reusable)
 const productI18nSchema = z.object({
     sku: z.string(),
     lang: z.string(),
@@ -62,19 +59,16 @@ const productI18nSchema = z.object({
     })).optional(),
 });
 
-// Marttiini - Product translations (English)
 const marttiiniProductsI18nEn = defineCollection({
     schema: productI18nSchema,
     loader: createMarttiiniLoader('i18n', 'en'),
 });
 
-// Marttiini - Product translations (Polish)
 const marttiiniProductsI18nPl = defineCollection({
     schema: productI18nSchema,
     loader: createMarttiiniLoader('i18n', 'pl'),
 });
 
-// Promoted products for homepage slider
 const promotedProducts = defineCollection({
     schema: z.object({
         id: z.string(),

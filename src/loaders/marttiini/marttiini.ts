@@ -2,31 +2,23 @@ import { getEntry, getCollection } from 'astro:content';
 import type {
   MarttiiniBaseProduct,
   MarttiiniProductTranslation
-} from '../types/marttiini/product';
+} from './types';
 
-/**
- * Combined Marttiini product with base data and translation
- */
 export interface FullMarttiiniProduct 
   extends MarttiiniBaseProduct, 
   Omit<MarttiiniProductTranslation, 'sku'> {}
 
-/**
- * Get full Marttiini product data by combining base and translation
- */
 export async function getMarttiiniProduct(
   sku: string,
   lang: 'en' | 'pl'
 ): Promise<FullMarttiiniProduct | null> {
   try {
-    // Get base product
     const baseProduct = await getEntry('marttiiniProducts', sku);
     if (!baseProduct) {
       console.warn(`Marttiini product not found: ${sku}`);
       return null;
     }
 
-    // Get translation
     const collectionName = lang === 'en' 
       ? 'marttiiniProductsI18nEn' 
       : 'marttiiniProductsI18nPl';
@@ -38,7 +30,6 @@ export async function getMarttiiniProduct(
       return null;
     }
 
-    // Combine data
     return {
       ...baseProduct.data,
       ...translation.data,
@@ -49,27 +40,20 @@ export async function getMarttiiniProduct(
   }
 }
 
-/**
- * Get all Marttiini products for a specific language
- */
 export async function getAllMarttiiniProducts(
   lang: 'en' | 'pl'
 ): Promise<FullMarttiiniProduct[]> {
-  // Get all base products
   const baseProducts = await getCollection('marttiiniProducts');
   
-  // Get translations for the language
   const collectionName = lang === 'en' 
     ? 'marttiiniProductsI18nEn' 
     : 'marttiiniProductsI18nPl';
   const translations = await getCollection(collectionName);
   
-  // Create a map of translations by SKU
   const translationMap = new Map(
     translations.map(t => [t.data.sku, t.data])
   );
   
-  // Combine base products with their translations
   const products: FullMarttiiniProduct[] = [];
   
   for (const base of baseProducts) {
@@ -85,9 +69,6 @@ export async function getAllMarttiiniProducts(
   return products;
 }
 
-/**
- * Get Marttiini products by category
- */
 export async function getMarttiiniProductsByCategory(
   categorySlug: string,
   lang: 'en' | 'pl'
@@ -96,9 +77,6 @@ export async function getMarttiiniProductsByCategory(
   return allProducts.filter(p => p.category_slug === categorySlug);
 }
 
-/**
- * Get single Marttiini product by slug
- */
 export async function getMarttiiniProductBySlug(
   slug: string,
   lang: 'en' | 'pl'
@@ -107,9 +85,6 @@ export async function getMarttiiniProductBySlug(
   return allProducts.find(p => p.slug === slug) || null;
 }
 
-/**
- * Get active Marttiini products only
- */
 export async function getActiveMarttiiniProducts(
   lang: 'en' | 'pl'
 ): Promise<FullMarttiiniProduct[]> {
@@ -117,9 +92,6 @@ export async function getActiveMarttiiniProducts(
   return allProducts.filter(p => p.active);
 }
 
-/**
- * Category with image from first product
- */
 export interface MarttiiniCategoryWithImage {
   slug: string;
   name: string;
@@ -128,9 +100,6 @@ export interface MarttiiniCategoryWithImage {
   firstProduct: FullMarttiiniProduct | null;
 }
 
-/**
- * Get all unique Marttiini categories
- */
 export async function getMarttiiniCategories(
   lang: 'en' | 'pl'
 ): Promise<Array<{ slug: string; name: string; count: number }>> {
@@ -159,9 +128,6 @@ export async function getMarttiiniCategories(
   }));
 }
 
-/**
- * Get all Marttiini categories with images from first product
- */
 export async function getMarttiiniCategoriesWithImages(
   lang: 'en' | 'pl'
 ): Promise<MarttiiniCategoryWithImage[]> {
@@ -197,9 +163,6 @@ export async function getMarttiiniCategoriesWithImages(
     .sort((a, b) => a.name.localeCompare(b.name));
 }
 
-/**
- * Search Marttiini products by query
- */
 export async function searchMarttiiniProducts(
   query: string,
   lang: 'en' | 'pl'

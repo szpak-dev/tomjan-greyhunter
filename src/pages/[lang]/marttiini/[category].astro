@@ -5,32 +5,26 @@ import { languages } from "../../../i18n/ui";
 import { 
   getMarttiiniProductsByCategory, 
   getMarttiiniCategoriesWithImages 
-} from "../../../libs/marttiini";
+} from "../../../loaders/marttiini/marttiini";
 import { useTranslations, getLocalizedUrl } from "../../../i18n/utils";
 
 const { lang, category } = Astro.params;
 const t = useTranslations(lang as 'en' | 'pl');
 
-// Fetch products for this category
 const products = await getMarttiiniProductsByCategory(
   category as string, 
   lang as 'en' | 'pl'
 );
 
-// Get category name from the first product
 const categoryName = products[0]?.category || category;
-
-// Filter only active products
 const activeProducts = products.filter(p => p.active);
 
 export async function getStaticPaths() {
   const paths = [];
   
   for (const lang of Object.keys(languages)) {
-    // Get all categories for this language
     const categories = await getMarttiiniCategoriesWithImages(lang as 'en' | 'pl');
     
-    // Create a path for each category
     for (const category of categories) {
       paths.push({
         params: { 

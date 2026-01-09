@@ -16,4 +16,4 @@ export type {
   MarttiiniProductTranslation,
   ProductAttribute,
   ProductAttributeGroup,
-} from '../../types/marttiini/product';
+} from './types';

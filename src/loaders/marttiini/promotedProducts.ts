@@ -1,66 +1,58 @@
 import { getCollection } from 'astro:content';
-import type { PromotedProductWithDetails } from '../types/promotedProduct';
+import type { PromotedProductWithDetails } from '../../types/promotedProduct';
+import { getMarttiiniProduct } from './marttiini';
 
 export async function getPromotedProductsForLanguage(
-  lang: string
+  lang: 'en' | 'pl'
 ): Promise<PromotedProductWithDetails[]> {
-  // Get all promoted products
   const promotedProducts = await getCollection('promotedProducts' as any);
-
-  // Sort by order
   promotedProducts.sort((a: any, b: any) => a.data.order - b.data.order);
 
-  // Resolve product details
+  console.log(`[promotedProducts] Processing ${promotedProducts.length} promoted products for lang ${lang}`);
+
   const productsWithDetails = await Promise.all(
     promotedProducts.map(async (promoted: any) => {
       const { manufacturer, productSku, imageOrientation, order, id } = promoted.data;
+      console.log(`[promotedProducts] Processing: id=${id}, sku=${productSku}, manufacturer=${manufacturer}`);
 
-      // Fetch product details based on manufacturer
       if (manufacturer === 'marttiini') {
-        return await resolveMarttiiniProduct(id, lang, manufacturer, productSku, imageOrientation, order);
+        const result = await resolveMarttiiniProduct(id, lang, manufacturer, productSku, imageOrientation, order);
+        console.log(`[promotedProducts] Resolved ${id}:`, result.name, result.imageUrl ? 'has image' : 'NO IMAGE');
+        return result;
       }
 
-      // Fallback for unknown manufacturers
       return createFallbackProduct(id, lang, manufacturer, productSku, imageOrientation, order);
     })
   );
 
+  console.log(`[promotedProducts] Returning ${productsWithDetails.length} products`);
   return productsWithDetails;
 }
 
 async function resolveMarttiiniProduct(
   id: string,
-  lang: string,
+  lang: 'en' | 'pl',
   manufacturer: string,
   productSku: string,
   imageOrientation: 'landscape' | 'portrait',
   order: number
 ): Promise<PromotedProductWithDetails> {
-  const collectionName = lang === 'en' ? 'marttiiniProductsI18nEn' : 'marttiiniProductsI18nPl';
-  
-  // Fetch product translation
-  const translations = await getCollection(collectionName, ({ data }) => {
-    return data.sku === productSku;
-  });
-  const productTranslation = translations[0];
+  const product = await getMarttiiniProduct(productSku, lang);
 
-  // Get base product for images
-  const baseProducts = await getCollection('marttiiniProducts', ({ data }) => {
-    return data.sku === productSku;
-  });
-  const baseProduct = baseProducts[0];
+  if (!product) {
+    return createFallbackProduct(id, lang, manufacturer, productSku, imageOrientation, order);
+  }
 
   return {
     id,
-    lang,
     manufacturer,
     productSku,
     imageOrientation,
     order,
-    name: productTranslation?.data.name || '',
-    slug: productTranslation?.data.slug || '',
-    lead: productTranslation?.data.lead,
-    imageUrl: baseProduct?.data.cdn_images?.[0],
+    name: product.name,
+    slug: product.slug,
+    lead: product.lead,
+    imageUrl: product.cdn_images?.[0],
   };
 }
 
@@ -74,7 +66,6 @@ function createFallbackProduct(
 ): PromotedProductWithDetails {
   return {
     id,
-    lang,
     manufacturer,
     productSku,
     imageOrientation,

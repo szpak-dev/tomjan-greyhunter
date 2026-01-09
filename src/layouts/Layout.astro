@@ -23,13 +23,15 @@ const { title } = Astro.props;
     <title>{title}</title>
   </head>
   <body class="d-flex flex-column min-vh-100">
+    <script>
+      import "bootstrap/js/dist/base-component";
+      import "bootstrap/js/dist/collapse";
+      import "bootstrap/js/dist/carousel";
+    </script>
     <Header />
     <main class="container">
       <slot />
     </main>
     <Footer />
-    <script>
-      import "bootstrap/dist/js/bootstrap.bundle.min.js";
-    </script>
   </body>
 </html>

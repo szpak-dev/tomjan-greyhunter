@@ -2,7 +2,7 @@ import type {
   MarttiiniRawProduct,
   MarttiiniBaseProduct,
   MarttiiniProductTranslation
-} from '../../../types/marttiini/product';
+} from '../types';
 
 /**
  * Transform raw Marttiini product to base product (language-agnostic data)

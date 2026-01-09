@@ -3,7 +3,7 @@ import { getRelativeLocaleUrl } from "astro:i18n";
 import Layout from "../../layouts/Layout.astro";
 import CategoriesGrid from "../../components/CategoriesGrid.astro";
 import { languages } from "../../i18n/ui";
-import { getMarttiiniCategoriesWithImages } from "../../libs/marttiini";
+import { getMarttiiniCategoriesWithImages } from "../../loaders/marttiini/marttiini";
 import { useTranslations } from "../../i18n/utils";
 
 const lang = Astro.currentLocale as string;
