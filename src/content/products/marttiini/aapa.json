@@ -1,0 +1,74 @@
+{
+  "id": "marttiini.aapa",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/131030",
+  "manufacturer": "marttiini",
+  "category_slug": "design-knives",
+  "sku": "131030",
+  "name": "Aapa",
+  "slug": "aapa",
+  "lead": "The characteristics of two strong traditional knives combined into one",
+  "description": "The bold Aapa knife embodies the harsh atmosphere of the Finnish swamp landscape. The model combines the typical characteristics of two strong traditional knives: the blade of a classic Lapp knife and the handle of a Lynx knife. The blade is made of forged carbon steel. The handle is an earthy mix of curly birch waxed in a tar tone and reindeer antler bone. The new sheath type has a wider holster.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FF8/9503/972B/17FE/9B26/0A28/105F/B7F2/131030_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FF8/9503/972B/17FE/9B26/0A28/105F/B7F2/131030_second.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FF8/9503/972B/17FE/9B26/0A28/105F/B7F2/hiiliteras_puukko_marttiini_aapa_carbon_steel_knife.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FF8/9503/972B/17FE/9B26/0A28/105F/B7F2/marttiini_aapa_hiiliteras_puukko_carbon_steel_knife.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FF8/9503/972B/17FE/9B26/0A28/105F/B7F2/Aapa_knife_puukko.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FF8/9503/972B/17FE/9B26/0A28/105F/B7F2/marttiini_aapa_hiiliteras_puukko_retkeilyyn.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FF8/9503/972B/17FE/9B26/0A28/105F/B7F2/Aapa_Marttiini_puukko_knife.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074243/greyhunter.com.pl/marttiini/aapa-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074246/greyhunter.com.pl/marttiini/aapa-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074247/greyhunter.com.pl/marttiini/aapa-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074249/greyhunter.com.pl/marttiini/aapa-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074250/greyhunter.com.pl/marttiini/aapa-4.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074252/greyhunter.com.pl/marttiini/aapa-5.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074253/greyhunter.com.pl/marttiini/aapa-6.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "23 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "176 g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "forged carbon steel 80CrV2, HRC 59.5"
+        },
+        {
+          "name": "Handle material",
+          "value": "colour-waxed curly birch, reindeer antler bone, protective oil"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather, black"
+        }
+      ]
+    },
+    {
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "name": "Sharpening angle",
+          "value": "22 degrees / Scandi grind Curly birch and antler bone are natural materials – the tones and the patterns vary by each product. Each knife is different and unique."
+        }
+      ]
+    }
+  ]
+}

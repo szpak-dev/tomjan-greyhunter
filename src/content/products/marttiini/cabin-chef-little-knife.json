@@ -1,0 +1,57 @@
+{
+  "id": "marttiini.cabin-chef-little-knife",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/441010",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "sku": "441010",
+  "name": "Cabin Chef Little Knife",
+  "slug": "cabin-chef-little-knife",
+  "lead": "Cabin Chef Little Knife  design inspired by northern nature, powered by form and function",
+  "description": "Cabin Chef Little Knife is a multipurpose knife with a handy size. It can be used as a mushroom knife as well as cutting, chopping and peeling root vegetables. It is also a perfect steak knife and performs well small chores at the camping site.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F56/1284/A0F7/1C73/2562/0A28/105F/18E0/441010_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F56/1284/A0F7/1C73/2562/0A28/105F/18E0/441010.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F56/1284/A0F7/1C73/2562/0A28/105F/18E0/441010_second.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074991/greyhunter.com.pl/marttiini/cabin-chef-little-knife-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074993/greyhunter.com.pl/marttiini/cabin-chef-little-knife-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074995/greyhunter.com.pl/marttiini/cabin-chef-little-knife-2.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "8 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "19.5 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "85 g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "curly birch, waxed"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather, brown"
+        }
+      ]
+    }
+  ]
+}

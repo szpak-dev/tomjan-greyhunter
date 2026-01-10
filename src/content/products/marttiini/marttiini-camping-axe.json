@@ -1,0 +1,59 @@
+{
+  "id": "marttiini.marttiini-camping-axe",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1031030",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "sku": "1031030",
+  "name": "Marttiini Camping Axe",
+  "slug": "marttiini-camping-axe",
+  "lead": null,
+  "description": "Our axe series follow the example set by Marttiini knives.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5C07/D2C8/A670/CC74/EAF4/0A28/1041/AA11/1031030_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5C07/D2C8/A670/CC74/EAF4/0A28/1041/AA11/1031030_second.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5C07/D2C8/A670/CC74/EAF4/0A28/1041/AA11/leirikirves_marttiini_axe.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5C07/D2C8/A670/CC74/EAF4/0A28/1041/AA11/leirikirves_marttiini.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074370/greyhunter.com.pl/marttiini/marttiini-camping-axe-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074371/greyhunter.com.pl/marttiini/marttiini-camping-axe-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074373/greyhunter.com.pl/marttiini/marttiini-camping-axe-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074374/greyhunter.com.pl/marttiini/marttiini-camping-axe-3.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "13 x 8 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "38,5 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "830 g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "carbon steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "ash wood"
+        },
+        {
+          "name": "Blade cover",
+          "value": "leather, brown"
+        }
+      ]
+    }
+  ]
+}

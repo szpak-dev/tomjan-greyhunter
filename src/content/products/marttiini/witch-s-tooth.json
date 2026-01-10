@@ -1,0 +1,63 @@
+{
+  "id": "marttiini.witch-s-tooth",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/2121010",
+  "manufacturer": "marttiini",
+  "category_slug": "design-knives",
+  "sku": "2121010",
+  "name": "Witch's Tooth",
+  "slug": "witch-s-tooth",
+  "lead": null,
+  "description": "According to old beliefs, the rattle made of reindeer antler at the end of the handle keeps the evil spirits at bay so that the user of the knife may eat in peace. A legend says that this knife model belonged to an old witch, who used it to carve thin slices of dried meat.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5A29/6499/4E40/3D9C/7C35/0A28/1041/239A/2121010_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5A29/6499/4E40/3D9C/7C35/0A28/1041/239A/marttiini_velhonhammas.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5A29/6499/4E40/3D9C/7C35/0A28/1041/239A/5M9A2755.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5A29/6499/4E40/3D9C/7C35/0A28/1041/239A/velhonhammas-puukko-sarviluu.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5A29/6499/4E40/3D9C/7C35/0A28/1041/239A/velhonhammas.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5A29/6499/4E40/3D9C/7C35/0A28/1041/239A/knife-with-antler.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074581/greyhunter.com.pl/marttiini/witch-s-tooth-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074582/greyhunter.com.pl/marttiini/witch-s-tooth-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074584/greyhunter.com.pl/marttiini/witch-s-tooth-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074586/greyhunter.com.pl/marttiini/witch-s-tooth-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074587/greyhunter.com.pl/marttiini/witch-s-tooth-4.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074589/greyhunter.com.pl/marttiini/witch-s-tooth-5.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "22 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "143g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel 1.4034 / X46Cr13, HRC 53.5-55"
+        },
+        {
+          "name": "Handle material",
+          "value": "Finnish curly birch & antler"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather, light brown"
+        }
+      ]
+    }
+  ]
+}

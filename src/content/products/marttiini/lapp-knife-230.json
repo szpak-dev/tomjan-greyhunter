@@ -1,0 +1,53 @@
+{
+  "id": "marttiini.lapp-knife-230",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/230010",
+  "manufacturer": "marttiini",
+  "category_slug": "traditional",
+  "sku": "230010",
+  "name": "Lapp knife 230",
+  "slug": "lapp-knife-230",
+  "lead": null,
+  "description": ".",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D283/7257/59DB/4517/0A28/1041/30CF/230010_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D283/7257/59DB/4517/0A28/1041/30CF/230010_second.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D283/7257/59DB/4517/0A28/1041/30CF/5M9A2210.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074476/greyhunter.com.pl/marttiini/lapp-knife-230-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074478/greyhunter.com.pl/marttiini/lapp-knife-230-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074479/greyhunter.com.pl/marttiini/lapp-knife-230-2.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "22 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "curly birch, varnished"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ]
+}

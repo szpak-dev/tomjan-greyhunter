@@ -1,0 +1,59 @@
+{
+  "id": "marttiini.martef-fishing-knife",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/175014T",
+  "manufacturer": "marttiini",
+  "category_slug": "fishing",
+  "sku": "175014T",
+  "name": "Martef Fishing Knife",
+  "slug": "martef-fishing-knife",
+  "lead": null,
+  "description": "The serrated edge on the back of the Martef coated stainless steel blade makes the removal of fish scales easy.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5ED4/D114/3EC3/5EDD/E6FE/0A28/105F/0F03/175014T_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5ED4/D114/3EC3/5EDD/E6FE/0A28/105F/0F03/martefpuukko.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5ED4/D114/3EC3/5EDD/E6FE/0A28/105F/0F03/Martef_puukko2.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5ED4/D114/3EC3/5EDD/E6FE/0A28/105F/0F03/Martef_puukko_3.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074905/greyhunter.com.pl/marttiini/martef-fishing-knife-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074906/greyhunter.com.pl/marttiini/martef-fishing-knife-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074909/greyhunter.com.pl/marttiini/martef-fishing-knife-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074910/greyhunter.com.pl/marttiini/martef-fishing-knife-3.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "23 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "131 g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel, Martef coating"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber, blue"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather, black"
+        }
+      ]
+    }
+  ]
+}

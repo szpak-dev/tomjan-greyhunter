@@ -1,0 +1,52 @@
+{
+  "id": "marttiini.condor-timberjack-plastic-sheath",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/578013",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "sku": "578013",
+  "name": "Condor Timberjack (plastic sheath)",
+  "slug": "condor-timberjack-plastic-sheath",
+  "lead": null,
+  "description": "The blade of the Timberjack is made of carbon steel, which is perfect for carving, and is easy to resharpen when required. Remember to take proper care of your carbon steel knife. Always dry the blade carefully after each use and oil the blade with unsalted oil on a regular basis. This will ensure your knife will serve you loyally from one year to the next.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/8EFA/B24C/87E8/4CFE/0A28/1041/3018/578013_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/8EFA/B24C/87E8/4CFE/0A28/1041/3018/kiehisten-vuoleminen-marttiini-condor-puukolla.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/8EFA/B24C/87E8/4CFE/0A28/1041/3018/marttiini-condor-timpuripuukko-polttopuita.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/8EFA/B24C/87E8/4CFE/0A28/1041/3018/condor-timpuri-nuotion-sytytys-kiehiset.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/8EFA/B24C/87E8/4CFE/0A28/1041/3018/condor-timpuri-tulistelua.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/8EFA/B24C/87E8/4CFE/0A28/1041/3018/marttiini_condor_timpuri_puukko_timberjack-knife.jpg"
+  ],
+  "cdn_images": [],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "9,5 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "22 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "carbon steel 1.2003 / X75Cr1, HRC 55-57"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber"
+        },
+        {
+          "name": "Sheath material",
+          "value": "plastic"
+        }
+      ]
+    }
+  ]
+}

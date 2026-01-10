@@ -1,0 +1,53 @@
+{
+  "id": "marttiini.kaamos-carbon",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/127019",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "sku": "127019",
+  "name": "Kaamos Carbon",
+  "slug": "kaamos-carbon",
+  "lead": null,
+  "description": "The handle is made of stained birch. Its surface is slightly textured so you easily get a firm, safe grip of the knife.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C97/3469/AFAE/0AC0/7EDF/0A28/1041/30D2/127019_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C97/3469/AFAE/0AC0/7EDF/0A28/1041/30D2/127019_second.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C97/3469/AFAE/0AC0/7EDF/0A28/1041/30D2/kaamosjaetkae.jpeg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074304/greyhunter.com.pl/marttiini/kaamos-carbon-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074306/greyhunter.com.pl/marttiini/kaamos-carbon-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074307/greyhunter.com.pl/marttiini/kaamos-carbon-2.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "9 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "19,5 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "carbon steel 1.2003 / X75Cr1, HRC 55-57"
+        },
+        {
+          "name": "Handle material",
+          "value": "birch, stained"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather, black"
+        }
+      ]
+    }
+  ]
+}

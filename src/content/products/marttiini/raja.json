@@ -1,0 +1,64 @@
+{
+  "id": "marttiini.raja",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559013W",
+  "manufacturer": "marttiini",
+  "category_slug": "unique-by-marttiini",
+  "sku": "559013W",
+  "name": "Raja",
+  "slug": "raja",
+  "lead": null,
+  "description": null,
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5BD0/58EE/DB75/1818/32F1/0A28/1041/182B/Unique_Raja_copy.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5BD0/58EE/DB75/1818/32F1/0A28/1041/182B/Unique_Raja.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075074/greyhunter.com.pl/marttiini/raja-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075076/greyhunter.com.pl/marttiini/raja-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "10 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "22 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "180g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "Damascus"
+        },
+        {
+          "name": "Handle material",
+          "value": "Reindeer Antler Bone, curly birch"
+        },
+        {
+          "name": "Sheath material",
+          "value": "Leather, White"
+        }
+      ]
+    },
+    {
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "name": "Packaging",
+          "value": "Wooden Unique Gift Box"
+        }
+      ]
+    }
+  ]
+}

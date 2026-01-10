@@ -1,0 +1,55 @@
+{
+  "id": "marttiini.scout-s-knife",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/508010",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "sku": "508010",
+  "name": "Scout's Knife",
+  "slug": "scout-s-knife",
+  "lead": null,
+  "description": "A knife is an essential part of every scout’s gear. The Marttiini Scout Knife has been a reliable companion for decades. The double-sided finger guard enhances user safety. The blade is made of easy-to-maintain chrome steel. The sheath with a snap closure features an embossed scout emblem, giving the knife a traditional look. This knife is an excellent general-purpose knife for young users, as it allows them to safely practice their knife-handling skills.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C89/F2FC/9EB1/4C63/E84E/0A28/1041/1D63/508010_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C89/F2FC/9EB1/4C63/E84E/0A28/1041/1D63/marttiini_puukko_partiolaiselle.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C89/F2FC/9EB1/4C63/E84E/0A28/1041/1D63/marttiini_partiopuukko_puukko_partioon.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C89/F2FC/9EB1/4C63/E84E/0A28/1041/1D63/508010_Scouts_Knife.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074427/greyhunter.com.pl/marttiini/scout-s-knife-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074429/greyhunter.com.pl/marttiini/scout-s-knife-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074430/greyhunter.com.pl/marttiini/scout-s-knife-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074432/greyhunter.com.pl/marttiini/scout-s-knife-3.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "9 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "19 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "curly birch, varnished"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ]
+}

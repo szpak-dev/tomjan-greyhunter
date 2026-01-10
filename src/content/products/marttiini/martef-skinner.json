@@ -1,0 +1,55 @@
+{
+  "id": "marttiini.martef-skinner",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/186024T",
+  "manufacturer": "marttiini",
+  "category_slug": "hunting",
+  "sku": "186024T",
+  "name": "Martef Skinner",
+  "slug": "martef-skinner",
+  "lead": null,
+  "description": "\nThe dirt and moisture repelling Martef coating reduces friction to almost zero whilst protecting the blade against corrosion. Due to the coating the blade moves extremely smoothly through cut meat or fish, and cleaning the blade after use is extremely easy.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5BEC/064F/BBDB/CAB3/AF0D/0A28/1041/7826/186024T_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5BEC/064F/BBDB/CAB3/AF0D/0A28/1041/7826/marttiini_Martef_skinner.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5BEC/064F/BBDB/CAB3/AF0D/0A28/1041/7826/skinner_martef_marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5BEC/064F/BBDB/CAB3/AF0D/0A28/1041/7826/Skinner-puukko-knife-hunting-knife.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074789/greyhunter.com.pl/marttiini/martef-skinner-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074791/greyhunter.com.pl/marttiini/martef-skinner-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074792/greyhunter.com.pl/marttiini/martef-skinner-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074793/greyhunter.com.pl/marttiini/martef-skinner-3.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "23 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel, Martef coating"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber, orange"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather, black"
+        }
+      ]
+    }
+  ]
+}

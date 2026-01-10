@@ -1,0 +1,18 @@
+{
+  "id": "marttiini.diamond-sharpener-pen",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1515112",
+  "manufacturer": "marttiini",
+  "category_slug": "sharpening-and-accessories",
+  "sku": "1515112",
+  "name": "Diamond sharpener Pen",
+  "slug": "diamond-sharpener-pen",
+  "lead": null,
+  "description": "\nWith the diamond coated sharpener you can sharpen harder blade materials such as stainless chrome steel.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8E/01C6/7EA0/B678/D223/0A28/1041/3022/1515112_first.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075049/greyhunter.com.pl/marttiini/diamond-sharpener-pen-0.jpg"
+  ],
+  "attributes": []
+}

@@ -1,0 +1,24 @@
+{
+  "id": "marttiini.rooki",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559033W",
+  "manufacturer": "marttiini",
+  "category_slug": "unique-by-marttiini",
+  "sku": "559033W",
+  "name": "Rooki",
+  "slug": "rooki",
+  "lead": null,
+  "description": "Rooki is a Lappish word, meaning a spotted reindeer – a rare and distinctive creature. Its unique coat pattern sets it apart from the herd, making it truly special. In the same way, the Rooki knife embodies individuality and uniqueness: its materials, shape, and patterns distinguish it from all others, creating an exceptionally rare piece of Marttiini's Unique collection.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6647/265C/A6FD/4363/15A1/0A28/105F/C37A/rooki-tuotekuva.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6647/265C/A6FD/4363/15A1/0A28/105F/C37A/rooki-mood1.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6647/265C/A6FD/4363/15A1/0A28/105F/C37A/rooki-mood2.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6647/265C/A6FD/4363/15A1/0A28/105F/C37A/rooki-mood3.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075077/greyhunter.com.pl/marttiini/rooki-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075079/greyhunter.com.pl/marttiini/rooki-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075080/greyhunter.com.pl/marttiini/rooki-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075081/greyhunter.com.pl/marttiini/rooki-3.jpg"
+  ],
+  "attributes": []
+}

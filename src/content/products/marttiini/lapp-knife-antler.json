@@ -1,0 +1,53 @@
+{
+  "id": "marttiini.lapp-knife-antler",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/2230010",
+  "manufacturer": "marttiini",
+  "category_slug": "design-knives",
+  "sku": "2230010",
+  "name": "Lapp Knife Antler",
+  "slug": "lapp-knife-antler",
+  "lead": null,
+  "description": "The handle of this traditional Lapp knife, also known as the leuku knife, combines Finnish curly birch with reindeer antler bone. The stainless chrome steel blade has a beautiful etched engraving with a Lappish theme. The leather sheath also reflects traditional Arctic patterns.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/F3E2/C3F4/6947/0767/0A28/1041/3057/2230010_LUU-VISALEUKU_Lapp_Knife_Antler_2023.png",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/F3E2/C3F4/6947/0767/0A28/1041/3057/marttiini_luu-visaleuku.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/F3E2/C3F4/6947/0767/0A28/1041/3057/2230010_second.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074558/greyhunter.com.pl/marttiini/lapp-knife-antler-0.png",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074559/greyhunter.com.pl/marttiini/lapp-knife-antler-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074561/greyhunter.com.pl/marttiini/lapp-knife-antler-2.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "22 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel X46Cr13, HRC 53-55"
+        },
+        {
+          "name": "Handle material",
+          "value": "Finnish curly birch & reindeer antler bone"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ]
+}

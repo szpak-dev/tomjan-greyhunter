@@ -1,0 +1,55 @@
+{
+  "id": "marttiini.arctic-circle-knife",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/121019",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "sku": "121019",
+  "name": "Arctic Circle Knife",
+  "slug": "arctic-circle-knife",
+  "lead": null,
+  "description": "Marttiini's northern history was the inspiration for this knife. The light coloured sheath and handle are inspired by our bright summer nights and the dark winter months are represented by the dark blade. Lapland is indeed a land of contrasts.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5C1C/8BBD/14F4/9035/FB41/0A28/1041/C45F/121019_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5C1C/8BBD/14F4/9035/FB41/0A28/1041/C45F/marttiini-napapiirin-puukko-knife.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5C1C/8BBD/14F4/9035/FB41/0A28/1041/C45F/arctic-circle-knife-marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5C1C/8BBD/14F4/9035/FB41/0A28/1041/C45F/napapiirin-puukko-marttiini-knife.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074422/greyhunter.com.pl/marttiini/arctic-circle-knife-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074423/greyhunter.com.pl/marttiini/arctic-circle-knife-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074424/greyhunter.com.pl/marttiini/arctic-circle-knife-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074426/greyhunter.com.pl/marttiini/arctic-circle-knife-3.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "9 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "20 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "carbon steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "birch, vaxed"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather, brown"
+        }
+      ]
+    }
+  ]
+}

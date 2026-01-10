@@ -1,0 +1,18 @@
+{
+  "id": "marttiini.gift-box-l",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/P702313",
+  "manufacturer": "marttiini",
+  "category_slug": "sharpening-and-accessories",
+  "sku": "P702313",
+  "name": "Gift Box L",
+  "slug": "gift-box-l",
+  "lead": "It’s a pleasure to present a gift to a recipient in a stylish gift box.",
+  "description": "The gift box is made of sturdy cardboard, which can be recycled after use.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/60E5/AC18/5357/EB87/B9F6/0A28/105F/B6FA/P702313_first.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075068/greyhunter.com.pl/marttiini/gift-box-l-0.jpg"
+  ],
+  "attributes": []
+}

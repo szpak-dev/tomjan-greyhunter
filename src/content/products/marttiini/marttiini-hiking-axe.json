@@ -1,0 +1,61 @@
+{
+  "id": "marttiini.marttiini-hiking-axe",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1031010",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "sku": "1031010",
+  "name": "Marttiini Hiking axe",
+  "slug": "marttiini-hiking-axe",
+  "lead": "Split firewood with a Marttiini Axe.",
+  "description": "Our axe series follow the example set by Marttiini knives.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C97/3526/C800/F0EC/053C/0A28/1041/30FE/1031010_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C97/3526/C800/F0EC/053C/0A28/1041/30FE/1031010_second.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C97/3526/C800/F0EC/053C/0A28/1041/30FE/1031010_Vaelluskirves_.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C97/3526/C800/F0EC/053C/0A28/1041/30FE/vaelluskirves_axe_marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C97/3526/C800/F0EC/053C/0A28/1041/30FE/vaelluskirves-marttiini.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074351/greyhunter.com.pl/marttiini/marttiini-hiking-axe-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074353/greyhunter.com.pl/marttiini/marttiini-hiking-axe-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074354/greyhunter.com.pl/marttiini/marttiini-hiking-axe-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074355/greyhunter.com.pl/marttiini/marttiini-hiking-axe-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074357/greyhunter.com.pl/marttiini/marttiini-hiking-axe-4.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "14 x 8 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "34cm"
+        },
+        {
+          "name": "Weight",
+          "value": "550 g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "carbon steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "ash wood"
+        },
+        {
+          "name": "Blade cover",
+          "value": "leather, brown"
+        }
+      ]
+    }
+  ]
+}

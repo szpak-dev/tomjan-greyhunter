@@ -1,33 +1,34 @@
 ---
-import CategoryCard from './CategoryCard.astro';
-import { useTranslations } from '../i18n/utils';
-import type { MarttiiniCategoryWithImage } from '../loaders/marttiini/marttiini';
+import CategoryCard from "./CategoryCard.astro";
+import type { ContentCategoryWithImage } from "../content/category.repository";
 
 interface Props {
-  categories: MarttiiniCategoryWithImage[];
+  categories: ContentCategoryWithImage[];
   lang: string;
 }
 
 const { categories, lang } = Astro.props;
-const t = useTranslations(lang as 'en' | 'pl');
 ---
 
 <section class="py-5">
   <div class="container">
-    <h2 class="display-6 fw-bold text-center mb-4">{t('marttiini.allCategories')}</h2>
-    
-    <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-3 g-md-4">
-      {categories.map((category) => (
-        <div class="col">
-          <CategoryCard
-            slug={category.slug}
-            name={category.name}
-            count={category.count}
-            imageUrl={category.imageUrl}
-            lang={lang}
-          />
-        </div>
-      ))}
+    <h2 class="display-6 fw-bold text-center mb-4">
+      All Categories
+    </h2>
+
+    <div
+      class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-3 g-md-4"
+    >
+      {
+        categories.map((category) => (
+          <div class="col">
+            <CategoryCard
+              category={category}
+              lang={lang}
+            />
+          </div>
+        ))
+      }
     </div>
   </div>
 </section>

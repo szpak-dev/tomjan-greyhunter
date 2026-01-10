@@ -1,0 +1,10 @@
+{
+    "name": "Sarsilmaz",
+    "slug": "sarsilmaz",
+    "logoUrl": "https://res.cloudinary.com/dcpogr7md/image/upload/v1768058636/greyhunter.com.pl/sarsilmaz_logo_blue.png",
+    "imagesOrientation": "landscape",
+    "link": {
+        "url": "https://szpak-dev.github.io/tomjan-sarsilmaz/pl/",
+        "target": "_blank"
+    }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "marttiini.tervas",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559032W",
+  "manufacturer": "marttiini",
+  "category_slug": "unique-by-marttiini",
+  "sku": "559032W",
+  "name": "Tervas",
+  "slug": "tervas",
+  "lead": null,
+  "description": "This unique Tervas knife gets its name and color from the resinous stump of a conifer tree. Tervas is warm brown, smells of resin, and is the best material for campfire wood. Hikers can use it to light a fire even in the rain.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/664B/39B1/95A8/6547/CC9C/0A28/105F/711B/Tervas.png"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075441/greyhunter.com.pl/marttiini/tervas-0.png"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "10 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "22,3 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "140g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "Damascus"
+        },
+        {
+          "name": "Handle material",
+          "value": "Heat-treated curly birch, reindeer antler bone, colored birch"
+        },
+        {
+          "name": "Sheath material",
+          "value": "Leather, Black"
+        }
+      ]
+    },
+    {
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "name": "Packaging",
+          "value": "Wooden Unique Gift Box"
+        }
+      ]
+    }
+  ]
+}

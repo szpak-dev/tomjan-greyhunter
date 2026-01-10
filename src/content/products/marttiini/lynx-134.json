@@ -1,0 +1,66 @@
+{
+  "id": "marttiini.lynx-134",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/134012",
+  "manufacturer": "marttiini",
+  "category_slug": "traditional",
+  "sku": "134012",
+  "name": "Lynx 134",
+  "slug": "lynx-134",
+  "lead": null,
+  "description": "The 134 Lynx knife combines practical features with stunning details. This impressive knife is perfect for any outdoors person or ",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/DF6C/442F/2EF3/A48E/0A28/1041/30F3/134012_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/DF6C/442F/2EF3/A48E/0A28/1041/30F3/puukko-retkeilyyn_ja_vaellukselle.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/DF6C/442F/2EF3/A48E/0A28/1041/30F3/erapuukko_lahjaksi.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/DF6C/442F/2EF3/A48E/0A28/1041/30F3/puukko_sammal_kuksa.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/DF6C/442F/2EF3/A48E/0A28/1041/30F3/ilves_pronssi_puukko.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074318/greyhunter.com.pl/marttiini/lynx-134-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074319/greyhunter.com.pl/marttiini/lynx-134-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074320/greyhunter.com.pl/marttiini/lynx-134-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074322/greyhunter.com.pl/marttiini/lynx-134-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074323/greyhunter.com.pl/marttiini/lynx-134-4.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "22 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "Stainless steel 1.4034 / X46Cr13, HRC 53.5-55"
+        },
+        {
+          "name": "Handle material",
+          "value": "Curly birch, waxed, finger guard of cast"
+        },
+        {
+          "name": "Sheath material",
+          "value": "Leather"
+        }
+      ]
+    },
+    {
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "name": "Sharpening Angle",
+          "value": "22 degrees / Scandi grind Curly birch is a natural material – the tone and the pattern varies by each product. Each knife is different and unique."
+        }
+      ]
+    }
+  ]
+}

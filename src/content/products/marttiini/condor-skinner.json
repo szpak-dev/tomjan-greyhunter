@@ -1,0 +1,55 @@
+{
+  "id": "marttiini.condor-skinner",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/186014",
+  "manufacturer": "marttiini",
+  "category_slug": "hunting",
+  "sku": "186014",
+  "name": "Condor Skinner",
+  "slug": "condor-skinner",
+  "lead": null,
+  "description": "The textured rubber handle and the finger guard ensure a safe and firm grip in the most demanding forest conditions.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/C7FB/355E/92FC/38AF/0A28/1041/30A5/186014_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/C7FB/355E/92FC/38AF/0A28/1041/30A5/metsastyspuukko.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/C7FB/355E/92FC/38AF/0A28/1041/30A5/metsastysveitsi-marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/C7FB/355E/92FC/38AF/0A28/1041/30A5/metsastysveitsi.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074813/greyhunter.com.pl/marttiini/condor-skinner-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074815/greyhunter.com.pl/marttiini/condor-skinner-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074817/greyhunter.com.pl/marttiini/condor-skinner-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074819/greyhunter.com.pl/marttiini/condor-skinner-3.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "23 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "marttiini.mushroom-knife-ruska",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/709015",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "sku": "709015",
+  "name": "Mushroom Knife Ruska",
+  "slug": "mushroom-knife-ruska",
+  "lead": null,
+  "description": "In Finnish language the word ‘ruska’ is used to describe the beginning of autumn when the leaves change to bright colours like red, yellow and orange. It’s also the best time for mushroom foraging. ",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/682C/54E7/6DCB/6372/B551/0A32/0E03/86B9/Mushroom_Knife_Ruska.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/682C/54E7/6DCB/6372/B551/0A32/0E03/86B9/Mushroom_Knife_Ruska_mood2.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/682C/54E7/6DCB/6372/B551/0A32/0E03/86B9/Mushroom_Knife_Ruska_mood4.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/682C/54E7/6DCB/6372/B551/0A32/0E03/86B9/Mushroom_Knife_Ruska_mood1.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/682C/54E7/6DCB/6372/B551/0A32/0E03/86B9/Mushroom_Knife_Ruska_mood3.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/682C/54E7/6DCB/6372/B551/0A32/0E03/86B9/Mushroom_Knife_Ruska_mood5.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074726/greyhunter.com.pl/marttiini/mushroom-knife-ruska-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074727/greyhunter.com.pl/marttiini/mushroom-knife-ruska-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074728/greyhunter.com.pl/marttiini/mushroom-knife-ruska-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074730/greyhunter.com.pl/marttiini/mushroom-knife-ruska-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074732/greyhunter.com.pl/marttiini/mushroom-knife-ruska-4.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074733/greyhunter.com.pl/marttiini/mushroom-knife-ruska-5.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "5 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "16 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "Stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "Plastic"
+        },
+        {
+          "name": "Brush",
+          "value": "Nylon"
+        },
+        {
+          "name": "Sheath material",
+          "value": "Chrome tanned leather"
+        }
+      ]
+    }
+  ]
+}

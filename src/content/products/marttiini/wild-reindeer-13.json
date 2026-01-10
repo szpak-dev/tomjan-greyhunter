@@ -1,0 +1,53 @@
+{
+  "id": "marttiini.wild-reindeer-13",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/542015",
+  "manufacturer": "marttiini",
+  "category_slug": "design-knives",
+  "sku": "542015",
+  "name": "Wild Reindeer 13",
+  "slug": "wild-reindeer-13",
+  "lead": null,
+  "description": "The versatile Wild Reindeer 13 is a reliable all-around knife for outdoor enthusiasts. The Lynx blade, with a blood groove and a slightly upturned blade tip, is an iconic Marttiini blade model, developed in the ’30s by Janne Marttiini himself. The stainless steel blade (1.4034, HRC 53,5-55) delivers durability while the shaped handle offers a firm grip.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/F264/52BB/3A33/8974/0A28/1041/3027/542015_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/F264/52BB/3A33/8974/0A28/1041/3027/pailakka13_marttiini_knife.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/F264/52BB/3A33/8974/0A28/1041/3027/pailakka-puukot-11-13.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074655/greyhunter.com.pl/marttiini/wild-reindeer-13-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074656/greyhunter.com.pl/marttiini/wild-reindeer-13-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074658/greyhunter.com.pl/marttiini/wild-reindeer-13-2.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "13 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "25 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel 1.4034 / X46Cr13, HRC 53.5-55"
+        },
+        {
+          "name": "Handle material",
+          "value": "curly birch & reindeer antler bone"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "marttiini.kide-chef-s-knife-21",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/429110",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "sku": "429110",
+  "name": "Kide Chef's Knife 21",
+  "slug": "kide-chef-s-knife-21",
+  "lead": null,
+  "description": "An excellent general kitchen knife for all kinds of chopping, dicing and cutting jobs.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5D0F/746F/0367/F136/83DB/0A28/1041/B22E/429110_first.jpg"
+  ],
+  "cdn_images": [],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "21 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "33,4 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "232g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel 1.4116"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber (Santoprene)"
+        }
+      ]
+    }
+  ]
+}

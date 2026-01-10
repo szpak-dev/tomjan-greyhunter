@@ -1,0 +1,66 @@
+{
+  "id": "marttiini.wood-grouse-knife",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/549019W",
+  "manufacturer": "marttiini",
+  "category_slug": "design-knives",
+  "sku": "549019W",
+  "name": "Wood Grouse Knife",
+  "slug": "wood-grouse-knife",
+  "lead": null,
+  "description": "This handsome bird is one of the most valued creatures in the Finnish fauna.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/515E/78AD/5722/A15C/9612/0A28/1041/E73D/549019W_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/515E/78AD/5722/A15C/9612/0A28/1041/E73D/metsopuukko-lahjapuukko-marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/515E/78AD/5722/A15C/9612/0A28/1041/E73D/metso-puukko-lahjaidea.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/515E/78AD/5722/A15C/9612/0A28/1041/E73D/metsopuukko-tupessa-vyolla.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/515E/78AD/5722/A15C/9612/0A28/1041/E73D/Metso-puukko-lahjaksi.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074624/greyhunter.com.pl/marttiini/wood-grouse-knife-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074626/greyhunter.com.pl/marttiini/wood-grouse-knife-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074628/greyhunter.com.pl/marttiini/wood-grouse-knife-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074630/greyhunter.com.pl/marttiini/wood-grouse-knife-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074633/greyhunter.com.pl/marttiini/wood-grouse-knife-4.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "24,5 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "Stainless steel 1.4034 / X46Cr13, HRC 53.5-55"
+        },
+        {
+          "name": "Handle material",
+          "value": "Curly birch, cast ferrules"
+        },
+        {
+          "name": "Sheath material",
+          "value": "Leather, black"
+        }
+      ]
+    },
+    {
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "name": "Packaging",
+          "value": "wooden gift box Curly birch is a natural material – the tone and the pattern varies by each product. Each knife is different and unique."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "id": "marttiini.deluxe-lynx",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/450012",
+  "manufacturer": "marttiini",
+  "category_slug": "hunting",
+  "sku": "450012",
+  "name": "Deluxe Lynx",
+  "slug": "deluxe-lynx",
+  "lead": null,
+  "description": "The impressive curly birch handle, combined with a cast finger guard, gives this knife a truly luxurious character. An excellent gift idea for a hiker or an avid hunter.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D164/5C38/0996/10FC/0A28/1041/301B/450012_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D164/5C38/0996/10FC/0A28/1041/301B/puukko_retkeilyyn_ja_vaellukselle.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D164/5C38/0996/10FC/0A28/1041/301B/450012_second.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074455/greyhunter.com.pl/marttiini/deluxe-lynx-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074457/greyhunter.com.pl/marttiini/deluxe-lynx-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074458/greyhunter.com.pl/marttiini/deluxe-lynx-2.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "22 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "Stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "Curly birch, waxed, cast finger guard"
+        },
+        {
+          "name": "Sheath material",
+          "value": "Leather"
+        }
+      ]
+    }
+  ]
+}

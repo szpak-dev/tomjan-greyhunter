@@ -1,0 +1,49 @@
+{
+  "id": "marttiini.kide-carving-knife",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/426110",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "sku": "426110",
+  "name": "Kide Carving Knife",
+  "slug": "kide-carving-knife",
+  "lead": null,
+  "description": "An excellent general kitchen knife for effortless chopping, dicing and cutting.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5D0F/6904/0D44/0EED/D196/0A28/1041/3784/426110_first.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075022/greyhunter.com.pl/marttiini/kide-carving-knife-0.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "21 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "32,9 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "182g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel 1.4116"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber (Santoprene)"
+        }
+      ]
+    }
+  ]
+}

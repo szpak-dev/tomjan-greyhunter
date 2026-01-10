@@ -1,0 +1,47 @@
+{
+  "id": "marttiini.kide-chef-s-knife-15",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/428110",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "sku": "428110",
+  "name": "Kide Chef's Knife 15",
+  "slug": "kide-chef-s-knife-15",
+  "lead": null,
+  "description": "For smaller chopping, dicing and cutting jobs.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5D0F/71DE/CA72/CB36/6D39/0A28/1041/06F6/428110_first.jpg"
+  ],
+  "cdn_images": [],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "15 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "28,6 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "191g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel 1.4116"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber (Santoprene)"
+        }
+      ]
+    }
+  ]
+}

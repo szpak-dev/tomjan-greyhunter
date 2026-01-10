@@ -1,0 +1,51 @@
+{
+  "id": "marttiini.mushroom-knife",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/709012",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "sku": "709012",
+  "name": "Mushroom Knife",
+  "slug": "mushroom-knife",
+  "lead": null,
+  "description": "\nThe Marttiini mushroom knife features a handy cleaning brush at the end of the handle for neatly removing any debris from the mushrooms. The blade is exactly the right shape and length for cutting delicate mushrooms. The knife is designed to be totally practical and it is supplied with a leather sheath to be kept in the pocket or on the belt.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/8293/A97F/2209/FB4C/0A28/1041/3062/709012_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/8293/A97F/2209/FB4C/0A28/1041/3062/709012_second.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074414/greyhunter.com.pl/marttiini/mushroom-knife-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074415/greyhunter.com.pl/marttiini/mushroom-knife-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "6,5 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "18,5 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "plastic"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ]
+}

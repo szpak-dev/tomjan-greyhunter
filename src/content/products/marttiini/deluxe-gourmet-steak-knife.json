@@ -1,0 +1,51 @@
+{
+  "id": "marttiini.deluxe-gourmet-steak-knife",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/750115",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "sku": "750115",
+  "name": "Deluxe Gourmet Steak Knife",
+  "slug": "deluxe-gourmet-steak-knife",
+  "lead": null,
+  "description": "\nSharp steak knives are an essential part of the table setting when very sharp knives are required.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/5A20/FB44/2CF9/35F2/0A28/1041/3010/750115_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/5A20/FB44/2CF9/35F2/0A28/1041/3010/pihviveitsi-marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/5A20/FB44/2CF9/35F2/0A28/1041/3010/marttiini-pihviveitsi.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/5A20/FB44/2CF9/35F2/0A28/1041/3010/pihviveitsi.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074996/greyhunter.com.pl/marttiini/deluxe-gourmet-steak-knife-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074997/greyhunter.com.pl/marttiini/deluxe-gourmet-steak-knife-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074999/greyhunter.com.pl/marttiini/deluxe-gourmet-steak-knife-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075001/greyhunter.com.pl/marttiini/deluxe-gourmet-steak-knife-3.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "10 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "21 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "heat treated birch, brown"
+        }
+      ]
+    }
+  ]
+}

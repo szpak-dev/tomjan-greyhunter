@@ -1,0 +1,55 @@
+{
+  "id": "marttiini.kiehinen",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/535010",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "sku": "535010",
+  "name": "Kiehinen",
+  "slug": "kiehinen",
+  "lead": null,
+  "description": "\nThe blade is made of traditional carbon steel that is perfect for carving wood, and easy to re-sharpen to its original sharpness when needed.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/515D/4C02/5A39/6BE1/52BC/0A28/1041/CDA4/535010_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/515D/4C02/5A39/6BE1/52BC/0A28/1041/CDA4/puukko-vuoluun.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/515D/4C02/5A39/6BE1/52BC/0A28/1041/CDA4/kiehinen-vuolupuukko.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/515D/4C02/5A39/6BE1/52BC/0A28/1041/CDA4/kiehinen-havut.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/515D/4C02/5A39/6BE1/52BC/0A28/1041/CDA4/puulastan-vuoleminen-puukolla.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/515D/4C02/5A39/6BE1/52BC/0A28/1041/CDA4/vuolupuukko.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/515D/4C02/5A39/6BE1/52BC/0A28/1041/CDA4/2018-01-08_b0efd9fbffa24bd6a82bc4cbd917a8de.jpeg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/515D/4C02/5A39/6BE1/52BC/0A28/1041/CDA4/535010_second.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/515D/4C02/5A39/6BE1/52BC/0A28/1041/CDA4/5M9A8579.JPG"
+  ],
+  "cdn_images": [],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "9 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "19,5 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "carbon steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "curly birch, vaxed"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "marttiini.kide-carving-fork",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/425110",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "sku": "425110",
+  "name": "Kide Carving Fork",
+  "slug": "kide-carving-fork",
+  "lead": null,
+  "description": "To help you cut roast meat, and to lift and serve hot roast slices.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5D0F/6659/ECAC/9DCC/2C28/0A28/1041/F2D1/425110_first.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075020/greyhunter.com.pl/marttiini/kide-carving-fork-0.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "18 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "29,5 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "137g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel 1.4116"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber (Santoprene)"
+        }
+      ]
+    }
+  ]
+}

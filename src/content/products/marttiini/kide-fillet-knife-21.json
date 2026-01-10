@@ -1,0 +1,49 @@
+{
+  "id": "marttiini.kide-fillet-knife-21",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/424110",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "sku": "424110",
+  "name": "Kide Fillet Knife 21",
+  "slug": "kide-fillet-knife-21",
+  "lead": null,
+  "description": "With the filleting knife you get clean-cut fish fillets easily. This knife with a flexible blade is also fit for cutting and carving meat.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5D0F/6331/8A90/6707/22DB/0A28/1041/7543/424110_first.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075019/greyhunter.com.pl/marttiini/kide-fillet-knife-21-0.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "21 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "34 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "163g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel 1.4116"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber (Santoprene)"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "id": "marttiini.kaarnikka",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559043W",
+  "manufacturer": "marttiini",
+  "category_slug": "unique-by-marttiini",
+  "sku": "559043W",
+  "name": "Kaarnikka",
+  "slug": "kaarnikka",
+  "lead": null,
+  "description": "This unique knife has taken its colors from the natural berry, the crowberry. Black and red birch work beautifully in this reindeer antler-handled unique knife. The blade is a magnificent 10 cm Damascus steel, and the sheath is black leather.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/664D/CABF/2F34/A2EB/2A0A/0A28/105F/03D0/Kaarnikka.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/664D/CABF/2F34/A2EB/2A0A/0A28/105F/03D0/kaarnikka-mood.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075453/greyhunter.com.pl/marttiini/kaarnikka-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075455/greyhunter.com.pl/marttiini/kaarnikka-1.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "10 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "21,5 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "180g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "Damascus"
+        },
+        {
+          "name": "Handle material",
+          "value": "Reindeer antler bone, colored birch"
+        },
+        {
+          "name": "Sheath material",
+          "value": "Leather, black"
+        }
+      ]
+    },
+    {
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "name": "Packaging",
+          "value": "Wooden Unique Gift Box"
+        }
+      ]
+    }
+  ]
+}

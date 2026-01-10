@@ -1,0 +1,49 @@
+{
+  "id": "marttiini.enamel-mug-37-dl-white",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/V160037",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "sku": "V160037",
+  "name": "Enamel mug, 3,7 dl, white",
+  "slug": "enamel-mug-37-dl-white",
+  "lead": null,
+  "description": "A durable and practical enamel mug with a fresh and modern look, made in collaboration with Finnish design company Muurla.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5E4F/8C67/D222/5B8E/F01E/0A28/105F/24EE/V160037_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5E4F/8C67/D222/5B8E/F01E/0A28/105F/24EE/K6A2046-2.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5E4F/8C67/D222/5B8E/F01E/0A28/105F/24EE/K6A2053.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5E4F/8C67/D222/5B8E/F01E/0A28/105F/24EE/emalimuki_V160037.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5E4F/8C67/D222/5B8E/F01E/0A28/105F/24EE/V160037_emalimuki.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075027/greyhunter.com.pl/marttiini/enamel-mug-37-dl-white-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075029/greyhunter.com.pl/marttiini/enamel-mug-37-dl-white-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075030/greyhunter.com.pl/marttiini/enamel-mug-37-dl-white-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075032/greyhunter.com.pl/marttiini/enamel-mug-37-dl-white-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075033/greyhunter.com.pl/marttiini/enamel-mug-37-dl-white-4.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Size",
+          "value": "3.7 dl"
+        },
+        {
+          "name": "Weight",
+          "value": "158 g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": " ",
+          "value": "Carbon steel, coating of enamel"
+        }
+      ]
+    }
+  ]
+}

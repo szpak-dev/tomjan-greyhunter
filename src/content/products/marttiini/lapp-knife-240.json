@@ -1,0 +1,55 @@
+{
+  "id": "marttiini.lapp-knife-240",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/240010",
+  "manufacturer": "marttiini",
+  "category_slug": "traditional",
+  "sku": "240010",
+  "name": "Lapp knife 240",
+  "slug": "lapp-knife-240",
+  "lead": null,
+  "description": ".",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D410/64E2/AEDF/CE49/0A28/1041/306E/240010_240_Lapinleuku-LappKnife-new.png",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D410/64E2/AEDF/CE49/0A28/1041/306E/Marttiini_Lapinleuku_Lapp_Knife_Lapp-Messer_240.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D410/64E2/AEDF/CE49/0A28/1041/306E/leukupuukko-leukuknife.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D410/64E2/AEDF/CE49/0A28/1041/306E/Lapinleuku240.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074483/greyhunter.com.pl/marttiini/lapp-knife-240-0.png",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074484/greyhunter.com.pl/marttiini/lapp-knife-240-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074486/greyhunter.com.pl/marttiini/lapp-knife-240-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074487/greyhunter.com.pl/marttiini/lapp-knife-240-3.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "13 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "24 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "curly birch, varnished"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather, light brown"
+        }
+      ]
+    }
+  ]
+}

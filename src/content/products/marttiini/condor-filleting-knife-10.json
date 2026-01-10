@@ -1,0 +1,49 @@
+{
+  "id": "marttiini.condor-filleting-knife-10",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/816014",
+  "manufacturer": "marttiini",
+  "category_slug": "fishing",
+  "sku": "816014",
+  "name": "Condor Filleting Knife 10",
+  "slug": "condor-filleting-knife-10",
+  "lead": null,
+  "description": "\nThe flexible and extremely sharp stainless steel blade ensures clean-cut fillets. This size of blade is best suited for processing small fish. The filleting knife is supplied with a black leather sheath.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1350/1A07/6716/9A1C/0A28/1041/D038/816014_first.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074881/greyhunter.com.pl/marttiini/condor-filleting-knife-10-0.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "10 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "20 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber"
+        },
+        {
+          "name": "Sheath material",
+          "value": "eather"
+        }
+      ]
+    }
+  ]
+}

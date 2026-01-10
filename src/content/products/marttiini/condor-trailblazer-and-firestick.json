@@ -1,0 +1,55 @@
+{
+  "id": "marttiini.condor-trailblazer-and-firestick",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/185019TC",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "sku": "185019TC",
+  "name": "Condor Trailblazer and Firestick",
+  "slug": "condor-trailblazer-and-firestick",
+  "lead": null,
+  "description": "Essential products for hiking conveniently in one package! The knife and fire starters come together in a cardboard gift box at a special price. The Pioneer knife is made of coated stainless steel and features a comfortable rubber handle. The fire starters provide extra security, as they work even when wet, in case matches get soaked. ",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5B0F/DD04/6799/84BD/81E3/0A28/1041/8804/185019T_Condor_Trailblazer__Fire_Stick_Marttiini_copy.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5B0F/DD04/6799/84BD/81E3/0A28/1041/8804/185019TC_Condor_Trailblazer__Fire_Stick_001_Marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5B0F/DD04/6799/84BD/81E3/0A28/1041/8804/185019TC_Condor_Trailblazer__Fire_Stick_002_Marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5B0F/DD04/6799/84BD/81E3/0A28/1041/8804/185019TC_Condor_Trailblazer__Fire_Stick_003_Marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5B0F/DD04/6799/84BD/81E3/0A28/1041/8804/185019TC_Condor_Trailblazer__Fire_Stick_004_Marttiini.jpg"
+  ],
+  "cdn_images": [],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "23 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "227 g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "Stainless Steel, Martef"
+        },
+        {
+          "name": "Handle material",
+          "value": "Rubber, black"
+        },
+        {
+          "name": "Sheath material",
+          "value": "Leather, black"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "id": "marttiini.kide-paring-knife",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/421110",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "sku": "421110",
+  "name": "Kide Paring Knife",
+  "slug": "kide-paring-knife",
+  "lead": null,
+  "description": "The paring knife with a curved blade is a handy tool for peeling fruit and cutting root vegetables.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5D0A/293C/0869/0EC1/37E3/0A28/1041/1BAD/421110_first.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075017/greyhunter.com.pl/marttiini/kide-paring-knife-0.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "8 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "18,5 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "76g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel 1.4116"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber (Santoprene)"
+        }
+      ]
+    }
+  ]
+}

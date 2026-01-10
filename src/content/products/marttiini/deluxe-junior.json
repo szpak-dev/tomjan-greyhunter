@@ -1,0 +1,57 @@
+{
+  "id": "marttiini.deluxe-junior",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/122010",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "sku": "122010",
+  "name": "Deluxe Junior",
+  "slug": "deluxe-junior",
+  "lead": "Deluxe Junior is the ideal choice for a safe first knife. ",
+  "description": "The ideal gift for a child who wants to learn wilderness skills and how to use a knife. The Deluxe Junior is a great choice as a first knife: it’s a proper, stylish knife with a number of added safety features. ",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FC7/543B/CA01/9DBA/5EE6/0A28/105F/0139/122010_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FC7/543B/CA01/9DBA/5EE6/0A28/105F/0139/122010_second.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FC7/543B/CA01/9DBA/5EE6/0A28/105F/0139/deluxe_junuor_marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FC7/543B/CA01/9DBA/5EE6/0A28/105F/0139/deluxe_junior_marttiini_knife.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FC7/543B/CA01/9DBA/5EE6/0A28/105F/0139/marttiini_junior_knife_deluxe_junior.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074325/greyhunter.com.pl/marttiini/deluxe-junior-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074327/greyhunter.com.pl/marttiini/deluxe-junior-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074328/greyhunter.com.pl/marttiini/deluxe-junior-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074331/greyhunter.com.pl/marttiini/deluxe-junior-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074333/greyhunter.com.pl/marttiini/deluxe-junior-4.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "8 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "19 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade",
+          "value": "stainless steel, rounded tip"
+        },
+        {
+          "name": "Handle",
+          "value": "heat-treated birch, finger guard"
+        },
+        {
+          "name": "Sheath",
+          "value": "leather, brown"
+        }
+      ]
+    }
+  ]
+}

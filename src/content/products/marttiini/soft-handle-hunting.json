@@ -1,0 +1,63 @@
+{
+  "id": "marttiini.soft-handle-hunting",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/215015",
+  "manufacturer": "marttiini",
+  "category_slug": "hunting",
+  "sku": "215015",
+  "name": "Soft Handle Hunting",
+  "slug": "soft-handle-hunting",
+  "lead": null,
+  "description": "Soft Handle Hunting knife combines a smoothly contoured handle that provides a comfortable grip with a 13 cm long chrome blade which ensures excellent usability in various applications. The knife is specifically designed for hunting, but it is also well-suited for hiking and fishing.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6811/CDA7/6364/6F92/ED63/0A32/0E03/8D9F/215015_Soft_Handle_Hunting_13_copy.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6811/CDA7/6364/6F92/ED63/0A32/0E03/8D9F/215015_Soft_handle_hunting_003_Marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6811/CDA7/6364/6F92/ED63/0A32/0E03/8D9F/215015_Soft_handle_hunting_004_Marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6811/CDA7/6364/6F92/ED63/0A32/0E03/8D9F/215015_Soft_handle_hunting_005_Marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6811/CDA7/6364/6F92/ED63/0A32/0E03/8D9F/215015_Soft_handle_hunting_001_Marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6811/CDA7/6364/6F92/ED63/0A32/0E03/8D9F/215015_Soft_handle_hunting_002_Marttiini.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074717/greyhunter.com.pl/marttiini/soft-handle-hunting-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074718/greyhunter.com.pl/marttiini/soft-handle-hunting-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074720/greyhunter.com.pl/marttiini/soft-handle-hunting-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074722/greyhunter.com.pl/marttiini/soft-handle-hunting-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074723/greyhunter.com.pl/marttiini/soft-handle-hunting-4.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074724/greyhunter.com.pl/marttiini/soft-handle-hunting-5.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "13 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "26,5 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "160 g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "Stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "Rubber"
+        },
+        {
+          "name": "Sheath material",
+          "value": "Leather"
+        }
+      ]
+    }
+  ]
+}

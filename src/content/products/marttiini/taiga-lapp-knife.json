@@ -1,0 +1,61 @@
+{
+  "id": "marttiini.taiga-lapp-knife",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/230012",
+  "manufacturer": "marttiini",
+  "category_slug": "traditional",
+  "sku": "230012",
+  "name": "Taiga Lapp Knife",
+  "slug": "taiga-lapp-knife",
+  "lead": null,
+  "description": "Taiga, or the vast arctic forest zone, is a popular hiking area where a knife is handy to have. The Taiga Lapp Knife is a special knife that combines a beautiful two-tone birch handle, reflecting the diverse forest of the taiga, with a stainless chrome blade featuring an engraved taiga landscape. The knife also includes a genuine vegetable-tanned leather sheath. ",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6810/CF96/B940/2FB5/0B6C/0A32/0E03/A982/230112_Taigaleuku_Product_image.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6810/CF96/B940/2FB5/0B6C/0A32/0E03/A982/230112_Taigaleuku_004.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6810/CF96/B940/2FB5/0B6C/0A32/0E03/A982/230112_Taigaleuku_001.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6810/CF96/B940/2FB5/0B6C/0A32/0E03/A982/230112_Taigaleuku_002.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6810/CF96/B940/2FB5/0B6C/0A32/0E03/A982/230112_Taigaleuku_003.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074572/greyhunter.com.pl/marttiini/taiga-lapp-knife-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074574/greyhunter.com.pl/marttiini/taiga-lapp-knife-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074577/greyhunter.com.pl/marttiini/taiga-lapp-knife-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074578/greyhunter.com.pl/marttiini/taiga-lapp-knife-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074579/greyhunter.com.pl/marttiini/taiga-lapp-knife-4.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "22 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "141 g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "Stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "Birch, heat-treated and varnished"
+        },
+        {
+          "name": "Sheath material",
+          "value": "Leather, light brown"
+        }
+      ]
+    }
+  ]
+}

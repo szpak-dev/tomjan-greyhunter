@@ -1,0 +1,26 @@
+{
+  "id": "marttiini.fire-stick",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1516110",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "sku": "1516110",
+  "name": "Fire stick",
+  "slug": "fire-stick",
+  "lead": null,
+  "description": "If your matches get wet or you run out of lighter fluid, you can always get a fire going with it. Our fire stick provides a hot spark even in the most severe weather conditions.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/55C4/60DB/B1E1/7C47/2806/0A28/1041/C438/Product-2.png",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/55C4/60DB/B1E1/7C47/2806/0A28/1041/C438/Product-1.png",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/55C4/60DB/B1E1/7C47/2806/0A28/1041/C438/FIRESTICK_MOOD.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/55C4/60DB/B1E1/7C47/2806/0A28/1041/C438/FIRESTICK_MOOD2.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/55C4/60DB/B1E1/7C47/2806/0A28/1041/C438/FIRESTICK_MOOD3.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074339/greyhunter.com.pl/marttiini/fire-stick-0.png",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074341/greyhunter.com.pl/marttiini/fire-stick-1.png",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074343/greyhunter.com.pl/marttiini/fire-stick-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074345/greyhunter.com.pl/marttiini/fire-stick-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074346/greyhunter.com.pl/marttiini/fire-stick-4.jpg"
+  ],
+  "attributes": []
+}

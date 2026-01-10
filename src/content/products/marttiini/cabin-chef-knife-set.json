@@ -1,0 +1,65 @@
+{
+  "id": "marttiini.cabin-chef-knife-set",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1494000",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "sku": "1494000",
+  "name": "Cabin Chef Knife Set",
+  "slug": "cabin-chef-knife-set",
+  "lead": "The Cabin Chef set – Design inspired by northern nature, powered by form and function",
+  "description": "The Cabin Chef set, designed by Harri Koskinen, has the essential knives for the camping and cabin kitchen. The meticulously clean lines of the knives are designed to serve function and ergonomics. The harmonious combination of beautiful design and practicality, as well as durable natural materials, guarantee that the Cabin Chef knives are a pleasure to use, time and time again.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F56/248B/AF40/45D7/F83E/0A28/105F/D2DE/1494000_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F56/248B/AF40/45D7/F83E/0A28/105F/D2DE/1494000_.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F56/248B/AF40/45D7/F83E/0A28/105F/D2DE/erakokki-veitset-marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F56/248B/AF40/45D7/F83E/0A28/105F/D2DE/erakokki_setti.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F56/248B/AF40/45D7/F83E/0A28/105F/D2DE/1494000_second.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074459/greyhunter.com.pl/marttiini/cabin-chef-knife-set-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074461/greyhunter.com.pl/marttiini/cabin-chef-knife-set-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074463/greyhunter.com.pl/marttiini/cabin-chef-knife-set-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074465/greyhunter.com.pl/marttiini/cabin-chef-knife-set-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074467/greyhunter.com.pl/marttiini/cabin-chef-knife-set-4.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Roll opened",
+          "value": "44 x 29.7 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "1126 g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel (8Cr14MoV)"
+        },
+        {
+          "name": "Handle material",
+          "value": "heat treated birch,"
+        },
+        {
+          "name": "Ferrule material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather, brown"
+        },
+        {
+          "name": "Sharpening stone material",
+          "value": "phyllite"
+        }
+      ]
+    }
+  ]
+}

@@ -1,138 +1,71 @@
 ---
-import { Carousel } from 'astro-bootstrap';
-import MarttiiniPicture from './MarttiiniPicture.astro';
-import { getPromotedProductsForLanguage } from '../loaders/marttiini/promotedProducts';
+import { Carousel } from "astro-bootstrap";
+import MarttiiniPicture from "./MarttiiniPicture.astro";
+
+import type { PromotedContentProduct } from "../content/product.repository";
 
 interface Props {
-  lang: string;
+  promotedProducts: PromotedContentProduct[];
+  imagesOrientationMap: Record<string, "landscape" | "portrait">;
 }
 
-const { lang } = Astro.props;
+const carouselId = "promotedProductsCarousel";
+const { promotedProducts, imagesOrientationMap } = Astro.props;
 
-// Fetch promoted products with full details
-const productsWithDetails = await getPromotedProductsForLanguage(lang);
-
-console.log(`[PromotedProductsSlider] Found ${productsWithDetails.length} products for lang ${lang}`);
-productsWithDetails.forEach((p, i) => {
-  console.log(`  ${i}: ${p.name} - ${p.productSku}`);
-});
-
-// Prepare slides data for astro-bootstrap Carousel
-const slides = productsWithDetails.map((product, index) => ({
-  img: product.imageUrl,
-  alt: product.name,
-  active: index === 0,
-  product
+const slides = promotedProducts.map((p, i) => ({
+  active: i === 0,
+  alt: p.image?.altText || p.name,
+  img: p.image?.url || "",
 }));
-
-const carouselId = 'promotedProductsCarousel';
 ---
 
-<section class="promoted-products my-5">
-  <Carousel id={carouselId}>
+<section class="promoted-products">
+  <Carousel id={carouselId} class="h-100" dark>
     <Carousel.Inner>
-      {slides.map((slide, idx) => (
-        <Carousel.Item active={slide.active}>
-          <div class={`row align-items-center ${slide.product.imageOrientation === 'landscape' ? 'landscape-layout' : 'portrait-layout'}`}>
-            <div class={slide.product.imageOrientation === 'landscape' ? 'col-md-8' : 'col-md-6'}>
-              {slide.img ? (
-                <MarttiiniPicture 
-                  src={slide.img}
-                  alt={slide.alt}
-                  place="front-slider"
-                  imageOrientation={slide.product.imageOrientation}
-                />
-              ) : (
-                <div class="placeholder-image bg-secondary d-flex align-items-center justify-content-center" style="height: 400px;">
-                  <span class="text-white">No Image</span>
+      {
+        promotedProducts.map((product, idx) => {
+          const orientation = imagesOrientationMap[product.manufacturer];
+          const isLandscape = orientation === "landscape";
+          return (
+            <Carousel.Item active={idx === 0}>
+              <div
+                class="row align-items-center"
+                style="min-height: 500px;"
+              >
+                <div
+                  class={`${isLandscape ? "col-md-8" : "col-md-6"} d-flex justify-content-center align-items-center`}
+                >
+                  {product.image.url ? (
+                    <MarttiiniPicture
+                      src={product.image.url}
+                      alt={product.image.altText || product.name}
+                      place="front-slider"
+                      imageOrientation={orientation}
+                    />
+                  ) : (
+                    <div
+                      class="placeholder-image bg-secondary d-flex align-items-center justify-content-center"
+                      style="height: 400px; width: 100%;"
+                    >
+                      <span class="text-white">No Image</span>
+                    </div>
+                  )}
                 </div>
-              )}
-            </div>
-            <div class={slide.product.imageOrientation === 'landscape' ? 'col-md-4' : 'col-md-6'}>
-              <div class="product-info p-4">
-                <h2 class="product-name">{slide.product.name}</h2>
-                <p class="manufacturer-name text-muted">{slide.product.manufacturer}</p>
+                <div class={isLandscape ? "col-md-4" : "col-md-6"}>
+                  <div class="p-4">
+                    <h2 class="fw-bold mb-2 display-6">{product.name}</h2>
+                    <p class="text-muted mb-0">
+                      {product.manufacturer}
+                    </p>
+                  </div>
+                </div>
               </div>
-            </div>
-          </div>
-        </Carousel.Item>
-      ))}
+            </Carousel.Item>
+          );
+        })
+      }
     </Carousel.Inner>
-    <Carousel.Controls id={carouselId} />
-    <Carousel.Indicators id={carouselId} {slides} />
+    <!-- <Carousel.Controls id={carouselId} /> -->
+    <Carousel.Indicators id={carouselId} slides={slides} />
   </Carousel>
 </section>
-
-<style>
-  .promoted-products {
-    background: #ffffff;
-    padding: 2rem 0;
-    border-radius: 8px;
-    position: relative;
-  }
-  
-  .promoted-products :global(.carousel) {
-    position: relative;
-  }
-  
-  .carousel-item {
-    min-height: 500px;
-  }
-  
-  .portrait-layout {
-    display: flex;
-    align-items: center;
-  }
-  
-  .portrait-layout > div:first-child {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-  
-  .product-name {
-    font-size: 2rem;
-    font-weight: bold;
-    margin-bottom: 0.5rem;
-  }
-  
-  .manufacturer-name {
-    font-size: 1rem;
-    text-transform: capitalize;
-  }
-  
-  /* Make carousel controls more visible */
-  .promoted-products :global(.carousel-control-prev),
-  .promoted-products :global(.carousel-control-next) {
-    width: 5%;
-    opacity: 1;
-    background-color: rgba(0, 0, 0, 0.3);
-  }
-  
-  .promoted-products :global(.carousel-control-prev:hover),
-  .promoted-products :global(.carousel-control-next:hover) {
-    background-color: rgba(0, 0, 0, 0.5);
-  }
-  
-  .promoted-products :global(.carousel-control-prev-icon),
-  .promoted-products :global(.carousel-control-next-icon) {
-    width: 2rem;
-    height: 2rem;
-  }
-  
-  /* Style indicators at bottom */
-  .promoted-products :global(.carousel-indicators) {
-    margin-bottom: 1rem;
-  }
-  
-  .promoted-products :global(.carousel-indicators button) {
-    width: 12px;
-    height: 12px;
-    border-radius: 50%;
-    background-color: rgba(0, 0, 0, 0.5);
-  }
-  
-  .promoted-products :global(.carousel-indicators button.active) {
-    background-color: #000;
-  }
-</style>

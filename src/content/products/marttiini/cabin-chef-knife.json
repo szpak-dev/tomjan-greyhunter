@@ -1,0 +1,61 @@
+{
+  "id": "marttiini.cabin-chef-knife",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/442010",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "sku": "442010",
+  "name": "Cabin Chef Knife",
+  "slug": "cabin-chef-knife",
+  "lead": "Cabin Chef Knife  design inspired by northern nature, powered by form and function",
+  "description": "Cabin Chef Knife is a versatile general purpose knife. This knife is excellent for chopping and cutting vegetables and meat, as well as doing small chores at the campfire.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F56/1E0F/42DC/D13E/D1C8/0A28/105F/35C7/442010_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F56/1E0F/42DC/D13E/D1C8/0A28/105F/35C7/442010_second.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F56/1E0F/42DC/D13E/D1C8/0A28/105F/35C7/442010.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074987/greyhunter.com.pl/marttiini/cabin-chef-knife-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074988/greyhunter.com.pl/marttiini/cabin-chef-knife-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074990/greyhunter.com.pl/marttiini/cabin-chef-knife-2.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "9,5 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "21 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "120 g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel (8Cr14MoV)"
+        },
+        {
+          "name": "Handle material",
+          "value": "heat treated birch,"
+        },
+        {
+          "name": "Ferrule material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather, brown"
+        }
+      ]
+    }
+  ]
+}

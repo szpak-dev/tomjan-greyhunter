@@ -1,0 +1,53 @@
+{
+  "id": "marttiini.mushroom-knife-neck-sheath",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/709014",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "sku": "709014",
+  "name": "Mushroom Knife (neck sheath)",
+  "slug": "mushroom-knife-neck-sheath",
+  "lead": null,
+  "description": "\nThe Marttiini mushroom knife features a handy cleaning brush at the end of the handle for neatly removing any debris from the mushrooms. The blade is exactly the right shape and length for cutting delicate mushrooms.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/831C/E099/5E0E/4E79/0A28/1041/30DB/709014_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/831C/E099/5E0E/4E79/0A28/1041/30DB/709014_second.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/831C/E099/5E0E/4E79/0A28/1041/30DB/IMG_20180721_102106_169.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074417/greyhunter.com.pl/marttiini/mushroom-knife-neck-sheath-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074419/greyhunter.com.pl/marttiini/mushroom-knife-neck-sheath-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074420/greyhunter.com.pl/marttiini/mushroom-knife-neck-sheath-2.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "6,5 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "18,5 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "plastic, yellow"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ]
+}

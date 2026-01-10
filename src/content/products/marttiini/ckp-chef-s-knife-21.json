@@ -1,0 +1,45 @@
+{
+  "id": "marttiini.ckp-chef-s-knife-21",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/770114P",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "sku": "770114P",
+  "name": "CKP Chef's Knife 21",
+  "slug": "ckp-chef-s-knife-21",
+  "lead": null,
+  "description": " ",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/4228/E79B/1B9B/9BAC/0A28/1041/30AD/770114P_first.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075015/greyhunter.com.pl/marttiini/ckp-chef-s-knife-21-0.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "21 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "33 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber"
+        }
+      ]
+    }
+  ]
+}

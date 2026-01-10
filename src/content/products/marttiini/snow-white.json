@@ -1,0 +1,19 @@
+{
+  "id": "marttiini.snow-white",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559053W",
+  "manufacturer": "marttiini",
+  "category_slug": "unique-by-marttiini",
+  "sku": "559053W",
+  "name": "Snow White",
+  "slug": "snow-white",
+  "lead": null,
+  "description": "This unique knife is named after the natural white shades of snow. The knife features a 10 cm Damascus blade with a new blade pattern called Sparse Twist. The handle is made of reindeer antler and juniper wood. The sheath is made of genuine snow-white leather.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/674F/0D0E/B9E5/26B4/E88E/0A32/0E02/0103/Unique_Snow_White_copy.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/674F/0D0E/B9E5/26B4/E88E/0A32/0E02/0103/Unique_Snow_White_003.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/674F/0D0E/B9E5/26B4/E88E/0A32/0E02/0103/Unique_Snow_White_001.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/674F/0D0E/B9E5/26B4/E88E/0A32/0E02/0103/Unique_Snow_White_002.jpg"
+  ],
+  "cdn_images": [],
+  "attributes": []
+}

@@ -1,0 +1,57 @@
+{
+  "id": "marttiini.golden-lynx",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/160014",
+  "manufacturer": "marttiini",
+  "category_slug": "traditional",
+  "sku": "160014",
+  "name": "Golden Lynx",
+  "slug": "golden-lynx",
+  "lead": null,
+  "description": "The Golden Lynx knife gets its name from its golden-colored bolster, which connects the light curly birch handle and the stainless steel blade. The knife offers an excellent grip, and the finger guard bolster adds extra safety for the user. The blade features the typical Ilves hook, making it easy to lift a coffee pot from the campfire. The light leather sheath is adorned with old patterns from Marttiini’s early days, which were hand-pressed at the time. This beautiful sheath is available only for the Golden Lynx model. It is safe to use even when your hands are wet or slippery.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/67AD/AB0B/FBB2/2A6B/7B18/0A32/0E02/E98B/kultailves.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/67AD/AB0B/FBB2/2A6B/7B18/0A32/0E02/E98B/160014_Golden_Lynx_003_Marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/67AD/AB0B/FBB2/2A6B/7B18/0A32/0E02/E98B/160014_Golden_Lynx_002_Marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/67AD/AB0B/FBB2/2A6B/7B18/0A32/0E02/E98B/160014_Golden_Lynx_004_Marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/67AD/AB0B/FBB2/2A6B/7B18/0A32/0E02/E98B/160014_Golden_Lynx_001_Marttiini.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074563/greyhunter.com.pl/marttiini/golden-lynx-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074565/greyhunter.com.pl/marttiini/golden-lynx-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074566/greyhunter.com.pl/marttiini/golden-lynx-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074568/greyhunter.com.pl/marttiini/golden-lynx-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074570/greyhunter.com.pl/marttiini/golden-lynx-4.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "25 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "curly birch"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ]
+}

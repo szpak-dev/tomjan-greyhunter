@@ -1,0 +1,45 @@
+{
+  "id": "marttiini.ckp-carving-knife",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/754114P",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "sku": "754114P",
+  "name": "CKP Carving Knife",
+  "slug": "ckp-carving-knife",
+  "lead": null,
+  "description": "\nThe design of the blade, made from stainless chrome steel, is specifically for the cutting and carving of meat.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/3ABB/2CC4/C715/7090/0A28/1041/30E9/754114P_first.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075009/greyhunter.com.pl/marttiini/ckp-carving-knife-0.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "15 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "27 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber"
+        }
+      ]
+    }
+  ]
+}

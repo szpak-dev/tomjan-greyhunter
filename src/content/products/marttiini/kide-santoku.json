@@ -1,0 +1,47 @@
+{
+  "id": "marttiini.kide-santoku",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/430110",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "sku": "430110",
+  "name": "Kide Santoku",
+  "slug": "kide-santoku",
+  "lead": null,
+  "description": "Great Santoku knife for cutting root vegetables, slicing meat, chopping vegetables.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5D0F/7746/796D/7E9B/8541/0A28/1041/A6BB/430110_first.jpg"
+  ],
+  "cdn_images": [],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "18 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "31,3 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "208g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel 1.4116"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber (Santoprene)"
+        }
+      ]
+    }
+  ]
+}

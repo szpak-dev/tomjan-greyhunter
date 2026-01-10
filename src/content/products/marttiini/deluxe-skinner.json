@@ -1,0 +1,59 @@
+{
+  "id": "marttiini.deluxe-skinner",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/167014",
+  "manufacturer": "marttiini",
+  "category_slug": "hunting",
+  "sku": "167014",
+  "name": "Deluxe Skinner",
+  "slug": "deluxe-skinner",
+  "lead": "Deluxe Skinner is an elegant hunting knife",
+  "description": "Deluxe Skinner is a hunting knife with a touch of luxury – waxed curly birch handle, stainless steel blade and leather sheath is a fine combination. The skinner blade is suitable for both skinning and carving, but not suitable for splitting bones.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/CD2F/0AE4/B772/E7A1/0A28/1041/30E7/167014_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/CD2F/0AE4/B772/E7A1/0A28/1041/30E7/Deluxe_skinner_liha_asetelma.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/CD2F/0AE4/B772/E7A1/0A28/1041/30E7/Deluxe_skinner_tuppi.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/CD2F/0AE4/B772/E7A1/0A28/1041/30E7/Deluxe_skinner_luontokuva.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/CD2F/0AE4/B772/E7A1/0A28/1041/30E7/Deluxe_skinner_metsaestys.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/CD2F/0AE4/B772/E7A1/0A28/1041/30E7/167014_Deluxe_skinner_mood.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074821/greyhunter.com.pl/marttiini/deluxe-skinner-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074822/greyhunter.com.pl/marttiini/deluxe-skinner-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074824/greyhunter.com.pl/marttiini/deluxe-skinner-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074826/greyhunter.com.pl/marttiini/deluxe-skinner-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074827/greyhunter.com.pl/marttiini/deluxe-skinner-4.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074829/greyhunter.com.pl/marttiini/deluxe-skinner-5.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "23 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "curly birch, waxed"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ]
+}

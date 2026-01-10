@@ -1,0 +1,49 @@
+{
+  "id": "marttiini.kide-tomato-knife",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/423110",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "sku": "423110",
+  "name": "Kide Tomato Knife",
+  "slug": "kide-tomato-knife",
+  "lead": null,
+  "description": "A handy knife with a serrated blade cuts clean slices. Excellent knife for cutting bread and tomato",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5D0F/618B/37B8/D4D7/DC14/0A28/1041/1974/423110_first.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075024/greyhunter.com.pl/marttiini/kide-tomato-knife-0.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "14 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "24 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "84g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel 1.4116"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber (Santoprene)"
+        }
+      ]
+    }
+  ]
+}

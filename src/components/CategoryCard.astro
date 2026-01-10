@@ -1,46 +1,51 @@
 ---
-import MarttiiniPicture from './MarttiiniPicture.astro';
-import { useTranslations, getLocalizedUrl } from '../i18n/utils';
+import { getRelativeLocaleUrl } from "astro:i18n";
+import MarttiiniPicture from "./MarttiiniPicture.astro";
+import type { ContentCategoryWithImage } from "../content/category.repository";
 
 interface Props {
-  slug: string;
-  name: string;
-  count: number;
-  imageUrl: string | null;
+  category: ContentCategoryWithImage;
   lang: string;
 }
 
-const { slug, name, count, imageUrl, lang } = Astro.props;
-const t = useTranslations(lang as 'en' | 'pl');
-const productsCountText = t('marttiini.productsCount').replace('{count}', count.toString());
+const { category, lang } = Astro.props;
 ---
 
 <div class="card h-100 shadow-sm border-0 transition-hover">
-  <a href={getLocalizedUrl(lang, `marttiini/${slug}`)} class="text-decoration-none text-dark">
-    <div class="position-relative overflow-hidden bg-light" style="aspect-ratio: 4/3;">
-      {imageUrl ? (
-        <MarttiiniPicture 
-          src={imageUrl}
-          alt={name}
-          place="category-card"
-          imageOrientation="portrait"
-        />
-      ) : (
-        <div class="w-100 h-100 bg-secondary d-flex align-items-center justify-content-center">
-          <span class="text-white">No Image</span>
-        </div>
-      )}
+  <a
+    href={getRelativeLocaleUrl(lang, `marttiini/${category.slug}`)}
+    class="text-decoration-none text-dark"
+  >
+    <div
+      class="position-relative overflow-hidden bg-light"
+      style="aspect-ratio: 4/3;"
+    >
+      {
+        category.imageUrl ? (
+          <MarttiiniPicture
+            src={category.imageUrl}
+            alt={category.name}
+            place="category-card"
+            imageOrientation="portrait"
+          />
+        ) : (
+          <div class="w-100 h-100 bg-secondary d-flex align-items-center justify-content-center">
+            <span class="text-white">No Image</span>
+          </div>
+        )
+      }
     </div>
     <div class="card-body p-3 p-md-4">
-      <h3 class="card-title h5 fw-semibold mb-2">{name}</h3>
-      <p class="card-text text-muted small mb-0">{productsCountText}</p>
+      <h3 class="card-title h5 fw-semibold mb-2">{category.name}</h3>
     </div>
   </a>
 </div>
 
 <style>
   .transition-hover {
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
+    transition:
+      transform 0.3s ease,
+      box-shadow 0.3s ease;
   }
 
   .transition-hover:hover {

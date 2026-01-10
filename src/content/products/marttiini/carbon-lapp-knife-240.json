@@ -1,0 +1,72 @@
+{
+  "id": "marttiini.carbon-lapp-knife-240",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/240012",
+  "manufacturer": "marttiini",
+  "category_slug": "traditional",
+  "sku": "240012",
+  "name": "Carbon Lapp Knife 240",
+  "slug": "carbon-lapp-knife-240",
+  "lead": "The long-awaited Lapp knife with a carbon steel blade",
+  "description": "Experience the Spark of the North! Fans of Marttiini throughout the world have been requesting a Lapp knife with a carbon steel blade. We listened – and proudly present the Carbon Lapp Knife 240.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6167/DF95/4B58/BF33/5AD7/0A28/105F/4698/240012_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6167/DF95/4B58/BF33/5AD7/0A28/105F/4698/240012_lapp_knife_carbon_steel_blade_marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6167/DF95/4B58/BF33/5AD7/0A28/105F/4698/240012_lapp_knife_carbon_steel_blade.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6167/DF95/4B58/BF33/5AD7/0A28/105F/4698/240012_carbon_steel_lapp_knife.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6167/DF95/4B58/BF33/5AD7/0A28/105F/4698/240012_lapp_knife_marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6167/DF95/4B58/BF33/5AD7/0A28/105F/4698/240012_marttiini_lapp_knife_carbon.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074282/greyhunter.com.pl/marttiini/carbon-lapp-knife-240-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074283/greyhunter.com.pl/marttiini/carbon-lapp-knife-240-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074285/greyhunter.com.pl/marttiini/carbon-lapp-knife-240-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074287/greyhunter.com.pl/marttiini/carbon-lapp-knife-240-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074288/greyhunter.com.pl/marttiini/carbon-lapp-knife-240-4.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074290/greyhunter.com.pl/marttiini/carbon-lapp-knife-240-5.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "13 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "24 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "220 g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "carbon steel 1.2235 / 80CrV2, HRC 59.5"
+        },
+        {
+          "name": "Handle material",
+          "value": "curly birch, waxed"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather, light brown"
+        }
+      ]
+    },
+    {
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "name": "Sharpening angle",
+          "value": "22 degrees / Scandi grind Curly birch is a natural material – the tone and the pattern varies by each product. Each knife is different and unique."
+        }
+      ]
+    }
+  ]
+}

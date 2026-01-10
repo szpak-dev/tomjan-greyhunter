@@ -1,0 +1,55 @@
+{
+  "id": "marttiini.lumberjack-stainless",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/127015",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "sku": "127015",
+  "name": "Lumberjack Stainless",
+  "slug": "lumberjack-stainless",
+  "lead": "Easy-to-maintain hiker's general-purpose knife ",
+  "description": "Based on one of the most popular Marttiini knives, the Lynx Lumberjack Carbon, this version is made from easy-to-maintain stainless steel.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C97/37AE/DF52/9EC9/6F36/0A28/1041/30CC/Lumberjack_Stainless.png",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C97/37AE/DF52/9EC9/6F36/0A28/1041/30CC/kromijatka_marttiini_puukko_retkeilyyn.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C97/37AE/DF52/9EC9/6F36/0A28/1041/30CC/kromijatka_retkeilypuukko_marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C97/37AE/DF52/9EC9/6F36/0A28/1041/30CC/puukko_vaellukselle_marttiini.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074292/greyhunter.com.pl/marttiini/lumberjack-stainless-0.png",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074293/greyhunter.com.pl/marttiini/lumberjack-stainless-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074294/greyhunter.com.pl/marttiini/lumberjack-stainless-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074296/greyhunter.com.pl/marttiini/lumberjack-stainless-3.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "22 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel 1.4034 / X46Cr13, HRC 53.5-55"
+        },
+        {
+          "name": "Handle material",
+          "value": "birch, stained"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ]
+}

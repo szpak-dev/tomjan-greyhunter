@@ -1,0 +1,61 @@
+{
+  "id": "marttiini.condor-frontier",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/390021T",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "sku": "390021T",
+  "name": "Condor Frontier",
+  "slug": "condor-frontier",
+  "lead": null,
+  "description": "This large knife is the perfect choice for users with big hands. Its rubber handle provides an excellent grip, even when wearing gloves, and the finger guard adds extra safety. The rubber handle also feels comfortable in cold winter weather. This knife is ideal for both hunters and hikers. The blade is made of stainless steel with a Martef coating and is 13 cm long.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/575A/D215/A100/7DEF/C8CD/0A28/1041/14EA/390021T_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/575A/D215/A100/7DEF/C8CD/0A28/1041/14EA/390021T_second.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/575A/D215/A100/7DEF/C8CD/0A28/1041/14EA/390021T_Marttiini_Condor_Frontier_2023_05_26_kristaylinen_284.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/575A/D215/A100/7DEF/C8CD/0A28/1041/14EA/390021T_Marttiini_Condor_Frontier_2023_05_26_kristaylinen_356.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/575A/D215/A100/7DEF/C8CD/0A28/1041/14EA/390021T_Marttiini_Condor_Frontier_2023_05_26_kristaylinen_262.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/575A/D215/A100/7DEF/C8CD/0A28/1041/14EA/390021T_Marttiini_Condor_Frontier_2023_05_26_kristaylinen_11.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/575A/D215/A100/7DEF/C8CD/0A28/1041/14EA/390021T_Marttiini_Condor_Frontier_2023_05_26_kristaylinen_14.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074437/greyhunter.com.pl/marttiini/condor-frontier-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074438/greyhunter.com.pl/marttiini/condor-frontier-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074440/greyhunter.com.pl/marttiini/condor-frontier-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074441/greyhunter.com.pl/marttiini/condor-frontier-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074443/greyhunter.com.pl/marttiini/condor-frontier-4.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074445/greyhunter.com.pl/marttiini/condor-frontier-5.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074447/greyhunter.com.pl/marttiini/condor-frontier-6.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "13 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "26 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "Stainless Steel, Martef"
+        },
+        {
+          "name": "Handle material",
+          "value": "Rubber, musta"
+        },
+        {
+          "name": "Sheath material",
+          "value": "Leather, black"
+        }
+      ]
+    }
+  ]
+}

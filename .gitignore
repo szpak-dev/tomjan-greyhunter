@@ -1,6 +1,6 @@
 # build output
 dist/
-
+raw/
 
 # generated types
 .astro/
@@ -23,3 +23,4 @@ pnpm-debug.log*
 
 # jetbrains setting folder
 .idea/
+raw/marttiini/products.jsonl

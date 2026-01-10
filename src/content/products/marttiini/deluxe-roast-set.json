@@ -1,0 +1,64 @@
+{
+  "id": "marttiini.deluxe-roast-set",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1483012",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "sku": "1483012",
+  "name": "Deluxe Roast Set",
+  "slug": "deluxe-roast-set",
+  "lead": "Every feast needs a good knife",
+  "description": "Carving the first slice of a roast is an act of ceremony – that’s why every feast needs a good knife. Whether it’s ham, poultry, or seitan you’re carving, Marttiini’s Deluxe Roast Set is an elegant two-piece set of cutlery to crown your banquet.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4E6D/AD42/FFB3/0985/A816/0A28/1041/E0CE/1483012_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4E6D/AD42/FFB3/0985/A816/0A28/1041/E0CE/1483012_second.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4E6D/AD42/FFB3/0985/A816/0A28/1041/E0CE/marttiini_kinkkuveitsi_kinkkuhaarukka_kinkun_leikkaus.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4E6D/AD42/FFB3/0985/A816/0A28/1041/E0CE/veitsisetti_paistin_leikkaamiseen.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074939/greyhunter.com.pl/marttiini/deluxe-roast-set-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074940/greyhunter.com.pl/marttiini/deluxe-roast-set-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074942/greyhunter.com.pl/marttiini/deluxe-roast-set-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074943/greyhunter.com.pl/marttiini/deluxe-roast-set-3.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "15 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "27 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel 1.4034 / X46Cr13, HRC 53,5-55"
+        },
+        {
+          "name": "Handle material",
+          "value": "Finnish curly birch"
+        },
+        {
+          "name": "Finger guard",
+          "value": "100 % recycled ABS"
+        }
+      ]
+    },
+    {
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "name": "Packaging",
+          "value": "wooden gift box"
+        }
+      ]
+    }
+  ]
+}

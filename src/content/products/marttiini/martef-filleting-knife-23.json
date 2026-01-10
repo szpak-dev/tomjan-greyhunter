@@ -1,0 +1,53 @@
+{
+  "id": "marttiini.martef-filleting-knife-23",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/846014T",
+  "manufacturer": "marttiini",
+  "category_slug": "fishing",
+  "sku": "846014T",
+  "name": "Martef Filleting Knife 23",
+  "slug": "martef-filleting-knife-23",
+  "lead": null,
+  "description": ".",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1D5B/61EE/1C0C/1667/0A28/1041/D0EE/846014T_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1D5B/61EE/1C0C/1667/0A28/1041/D0EE/7D7A6856.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1D5B/61EE/1C0C/1667/0A28/1041/D0EE/7D7A6806.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074921/greyhunter.com.pl/marttiini/martef-filleting-knife-23-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074923/greyhunter.com.pl/marttiini/martef-filleting-knife-23-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074925/greyhunter.com.pl/marttiini/martef-filleting-knife-23-2.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "23 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "36 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel, Martef coating"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber, blue"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather, black"
+        }
+      ]
+    }
+  ]
+}

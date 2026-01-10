@@ -1,0 +1,34 @@
+{
+  "id": "marttiini.marttiini-tote-bag",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/M712009",
+  "manufacturer": "marttiini",
+  "category_slug": "sharpening-and-accessories",
+  "sku": "M712009",
+  "name": "Marttiini Tote Bag",
+  "slug": "marttiini-tote-bag",
+  "lead": "Durable Marttiini tote bag made of recycled cotton",
+  "description": "The tote bag is made of sturdy material and is comfortable to use. The tote bag will hold everything you need in your daily life – including your laptop. The neat tote bag, equipped with the Marttiini logo, looks stylish on your shoulder.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/602A/6949/8A68/2BCA/6024/0A28/105F/EF56/M712009_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/602A/6949/8A68/2BCA/6024/0A28/105F/EF56/M712009_second.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/602A/6949/8A68/2BCA/6024/0A28/105F/EF56/M712009.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/602A/6949/8A68/2BCA/6024/0A28/105F/EF56/M712009_third.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075035/greyhunter.com.pl/marttiini/marttiini-tote-bag-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075036/greyhunter.com.pl/marttiini/marttiini-tote-bag-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075038/greyhunter.com.pl/marttiini/marttiini-tote-bag-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075039/greyhunter.com.pl/marttiini/marttiini-tote-bag-3.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Size",
+          "value": "37"
+        }
+      ]
+    }
+  ]
+}

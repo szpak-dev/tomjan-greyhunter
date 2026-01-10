@@ -1,0 +1,53 @@
+{
+  "id": "marttiini.lapp-knife-280",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/280015",
+  "manufacturer": "marttiini",
+  "category_slug": "traditional",
+  "sku": "280015",
+  "name": "Lapp knife 280",
+  "slug": "lapp-knife-280",
+  "lead": "An excellent gift for those who already have it all",
+  "description": "This impressive knife is almost half a meter long. The blade and the sheath are decorated with a traditional themes and scenery from Lapland. This knife is surely one to be noticed! ",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D6DA/3010/8174/860C/0A28/1041/300A/Lapp_Knife_280.png",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D6DA/3010/8174/860C/0A28/1041/300A/pitka-leuku-puukko-very-long-leuku-knife.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D6DA/3010/8174/860C/0A28/1041/300A/280015_second.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074513/greyhunter.com.pl/marttiini/lapp-knife-280-0.png",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074515/greyhunter.com.pl/marttiini/lapp-knife-280-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074516/greyhunter.com.pl/marttiini/lapp-knife-280-2.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "45 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "56 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel 1.4034 / X46Cr13, HRC 53.5-55"
+        },
+        {
+          "name": "Handle material",
+          "value": "Finnish curly birch, varnished"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather, brown"
+        }
+      ]
+    }
+  ]
+}

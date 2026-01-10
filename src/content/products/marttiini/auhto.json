@@ -1,0 +1,62 @@
+{
+  "id": "marttiini.auhto",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559041W",
+  "manufacturer": "marttiini",
+  "category_slug": "unique-by-marttiini",
+  "sku": "559041W",
+  "name": "Auhto",
+  "slug": "auhto",
+  "lead": null,
+  "description": "Auhto refers to a riverside grove, which is a lush forest type located along rivers and streams. These areas are rich in deciduous trees and offer beautiful landscapes and diverse nature, making them excellent hiking destinations. ",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/664B/1D6B/A172/665B/EE1C/0A28/105F/CAD5/auhto.png"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075439/greyhunter.com.pl/marttiini/auhto-0.png"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "6 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "16,7 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "160g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "Damascus"
+        },
+        {
+          "name": "Handle material",
+          "value": "Reindeer antler bone, Elforyn, volcano yellow paper, colored birch"
+        },
+        {
+          "name": "Sheath material",
+          "value": "Leather, Black"
+        }
+      ]
+    },
+    {
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "name": "Packaging",
+          "value": "Wooden Unique Gift Box"
+        }
+      ]
+    }
+  ]
+}

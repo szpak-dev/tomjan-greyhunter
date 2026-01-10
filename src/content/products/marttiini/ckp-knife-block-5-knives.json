@@ -1,0 +1,38 @@
+{
+  "id": "marttiini.ckp-knife-block-5-knives",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1475010",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "sku": "1475010",
+  "name": "CKP Knife Block, 5 knives",
+  "slug": "ckp-knife-block-5-knives",
+  "lead": null,
+  "description": "\nThis set includes five knives of different sizes, making food preparation easy as you always have the right tool at hand. The paring knife is intended for peeling, as its name suggests. The vegetable knife is suitable for cutting vegetables and filleting small fish. The bread knife cuts both hard and soft bread sharply and is also suitable for shredding cabbage. The fillet knife is designed for fish but is also suitable for removing membranes from meat. The chef’s knife is versatile, and its blade length is sufficient for larger ingredients. In the stand, the knives are kept separate from each other, which helps them stay sharp longer. After hand washing, the knives can be dried in this white beech stand. The knives remain sharp and in a good condition for longer, if stored in this block.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/5647/0BD7/4A35/A7CC/0A28/1041/30E0/1475010_CKP_Knife_Block_5_knives.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/5647/0BD7/4A35/A7CC/0A28/1041/30E0/Marttiini_Veitsiteline2.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/5647/0BD7/4A35/A7CC/0A28/1041/30E0/Marttiini_Veitsiteline3.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/5647/0BD7/4A35/A7CC/0A28/1041/30E0/Marttiini_Veitsiteline.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074952/greyhunter.com.pl/marttiini/ckp-knife-block-5-knives-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074953/greyhunter.com.pl/marttiini/ckp-knife-block-5-knives-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074955/greyhunter.com.pl/marttiini/ckp-knife-block-5-knives-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074956/greyhunter.com.pl/marttiini/ckp-knife-block-5-knives-3.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber"
+        }
+      ]
+    }
+  ]
+}

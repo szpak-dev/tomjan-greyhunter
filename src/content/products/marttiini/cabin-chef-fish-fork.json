@@ -1,0 +1,61 @@
+{
+  "id": "marttiini.cabin-chef-fish-fork",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/440010",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "sku": "440010",
+  "name": "Cabin Chef Fish Fork",
+  "slug": "cabin-chef-fish-fork",
+  "lead": "The Cabin Chef Fish Fork  design inspired by northern nature, powered by form and function",
+  "description": "The Cabin Chef Fish Fork is a handy tool for fish filleting. The Fish Fork ensures a good grip of the fish, without having to worry that the knife will slip onto your fingers.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F51/F524/CBEE/711A/EB3F/0A28/105F/105A/440010_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F51/F524/CBEE/711A/EB3F/0A28/105F/105A/440010_second.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F51/F524/CBEE/711A/EB3F/0A28/105F/105A/440010.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074982/greyhunter.com.pl/marttiini/cabin-chef-fish-fork-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074983/greyhunter.com.pl/marttiini/cabin-chef-fish-fork-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074985/greyhunter.com.pl/marttiini/cabin-chef-fish-fork-2.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "7,5 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "19 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "86 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel (8Cr14MoV)"
+        },
+        {
+          "name": "Handle material",
+          "value": "heat treated birch"
+        },
+        {
+          "name": "Ferrule material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather, brown"
+        }
+      ]
+    }
+  ]
+}

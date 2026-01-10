@@ -1,0 +1,55 @@
+{
+  "id": "marttiini.lumberjack-carbon",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/127012",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "sku": "127012",
+  "name": "Lumberjack Carbon",
+  "slug": "lumberjack-carbon",
+  "lead": null,
+  "description": "The blade is made of carbon steel that is perfect for carving and is easy to re-sharpen to its original sharpness. Remember to take proper care of your carbon steel knife: always dry the blade carefully after each use and oil the blade with unsalted oil on a regular basis. This will ensure your knife will serve you loyally from one year to the next.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C97/3716/22E8/38DE/308E/0A28/1041/3054/jaetkaenvuolu_Vikaversio.png",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C97/3716/22E8/38DE/308E/0A28/1041/3054/marttiini_jatkanvuolu_vuolupuukko.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C97/3716/22E8/38DE/308E/0A28/1041/3054/marttiini_jatkanvuolu_retkeilypuukko.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C97/3716/22E8/38DE/308E/0A28/1041/3054/5M9A3389.JPG"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074298/greyhunter.com.pl/marttiini/lumberjack-carbon-0.png",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074300/greyhunter.com.pl/marttiini/lumberjack-carbon-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074301/greyhunter.com.pl/marttiini/lumberjack-carbon-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074303/greyhunter.com.pl/marttiini/lumberjack-carbon-3.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "10 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "22 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "carbon steel 1.2003 / X75Cr1, HRC 55-57"
+        },
+        {
+          "name": "Handle material",
+          "value": "birch, stained"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather, brown"
+        }
+      ]
+    }
+  ]
+}

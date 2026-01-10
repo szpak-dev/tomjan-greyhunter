@@ -1,0 +1,59 @@
+{
+  "id": "marttiini.lynx-131",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/131010",
+  "manufacturer": "marttiini",
+  "category_slug": "traditional",
+  "sku": "131010",
+  "name": "Lynx 131",
+  "slug": "lynx-131",
+  "lead": null,
+  "description": "\nThis knife has remained in the Marttiini range almost continuously since the company was formed in 1928. The years have not reduced its popularity as the king of general purpose knives. This knife continues to be one of Marttiini's best selling knives.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/DC8F/1123/2253/C358/0A28/1041/3050/131010_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/DC8F/1123/2253/C358/0A28/1041/3050/131010-ILVESPUUKKO_131_copy.png",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/DC8F/1123/2253/C358/0A28/1041/3050/131010-ILVESPUUKKO_131_TUPPI_copy.png",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/DC8F/1123/2253/C358/0A28/1041/3050/_MG_7677.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/DC8F/1123/2253/C358/0A28/1041/3050/131010_Ilves_131_001_Marttiini2.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/DC8F/1123/2253/C358/0A28/1041/3050/131010_Ilves_131_001_Marttiini.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074527/greyhunter.com.pl/marttiini/lynx-131-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074529/greyhunter.com.pl/marttiini/lynx-131-1.png",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074531/greyhunter.com.pl/marttiini/lynx-131-2.png",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074533/greyhunter.com.pl/marttiini/lynx-131-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074534/greyhunter.com.pl/marttiini/lynx-131-4.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074536/greyhunter.com.pl/marttiini/lynx-131-5.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "22 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "curly birch, varnished"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather, brown"
+        }
+      ]
+    }
+  ]
+}

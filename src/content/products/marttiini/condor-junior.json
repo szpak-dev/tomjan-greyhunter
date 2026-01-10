@@ -1,0 +1,53 @@
+{
+  "id": "marttiini.condor-junior",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/186010",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "sku": "186010",
+  "name": "Condor Junior",
+  "slug": "condor-junior",
+  "lead": null,
+  "description": "\nThe safe rounded tip protects junior carvers from puncture wounds and tip cuts. The blade is made from easy to maintain stainless steel. The sharpening of the blade is naturally the same as in the knives of more experienced carvers.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C7E/62B4/B10B/17F9/D3A1/0A28/1041/2766/186010_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C7E/62B4/B10B/17F9/D3A1/0A28/1041/2766/condor_junior_lasten_puukko_marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C7E/62B4/B10B/17F9/D3A1/0A28/1041/2766/condor_junior_puukko_lapselle_marttiini.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074335/greyhunter.com.pl/marttiini/condor-junior-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074336/greyhunter.com.pl/marttiini/condor-junior-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074338/greyhunter.com.pl/marttiini/condor-junior-2.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "8 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "18 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel, rounded tip"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber, black"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather, black"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "id": "marttiini.lynx-139",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/139010",
+  "manufacturer": "marttiini",
+  "category_slug": "traditional",
+  "sku": "139010",
+  "name": "Lynx 139",
+  "slug": "lynx-139",
+  "lead": null,
+  "description": "\nThis knife has a 13 cm long blade of stainless chrome steel featuring the traditional upturned point. The handle is of curly birch, and the leather sheath features traditional Lappish scenes.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/E1A6/494A/FBD3/2C03/0A28/1041/3019/139010_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/E1A6/494A/FBD3/2C03/0A28/1041/3019/139010_second.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/E1A6/494A/FBD3/2C03/0A28/1041/3019/Ilves_139_Puutyoe_Asetelma.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/E1A6/494A/FBD3/2C03/0A28/1041/3019/Ilves_139_Vuolukuva.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/E1A6/494A/FBD3/2C03/0A28/1041/3019/Ilves_139_Rinkkakuva_copy.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/E1A6/494A/FBD3/2C03/0A28/1041/3019/Ilves_139_Kiehiset.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074546/greyhunter.com.pl/marttiini/lynx-139-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074547/greyhunter.com.pl/marttiini/lynx-139-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074549/greyhunter.com.pl/marttiini/lynx-139-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074551/greyhunter.com.pl/marttiini/lynx-139-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074554/greyhunter.com.pl/marttiini/lynx-139-4.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074556/greyhunter.com.pl/marttiini/lynx-139-5.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "13 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "24 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "curly birch, varnished"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ]
+}

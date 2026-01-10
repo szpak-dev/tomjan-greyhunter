@@ -1,0 +1,49 @@
+{
+  "id": "marttiini.martef-filleting-knife-19-plastic-sheath",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/836017T",
+  "manufacturer": "marttiini",
+  "category_slug": "fishing",
+  "sku": "836017T",
+  "name": "Martef Filleting Knife 19 (plastic sheath)",
+  "slug": "martef-filleting-knife-19-plastic-sheath",
+  "lead": null,
+  "description": "\nThe Martef coating reduces friction to almost zero while protecting the blade against corrosion. Cleaning the blade after use is extremely easy.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/2317/8B0F/A4D1/28AD/0A28/1041/D0CF/836017T_first.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074931/greyhunter.com.pl/marttiini/martef-filleting-knife-19-plastic-sheath-0.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "19 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "31 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel, Martef coating"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber, blue"
+        },
+        {
+          "name": "Sheath material",
+          "value": "plastic, black"
+        }
+      ]
+    }
+  ]
+}

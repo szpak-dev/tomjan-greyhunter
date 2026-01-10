@@ -1,0 +1,72 @@
+{
+  "id": "marttiini.lynx-black-edition",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/131013",
+  "manufacturer": "marttiini",
+  "category_slug": "traditional",
+  "sku": "131013",
+  "name": "Lynx Black Edition",
+  "slug": "lynx-black-edition",
+  "lead": "Classic Lynx knife with an updated modern black look",
+  "description": "The forged carbon steel blade is perfect for carving; it is also easy to sharpen to its original sharpness.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FB1/3043/FCA7/22D8/6674/0A28/105F/00E8/131013_first.jpeg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FB1/3043/FCA7/22D8/6674/0A28/105F/00E8/131013_second.jpeg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FB1/3043/FCA7/22D8/6674/0A28/105F/00E8/retkeilypuukko_tulistelua.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FB1/3043/FCA7/22D8/6674/0A28/105F/00E8/kiehisten_vuolemista_puukolla.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FB1/3043/FCA7/22D8/6674/0A28/105F/00E8/hiiliteras_puukolla_vuollut_kiehiset.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FB1/3043/FCA7/22D8/6674/0A28/105F/00E8/marttiini_hiiliteras_puukon_tera.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FB1/3043/FCA7/22D8/6674/0A28/105F/00E8/marttiini_ilves_black_lynx_black_knife.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FB1/3043/FCA7/22D8/6674/0A28/105F/00E8/marttiini_ilves_black_puukko.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074255/greyhunter.com.pl/marttiini/lynx-black-edition-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074257/greyhunter.com.pl/marttiini/lynx-black-edition-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074258/greyhunter.com.pl/marttiini/lynx-black-edition-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074260/greyhunter.com.pl/marttiini/lynx-black-edition-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074262/greyhunter.com.pl/marttiini/lynx-black-edition-4.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074264/greyhunter.com.pl/marttiini/lynx-black-edition-5.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074265/greyhunter.com.pl/marttiini/lynx-black-edition-6.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074267/greyhunter.com.pl/marttiini/lynx-black-edition-7.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "23 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "Carbon steel 80CrV2, HRC 59.5"
+        },
+        {
+          "name": "Handle material",
+          "value": "Black birch, protective oil coating"
+        },
+        {
+          "name": "Sheath material",
+          "value": "Black leather"
+        }
+      ]
+    },
+    {
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "name": "Sharpening angle",
+          "value": "22 degrees / Scandi grind"
+        }
+      ]
+    }
+  ]
+}

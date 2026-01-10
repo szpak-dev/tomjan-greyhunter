@@ -1,16 +1,15 @@
 ---
-import { getRelativeLocaleUrl } from "astro:i18n";
 import Layout from "../../layouts/Layout.astro";
 import CategoriesGrid from "../../components/CategoriesGrid.astro";
+
+import { categoryRepository } from "../../content";
 import { languages } from "../../i18n/ui";
-import { getMarttiiniCategoriesWithImages } from "../../loaders/marttiini/marttiini";
 import { useTranslations } from "../../i18n/utils";
 
 const lang = Astro.currentLocale as string;
 const t = useTranslations(lang as 'en' | 'pl');
 
-// Fetch all Marttiini categories with images
-const categories = await getMarttiiniCategoriesWithImages(lang as 'en' | 'pl');
+const categories = await categoryRepository.findCategoriesWithImages("marttiini", lang);
 
 export async function getStaticPaths() {
   return Object.keys(languages).map((lang) => ({ params: { lang } }));
@@ -18,5 +17,8 @@ export async function getStaticPaths() {
 ---
 
 <Layout title={t('marttiini.categories')}>
-  <CategoriesGrid categories={categories} lang={lang} />
+  <CategoriesGrid 
+    categories={categories} 
+    lang={lang} 
+  />
 </Layout>

@@ -1,67 +1,40 @@
 ---
 import Layout from "../../../layouts/Layout.astro";
 import ProductsGrid from "../../../components/ProductsGrid.astro";
+
+import { categoryRepository, productRepository } from "../../../content";
 import { languages } from "../../../i18n/ui";
-import { 
-  getMarttiiniProductsByCategory, 
-  getMarttiiniCategoriesWithImages 
-} from "../../../loaders/marttiini/marttiini";
-import { useTranslations, getLocalizedUrl } from "../../../i18n/utils";
-
 const { lang, category } = Astro.params;
-const t = useTranslations(lang as 'en' | 'pl');
 
-const products = await getMarttiiniProductsByCategory(
-  category as string, 
-  lang as 'en' | 'pl'
-);
-
-const categoryName = products[0]?.category || category;
-const activeProducts = products.filter(p => p.active);
+const products = await productRepository.findProductsByCategory("marttiini", category, lang as string);
 
 export async function getStaticPaths() {
   const paths = [];
-  
+
   for (const lang of Object.keys(languages)) {
-    const categories = await getMarttiiniCategoriesWithImages(lang as 'en' | 'pl');
-    
+    const categories = await categoryRepository.findCategoriesWithImages("marttiini", lang as "en" | "pl" );
+
     for (const category of categories) {
       paths.push({
-        params: { 
-          lang, 
-          category: category.slug 
-        }
+        params: {
+          lang,
+          category: category.slug,
+        },
       });
     }
   }
-  
+
   return paths;
 }
 
-const pageTitle = `${categoryName} - Marttiini`;
+const pageTitle = `${category} - Marttiini`;
 ---
 
 <Layout title={pageTitle}>
-  <div class="container">
-    <nav aria-label="breadcrumb" class="my-3">
-      <ol class="breadcrumb">
-        <li class="breadcrumb-item">
-          <a href={getLocalizedUrl(lang as string)}>{t('nav.home')}</a>
-        </li>
-        <li class="breadcrumb-item">
-          <a href={getLocalizedUrl(lang as string, 'marttiini')}>Marttiini</a>
-        </li>
-        <li class="breadcrumb-item active" aria-current="page">
-          {categoryName}
-        </li>
-      </ol>
-    </nav>
-  </div>
-
-  <ProductsGrid 
-    products={activeProducts} 
-    lang={lang as string}
-    categoryName={categoryName}
+    <ProductsGrid
+      products={products}
+      lang={lang as string}
+      categoryName={category}
   />
 </Layout>
 

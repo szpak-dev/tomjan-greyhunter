@@ -1,0 +1,60 @@
+{
+  "id": "marttiini.deluxe-gourmet-steak-knife-set",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1440016",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "sku": "1440016",
+  "name": "Deluxe Gourmet Steak Knife Set",
+  "slug": "deluxe-gourmet-steak-knife-set",
+  "lead": null,
+  "description": "These steak knives are an excellent gift for all lovers of a good steak. The set includes six extremely sharp steak knives in a wooden storage box. ",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/5969/851F/94E4/BA56/0A28/1041/302A/1440016_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/5969/851F/94E4/BA56/0A28/1041/302A/pihviveitsi-marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/5969/851F/94E4/BA56/0A28/1041/302A/marttiini-pihviveitsi.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/5969/851F/94E4/BA56/0A28/1041/302A/pihviveitsi.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074945/greyhunter.com.pl/marttiini/deluxe-gourmet-steak-knife-set-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074947/greyhunter.com.pl/marttiini/deluxe-gourmet-steak-knife-set-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074949/greyhunter.com.pl/marttiini/deluxe-gourmet-steak-knife-set-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074950/greyhunter.com.pl/marttiini/deluxe-gourmet-steak-knife-set-3.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "10 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "21 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "heat treated birch"
+        }
+      ]
+    },
+    {
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "name": "Packaging",
+          "value": "wooden box"
+        }
+      ]
+    }
+  ]
+}

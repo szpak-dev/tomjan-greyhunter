@@ -1,0 +1,65 @@
+{
+  "id": "marttiini.cabin-chef-kitchen-knife",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/444010",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "sku": "444010",
+  "name": "Cabin Chef Kitchen Knife",
+  "slug": "cabin-chef-kitchen-knife",
+  "lead": "Cabin Chef Knife design inspired by northern nature, powered by form and function",
+  "description": "This Chef Knife is a versatile kitchen knife that cuts, chops, slices and dices extremely smoothly. If you need only one knife for your camping and cabin kitchen, youve found the perfect knife! The Chef Knife is also a great, practical gift idea for anyone.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F56/02D2/3CC6/3551/A755/0A28/105F/BA7F/444010_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F56/02D2/3CC6/3551/A755/0A28/105F/BA7F/444010_second.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F56/02D2/3CC6/3551/A755/0A28/105F/BA7F/Kokkiveitsi_Erakokki.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F56/02D2/3CC6/3551/A755/0A28/105F/BA7F/Kokkiveitsi_Erakokki2.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F56/02D2/3CC6/3551/A755/0A28/105F/BA7F/444010.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074969/greyhunter.com.pl/marttiini/cabin-chef-kitchen-knife-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074970/greyhunter.com.pl/marttiini/cabin-chef-kitchen-knife-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074972/greyhunter.com.pl/marttiini/cabin-chef-kitchen-knife-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074974/greyhunter.com.pl/marttiini/cabin-chef-kitchen-knife-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074976/greyhunter.com.pl/marttiini/cabin-chef-kitchen-knife-4.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "14 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "25,5 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "85 g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel (8Cr14MoV)"
+        },
+        {
+          "name": "Handle material",
+          "value": "heat treated birch, waxed"
+        },
+        {
+          "name": "Ferrule material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather, brown"
+        }
+      ]
+    }
+  ]
+}

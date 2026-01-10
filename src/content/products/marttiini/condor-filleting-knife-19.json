@@ -1,0 +1,49 @@
+{
+  "id": "marttiini.condor-filleting-knife-19",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/836014",
+  "manufacturer": "marttiini",
+  "category_slug": "fishing",
+  "sku": "836014",
+  "name": "Condor Filleting Knife 19",
+  "slug": "condor-filleting-knife-19",
+  "lead": null,
+  "description": "\nThe flexible and extremely sharp stainless steel blade ensures clean-cut fillets. This size of blade is best suited for processing fish of about 2-3 kg.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/16AD/BE19/59D8/9517/0A28/1041/D011/836014_first.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074885/greyhunter.com.pl/marttiini/condor-filleting-knife-19-0.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "19 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "31 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber, black"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather, black"
+        }
+      ]
+    }
+  ]
+}

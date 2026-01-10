@@ -1,0 +1,70 @@
+{
+  "id": "marttiini.suomi-finland",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/548018W",
+  "manufacturer": "marttiini",
+  "category_slug": "design-knives",
+  "sku": "548018W",
+  "name": "Suomi-Finland",
+  "slug": "suomi-finland",
+  "lead": null,
+  "description": "The roots of the Suomi-Finland knife reach back more than 20 years. When Finland celebrated 80 years of independence in 1997, Marttiini naturally marked the occasion by crafting a special knife. In 2009, the design was refined to give it an even more distinguished appearance.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/EBA4/9B98/DC1A/52A4/0A28/1041/307C/548018W_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/EBA4/9B98/DC1A/52A4/0A28/1041/307C/suomi-finland-vaakuna-puukon-helassa.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/EBA4/9B98/DC1A/52A4/0A28/1041/307C/marttiini-suomi-finland-puukko-luonnossa.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/EBA4/9B98/DC1A/52A4/0A28/1041/307C/marttiini-suomifinland-knife-kannolla.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/EBA4/9B98/DC1A/52A4/0A28/1041/307C/suomi-finland-puukko-marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/EBA4/9B98/DC1A/52A4/0A28/1041/307C/suomi-finland-puukko-ja-havis-amanda.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/EBA4/9B98/DC1A/52A4/0A28/1041/307C/suomi-finland-puukko-vuolu.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074601/greyhunter.com.pl/marttiini/suomi-finland-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074602/greyhunter.com.pl/marttiini/suomi-finland-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074604/greyhunter.com.pl/marttiini/suomi-finland-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074605/greyhunter.com.pl/marttiini/suomi-finland-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074606/greyhunter.com.pl/marttiini/suomi-finland-4.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074607/greyhunter.com.pl/marttiini/suomi-finland-5.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074609/greyhunter.com.pl/marttiini/suomi-finland-6.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "22 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel 1.4034 / X46Cr13, HRC 53.5-55"
+        },
+        {
+          "name": "Handle material",
+          "value": "curly birch, waxed, cast ferrules"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    },
+    {
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "name": "Packaging",
+          "value": "wooden gift box Curly birch is a natural material – the tone and the pattern varies by each product. Each knife is different and unique."
+        }
+      ]
+    }
+  ]
+}

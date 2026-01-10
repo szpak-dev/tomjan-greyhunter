@@ -1,0 +1,55 @@
+{
+  "id": "marttiini.lynx-132",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/132010",
+  "manufacturer": "marttiini",
+  "category_slug": "traditional",
+  "sku": "132010",
+  "name": "Lynx 132",
+  "slug": "lynx-132",
+  "lead": null,
+  "description": "\nThe most traditional Marttiini knife with a beautiful sheath.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/DEBC/9BF1/6C26/3BC1/0A28/1041/3068/132010_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/DEBC/9BF1/6C26/3BC1/0A28/1041/3068/132_ilves_.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/DEBC/9BF1/6C26/3BC1/0A28/1041/3068/132_talvi_1.jpeg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/DEBC/9BF1/6C26/3BC1/0A28/1041/3068/ilves139.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074538/greyhunter.com.pl/marttiini/lynx-132-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074539/greyhunter.com.pl/marttiini/lynx-132-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074540/greyhunter.com.pl/marttiini/lynx-132-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074542/greyhunter.com.pl/marttiini/lynx-132-3.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "22 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "curly birch, varnished"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ]
+}

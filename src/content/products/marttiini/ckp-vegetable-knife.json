@@ -1,0 +1,45 @@
+{
+  "id": "marttiini.ckp-vegetable-knife",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/745114P",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "sku": "745114P",
+  "name": "CKP Vegetable Knife",
+  "slug": "ckp-vegetable-knife",
+  "lead": null,
+  "description": "  ",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/3969/9F32/DD67/ED19/0A28/1041/D0AD/745114P_first.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075006/greyhunter.com.pl/marttiini/ckp-vegetable-knife-0.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "10 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "20 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber"
+        }
+      ]
+    }
+  ]
+}

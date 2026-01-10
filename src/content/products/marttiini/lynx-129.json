@@ -1,0 +1,53 @@
+{
+  "id": "marttiini.lynx-129",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/129010",
+  "manufacturer": "marttiini",
+  "category_slug": "traditional",
+  "sku": "129010",
+  "name": "Lynx 129",
+  "slug": "lynx-129",
+  "lead": null,
+  "description": "\nThis traditional knife, designed by the founder of Marttiini, is an excellent general purpose knife for all outdoor activities. The sharpness of the Lynx blade is legendary, the handle is of beautiful Finnish birch.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D8C8/4CC1/FDA1/7A50/0A28/1041/300F/129010_tuotekuva.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D8C8/4CC1/FDA1/7A50/0A28/1041/300F/129010_second.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D8C8/4CC1/FDA1/7A50/0A28/1041/300F/129010__Ilves_129__Marttiini.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074522/greyhunter.com.pl/marttiini/lynx-129-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074524/greyhunter.com.pl/marttiini/lynx-129-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074525/greyhunter.com.pl/marttiini/lynx-129-2.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "22 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "birch, varnished"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ]
+}

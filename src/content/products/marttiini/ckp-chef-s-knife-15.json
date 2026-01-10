@@ -1,0 +1,45 @@
+{
+  "id": "marttiini.ckp-chef-s-knife-15",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/755114P",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "sku": "755114P",
+  "name": "CKP Chef's Knife 15",
+  "slug": "ckp-chef-s-knife-15",
+  "lead": null,
+  "description": "\nFor smaller chopping, dicing and cutting jobs. Ideal for preparing a salad ... for anything!",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/3B66/1CC1/C327/68E0/0A28/1041/3017/755114P_first.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075010/greyhunter.com.pl/marttiini/ckp-chef-s-knife-15-0.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "15 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "27 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber"
+        }
+      ]
+    }
+  ]
+}

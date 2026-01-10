@@ -1,0 +1,62 @@
+{
+  "id": "marttiini.lake-whisperer",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559011W",
+  "manufacturer": "marttiini",
+  "category_slug": "unique-by-marttiini",
+  "sku": "559011W",
+  "name": "Lake whisperer",
+  "slug": "lake-whisperer",
+  "lead": null,
+  "description": "This unique knife is inspired by a tranquil lake. The gray sky reflects off the water's surface, and just a few ripples from the wind make the blue water appear like a whisper. The blade is 6 cm of Damascus steel, where you can see waves as if something is breaking the water's surface. The handle is made of reindeer antler, bordered by plywood pieces in various shades of blue, creating the impression of a whisper. The sheath is genuine leather.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5E30/0DE8/2337/0104/6742/0A28/105F/41F2/LakeWhisperer.png"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075072/greyhunter.com.pl/marttiini/lake-whisperer-0.png"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "6 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "16,1 cm"
+        },
+        {
+          "name": "Weight",
+          "value": "140g"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "Damascus"
+        },
+        {
+          "name": "Handle material",
+          "value": "Reindeer antler bone, colored birch"
+        },
+        {
+          "name": "Sheath material",
+          "value": "Leather, black"
+        }
+      ]
+    },
+    {
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "name": "Packaging",
+          "value": "Wooden Unique Gift Box"
+        }
+      ]
+    }
+  ]
+}

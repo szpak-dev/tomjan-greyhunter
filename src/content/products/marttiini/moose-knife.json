@@ -1,0 +1,68 @@
+{
+  "id": "marttiini.moose-knife",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/546012W",
+  "manufacturer": "marttiini",
+  "category_slug": "design-knives",
+  "sku": "546012W",
+  "name": "Moose Knife",
+  "slug": "moose-knife",
+  "lead": null,
+  "description": "The Moose Knife is a high-quality design knife. This knife is at the same time an impressive collector’s item and a reliable tool. Moose, bearing a crown of antlers, is the king of the northern forests and it has been immortalized in the cast ferrule of the knife.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5421/2F4A/7C68/5F6D/85F9/0A28/1041/C065/546012W_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5421/2F4A/7C68/5F6D/85F9/0A28/1041/C065/Hirvipuukko-vaelluksella-kuksa-kartta.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5421/2F4A/7C68/5F6D/85F9/0A28/1041/C065/hirvipuukko-ruskaretki.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5421/2F4A/7C68/5F6D/85F9/0A28/1041/C065/kahvitauko-ruskavaelluksella-hirvipuukko-ja-kuksa.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5421/2F4A/7C68/5F6D/85F9/0A28/1041/C065/5M9A4825-Edit.JPG",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5421/2F4A/7C68/5F6D/85F9/0A28/1041/C065/546012_head.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074671/greyhunter.com.pl/marttiini/moose-knife-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074672/greyhunter.com.pl/marttiini/moose-knife-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074674/greyhunter.com.pl/marttiini/moose-knife-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074675/greyhunter.com.pl/marttiini/moose-knife-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074677/greyhunter.com.pl/marttiini/moose-knife-4.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074679/greyhunter.com.pl/marttiini/moose-knife-5.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "24,5 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "carbon steel 1.2235 / 80CrV2 / HRC 59.5"
+        },
+        {
+          "name": "Handle material",
+          "value": "heat treated curlybirch, waxed, cast ferrules"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather, black"
+        }
+      ]
+    },
+    {
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "name": "Packaging",
+          "value": "wooden gift box"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "marttiini.superflex-filleting-knife-15",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/620016",
+  "manufacturer": "marttiini",
+  "category_slug": "fishing",
+  "sku": "620016",
+  "name": "Superflex Filleting Knife 15",
+  "slug": "superflex-filleting-knife-15",
+  "lead": null,
+  "description": "\nThe classical filleting knife has been remodelled both in its appearance and its features. The blade is even more flexible than before. The handle is from thermally treated Finnish birch. The surface patterns applied to the handle with laser technology make the surface highly textured to ensure a firmer grip of the knife. The handle is coated with a protective wax.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C91/E6D5/B591/2F85/9410/0A28/1041/1DAC/620016_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C91/E6D5/B591/2F85/9410/0A28/1041/1DAC/620016_superflex.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C91/E6D5/B591/2F85/9410/0A28/1041/1DAC/620016_superflex_5_square.jpeg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C91/E6D5/B591/2F85/9410/0A28/1041/1DAC/Superflex_teran_taipuisuus.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074848/greyhunter.com.pl/marttiini/superflex-filleting-knife-15-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074850/greyhunter.com.pl/marttiini/superflex-filleting-knife-15-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074852/greyhunter.com.pl/marttiini/superflex-filleting-knife-15-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074854/greyhunter.com.pl/marttiini/superflex-filleting-knife-15-3.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "15 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "27 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "heat treated birch, waxed"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather, brown"
+        }
+      ]
+    }
+  ]
+}

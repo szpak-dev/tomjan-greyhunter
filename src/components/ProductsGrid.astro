@@ -1,9 +1,11 @@
 ---
-import ProductCard from './ProductCard.astro';
-import type { FullMarttiiniProduct } from '../loaders/marttiini/marttiini';
+import { getRelativeLocaleUrl } from "astro:i18n";
 
-interface Props {
-  products: FullMarttiiniProduct[];
+import type { ContentProduct } from '../content/product.repository';
+import ProductCard from './ProductCard.astro';
+
+export type Props = {
+  products: ContentProduct[];
   lang: string;
   categoryName?: string;
 }
@@ -21,7 +23,10 @@ const { products, lang, categoryName } = Astro.props;
       <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-4 row-cols-xl-5 g-3 g-md-4">
         {products.map((product) => (
           <div class="col">
-            <ProductCard product={product} lang={lang} />
+            <ProductCard 
+              product={product} 
+              link={getRelativeLocaleUrl(lang, `marttiini/${categoryName}/${product.slug}`)} 
+            />
           </div>
         ))}
       </div>

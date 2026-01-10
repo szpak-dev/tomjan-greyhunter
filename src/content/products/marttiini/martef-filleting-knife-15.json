@@ -1,0 +1,53 @@
+{
+  "id": "marttiini.martef-filleting-knife-15",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/826014T",
+  "manufacturer": "marttiini",
+  "category_slug": "fishing",
+  "sku": "826014T",
+  "name": "Martef Filleting Knife 15",
+  "slug": "martef-filleting-knife-15",
+  "lead": null,
+  "description": "The Martef coating reduces friction to almost zero while protecting the blade against corrosion. Cleaning the blade after use is extremely easy.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1BE4/D1C7/F3CD/3EAC/0A28/1041/D0C4/826014T_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1BE4/D1C7/F3CD/3EAC/0A28/1041/D0C4/826014T_second.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1BE4/D1C7/F3CD/3EAC/0A28/1041/D0C4/martef6.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074912/greyhunter.com.pl/marttiini/martef-filleting-knife-15-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074913/greyhunter.com.pl/marttiini/martef-filleting-knife-15-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074915/greyhunter.com.pl/marttiini/martef-filleting-knife-15-2.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "15 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "27 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel, Martef coating"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber, blue"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather, black"
+        }
+      ]
+    }
+  ]
+}

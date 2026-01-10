@@ -1,0 +1,45 @@
+{
+  "id": "marttiini.ckp-roast-fork",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/738114P",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "sku": "738114P",
+  "name": "CKP Roast Fork",
+  "slug": "ckp-roast-fork",
+  "lead": null,
+  "description": "We recommend hand wash.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/3E96/71AD/A7B6/E040/0A28/1041/30B8/738114P_first.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075003/greyhunter.com.pl/marttiini/ckp-roast-fork-0.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "15 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "27 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "name": "Handle material",
+          "value": "rubber"
+        }
+      ]
+    }
+  ]
+}

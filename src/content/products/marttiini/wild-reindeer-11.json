@@ -1,0 +1,59 @@
+{
+  "id": "marttiini.wild-reindeer-11",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/542014",
+  "manufacturer": "marttiini",
+  "category_slug": "design-knives",
+  "sku": "542014",
+  "name": "Wild Reindeer 11",
+  "slug": "wild-reindeer-11",
+  "lead": null,
+  "description": "The Marttiini Wild Reindeer 11 is a beautiful and versatile general-purpose knife that reflects the charm of northern nature. It is an iconic Marttiini blade model, developed in the ’30s by Janne Marttiini himself. The knife features a lynx blade with a blood groove and a slightly upturned tip hook, making it an excellent reliable tool for wilderness trips.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/F198/136A/CB11/FA2D/0A28/1041/3013/542014_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/F198/136A/CB11/FA2D/0A28/1041/3013/542014_second.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/F198/136A/CB11/FA2D/0A28/1041/3013/pailakka_puukko_marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/F198/136A/CB11/FA2D/0A28/1041/3013/erapuukko-marttiini.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/F198/136A/CB11/FA2D/0A28/1041/3013/marttiini-pailakka-retkeilypuukko.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/F198/136A/CB11/FA2D/0A28/1041/3013/pailakka-puukot-11-13.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074391/greyhunter.com.pl/marttiini/wild-reindeer-11-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074393/greyhunter.com.pl/marttiini/wild-reindeer-11-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074394/greyhunter.com.pl/marttiini/wild-reindeer-11-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074396/greyhunter.com.pl/marttiini/wild-reindeer-11-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074399/greyhunter.com.pl/marttiini/wild-reindeer-11-4.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074401/greyhunter.com.pl/marttiini/wild-reindeer-11-5.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "23 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "stainless steel X46Cr13 / 1.4034, HRC 53.5-55"
+        },
+        {
+          "name": "Handle material",
+          "value": "curly birch & reindeer antler bone"
+        },
+        {
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ]
+}

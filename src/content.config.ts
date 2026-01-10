@@ -1,108 +1,59 @@
 import { defineCollection, z } from 'astro:content';
-import { createMarttiiniLoader } from './loaders/marttiini';
+import { glob } from 'astro/loaders'; // Not available with legacy API
 
 const manufacturers = defineCollection({
     schema: z.object({
-        lang: z.string(),
+        logoUrl: z.string(),
         name: z.string(),
         slug: z.string(),
         imagesOrientation: z.enum(['landscape', 'portrait']),
+        link: z.object({
+            url: z.string(),
+            target: z.string(),
+        }),
     }),
-    loader: {
-        name: 'manufacturers-loader',
-        load: async ({ store, logger }) => {
-            const fs = await import('node:fs/promises');
-            const path = await import('node:path');
-            
-            const filePath = path.resolve(process.cwd(), './src/content/manufacturers.json');
-            const content = await fs.readFile(filePath, 'utf-8');
-            const manufacturers = JSON.parse(content);
-            
-            for (const manufacturer of manufacturers) {
-                store.set({
-                    id: `${manufacturer.slug}-${manufacturer.lang}`,
-                    data: manufacturer,
-                });
-            }
-            
-            logger.info(`Loaded ${manufacturers.length} manufacturers`);
-        }
-    }
+    loader: glob({pattern: './src/content/manufacturers/*.json'}),
 });
 
-const marttiiniProducts = defineCollection({
+const categories = defineCollection({
     schema: z.object({
-        sku: z.string(),
-        manufacturer: z.literal('marttiini'),
-        category_slug: z.string(),
-        active: z.boolean(),
-        url: z.string().url(),
-        cdn_images: z.array(z.string().url()),
-    }),
-    loader: createMarttiiniLoader('base'),
-});
-
-const productI18nSchema = z.object({
-    sku: z.string(),
-    lang: z.string(),
-    slug: z.string(),
-    name: z.string(),
-    category: z.string(),
-    lead: z.string().optional(),
-    description: z.string(),
-    attributes: z.array(z.object({
+        manufacturer: z.string(),
+        url: z.string(),
         name: z.string(),
-        properties: z.array(z.object({
-            name: z.string(),
-            value: z.string()
-        }))
-    })).optional(),
+        slug: z.string(),
+    }),
+    loader: glob({pattern: './src/content/categories/**/*.json'}),
 });
 
-const marttiiniProductsI18nEn = defineCollection({
-    schema: productI18nSchema,
-    loader: createMarttiiniLoader('i18n', 'en'),
-});
-
-const marttiiniProductsI18nPl = defineCollection({
-    schema: productI18nSchema,
-    loader: createMarttiiniLoader('i18n', 'pl'),
-});
-
-const promotedProducts = defineCollection({
+const products = defineCollection({
     schema: z.object({
         id: z.string(),
+        url: z.string(),
         manufacturer: z.string(),
-        productSku: z.string(),
-        imageOrientation: z.enum(['landscape', 'portrait']),
-        order: z.number(),
+        category_slug: z.string(),
+        sku: z.string(),
+        name: z.string(),
+        slug: z.string(),
+        lead: z.string().nullable(),
+        description: z.string().nullable(),
+        cdn_images: z.array(z.string()),
+        attributes: z.array(
+            z.object({
+                name: z.string(),
+                properties: z.array(
+                    z.object({
+                        name: z.string(),
+                        value: z.string(),
+                    })
+                ),
+            })
+        ),
     }),
-    loader: {
-        name: 'promoted-products-loader',
-        load: async ({ store, logger }) => {
-            const fs = await import('node:fs/promises');
-            const path = await import('node:path');
-            
-            const filePath = path.resolve(process.cwd(), './src/content/promoted-products.json');
-            const content = await fs.readFile(filePath, 'utf-8');
-            const products = JSON.parse(content);
-            
-            for (const product of products) {
-                store.set({
-                    id: product.id,
-                    data: product,
-                });
-            }
-            
-            logger.info(`Loaded ${products.length} promoted products`);
-        }
-    }
+    loader: glob({pattern: './src/content/products/**/*.json'}),
 });
 
 export const collections = {
     manufacturers,
-    marttiiniProducts,
-    marttiiniProductsI18nEn,
-    marttiiniProductsI18nPl,
-    promotedProducts,
+    categories,
+    products,
 };

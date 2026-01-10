@@ -1,0 +1,66 @@
+{
+  "id": "marttiini.eagle-knife",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/555010W",
+  "manufacturer": "marttiini",
+  "category_slug": "design-knives",
+  "sku": "555010W",
+  "name": "Eagle Knife",
+  "slug": "eagle-knife",
+  "lead": null,
+  "description": "Sharp and reliable, designed for daily use and built to last a lifetime. That is why the Eagle Knife is a timeless and respected gift item.",
+  "image_urls": [
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/EE98/BCFB/FEBD/0107/0A28/1041/30E0/555010W_first.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/EE98/BCFB/FEBD/0107/0A28/1041/30E0/marttiini-kotka-puukko-lahjaksi.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/EE98/BCFB/FEBD/0107/0A28/1041/30E0/marttiini-kotkapuukko-on-hieno-retkipuukko.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/EE98/BCFB/FEBD/0107/0A28/1041/30E0/kotkapuukko-ruostumaton-teras-nahkatuppi.jpg",
+    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/EE98/BCFB/FEBD/0107/0A28/1041/30E0/marttiini-kotkapuukko-on-hieno-lahja.jpg"
+  ],
+  "cdn_images": [
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074617/greyhunter.com.pl/marttiini/eagle-knife-0.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074618/greyhunter.com.pl/marttiini/eagle-knife-1.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074619/greyhunter.com.pl/marttiini/eagle-knife-2.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074621/greyhunter.com.pl/marttiini/eagle-knife-3.jpg",
+    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074622/greyhunter.com.pl/marttiini/eagle-knife-4.jpg"
+  ],
+  "attributes": [
+    {
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "name": "Total length",
+          "value": "22 cm"
+        }
+      ]
+    },
+    {
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "name": "Blade material",
+          "value": "Stainless steel 1.4034 / X46Cr13, HRC 53,5-55"
+        },
+        {
+          "name": "Handle material",
+          "value": "Heat treated curly birch, waxed, cast ferrules"
+        },
+        {
+          "name": "Sheath material",
+          "value": "Leather, black"
+        }
+      ]
+    },
+    {
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "name": "Packaging",
+          "value": "wooden gift box"
+        }
+      ]
+    }
+  ]
+}
