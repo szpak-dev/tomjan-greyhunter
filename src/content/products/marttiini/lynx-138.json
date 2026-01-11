@@ -1,18 +1,14 @@
 {
   "id": "marttiini.lynx-138",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/138010",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/138010",
   "category_slug": "traditional",
-  "sku": "138010",
+  "category_name": "Traditional",
   "name": "Lynx 138",
   "slug": "lynx-138",
   "lead": null,
-  "description": "\nThis Lynx knife has 13 cm blade - the blade also features the traditional \"blood groove\", which reduces suction when carving meat. Leather sheath is supplied with a tightening strap.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/E03D/004B/95FC/B8AB/0A28/1041/30B3/138010_first.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074544/greyhunter.com.pl/marttiini/lynx-138-0.jpg"
+  "description": [
+    "This Lynx knife has 13 cm blade - the blade also features the traditional \"blood groove\", which reduces suction when carving meat. Leather sheath is supplied with a tightening strap."
   ],
   "attributes": [
     {
@@ -45,5 +41,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/lynx-138-0"
   ]
 }

@@ -1,28 +1,15 @@
 {
   "id": "marttiini.chopping-board-small",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1520160C",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1520160C",
   "category_slug": "kitchen",
-  "sku": "1520160C",
+  "category_name": "Kitchen",
   "name": "Chopping Board Small",
   "slug": "chopping-board-small",
   "lead": null,
-  "description": "Crafted from high-quality oak wood, this chopping board combines timeless design with exceptional durability, making it an essential addition to any kitchen. The natural strength of oak ensures long-lasting performance, while its elegant grain pattern adds a touch of rustic charm. Gentle on knives, it helps maintain sharpness, and as a naturally hygienic material, oak’s porous structure and tannins help reduce bacterial survival compared to many other surfaces.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/68CA/7A5C/B548/18BF/D6F6/0A32/0E03/33D1/Cutting_board-2_copy.png",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/68CA/7A5C/B548/18BF/D6F6/0A32/0E03/33D1/chopping-board-edge.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/68CA/7A5C/B548/18BF/D6F6/0A32/0E03/33D1/chopping-mood.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/68CA/7A5C/B548/18BF/D6F6/0A32/0E03/33D1/chopping-board-mood-small.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/68CA/7A5C/B548/18BF/D6F6/0A32/0E03/33D1/chopping-board-mood-small-2.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/68CA/7A5C/B548/18BF/D6F6/0A32/0E03/33D1/chopping-board-mood-small-3.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074765/greyhunter.com.pl/marttiini/chopping-board-small-0.png",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074767/greyhunter.com.pl/marttiini/chopping-board-small-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074768/greyhunter.com.pl/marttiini/chopping-board-small-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074770/greyhunter.com.pl/marttiini/chopping-board-small-3.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074772/greyhunter.com.pl/marttiini/chopping-board-small-4.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074773/greyhunter.com.pl/marttiini/chopping-board-small-5.jpg"
+  "description": [
+    "Crafted from high-quality oak wood, this chopping board combines timeless design with exceptional durability, making it an essential addition to any kitchen. The natural strength of oak ensures long-lasting performance, while its elegant grain pattern adds a touch of rustic charm. Gentle on knives, it helps maintain sharpness, and as a naturally hygienic material, oak’s porous structure and tannins help reduce bacterial survival compared to many other surfaces.",
+    "The cutting board should be washed with clean water after use, as soap is not recommended. If soap is applied, the washing should be done quickly, followed by careful rinsing and immediate drying with a clean cloth. To keep the board in the best condition, avoid placing it in a dishwasher. Over time, the surface may lose some of its original finish; in this case, a new layer of coating can be applied. For the best results, it is recommended to use Rubio Monocoat Oilplus 2c, which is the same protective treatment originally applied in the factory."
   ],
   "attributes": [
     {
@@ -46,5 +33,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/chopping-board-small-0"
   ]
 }

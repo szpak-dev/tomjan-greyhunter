@@ -1,24 +1,16 @@
 {
   "id": "marttiini.superflex-filleting-knife-10",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/610016",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/610016",
   "category_slug": "fishing",
-  "sku": "610016",
+  "category_name": "Fishing",
   "name": "Superflex Filleting Knife 10",
   "slug": "superflex-filleting-knife-10",
   "lead": null,
-  "description": "The classical filleting knife has been remodelled both in its appearance and its features. The blade is even more flexible than before. This filleting knife is perfect for preparing perch.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C91/E14B/28EB/42D3/03CF/0A28/1041/1DDE/610016_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C91/E14B/28EB/42D3/03CF/0A28/1041/1DDE/superflex10-filetti.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C91/E14B/28EB/42D3/03CF/0A28/1041/1DDE/610016_superflex2.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C91/E14B/28EB/42D3/03CF/0A28/1041/1DDE/Superflex_filetti_teran_taipuisuus.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074842/greyhunter.com.pl/marttiini/superflex-filleting-knife-10-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074844/greyhunter.com.pl/marttiini/superflex-filleting-knife-10-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074846/greyhunter.com.pl/marttiini/superflex-filleting-knife-10-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074847/greyhunter.com.pl/marttiini/superflex-filleting-knife-10-3.jpg"
+  "description": [
+    "The classical filleting knife has been remodelled both in its appearance and its features. The blade is even more flexible than before. This filleting knife is perfect for preparing perch.",
+    "The handle is from thermally treated Finnish birch. The surface patterns applied to the handle with laser technology make the surface highly textured to ensure a firmer grip of the knife. The handle is coated with a protective wax.",
+    "We recommend washing by hand."
   ],
   "attributes": [
     {
@@ -51,5 +43,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/superflex-filleting-knife-10-0"
   ]
 }

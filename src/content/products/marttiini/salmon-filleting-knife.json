@@ -1,24 +1,15 @@
 {
   "id": "marttiini.salmon-filleting-knife",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/552017W",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/552017W",
   "category_slug": "design-knives",
-  "sku": "552017W",
+  "category_name": "Design Knives",
   "name": "Salmon Filleting Knife",
   "slug": "salmon-filleting-knife",
   "lead": "From wild waters to perfect cuts",
-  "description": "The Kojamo is no ordinary salmon. He’s the big, hooked-jawed old male—the king of Finland’s wild rivers. Known for his strength, beauty, and legendary glow (they say his scales shine brighter than the stars), Kojamo has ruled the northern waters for generations. Marttiini created Salmon Filleting Knife as a tribute to this mighty fish.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/EDD4/B428/39E4/6DF2/0A28/1041/3080/552017W_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/EDD4/B428/39E4/6DF2/0A28/1041/3080/filleting-knife-with-fish-theme.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/EDD4/B428/39E4/6DF2/0A28/1041/3080/filetti-lahjaksi-kalastajalle.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/EDD4/B428/39E4/6DF2/0A28/1041/3080/marttiini-salmon-filleting-knife.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074639/greyhunter.com.pl/marttiini/salmon-filleting-knife-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074640/greyhunter.com.pl/marttiini/salmon-filleting-knife-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074642/greyhunter.com.pl/marttiini/salmon-filleting-knife-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074643/greyhunter.com.pl/marttiini/salmon-filleting-knife-3.jpg"
+  "description": [
+    "The Kojamo is no ordinary salmon. He’s the big, hooked-jawed old male—the king of Finland’s wild rivers. Known for his strength, beauty, and legendary glow (they say his scales shine brighter than the stars), Kojamo has ruled the northern waters for generations. Marttiini created Salmon Filleting Knife as a tribute to this mighty fish.",
+    "Sharp, flexible, and built to last—this knife makes filleting effortless anywhere, from lakeside to kitchen. With a durable heat-treated curly birch handle, cast ferrules and elegant gift box, it’s made for both collectors and everyday anglers."
   ],
   "attributes": [
     {
@@ -60,5 +51,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/salmon-filleting-knife-0"
   ]
 }

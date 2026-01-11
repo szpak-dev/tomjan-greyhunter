@@ -1,22 +1,15 @@
 {
   "id": "marttiini.condor-trailblazer",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/185018T",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/185018T",
   "category_slug": "outdoor",
-  "sku": "185018T",
+  "category_name": "Outdoor",
   "name": "Condor Trailblazer",
   "slug": "condor-trailblazer",
   "lead": null,
-  "description": "Hunting and Outdoor knife. The dirt and moisture repelling Martef coating reduces friction.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5A0E/A38E/3668/2B54/4C07/0A28/1041/D7BB/185018T_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5A0E/A38E/3668/2B54/4C07/0A28/1041/D7BB/Pioneeripuukko_marttiini_knife.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5A0E/A38E/3668/2B54/4C07/0A28/1041/D7BB/Pioneeripuukko_knife_marttiini.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074448/greyhunter.com.pl/marttiini/condor-trailblazer-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074449/greyhunter.com.pl/marttiini/condor-trailblazer-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074451/greyhunter.com.pl/marttiini/condor-trailblazer-2.jpg"
+  "description": [
+    "Hunting and Outdoor knife. The dirt and moisture repelling Martef coating reduces friction.",
+    "Safe rubber handle with finger guard."
   ],
   "attributes": [
     {
@@ -49,5 +42,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/condor-trailblazer-0"
   ]
 }

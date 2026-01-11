@@ -1,22 +1,18 @@
 {
   "id": "marttiini.cabin-chef-fish-fork",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/440010",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/440010",
   "category_slug": "outdoor",
-  "sku": "440010",
+  "category_name": "Outdoor",
   "name": "Cabin Chef Fish Fork",
   "slug": "cabin-chef-fish-fork",
   "lead": "The Cabin Chef Fish Fork  design inspired by northern nature, powered by form and function",
-  "description": "The Cabin Chef Fish Fork is a handy tool for fish filleting. The Fish Fork ensures a good grip of the fish, without having to worry that the knife will slip onto your fingers.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F51/F524/CBEE/711A/EB3F/0A28/105F/105A/440010_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F51/F524/CBEE/711A/EB3F/0A28/105F/105A/440010_second.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F51/F524/CBEE/711A/EB3F/0A28/105F/105A/440010.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074982/greyhunter.com.pl/marttiini/cabin-chef-fish-fork-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074983/greyhunter.com.pl/marttiini/cabin-chef-fish-fork-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074985/greyhunter.com.pl/marttiini/cabin-chef-fish-fork-2.jpg"
+  "description": [
+    "The Cabin Chef Fish Fork is a handy tool for fish filleting. The Fish Fork ensures a good grip of the fish, without having to worry that the knife will slip onto your fingers.",
+    "The handle is made of Finnish thermally modified birch  a material known for its durability and graceful aging as well as warm and pleasant feel grip. The matte finish ensures a safe grip even when wet.",
+    "The blade of the Fish Fork is made of high-quality, durable stainless steel.",
+    "The Fish Fork is part of the Cabin Chef set designed by Harri Koskinen. The harmonious combination of beautiful design and practicality, as well as durable natural materials, guarantee that the Cabin Chef knives are a pleasure to use, time and time again.",
+    "We recommend hand wash."
   ],
   "attributes": [
     {
@@ -57,5 +53,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/cabin-chef-fish-fork-0"
   ]
 }

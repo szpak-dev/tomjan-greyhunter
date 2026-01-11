@@ -6,10 +6,11 @@ export type Manufacturer = {
 }
 
 export type Category = {
+    id?: string;
     manufacturer: string;
-    url: string;
     name: string;
     slug: string;
+    url?: string;
 }
 
 export type AttributeProperty = {
@@ -27,11 +28,11 @@ export type Product = {
     url: string;
     manufacturer: string;
     category_slug: string;
-    sku: string;
+    category_name: string;
     name: string;
     slug: string;
-    lead?: string;
-    description: string;
-    cdn_images: string[];
+    lead?: string | null;
+    description: string[];
+    images: string[];
     attributes: Attribute[];
 }

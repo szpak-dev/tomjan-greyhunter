@@ -1,24 +1,15 @@
 {
   "id": "marttiini.lynx-132",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/132010",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/132010",
   "category_slug": "traditional",
-  "sku": "132010",
+  "category_name": "Traditional",
   "name": "Lynx 132",
   "slug": "lynx-132",
   "lead": null,
-  "description": "\nThe most traditional Marttiini knife with a beautiful sheath.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/DEBC/9BF1/6C26/3BC1/0A28/1041/3068/132010_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/DEBC/9BF1/6C26/3BC1/0A28/1041/3068/132_ilves_.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/DEBC/9BF1/6C26/3BC1/0A28/1041/3068/132_talvi_1.jpeg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/DEBC/9BF1/6C26/3BC1/0A28/1041/3068/ilves139.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074538/greyhunter.com.pl/marttiini/lynx-132-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074539/greyhunter.com.pl/marttiini/lynx-132-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074540/greyhunter.com.pl/marttiini/lynx-132-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074542/greyhunter.com.pl/marttiini/lynx-132-3.jpg"
+  "description": [
+    "The most traditional Marttiini knife with a beautiful sheath.",
+    "The leather tassel at the tip of the sheath depicts the tuft of hair on the tip of the ears of a lynx. It said to frighten away the bad spirits so that the knife will be used only for peaceful purposes."
   ],
   "attributes": [
     {
@@ -51,5 +42,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/lynx-132-0"
   ]
 }

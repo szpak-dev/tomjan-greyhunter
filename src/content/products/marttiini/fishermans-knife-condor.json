@@ -1,22 +1,17 @@
 {
   "id": "marttiini.fishermans-knife-condor",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/175014",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/175014",
   "category_slug": "fishing",
-  "sku": "175014",
+  "category_name": "Fishing",
   "name": "Fishermans knife Condor",
   "slug": "fishermans-knife-condor",
   "lead": null,
-  "description": "\nThe serrated edge on the back of the stainless steel blade makes the removal of fish scales easy.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1822/DB84/BC50/A7F6/0A28/1041/D059/175014_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1822/DB84/BC50/A7F6/0A28/1041/D059/175014_second.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1822/DB84/BC50/A7F6/0A28/1041/D059/5M9A2254.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074887/greyhunter.com.pl/marttiini/fishermans-knife-condor-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074889/greyhunter.com.pl/marttiini/fishermans-knife-condor-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074891/greyhunter.com.pl/marttiini/fishermans-knife-condor-2.jpg"
+  "description": [
+    "The serrated edge on the back of the stainless steel blade makes the removal of fish scales easy.",
+    "The blade of the fisherman's knife is sharpened just like a normal Marttiini knife, therefore you can use this knife not only for processing fish but also for many jobs around the house or camp. The textured rubber handle and the finger guard ensure a firm grip of the knife even in cold and wet conditions.",
+    "The knife is supplied with a black leather sheath.",
+    "We recommend hand wash."
   ],
   "attributes": [
     {
@@ -49,5 +44,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/fishermans-knife-condor-0"
   ]
 }

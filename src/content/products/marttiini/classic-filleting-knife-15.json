@@ -1,22 +1,16 @@
 {
   "id": "marttiini.classic-filleting-knife-15",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/620010",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/620010",
   "category_slug": "fishing",
-  "sku": "620010",
+  "category_name": "Fishing",
   "name": "Classic Filleting Knife 15",
   "slug": "classic-filleting-knife-15",
   "lead": null,
-  "description": "\nThis model has been in production since the late 1960s and has been exported around the world for more than 50 years. With the superior finished, sharp and flexible stainless chrome steel blade it only takes a moment to make beautiful fish fillets.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C91/CB02/D8E9/026E/7710/0A28/1041/1DEE/620010_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C91/CB02/D8E9/026E/7710/0A28/1041/1DEE/620010_classic_filetti2.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C91/CB02/D8E9/026E/7710/0A28/1041/1DEE/D30I7461.JPG"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074834/greyhunter.com.pl/marttiini/classic-filleting-knife-15-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074835/greyhunter.com.pl/marttiini/classic-filleting-knife-15-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074838/greyhunter.com.pl/marttiini/classic-filleting-knife-15-2.jpg"
+  "description": [
+    "This model has been in production since the late 1960s and has been exported around the world for more than 50 years. With the superior finished, sharp and flexible stainless chrome steel blade it only takes a moment to make beautiful fish fillets.",
+    "This blade length is suitable for processing fish of about 1 kg. A traditional leather sheath in a natural colour completes the package.",
+    "We recommend hand wash."
   ],
   "attributes": [
     {
@@ -49,5 +43,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/classic-filleting-knife-15-0"
   ]
 }

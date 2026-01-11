@@ -1,22 +1,19 @@
 {
   "id": "marttiini.martef-filleting-knife-19",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/836014T",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/836014T",
   "category_slug": "fishing",
-  "sku": "836014T",
+  "category_name": "Fishing",
   "name": "Martef Filleting Knife 19",
   "slug": "martef-filleting-knife-19",
   "lead": null,
-  "description": "The Martef coating reduces friction to almost zero while protecting the blade against corrosion. Cleaning the blade after use is extremely easy.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1CA6/B37D/BCE3/CD7F/0A28/1041/D0FF/836014T_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1CA6/B37D/BCE3/CD7F/0A28/1041/D0FF/7D7A6837.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1CA6/B37D/BCE3/CD7F/0A28/1041/D0FF/7D7A6856.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074916/greyhunter.com.pl/marttiini/martef-filleting-knife-19-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074918/greyhunter.com.pl/marttiini/martef-filleting-knife-19-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074919/greyhunter.com.pl/marttiini/martef-filleting-knife-19-2.jpg"
+  "description": [
+    "The Martef coating reduces friction to almost zero while protecting the blade against corrosion. Cleaning the blade after use is extremely easy.",
+    "The textured rubber handle and the finger guard ensure a firm grip of the knife even in difficult conditions. This blade length is suitable for processing fish of about 2-3 kg.",
+    "Many other kitchen chores, such as slicing vegetables, become easy with this knife. The filleting knife is supplied with a leather sheath.",
+    "We recommend hand wash.",
+    "This knife is also available with a plastic sheath (",
+    ")."
   ],
   "attributes": [
     {
@@ -49,5 +46,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/martef-filleting-knife-19-0"
   ]
 }

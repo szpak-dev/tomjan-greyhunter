@@ -6,7 +6,8 @@ import { categoryRepository, productRepository } from "../../../content";
 import { languages } from "../../../i18n/ui";
 const { lang, category } = Astro.params;
 
-const products = await productRepository.findProductsByCategory("marttiini", category, lang as string);
+const categoryData = await categoryRepository.getCategoryBySlug("marttiini", category, lang);
+const products = await productRepository.findProductsByCategory("marttiini", category, lang);
 
 export async function getStaticPaths() {
   const paths = [];
@@ -34,32 +35,7 @@ const pageTitle = `${category} - Marttiini`;
     <ProductsGrid
       products={products}
       lang={lang as string}
-      categoryName={category}
+      categoryName={categoryData.name}
   />
 </Layout>
 
-<style>
-  .breadcrumb {
-    background: transparent;
-    padding: 0;
-    margin-bottom: 1rem;
-  }
-
-  .breadcrumb-item + .breadcrumb-item::before {
-    content: "›";
-    color: #6c757d;
-  }
-
-  .breadcrumb-item a {
-    color: #0d6efd;
-    text-decoration: none;
-  }
-
-  .breadcrumb-item a:hover {
-    text-decoration: underline;
-  }
-
-  .breadcrumb-item.active {
-    color: #6c757d;
-  }
-</style>

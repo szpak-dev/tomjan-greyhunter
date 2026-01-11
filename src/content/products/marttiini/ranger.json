@@ -1,20 +1,14 @@
 {
   "id": "marttiini.ranger",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/543015",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/543015",
   "category_slug": "outdoor",
-  "sku": "543015",
+  "category_name": "Outdoor",
   "name": "Ranger",
   "slug": "ranger",
   "lead": null,
-  "description": "Marttiini Ranger is a robust and reliable wilderness knife that cuts, carves and even splits firewood. The handle combines the colors of Finnish curly birch and thermally heated birch. The strong Lapp knife blade is made of stainless steel and is designed in accordance to ancient Lapp knife principles. ",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/8025/A21F/9AF4/7E80/0A28/1041/D01A/543015_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/8025/A21F/9AF4/7E80/0A28/1041/D01A/leukuknife-lapinleuku-lappknife.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074433/greyhunter.com.pl/marttiini/ranger-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074435/greyhunter.com.pl/marttiini/ranger-1.jpg"
+  "description": [
+    "Marttiini Ranger is a robust and reliable wilderness knife that cuts, carves and even splits firewood. The handle combines the colors of Finnish curly birch and thermally heated birch. The strong Lapp knife blade is made of stainless steel and is designed in accordance to ancient Lapp knife principles."
   ],
   "attributes": [
     {
@@ -47,5 +41,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/ranger-0"
   ]
 }

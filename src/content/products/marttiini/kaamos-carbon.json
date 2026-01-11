@@ -1,22 +1,15 @@
 {
   "id": "marttiini.kaamos-carbon",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/127019",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/127019",
   "category_slug": "outdoor",
-  "sku": "127019",
+  "category_name": "Outdoor",
   "name": "Kaamos Carbon",
   "slug": "kaamos-carbon",
   "lead": null,
-  "description": "The handle is made of stained birch. Its surface is slightly textured so you easily get a firm, safe grip of the knife.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C97/3469/AFAE/0AC0/7EDF/0A28/1041/30D2/127019_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C97/3469/AFAE/0AC0/7EDF/0A28/1041/30D2/127019_second.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C97/3469/AFAE/0AC0/7EDF/0A28/1041/30D2/kaamosjaetkae.jpeg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074304/greyhunter.com.pl/marttiini/kaamos-carbon-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074306/greyhunter.com.pl/marttiini/kaamos-carbon-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074307/greyhunter.com.pl/marttiini/kaamos-carbon-2.jpg"
+  "description": [
+    "The handle is made of stained birch. Its surface is slightly textured so you easily get a firm, safe grip of the knife.",
+    "The blade is made of carbon steel that is perfect for carving and is easy to re-sharpen to its original sharpness. Remember to take proper care of your carbon steel knife. Always dry the blade carefully after each use and oil the blade with unsalted oil on a regular basis. This will ensure your knife will serve you loyally from one year to the next."
   ],
   "attributes": [
     {
@@ -49,5 +42,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/kaamos-carbon-0"
   ]
 }

@@ -1,38 +1,17 @@
 {
   "id": "marttiini.jarvi-annual-knife-2026",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/552026C",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/552026C",
   "category_slug": "fishing",
-  "sku": "552026C",
+  "category_name": "Fishing",
   "name": "Järvi Annual Knife 2026",
   "slug": "jarvi-annual-knife-2026",
-  "lead": null,
-  "description": "The name Järvi – meaning “lake” in Finnish – captures Finland’s deep connection with its waters. The knife’s design reflects the tranquillity of the country’s countless lakes, the shimmer of clear waters, and the long-standing traditions of fishing. Imagine yourself in the gentle warmth of a lakeside sauna, watching the evening sun sink behind the islands as boats glide silently across the calm water. As twilight settles over the lake, the scene invites you to slow down, breathe in the stillness, and experience the peaceful rhythm of Finnish lake life — the very essence that inspired the Järvi Fillet.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/68F7/3AEC/9D0A/2E95/76EB/0A32/0E02/4419/final-jarvi.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/68F7/3AEC/9D0A/2E95/76EB/0A32/0E02/4419/1.webp",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/68F7/3AEC/9D0A/2E95/76EB/0A32/0E02/4419/2.webp",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/68F7/3AEC/9D0A/2E95/76EB/0A32/0E02/4419/3.webp",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/68F7/3AEC/9D0A/2E95/76EB/0A32/0E02/4419/4.webp",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/68F7/3AEC/9D0A/2E95/76EB/0A32/0E02/4419/5.webp",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/68F7/3AEC/9D0A/2E95/76EB/0A32/0E02/4419/6.webp",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/68F7/3AEC/9D0A/2E95/76EB/0A32/0E02/4419/7.webp",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/68F7/3AEC/9D0A/2E95/76EB/0A32/0E02/4419/8.webp",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/68F7/3AEC/9D0A/2E95/76EB/0A32/0E02/4419/9.webp",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/68F7/3AEC/9D0A/2E95/76EB/0A32/0E02/4419/10.webp"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074689/greyhunter.com.pl/marttiini/jarvi-annual-knife-2026-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074692/greyhunter.com.pl/marttiini/jarvi-annual-knife-2026-1.webp",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074693/greyhunter.com.pl/marttiini/jarvi-annual-knife-2026-2.webp",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074694/greyhunter.com.pl/marttiini/jarvi-annual-knife-2026-3.webp",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074696/greyhunter.com.pl/marttiini/jarvi-annual-knife-2026-4.webp",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074698/greyhunter.com.pl/marttiini/jarvi-annual-knife-2026-5.webp",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074699/greyhunter.com.pl/marttiini/jarvi-annual-knife-2026-6.webp",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074700/greyhunter.com.pl/marttiini/jarvi-annual-knife-2026-7.webp",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074702/greyhunter.com.pl/marttiini/jarvi-annual-knife-2026-8.webp",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074703/greyhunter.com.pl/marttiini/jarvi-annual-knife-2026-9.webp",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074705/greyhunter.com.pl/marttiini/jarvi-annual-knife-2026-10.webp"
+  "lead": "The theme of Marttiini’s 2026 Annual Knife draws its inspiration from Finland, also known as “The Land of a Thousand Lakes.”",
+  "description": [
+    "The name Järvi – meaning “lake” in Finnish – captures Finland’s deep connection with its waters. The knife’s design reflects the tranquillity of the country’s countless lakes, the shimmer of clear waters, and the long-standing traditions of fishing. Imagine yourself in the gentle warmth of a lakeside sauna, watching the evening sun sink behind the islands as boats glide silently across the calm water. As twilight settles over the lake, the scene invites you to slow down, breathe in the stillness, and experience the peaceful rhythm of Finnish lake life — the very essence that inspired the Järvi Fillet.",
+    "Every detail of the knife is designed to reflect this harmony between nature and craftsmanship. The handle combines dark, heat-treated curly birch with bright, stainless steel fittings. Natural materials and meticulous finishing create a harmonious composition where traditional craftsmanship meets modern design.",
+    "The reflective laser engravings on the blade and bolster highlight subtle details and enhance the knife’s elegant character.",
+    "and comes in a genuine black leather sheath, decorated with a lake-inspired pattern printed in blue foil."
   ],
   "attributes": [
     {
@@ -69,5 +48,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/jarvi-annual-knife-2026-0"
   ]
 }

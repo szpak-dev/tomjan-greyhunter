@@ -1,24 +1,16 @@
 {
   "id": "marttiini.lapp-knife-240",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/240010",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/240010",
   "category_slug": "traditional",
-  "sku": "240010",
+  "category_name": "Traditional",
   "name": "Lapp knife 240",
   "slug": "lapp-knife-240",
   "lead": null,
-  "description": ".",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D410/64E2/AEDF/CE49/0A28/1041/306E/240010_240_Lapinleuku-LappKnife-new.png",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D410/64E2/AEDF/CE49/0A28/1041/306E/Marttiini_Lapinleuku_Lapp_Knife_Lapp-Messer_240.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D410/64E2/AEDF/CE49/0A28/1041/306E/leukupuukko-leukuknife.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D410/64E2/AEDF/CE49/0A28/1041/306E/Lapinleuku240.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074483/greyhunter.com.pl/marttiini/lapp-knife-240-0.png",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074484/greyhunter.com.pl/marttiini/lapp-knife-240-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074486/greyhunter.com.pl/marttiini/lapp-knife-240-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074487/greyhunter.com.pl/marttiini/lapp-knife-240-3.jpg"
+  "description": [
+    ".",
+    "The Lapp knife 240 is one of Marttiini's most popular knives and continues to maintain its place at the top of the sales ratings after many years of continuous production. The knife is excellent for hikers and hunters who are active knife users, and it also makes an ideal present or souvenir from a trip to Finland.",
+    "The stainless chrome steel blade features a beautiful etched engraving depicting a Lappish theme, whilst the pattern on the sheath also reflects a strong Lappish heritage."
   ],
   "attributes": [
     {
@@ -51,5 +43,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/lapp-knife-240-0"
   ]
 }

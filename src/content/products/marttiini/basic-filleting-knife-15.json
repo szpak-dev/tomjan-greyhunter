@@ -1,22 +1,16 @@
 {
   "id": "marttiini.basic-filleting-knife-15",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/827010",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/827010",
   "category_slug": "fishing",
-  "sku": "827010",
+  "category_name": "Fishing",
   "name": "Basic Filleting Knife 15",
   "slug": "basic-filleting-knife-15",
   "lead": null,
-  "description": "\nThe well fitting rubber handle and the flexible stainless steel blade ensure clean-cut fillets. This size of blade is best suited for processing fish of about 1 kg.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C91/E98E/ACF3/4C13/65AC/0A28/1041/D06C/827010_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C91/E98E/ACF3/4C13/65AC/0A28/1041/D06C/827010_PERUSFILETTI_6_MUOVITUPPI_MUSTA_2021_copy1.png",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C91/E98E/ACF3/4C13/65AC/0A28/1041/D06C/827010_PERUSFILETTI_6_MUOVITUPPI_TUPPI_MUSTA_2021_copy1.png"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074871/greyhunter.com.pl/marttiini/basic-filleting-knife-15-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074873/greyhunter.com.pl/marttiini/basic-filleting-knife-15-1.png",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074875/greyhunter.com.pl/marttiini/basic-filleting-knife-15-2.png"
+  "description": [
+    "The well fitting rubber handle and the flexible stainless steel blade ensure clean-cut fillets. This size of blade is best suited for processing fish of about 1 kg.",
+    "The filleting knife is an excellent tool for other jobs in the kitchen. The knife is supplied with a practical plastic sheath.",
+    "We recommend hand wash."
   ],
   "attributes": [
     {
@@ -49,5 +43,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/basic-filleting-knife-15-0"
   ]
 }

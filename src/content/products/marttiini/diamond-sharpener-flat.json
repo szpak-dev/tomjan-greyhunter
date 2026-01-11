@@ -1,18 +1,19 @@
 {
   "id": "marttiini.diamond-sharpener-flat",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1515113",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1515113",
   "category_slug": "sharpening-and-accessories",
-  "sku": "1515113",
+  "category_name": "Sharpening and Accessories",
   "name": "Diamond Sharpener Flat",
   "slug": "diamond-sharpener-flat",
   "lead": null,
-  "description": "\nThis sharpener is especially suitable for sharpening knives. The sharpener has two surfaces with different grit grades: first the blade is sharpened with circular movements on the rougher side, after which the blade edge is finished on the finer side by removing the circular marks.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8E/02C0/0A72/B314/0C6C/0A28/1041/30C1/1515113_first.jpg"
+  "description": [
+    "This sharpener is especially suitable for sharpening knives. The sharpener has two surfaces with different grit grades: first the blade is sharpened with circular movements on the rougher side, after which the blade edge is finished on the finer side by removing the circular marks.",
+    "The sharpener also includes a groove for sharpening hooks. The roughened handle gives you a good grip.",
+    "Use water while sharpening, then wash and dry the sharpener after use."
   ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075050/greyhunter.com.pl/marttiini/diamond-sharpener-flat-0.jpg"
-  ],
-  "attributes": []
+  "attributes": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/diamond-sharpener-flat-0"
+  ]
 }

@@ -1,24 +1,17 @@
 {
   "id": "marttiini.martef-skinning-hook",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/378024T",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/378024T",
   "category_slug": "hunting",
-  "sku": "378024T",
+  "category_name": "Hunting",
   "name": "Martef Skinning Hook",
   "slug": "martef-skinning-hook",
   "lead": null,
-  "description": "\nThe dirt and moisture repelling Martef coating reduces friction to almost zero whilst protecting the blade against corrosion. Due to the coating the blade moves extremely smoothly through cut meat or fish, and cleaning the blade after use is extremely easy.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5BEC/0AEE/7EE9/391E/266F/0A28/1041/191D/378024T_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5BEC/0AEE/7EE9/391E/266F/0A28/1041/191D/nylkykoukku-metsastyspuukko-hunting-knife-skinning-hook.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5BEC/0AEE/7EE9/391E/266F/0A28/1041/191D/marttiini-metsastyspuukko-hunting-knife.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5BEC/0AEE/7EE9/391E/266F/0A28/1041/191D/378024T_second.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074795/greyhunter.com.pl/marttiini/martef-skinning-hook-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074797/greyhunter.com.pl/marttiini/martef-skinning-hook-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074799/greyhunter.com.pl/marttiini/martef-skinning-hook-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074801/greyhunter.com.pl/marttiini/martef-skinning-hook-3.jpg"
+  "description": [
+    "The dirt and moisture repelling Martef coating reduces friction to almost zero whilst protecting the blade against corrosion. Due to the coating the blade moves extremely smoothly through cut meat or fish, and cleaning the blade after use is extremely easy.",
+    "is an excellent tool for opening deer. The hook at the back of the knife helps to open the animal without touching internal organs, whilst the round shape of the blade ensures that the hide comes away cleanly and intact. Hook is not suitable for cutting bones. The hook can be sharpened with a pen type sharpener (such as the",
+    ").",
+    "The orange rubber handle and finger guard ensure user comfort and safety. Due to the sharpening angle of the stainless chrome steel blade, the knife can be used as a normal knife. A true multi-purpose knife for hunters."
   ],
   "attributes": [
     {
@@ -51,5 +44,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/martef-skinning-hook-0"
   ]
 }

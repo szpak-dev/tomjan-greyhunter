@@ -1,24 +1,16 @@
 {
   "id": "marttiini.condor-skinner",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/186014",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/186014",
   "category_slug": "hunting",
-  "sku": "186014",
+  "category_name": "Hunting",
   "name": "Condor Skinner",
   "slug": "condor-skinner",
   "lead": null,
-  "description": "The textured rubber handle and the finger guard ensure a safe and firm grip in the most demanding forest conditions.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/C7FB/355E/92FC/38AF/0A28/1041/30A5/186014_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/C7FB/355E/92FC/38AF/0A28/1041/30A5/metsastyspuukko.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/C7FB/355E/92FC/38AF/0A28/1041/30A5/metsastysveitsi-marttiini.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/C7FB/355E/92FC/38AF/0A28/1041/30A5/metsastysveitsi.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074813/greyhunter.com.pl/marttiini/condor-skinner-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074815/greyhunter.com.pl/marttiini/condor-skinner-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074817/greyhunter.com.pl/marttiini/condor-skinner-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074819/greyhunter.com.pl/marttiini/condor-skinner-3.jpg"
+  "description": [
+    "The textured rubber handle and the finger guard ensure a safe and firm grip in the most demanding forest conditions.",
+    "The easy to maintain stainless chrome steel blade maintains its sharpness for a long time. The design of the blade is extremely suitable for handling game, whilst carving is also effortless with this knife. Not suitable for splitting bones.",
+    "For sharpening we recommend the Marttiini diamond sharpener."
   ],
   "attributes": [
     {
@@ -51,5 +43,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/condor-skinner-0"
   ]
 }

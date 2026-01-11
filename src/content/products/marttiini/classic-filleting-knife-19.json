@@ -1,20 +1,16 @@
 {
   "id": "marttiini.classic-filleting-knife-19",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/630010",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/630010",
   "category_slug": "fishing",
-  "sku": "630010",
+  "category_name": "Fishing",
   "name": "Classic Filleting Knife 19",
   "slug": "classic-filleting-knife-19",
   "lead": null,
-  "description": "\nThis model has been in production since the late 1960s and has been exported around the world for more than 50 years. With the superior finished, sharp and flexible stainless chrome steel blade it only takes a moment to make beautiful fish fillets.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C91/CBC5/7322/E3D0/2ADE/0A28/1041/1D6E/630010_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C91/CBC5/7322/E3D0/2ADE/0A28/1041/1D6E/620010_classic_filetti2.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074839/greyhunter.com.pl/marttiini/classic-filleting-knife-19-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074841/greyhunter.com.pl/marttiini/classic-filleting-knife-19-1.jpg"
+  "description": [
+    "This model has been in production since the late 1960s and has been exported around the world for more than 50 years. With the superior finished, sharp and flexible stainless chrome steel blade it only takes a moment to make beautiful fish fillets.",
+    "This blade length is suitable for processing fish of between 2-3 kg. A traditional leather sheath in a natural colour completes the package.",
+    "We recommend hand wash."
   ],
   "attributes": [
     {
@@ -47,5 +43,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/classic-filleting-knife-19-0"
   ]
 }

@@ -1,18 +1,15 @@
 {
   "id": "marttiini.ckp-bread-knife",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/765114P",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/765114P",
   "category_slug": "kitchen",
-  "sku": "765114P",
+  "category_name": "Kitchen",
   "name": "CKP Bread Knife",
   "slug": "ckp-bread-knife",
   "lead": null,
-  "description": "\nThe knife is excellent for cutting cabbage and similar vegetables.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/4178/4712/58FC/27B0/0A28/1041/30A8/765114P_first.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075014/greyhunter.com.pl/marttiini/ckp-bread-knife-0.jpg"
+  "description": [
+    "The knife is excellent for cutting cabbage and similar vegetables.",
+    "We recommend hand wash."
   ],
   "attributes": [
     {
@@ -41,5 +38,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/ckp-bread-knife-0"
   ]
 }

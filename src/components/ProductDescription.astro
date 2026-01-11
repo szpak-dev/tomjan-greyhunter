@@ -1,0 +1,10 @@
+---
+export type Props = {
+    description: string[];
+}
+
+const { description } = Astro.props;
+---
+<div class="mb-4">
+    {description.map((paragraph) => ( <p class="fs-5 text-secondary">{paragraph}</p> ))}
+</div>

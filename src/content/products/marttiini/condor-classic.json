@@ -1,20 +1,16 @@
 {
   "id": "marttiini.condor-classic",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/186015",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/186015",
   "category_slug": "hunting",
-  "sku": "186015",
+  "category_name": "Hunting",
   "name": "Condor Classic",
   "slug": "condor-classic",
   "lead": null,
-  "description": "\nThe textured rubber handle is combined with the legendary blade of the Lynx knife offering incomparable sharpness and featuring the traditional blood groove.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/C951/CBD4/8FCB/D1A1/0A28/1041/30C5/186015_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/C951/CBD4/8FCB/D1A1/0A28/1041/30C5/condor_classic.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074348/greyhunter.com.pl/marttiini/condor-classic-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074349/greyhunter.com.pl/marttiini/condor-classic-1.jpg"
+  "description": [
+    "The textured rubber handle is combined with the legendary blade of the Lynx knife offering incomparable sharpness and featuring the traditional blood groove.",
+    "For those who prefer knives with wood handles we have a",
+    "available."
   ],
   "attributes": [
     {
@@ -47,5 +43,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/condor-classic-0"
   ]
 }

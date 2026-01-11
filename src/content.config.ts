@@ -1,5 +1,6 @@
 import { defineCollection, z } from 'astro:content';
 import { glob } from 'astro/loaders'; // Not available with legacy API
+import { link } from 'node:fs';
 
 const manufacturers = defineCollection({
     schema: z.object({
@@ -17,8 +18,8 @@ const manufacturers = defineCollection({
 
 const categories = defineCollection({
     schema: z.object({
+        id: z.string(),
         manufacturer: z.string(),
-        url: z.string(),
         name: z.string(),
         slug: z.string(),
     }),
@@ -31,12 +32,12 @@ const products = defineCollection({
         url: z.string(),
         manufacturer: z.string(),
         category_slug: z.string(),
-        sku: z.string(),
+        category_name: z.string(),
         name: z.string(),
         slug: z.string(),
         lead: z.string().nullable(),
-        description: z.string().nullable(),
-        cdn_images: z.array(z.string()),
+        description: z.array(z.string()),
+        images: z.array(z.string()),
         attributes: z.array(
             z.object({
                 name: z.string(),

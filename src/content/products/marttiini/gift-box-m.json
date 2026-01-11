@@ -1,18 +1,17 @@
 {
   "id": "marttiini.gift-box-m",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/P702312",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/P702312",
   "category_slug": "sharpening-and-accessories",
-  "sku": "P702312",
+  "category_name": "Sharpening and Accessories",
   "name": "Gift Box M",
   "slug": "gift-box-m",
   "lead": "It’s a pleasure to present a gift to a recipient in a stylish gift box.",
-  "description": "The dimensions of the gift box are 311x60x50 mm. The gift box is included as an add on product for all products for which this box is suitable.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/60E5/A872/8160/701F/23D0/0A28/105F/C919/P702312_first.jpg"
+  "description": [
+    "The dimensions of the gift box are 311x60x50 mm. The gift box is included as an add on product for all products for which this box is suitable."
   ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075067/greyhunter.com.pl/marttiini/gift-box-m-0.jpg"
-  ],
-  "attributes": []
+  "attributes": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/gift-box-m-0"
+  ]
 }

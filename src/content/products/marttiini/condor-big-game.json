@@ -1,28 +1,14 @@
 {
   "id": "marttiini.condor-big-game",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/184019",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/184019",
   "category_slug": "hunting",
-  "sku": "184019",
+  "category_name": "Hunting",
   "name": "Condor Big Game",
   "slug": "condor-big-game",
   "lead": null,
-  "description": "This hunting and hiking knife is specifically designed for a firm grip. Its 13 cm long blade is made of matte-polished chrome steel, ensuring excellent durability. The knife is competitively priced compared to similar models, but the quality remains equally high. The rubber handle provides a secure grip even when your hands are wet.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/680F/4CEC/3CB3/A783/9DAB/0A32/0E03/2CE8/184019_Condor_big_game_Product_image.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/680F/4CEC/3CB3/A783/9DAB/0A32/0E03/2CE8/Condor_184019_4.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/680F/4CEC/3CB3/A783/9DAB/0A32/0E03/2CE8/Condor_184019_3.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/680F/4CEC/3CB3/A783/9DAB/0A32/0E03/2CE8/Condor_184019_2.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/680F/4CEC/3CB3/A783/9DAB/0A32/0E03/2CE8/184019_Condor_Big_Game_004_Marttiini.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/680F/4CEC/3CB3/A783/9DAB/0A32/0E03/2CE8/Condor_184019.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074707/greyhunter.com.pl/marttiini/condor-big-game-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074708/greyhunter.com.pl/marttiini/condor-big-game-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074711/greyhunter.com.pl/marttiini/condor-big-game-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074712/greyhunter.com.pl/marttiini/condor-big-game-3.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074714/greyhunter.com.pl/marttiini/condor-big-game-4.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074715/greyhunter.com.pl/marttiini/condor-big-game-5.jpg"
+  "description": [
+    "This hunting and hiking knife is specifically designed for a firm grip. Its 13 cm long blade is made of matte-polished chrome steel, ensuring excellent durability. The knife is competitively priced compared to similar models, but the quality remains equally high. The rubber handle provides a secure grip even when your hands are wet."
   ],
   "attributes": [
     {
@@ -59,5 +45,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/condor-big-game-0"
   ]
 }

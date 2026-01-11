@@ -1,20 +1,14 @@
 {
   "id": "marttiini.maarjakas",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559042W",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559042W",
   "category_slug": "unique-by-marttiini",
-  "sku": "559042W",
+  "category_name": "Unique By Marttiini",
   "name": "Maarjakas",
   "slug": "maarjakas",
-  "lead": null,
-  "description": "Marjakaas refers to curly birch, which is a valuable wood material. Curly birch has dark streaks within the wood and is a popular material for decorative items. Each curly birch is unique in its pattern, just like this Marjakaas knife. The handle of the knife is made of beautiful heat-treated curly birch, adorned with light untreated curls, reindeer antler, and dyed birch veneer. The blade is a stunning 10 cm Damascus steel, and the black sheath is genuine leather.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/664C/5098/A114/B5BE/929C/0A28/105F/8D56/Maarjakas.png",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/664C/5098/A114/B5BE/929C/0A28/105F/8D56/Unique_Maarjakas.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075442/greyhunter.com.pl/marttiini/maarjakas-0.png",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075444/greyhunter.com.pl/marttiini/maarjakas-1.jpg"
+  "lead": "Handmade",
+  "description": [
+    "Marjakaas refers to curly birch, which is a valuable wood material. Curly birch has dark streaks within the wood and is a popular material for decorative items. Each curly birch is unique in its pattern, just like this Marjakaas knife. The handle of the knife is made of beautiful heat-treated curly birch, adorned with light untreated curls, reindeer antler, and dyed birch veneer. The blade is a stunning 10 cm Damascus steel, and the black sheath is genuine leather."
   ],
   "attributes": [
     {
@@ -60,5 +54,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/maarjakas-0"
   ]
 }

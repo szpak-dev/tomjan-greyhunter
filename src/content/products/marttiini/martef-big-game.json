@@ -1,24 +1,16 @@
 {
   "id": "marttiini.martef-big-game",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/390024T",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/390024T",
   "category_slug": "hunting",
-  "sku": "390024T",
+  "category_name": "Hunting",
   "name": "Martef Big Game",
   "slug": "martef-big-game",
   "lead": null,
-  "description": ".",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5BEC/15F7/96E0/4A7E/F816/0A28/1041/9A3E/390024T_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5BEC/15F7/96E0/4A7E/F816/0A28/1041/9A3E/390024T_Martef_Big_Game2.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5BEC/15F7/96E0/4A7E/F816/0A28/1041/9A3E/390024T_Martef_Big_Game3.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5BEC/15F7/96E0/4A7E/F816/0A28/1041/9A3E/390024T_Martef_Big_Game.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074807/greyhunter.com.pl/marttiini/martef-big-game-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074808/greyhunter.com.pl/marttiini/martef-big-game-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074810/greyhunter.com.pl/marttiini/martef-big-game-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074812/greyhunter.com.pl/marttiini/martef-big-game-3.jpg"
+  "description": [
+    ".",
+    "The dirt and moisture repelling Martef coating reduces friction to almost zero whilst protecting the blade against corrosion. Due to the coating the blade moves extremely smoothly through cut meat or fish, and cleaning the blade after use is extremely easy.",
+    "is an impressive knife for dealing with the carcasses of large animals. The handle of the knife is larger than usual, so it fits perfectly in a bigger hand and offers an improved grip. This knife also features the safe textured rubber handle and the finger guard."
   ],
   "attributes": [
     {
@@ -51,5 +43,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/martef-big-game-0"
   ]
 }

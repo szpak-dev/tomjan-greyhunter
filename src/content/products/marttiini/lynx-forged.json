@@ -1,24 +1,14 @@
 {
   "id": "marttiini.lynx-forged",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/131012",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/131012",
   "category_slug": "traditional",
-  "sku": "131012",
+  "category_name": "Traditional",
   "name": "Lynx Forged",
   "slug": "lynx-forged",
   "lead": "The traditional Lynx Knife with a forged steel blade",
-  "description": "The blade is made of carbon steel and is perfect for carving; it is also easy to sharpen to its original sharpness. The handle is beautifully waxed curly birch, adding elegance and durability to the knife. The sheath is a traditional Ilves sheath made from genuine vegetable-tanned leather. This knife is an excellent choice for both carving and hiking.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/575A/AC7D/002F/D732/97D0/0A28/1041/943A/131012_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/575A/AC7D/002F/D732/97D0/0A28/1041/943A/131012_second.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/575A/AC7D/002F/D732/97D0/0A28/1041/943A/ILVES_TAKOTERAeLLAe_131012.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/575A/AC7D/002F/D732/97D0/0A28/1041/943A/takoterae.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074469/greyhunter.com.pl/marttiini/lynx-forged-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074472/greyhunter.com.pl/marttiini/lynx-forged-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074473/greyhunter.com.pl/marttiini/lynx-forged-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074475/greyhunter.com.pl/marttiini/lynx-forged-3.jpg"
+  "description": [
+    "The blade is made of carbon steel and is perfect for carving; it is also easy to sharpen to its original sharpness. The handle is beautifully waxed curly birch, adding elegance and durability to the knife. The sheath is a traditional Ilves sheath made from genuine vegetable-tanned leather. This knife is an excellent choice for both carving and hiking."
   ],
   "attributes": [
     {
@@ -51,5 +41,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/lynx-forged-0"
   ]
 }

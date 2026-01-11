@@ -1,20 +1,17 @@
 {
   "id": "marttiini.sharpening-stone-leather-sheath",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1511010",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1511010",
   "category_slug": "sharpening-and-accessories",
-  "sku": "1511010",
+  "category_name": "Sharpening and Accessories",
   "name": "Sharpening Stone (leather sheath)",
   "slug": "sharpening-stone-leather-sheath",
   "lead": null,
-  "description": "\nThe main minerals are quartz, feldspar and mica. The sharpener also includes a groove for sharpening hooks. The sharpening stone is in a handy leather sheath.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/F72D/9BD2/B0C0/94B2/0A28/1041/3095/1511010_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/F72D/9BD2/B0C0/94B2/0A28/1041/3095/luonnonhiomakivifiilis.jpg"
+  "description": [
+    "The main minerals are quartz, feldspar and mica. The sharpener also includes a groove for sharpening hooks. The sharpening stone is in a handy leather sheath."
   ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075043/greyhunter.com.pl/marttiini/sharpening-stone-leather-sheath-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075044/greyhunter.com.pl/marttiini/sharpening-stone-leather-sheath-1.jpg"
-  ],
-  "attributes": []
+  "attributes": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/sharpening-stone-leather-sheath-0"
+  ]
 }

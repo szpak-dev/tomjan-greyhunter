@@ -1,26 +1,15 @@
 {
   "id": "marttiini.fish-cleaner",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/175019",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/175019",
   "category_slug": "fishing",
-  "sku": "175019",
+  "category_name": "Fishing",
   "name": "Fish Cleaner",
   "slug": "fish-cleaner",
   "lead": null,
-  "description": "\nThe fish cleaner is a very handy tool. The curved blade makes it easy to open up the fish, while the serrated edge comes in handy for scaling.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1A64/44C4/E9A5/94E6/0A28/1041/D0E9/175019_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1A64/44C4/E9A5/94E6/0A28/1041/D0E9/Kalakaetevae_kalan_avaus.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1A64/44C4/E9A5/94E6/0A28/1041/D0E9/Kalakaetevae_kalan_puhdistus.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1A64/44C4/E9A5/94E6/0A28/1041/D0E9/Kalakaetevae_kalan_suomustus-.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1A64/44C4/E9A5/94E6/0A28/1041/D0E9/Kalakaetevae_verkolla.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074897/greyhunter.com.pl/marttiini/fish-cleaner-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074899/greyhunter.com.pl/marttiini/fish-cleaner-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074900/greyhunter.com.pl/marttiini/fish-cleaner-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074902/greyhunter.com.pl/marttiini/fish-cleaner-3.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074903/greyhunter.com.pl/marttiini/fish-cleaner-4.jpg"
+  "description": [
+    "The fish cleaner is a very handy tool. The curved blade makes it easy to open up the fish, while the serrated edge comes in handy for scaling.",
+    "With the metal scoop at the end of the handle removing the intestines is clean and fast. The blade is protected by a plastic shield."
   ],
   "attributes": [
     {
@@ -53,5 +42,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/fish-cleaner-0"
   ]
 }

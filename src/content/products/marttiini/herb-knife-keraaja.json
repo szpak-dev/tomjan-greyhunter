@@ -1,38 +1,16 @@
 {
   "id": "marttiini.herb-knife-keraaja",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/709017",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/709017",
   "category_slug": "outdoor",
-  "sku": "709017",
+  "category_name": "Outdoor",
   "name": "Herb Knife Kerääjä",
   "slug": "herb-knife-keraaja",
   "lead": null,
-  "description": "In Finnish language the word ‘’kerääjä’’ means gatherer. The holes on the blade are meant for removing the leaves of smaller herbs like rosemary, peppermint or even basil. Serrated edge and the hook can be used for harvesting stronger and bigger herbs and plants. The size of the hook is perfect for cutting lupine plant for example. ",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6830/24B0/7F87/9F93/C883/0A32/0E03/B41D/herb.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6830/24B0/7F87/9F93/C883/0A32/0E03/B41D/herb_mood.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6830/24B0/7F87/9F93/C883/0A32/0E03/B41D/herb_mood7.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6830/24B0/7F87/9F93/C883/0A32/0E03/B41D/herb_mood4.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6830/24B0/7F87/9F93/C883/0A32/0E03/B41D/herb_mood2.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6830/24B0/7F87/9F93/C883/0A32/0E03/B41D/herb_mood3.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6830/24B0/7F87/9F93/C883/0A32/0E03/B41D/herb_mood6.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6830/24B0/7F87/9F93/C883/0A32/0E03/B41D/herb_mood5.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6830/24B0/7F87/9F93/C883/0A32/0E03/B41D/herb_mood8.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6830/24B0/7F87/9F93/C883/0A32/0E03/B41D/herb_lupin2.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6830/24B0/7F87/9F93/C883/0A32/0E03/B41D/herb_lupin.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074744/greyhunter.com.pl/marttiini/herb-knife-keraaja-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074745/greyhunter.com.pl/marttiini/herb-knife-keraaja-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074747/greyhunter.com.pl/marttiini/herb-knife-keraaja-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074753/greyhunter.com.pl/marttiini/herb-knife-keraaja-3.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074754/greyhunter.com.pl/marttiini/herb-knife-keraaja-4.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074756/greyhunter.com.pl/marttiini/herb-knife-keraaja-5.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074758/greyhunter.com.pl/marttiini/herb-knife-keraaja-6.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074759/greyhunter.com.pl/marttiini/herb-knife-keraaja-7.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074760/greyhunter.com.pl/marttiini/herb-knife-keraaja-8.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074762/greyhunter.com.pl/marttiini/herb-knife-keraaja-9.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074763/greyhunter.com.pl/marttiini/herb-knife-keraaja-10.jpg"
+  "description": [
+    "In Finnish language the word ‘’kerääjä’’ means gatherer. The holes on the blade are meant for removing the leaves of smaller herbs like rosemary, peppermint or even basil. Serrated edge and the hook can be used for harvesting stronger and bigger herbs and plants. The size of the hook is perfect for cutting lupine plant for example.",
+    "The blade is made of high end stainless steel used in high quality kitchen knives. The premium heat-treated birch handle is comfortable to use in both hands and in both ways, whatever edge of the blade you might be using. The knife comes in a genuine, chrome tanned matte brown leather sheath with silver foil debossing.",
+    "The quick fix attachment belt makes it easy to attach the sheath to various places like the belt, belt loop, wrist or basket handle. Eyelet rivets offer an option to use a lanyard for example."
   ],
   "attributes": [
     {
@@ -65,5 +43,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/herb-knife-keraaja-0"
   ]
 }

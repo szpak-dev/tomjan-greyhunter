@@ -1,24 +1,17 @@
 {
   "id": "marttiini.tweezers-for-fish-bones",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1514110P",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1514110P",
   "category_slug": "fishing",
-  "sku": "1514110P",
+  "category_name": "Fishing",
   "name": "Tweezers for fish bones",
   "slug": "tweezers-for-fish-bones",
   "lead": null,
-  "description": "\nThe tweezers are designed to fit well in your hand. The inner surface of the tweezers is grooved to ensure a firm grip on the slippery surface of fish bones. The tweezers are made of stainless steel.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1B5C/2A17/CC8D/D290/0A28/1041/D061/1514110P_Tweezers_For_Fish_Bones_Marttiini.png",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1B5C/2A17/CC8D/D290/0A28/1041/D061/5M9A7685.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1B5C/2A17/CC8D/D290/0A28/1041/D061/5M9A7677.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1B5C/2A17/CC8D/D290/0A28/1041/D061/1514110P_Tweezers_For_Fish_Bones_002.jpg"
+  "description": [
+    "The tweezers are designed to fit well in your hand. The inner surface of the tweezers is grooved to ensure a firm grip on the slippery surface of fish bones. The tweezers are made of stainless steel."
   ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074933/greyhunter.com.pl/marttiini/tweezers-for-fish-bones-0.png",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074934/greyhunter.com.pl/marttiini/tweezers-for-fish-bones-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074936/greyhunter.com.pl/marttiini/tweezers-for-fish-bones-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074937/greyhunter.com.pl/marttiini/tweezers-for-fish-bones-3.jpg"
-  ],
-  "attributes": []
+  "attributes": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/tweezers-for-fish-bones-0"
+  ]
 }

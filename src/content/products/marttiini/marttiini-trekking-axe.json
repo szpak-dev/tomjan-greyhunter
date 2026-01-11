@@ -1,30 +1,17 @@
 {
   "id": "marttiini.marttiini-trekking-axe",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1031020",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1031020",
   "category_slug": "outdoor",
-  "sku": "1031020",
+  "category_name": "Outdoor",
   "name": "Marttiini Trekking Axe",
   "slug": "marttiini-trekking-axe",
   "lead": "Split firewood with a Marttiini Axe.",
-  "description": "Our axe series follow the example set by Marttiini knives.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5C07/C204/5CDB/CF4B/CDC8/0A28/1041/F601/1031020_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5C07/C204/5CDB/CF4B/CDC8/0A28/1041/F601/1031020_second.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5C07/C204/5CDB/CF4B/CDC8/0A28/1041/F601/retkikirves_axe.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5C07/C204/5CDB/CF4B/CDC8/0A28/1041/F601/retkikirves_marttiini.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5C07/C204/5CDB/CF4B/CDC8/0A28/1041/F601/retkikirves_martiini2.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5C07/C204/5CDB/CF4B/CDC8/0A28/1041/F601/retkikirves_marttiini_axe_hiking.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5C07/C204/5CDB/CF4B/CDC8/0A28/1041/F601/retkikirves_marttiini_hikingaxe.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074358/greyhunter.com.pl/marttiini/marttiini-trekking-axe-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074360/greyhunter.com.pl/marttiini/marttiini-trekking-axe-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074361/greyhunter.com.pl/marttiini/marttiini-trekking-axe-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074363/greyhunter.com.pl/marttiini/marttiini-trekking-axe-3.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074365/greyhunter.com.pl/marttiini/marttiini-trekking-axe-4.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074367/greyhunter.com.pl/marttiini/marttiini-trekking-axe-5.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074368/greyhunter.com.pl/marttiini/marttiini-trekking-axe-6.jpg"
+  "description": [
+    "Our axe series follow the example set by Marttiini knives.",
+    "We combined modern technology with traditional handicraft. The result is a family of three durable and reliable axes.",
+    "The Trekking Axe have more sturdy and shaped handle. They ensure a safe grip. The blade is heavier, which makes the Trekking Axe great for bigger tasks as well. Blade 500 g.",
+    "For materials, we chose quality carbon steel, beautiful ash wood and timeless leather."
   ],
   "attributes": [
     {
@@ -61,5 +48,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/marttiini-trekking-axe-0"
   ]
 }

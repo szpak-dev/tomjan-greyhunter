@@ -1,22 +1,14 @@
 {
   "id": "marttiini.lynx-121",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/121010",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/121010",
   "category_slug": "traditional",
-  "sku": "121010",
+  "category_name": "Traditional",
   "name": "Lynx 121",
   "slug": "lynx-121",
   "lead": null,
-  "description": "\nThis handy general purpose knife is especially suitable for carving dried salted meat and for the precise cutting of wood. The knife features an easy to maintain stainless chrome steel blade and a leather sheath in the traditional style.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D818/1BDF/F75E/26AB/0A28/1041/3008/121010_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D818/1BDF/F75E/26AB/0A28/1041/3008/121010_Lynx_121_001_Marttiini.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D818/1BDF/F75E/26AB/0A28/1041/3008/lynx121.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074518/greyhunter.com.pl/marttiini/lynx-121-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074519/greyhunter.com.pl/marttiini/lynx-121-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074521/greyhunter.com.pl/marttiini/lynx-121-2.jpg"
+  "description": [
+    "This handy general purpose knife is especially suitable for carving dried salted meat and for the precise cutting of wood. The knife features an easy to maintain stainless chrome steel blade and a leather sheath in the traditional style."
   ],
   "attributes": [
     {
@@ -49,5 +41,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/lynx-121-0"
   ]
 }

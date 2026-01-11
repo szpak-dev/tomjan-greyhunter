@@ -1,22 +1,18 @@
 {
   "id": "marttiini.cabin-chef-filleting-knife",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/443010",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/443010",
   "category_slug": "outdoor",
-  "sku": "443010",
+  "category_name": "Outdoor",
   "name": "Cabin Chef Filleting Knife",
   "slug": "cabin-chef-filleting-knife",
   "lead": "Cabin Chef Filleting Knife  design inspired by northern nature, powered by form and function",
-  "description": "Cabin Chef knives  design inspired by northern nature, powered by form and function.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F56/1B76/0720/B5F0/97DC/0A28/105F/D8FF/443010_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F56/1B76/0720/B5F0/97DC/0A28/105F/D8FF/443010_second.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F56/1B76/0720/B5F0/97DC/0A28/105F/D8FF/443010.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074977/greyhunter.com.pl/marttiini/cabin-chef-filleting-knife-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074979/greyhunter.com.pl/marttiini/cabin-chef-filleting-knife-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074980/greyhunter.com.pl/marttiini/cabin-chef-filleting-knife-2.jpg"
+  "description": [
+    "Cabin Chef knives  design inspired by northern nature, powered by form and function.",
+    "Marttiini filleting knives are legendary for their sharpness and usability. The Filleting Knife is part of the Cabin Chef set designed by Harri Koskinen.",
+    "The blade of the Filleting Knife is made of high-quality, durable stainless steel. The handle is made of Finnish thermally modified birch  a material known for its durability and graceful aging as well as warm and pleasant feel grip. The matte finish ensures a safe grip even when wet.",
+    "The harmonious combination of beautiful design and practicality, as well as durable natural materials, guarantee that the Cabin Chef Filleting Knife is a pleasure to use, time and time again.",
+    "We recommend hand wash."
   ],
   "attributes": [
     {
@@ -57,5 +53,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/cabin-chef-filleting-knife-0"
   ]
 }

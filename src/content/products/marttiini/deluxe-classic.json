@@ -1,20 +1,16 @@
 {
   "id": "marttiini.deluxe-classic",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/167015",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/167015",
   "category_slug": "hunting",
-  "sku": "167015",
+  "category_name": "Hunting",
   "name": "Deluxe Classic",
   "slug": "deluxe-classic",
   "lead": null,
-  "description": "\nThe traditional Ilves blade features a blood groove and a pot hook. The beautifully waxed curly birch handle with finger guard fittings fits securely in the hand. This knife is perfect for hiking, hunting, and fishing. The same knife is also available with a rubber handle.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/CDEC/2900/5488/AF65/0A28/1041/309B/167015_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/CDEC/2900/5488/AF65/0A28/1041/309B/deluxe_classic.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074452/greyhunter.com.pl/marttiini/deluxe-classic-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074454/greyhunter.com.pl/marttiini/deluxe-classic-1.jpg"
+  "description": [
+    "The traditional Ilves blade features a blood groove and a pot hook. The beautifully waxed curly birch handle with finger guard fittings fits securely in the hand. This knife is perfect for hiking, hunting, and fishing. The same knife is also available with a rubber handle.",
+    "Check out the same model with a textured rubber handle (",
+    ")."
   ],
   "attributes": [
     {
@@ -47,5 +43,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/deluxe-classic-0"
   ]
 }

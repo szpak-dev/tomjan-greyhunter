@@ -1,20 +1,17 @@
 {
   "id": "marttiini.damascus",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/557010W",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/557010W",
   "category_slug": "design-knives",
-  "sku": "557010W",
+  "category_name": "Design Knives",
   "name": "Damascus",
   "slug": "damascus",
   "lead": null,
-  "description": "The blade of the Marttiini Damascus knife is from stainless Damascus steel, where, by means of special technology two different top-grade steels are combined into 120 layers. The interlayering of the two different steels and the highly specialised machining bring out the beautiful pattern on the blade.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/EF5C/2AF9/0090/FB63/0A28/1041/3024/557010W_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/EF5C/2AF9/0090/FB63/0A28/1041/3024/557010_hela.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074652/greyhunter.com.pl/marttiini/damascus-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074653/greyhunter.com.pl/marttiini/damascus-1.jpg"
+  "description": [
+    "The blade of the Marttiini Damascus knife is from stainless Damascus steel, where, by means of special technology two different top-grade steels are combined into 120 layers. The interlayering of the two different steels and the highly specialised machining bring out the beautiful pattern on the blade.",
+    "The handle of the knife is made of Finnish curly birch, and the ferrules are cast. The beautiful pattern on the blade is echoed on the ferrule at the end of the handle.",
+    "Marttiini Damascus knives are numbered by the production year, making each knife is a unique collector's item.",
+    "Each knife is delivered in an elegant wooden gift box."
   ],
   "attributes": [
     {
@@ -52,9 +49,12 @@
       "properties": [
         {
           "name": "Packaging",
-          "value": "Wooden gift box Curly birch is a natural material – the tone and the pattern varies by each product. Each knife is different and unique."
+          "value": "Wooden gift box"
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/damascus-0"
   ]
 }

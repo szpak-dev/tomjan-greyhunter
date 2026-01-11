@@ -1,22 +1,15 @@
 {
   "id": "marttiini.lusto-annual-knife-2025",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/235019C",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/235019C",
   "category_slug": "outdoor",
-  "sku": "235019C",
+  "category_name": "Outdoor",
   "name": "Lusto Annual Knife 2025",
   "slug": "lusto-annual-knife-2025",
   "lead": null,
-  "description": "Beautiful and practical Lusto Annual Knife is with you in every day outdoor life and it’s a great gift for a nature lover! Lusto is the Finnish word for an annual ring of a tree. Annual ring-shape is repeated in prints and the bottom of the handle made of plywood – the annual ring of every single piece is unique. The handle is made from heat treated birch with clear oil for extra protection. Classic Lapp knife shaped blade is made from stainless chromium steel. Lusto Annual Knife 2025 comes in a genuine, vegetable tanned brown leather sheath. Each knife is individually numbered.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6707/8131/4405/E0A9/0C78/0A32/0E03/D46C/Lusto_product_photo.png",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6707/8131/4405/E0A9/0C78/0A32/0E03/D46C/Lusto_mood_2.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6707/8131/4405/E0A9/0C78/0A32/0E03/D46C/Lusto_mood.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6707/8131/4405/E0A9/0C78/0A32/0E03/D46C/Lusto_hela.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6707/8131/4405/E0A9/0C78/0A32/0E03/D46C/Lusto_in_hand.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/6707/8131/4405/E0A9/0C78/0A32/0E03/D46C/Lusto_mood_3.jpg"
+  "description": [
+    "Beautiful and practical Lusto Annual Knife is with you in every day outdoor life and it’s a great gift for a nature lover! Lusto is the Finnish word for an annual ring of a tree. Annual ring-shape is repeated in prints and the bottom of the handle made of plywood – the annual ring of every single piece is unique. The handle is made from heat treated birch with clear oil for extra protection. Classic Lapp knife shaped blade is made from stainless chromium steel. Lusto Annual Knife 2025 comes in a genuine, vegetable tanned brown leather sheath. Each knife is individually numbered."
   ],
-  "cdn_images": [],
   "attributes": [
     {
       "name": "DIMENSIONS",
@@ -30,7 +23,7 @@
           "value": "23 cm"
         },
         {
-          "name": "Weight ",
+          "name": "Weight",
           "value": "150 g"
         }
       ]
@@ -61,5 +54,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/lusto-annual-knife-2025-0"
   ]
 }

@@ -1,0 +1,62 @@
+---
+import { CldImage } from "astro-cloudinary";
+
+import { useTranslations } from "../i18n/utils";
+import type { ContentProduct } from "../content/product.repository";
+import ProductLead from "./ProductLead.astro";
+import ProductDescription from "./ProductDescription.astro";
+import ProductAttributes from "./ProductAttributes.astro";
+
+interface Props {
+  product: ContentProduct;
+  lang: "en" | "pl";
+}
+
+const { product, lang } = Astro.props;
+const t = useTranslations(lang);
+
+const mainImage = product.images[0];
+---
+
+<article class="container py-4">
+  <div class="row g-4">
+    <div class="col-lg-6">
+      <div class="sticky-top" style="top: 2rem;">
+        <div class="" style="aspect-ratio: 1;">
+          <CldImage
+            src={product.images[0]}
+            width={400}
+            height={500}
+            crop={"pad"}
+            class="card-img-top rounded-0 object-fit-contain"
+            loading="eager"
+            sizes="(max-width: 576px) 100vw, (max-width: 768px) 50vw, (max-width: 992px) 33vw, 400px"
+          />
+        </div>
+      </div>
+    </div>
+
+    <!-- Product Info -->
+    <div class="col-lg-6">
+      <h1 class="display-5 fw-bold mb-3">{product.name}</h1>
+
+      <div class="d-flex gap-2 flex-wrap mb-3">
+        <span class="badge bg-light text-dark">{product.category_name}</span>
+      </div>
+
+      {product.lead && <ProductLead lead={product.lead} />}
+
+      {
+        product.description && (
+          <ProductDescription description={product.description} />
+        )
+      }
+
+      {
+        product.attributes.length > 0 && (
+          <ProductAttributes groups={product.attributes} />
+        )
+      }
+    </div>
+  </div>
+</article>

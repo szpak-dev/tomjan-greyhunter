@@ -2,11 +2,13 @@
 import PromotedProductsSlider from "../../components/PromotedProductsSlider.astro";
 import NewInOffer from "../../components/NewInOffer.astro";
 import OfficialDistributorGrid from "../../components/OfficialDistributorGrid.astro";
+import FrontPageSection from "../../components/FrontPageSection.astro";
 
 import Layout from "../../layouts/Layout.astro";
 import { languages } from "../../i18n/ui";
 
-import { productRepository, manufacturerRepository } from "../../content";
+import { productRepository, manufacturerRepository, miscRepository } from "../../content";
+import PassionMossaicGrid from "../../components/PassionMossaicGrid.astro";
 const lang = Astro.currentLocale as string;
 
 const sliderProductIds = ["marttiini.aapa", "marttiini.bear-knife"];
@@ -17,6 +19,7 @@ const newProducts = await productRepository.getNewProducts(newProductIds, lang);
 
 const imagesOrientationMap = await manufacturerRepository.getImagesOrientationMap(lang);
 const manufacturers = await manufacturerRepository.findManufacturers(lang);
+const mossaicPictures = miscRepository.findMossaicPictures();
 
 export async function getStaticPaths() {
   return Object.keys(languages).map((lang) => ({ params: { lang } }));
@@ -28,14 +31,24 @@ export async function getStaticPaths() {
     promotedProducts={promotedProducts} 
     imagesOrientationMap={imagesOrientationMap}  
   />
+  
+  <FrontPageSection heading="Official Distributor">
+    <OfficialDistributorGrid 
+      manufacturers={manufacturers} 
+      ordering={["marttiini", "sarsilmaz", "eley-hawk", "eley"]} 
+    />
+  </FrontPageSection>
 
-  <OfficialDistributorGrid 
-    manufacturers={manufacturers} 
-    ordering={["marttiini", "sarsilmaz", "eley-hawk", "eley"]} 
-  />
+  <FrontPageSection heading="New in Offer">
+    <NewInOffer 
+      products={newProducts} 
+      lang={lang} 
+    />
+  </FrontPageSection>
 
-  <NewInOffer 
-    products={newProducts} 
-    lang={lang} 
-  />
+  <FrontPageSection heading="Driven by Passion">
+    <PassionMossaicGrid 
+      mossaicPictures={mossaicPictures} 
+    />
+  </FrontPageSection>
 </Layout>

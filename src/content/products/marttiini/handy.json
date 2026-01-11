@@ -1,26 +1,15 @@
 {
   "id": "marttiini.handy",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/511017",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/511017",
   "category_slug": "outdoor",
-  "sku": "511017",
+  "category_name": "Outdoor",
   "name": "Handy",
   "slug": "handy",
   "lead": null,
-  "description": "In the 1970s almost every household in Finland had the Handy knife. It was a truly general purpose knife used for peeling potatoes as well as carving wood.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/729E/4719/3397/D26F/0A28/1041/D059/511017_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/729E/4719/3397/D26F/0A28/1041/D059/yleispuukko_joka_kotiin_marttiini.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/729E/4719/3397/D26F/0A28/1041/D059/marttiini_yleispuukko_general_purpose_knife.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/729E/4719/3397/D26F/0A28/1041/D059/monipuolinen_yleispuukko.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/729E/4719/3397/D26F/0A28/1041/D059/marttiini_yleispuukko_vaellukselle.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074376/greyhunter.com.pl/marttiini/handy-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074377/greyhunter.com.pl/marttiini/handy-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074378/greyhunter.com.pl/marttiini/handy-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074380/greyhunter.com.pl/marttiini/handy-3.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074381/greyhunter.com.pl/marttiini/handy-4.jpg"
+  "description": [
+    "In the 1970s almost every household in Finland had the Handy knife. It was a truly general purpose knife used for peeling potatoes as well as carving wood.",
+    "The shortish blade of this knife is practical for jobs that require precision. In this updated model the traditional blade design is combined with a beautiful curly birch handle. The Handy comes with a stylish leather sheath."
   ],
   "attributes": [
     {
@@ -53,5 +42,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/handy-0"
   ]
 }

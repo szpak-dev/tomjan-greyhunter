@@ -1,22 +1,14 @@
 {
   "id": "marttiini.viserrys",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559020W",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559020W",
   "category_slug": "unique-by-marttiini",
-  "sku": "559020W",
+  "category_name": "Unique By Marttiini",
   "name": "Viserrys",
   "slug": "viserrys",
-  "lead": null,
-  "description": "This unique model is inspired by spring and the cheerful birdsong of the season. The handle features a variety of materials that harmonize beautifully: reindeer antler, heat-treated birch, curly birch, and dyed veneer. The blade is a handy 6 cm Damascus steel, and the sheath is made of genuine black leather.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/65AF/9BAC/BD77/17E5/038A/0A28/105F/6AE6/viserrys.png",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/65AF/9BAC/BD77/17E5/038A/0A28/105F/6AE6/Unique_Viserrys2.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/65AF/9BAC/BD77/17E5/038A/0A28/105F/6AE6/Unique_Viserrys.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075446/greyhunter.com.pl/marttiini/viserrys-0.png",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075448/greyhunter.com.pl/marttiini/viserrys-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075450/greyhunter.com.pl/marttiini/viserrys-2.jpg"
+  "lead": "Handmade - Since 1928",
+  "description": [
+    "This unique model is inspired by spring and the cheerful birdsong of the season. The handle features a variety of materials that harmonize beautifully: reindeer antler, heat-treated birch, curly birch, and dyed veneer. The blade is a handy 6 cm Damascus steel, and the sheath is made of genuine black leather."
   ],
   "attributes": [
     {
@@ -62,5 +54,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/viserrys-0"
   ]
 }

@@ -1,0 +1,30 @@
+---
+import type { AttributeGroup } from '../content/product.repository';
+
+export type Props = {
+  groups: AttributeGroup[];
+};
+
+const { groups } = Astro.props;
+---
+
+<div class="mb-4">
+{ groups && groups.length > 0 && (
+    <div class="mb-4">
+    <h2 class="h4 mb-3">Specifications</h2>
+    {groups.map((group) => (
+        <div class="mb-4">
+        <h3 class="h5 fw-semibold mb-2">{group.name}</h3>
+        <dl class="row g-2">
+            {group.properties.map((prop) => (
+            <>
+                <dt class="col-sm-4 fw-medium text-secondary">{prop.name}</dt>
+                <dd class="col-sm-8">{prop.value}</dd>
+            </>
+            ))}
+        </dl>
+        </div>
+    ))}
+    </div>
+) }
+</div>

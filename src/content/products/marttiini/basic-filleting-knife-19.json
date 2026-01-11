@@ -1,22 +1,16 @@
 {
   "id": "marttiini.basic-filleting-knife-19",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/837010",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/837010",
   "category_slug": "fishing",
-  "sku": "837010",
+  "category_name": "Fishing",
   "name": "Basic Filleting Knife 19",
   "slug": "basic-filleting-knife-19",
   "lead": null,
-  "description": "\nThe well fitting rubber handle and the flexible stainless steel blade ensure clean-cut fillets. This size of blade is best suited for processing of about 2-3 kg.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C91/EA2E/2B3E/525C/2BE9/0A28/1041/D078/837010_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C91/EA2E/2B3E/525C/2BE9/0A28/1041/D078/837010_PERUSFILETTI_75_MUOVITUPPI_MUSTA_2021_copy.png",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C91/EA2E/2B3E/525C/2BE9/0A28/1041/D078/837010_PERUSFILETTI_75_MUOVITUPPI_TUPPI_MUSTA_2021_copy.png"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074876/greyhunter.com.pl/marttiini/basic-filleting-knife-19-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074878/greyhunter.com.pl/marttiini/basic-filleting-knife-19-1.png",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074879/greyhunter.com.pl/marttiini/basic-filleting-knife-19-2.png"
+  "description": [
+    "The well fitting rubber handle and the flexible stainless steel blade ensure clean-cut fillets. This size of blade is best suited for processing of about 2-3 kg.",
+    "The filleting knife is an excellent tool for other jobs in the kitchen. The knife is supplied with a practical plastic sheath.",
+    "We recommend hand wash."
   ],
   "attributes": [
     {
@@ -49,5 +43,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/basic-filleting-knife-19-0"
   ]
 }

@@ -1,24 +1,15 @@
 {
   "id": "marttiini.bear-knife",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/549011W",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/549011W",
   "category_slug": "design-knives",
-  "sku": "549011W",
+  "category_name": "Design Knives",
   "name": "Bear Knife",
   "slug": "bear-knife",
   "lead": null,
-  "description": "The knife features Finland's national animal, the bear, in the cast ferrule of the knife. The handle, made of Finnish curly birch, has a finger groove to ensure a good grip. The 11 cm blade of the knife is made of easy-care stainless steel. The leather sheath is decorated with impressive prints.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/EC69/8459/C202/3646/0A28/1041/306A/549011W_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/EC69/8459/C202/3646/0A28/1041/306A/karhupuukko-varusteet-talvivaelluksella.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/EC69/8459/C202/3646/0A28/1041/306A/karhupuukko-pronssihela.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/EC69/8459/C202/3646/0A28/1041/306A/karhupuukko-marttiini-talvivaellus-koiran-kanssa.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074610/greyhunter.com.pl/marttiini/bear-knife-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074612/greyhunter.com.pl/marttiini/bear-knife-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074613/greyhunter.com.pl/marttiini/bear-knife-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074615/greyhunter.com.pl/marttiini/bear-knife-3.jpg"
+  "description": [
+    "The knife features Finland's national animal, the bear, in the cast ferrule of the knife. The handle, made of Finnish curly birch, has a finger groove to ensure a good grip. The 11 cm blade of the knife is made of easy-care stainless steel. The leather sheath is decorated with impressive prints.",
+    "This knife is delivered in a wooden gift box. The popular Bear knife is a great gift or an impressive knife for regular use."
   ],
   "attributes": [
     {
@@ -56,9 +47,12 @@
       "properties": [
         {
           "name": "Packaging",
-          "value": "wooden gift box Curly birch is a natural material – the tone and the pattern varies by each product. Each knife is different and unique."
+          "value": "wooden gift box"
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/bear-knife-0"
   ]
 }

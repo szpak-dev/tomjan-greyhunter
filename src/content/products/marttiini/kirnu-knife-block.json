@@ -1,22 +1,20 @@
 {
   "id": "marttiini.kirnu-knife-block",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1517020",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1517020",
   "category_slug": "kitchen",
-  "sku": "1517020",
+  "category_name": "Kitchen",
   "name": "Kirnu Knife Block",
   "slug": "kirnu-knife-block",
   "lead": null,
-  "description": "A stylish and practical knife block. The versatile block features space for various types of kitchen knives. Due to its removable inner part, the knife block is easy to clean, such as by rinsing with water.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5BED/21B1/B1ED/EF80/E58C/0A28/1041/1954/1517020_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5BED/21B1/B1ED/EF80/E58C/0A28/1041/1954/1517020_second.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5BED/21B1/B1ED/EF80/E58C/0A28/1041/1954/kirnu.jpg"
+  "description": [
+    "A stylish and practical knife block. The versatile block features space for various types of kitchen knives. Due to its removable inner part, the knife block is easy to clean, such as by rinsing with water.",
+    "Hand wash only.",
+    "Height 220 mm, diameter 110 mm. Materials: ABS, PP.",
+    "Block does not include knives."
   ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074965/greyhunter.com.pl/marttiini/kirnu-knife-block-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074966/greyhunter.com.pl/marttiini/kirnu-knife-block-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074967/greyhunter.com.pl/marttiini/kirnu-knife-block-2.jpg"
-  ],
-  "attributes": []
+  "attributes": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/kirnu-knife-block-0"
+  ]
 }

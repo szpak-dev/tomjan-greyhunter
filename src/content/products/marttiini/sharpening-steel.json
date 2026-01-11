@@ -1,18 +1,17 @@
 {
   "id": "marttiini.sharpening-steel",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1515110",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1515110",
   "category_slug": "sharpening-and-accessories",
-  "sku": "1515110",
+  "category_name": "Sharpening and Accessories",
   "name": "Sharpening steel",
   "slug": "sharpening-steel",
   "lead": null,
-  "description": "\nFitted with a practical hanging loop at the end of the handle. Wash and dry the sharpener after use.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/FC56/7264/13EC/4153/0A28/1041/3031/1515110_first.jpg"
+  "description": [
+    "Fitted with a practical hanging loop at the end of the handle. Wash and dry the sharpener after use."
   ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075046/greyhunter.com.pl/marttiini/sharpening-steel-0.jpg"
-  ],
-  "attributes": []
+  "attributes": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/sharpening-steel-0"
+  ]
 }

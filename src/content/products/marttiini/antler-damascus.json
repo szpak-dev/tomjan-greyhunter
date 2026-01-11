@@ -1,26 +1,18 @@
 {
   "id": "marttiini.antler-damascus",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/557011W",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/557011W",
   "category_slug": "design-knives",
-  "sku": "557011W",
+  "category_name": "Design Knives",
   "name": "Antler Damascus",
   "slug": "antler-damascus",
   "lead": "The Antler Damascus – the crown jewel of Marttiini knives",
-  "description": "The Antler Damascus is the most prestigious knife we have ever made, since the establishment of our knife factory in 1928. It is the tour de force of knifemaking by our skilled professionals. The Antler Damascus has been carefully handcrafted using materials selected exclusively for this knife.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5A95/3A6D/1E84/82D8/A1FD/0A28/1041/FA4C/557011W_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5A95/3A6D/1E84/82D8/A1FD/0A28/1041/FA4C/557011W_second.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5A95/3A6D/1E84/82D8/A1FD/0A28/1041/FA4C/luudamascus_marttiini_knife.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5A95/3A6D/1E84/82D8/A1FD/0A28/1041/FA4C/luudamascus.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5A95/3A6D/1E84/82D8/A1FD/0A28/1041/FA4C/luudamascus_marttiini.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074644/greyhunter.com.pl/marttiini/antler-damascus-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074646/greyhunter.com.pl/marttiini/antler-damascus-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074647/greyhunter.com.pl/marttiini/antler-damascus-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074649/greyhunter.com.pl/marttiini/antler-damascus-3.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074650/greyhunter.com.pl/marttiini/antler-damascus-4.jpg"
+  "description": [
+    "The Antler Damascus is the most prestigious knife we have ever made, since the establishment of our knife factory in 1928. It is the tour de force of knifemaking by our skilled professionals. The Antler Damascus has been carefully handcrafted using materials selected exclusively for this knife.",
+    "The ultra-sharp blade is made of stainless Damascus steel. Damascus steel is crafted using technology in which two different top-grade steels are embedded together in 120 layers under high pressure and high temperature. Interlaying two different steels and using the traditional blacksmith techniques of forging, hammering and rolling in the right temperatures brings out the beautiful rose pattern. The Damascus blade is extremely durable and stays sharp for a long time.",
+    "The rock-solid handle of the knife is made of Finnish moose antler. The handle has been elaborated by hand, which requires strong craftsmanship skills. The color of the antler is natural, no chemical whitening has been used. The cast ferrule imitates the rose pattern of the blade.",
+    "Each of the Antler Damascus knife blades is individually numbered, making the knife not only a practical tool for the outdoors but also a unique collector’s item.",
+    "Each knife is delivered in an elegant wooden gift box."
   ],
   "attributes": [
     {
@@ -58,9 +50,12 @@
       "properties": [
         {
           "name": "Packaging",
-          "value": "Wooden gift box Antler bone is a natural material – the tone varies by each product. Each knife is different and unique."
+          "value": "Wooden gift box"
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/antler-damascus-0"
   ]
 }

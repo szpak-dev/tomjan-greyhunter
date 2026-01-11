@@ -1,18 +1,15 @@
 {
   "id": "marttiini.lapp-knife-235",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/235010",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/235010",
   "category_slug": "traditional",
-  "sku": "235010",
+  "category_name": "Traditional",
   "name": "Lapp knife 235",
   "slug": "lapp-knife-235",
   "lead": null,
-  "description": "\nTraditionally finger guards are not part of Scandinavian knife culture, but in Central Europe for example, finger guards are commonly fitted to knives. A finger guard provides more safety for the knife user. For those who are a little less accustomed to using knives a model with a finger guard is especially justified. You can get a good grip of the knife and your hand will not slip on to the blade even in wet or cold conditions.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D35B/030C/6026/BFE8/0A28/1041/30E7/235010_first.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074481/greyhunter.com.pl/marttiini/lapp-knife-235-0.jpg"
+  "description": [
+    "Traditionally finger guards are not part of Scandinavian knife culture, but in Central Europe for example, finger guards are commonly fitted to knives. A finger guard provides more safety for the knife user. For those who are a little less accustomed to using knives a model with a finger guard is especially justified. You can get a good grip of the knife and your hand will not slip on to the blade even in wet or cold conditions.",
+    "This Lapp knife is an excellent general knife suitable for both outdoors and hunting. The stainless chrome steel blade and the sheath depict traditional themes from Lapland. The sheath also features a secure snap closure."
   ],
   "attributes": [
     {
@@ -45,5 +42,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/lapp-knife-235-0"
   ]
 }

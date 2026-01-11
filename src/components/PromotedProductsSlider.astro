@@ -14,8 +14,8 @@ const { promotedProducts, imagesOrientationMap } = Astro.props;
 
 const slides = promotedProducts.map((p, i) => ({
   active: i === 0,
-  alt: p.image?.altText || p.name,
-  img: p.image?.url || "",
+  alt: p.name,
+  img: p.image,
 }));
 ---
 
@@ -28,17 +28,12 @@ const slides = promotedProducts.map((p, i) => ({
           const isLandscape = orientation === "landscape";
           return (
             <Carousel.Item active={idx === 0}>
-              <div
-                class="row align-items-center"
-                style="min-height: 500px;"
-              >
-                <div
-                  class={`${isLandscape ? "col-md-8" : "col-md-6"} d-flex justify-content-center align-items-center`}
-                >
-                  {product.image.url ? (
+              <div class="row align-items-center" style="min-height: 500px;" >
+                <div class={`${isLandscape ? "col-md-8" : "col-md-6"} d-flex justify-content-center align-items-center`} >
+                  {product.image ? (
                     <MarttiiniPicture
-                      src={product.image.url}
-                      alt={product.image.altText || product.name}
+                      src={product.image}
+                      alt={product.name}
                       place="front-slider"
                       imageOrientation={orientation}
                     />

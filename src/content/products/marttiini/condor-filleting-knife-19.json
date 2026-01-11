@@ -1,18 +1,16 @@
 {
   "id": "marttiini.condor-filleting-knife-19",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/836014",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/836014",
   "category_slug": "fishing",
-  "sku": "836014",
+  "category_name": "Fishing",
   "name": "Condor Filleting Knife 19",
   "slug": "condor-filleting-knife-19",
   "lead": null,
-  "description": "\nThe flexible and extremely sharp stainless steel blade ensures clean-cut fillets. This size of blade is best suited for processing fish of about 2-3 kg.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/16AD/BE19/59D8/9517/0A28/1041/D011/836014_first.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074885/greyhunter.com.pl/marttiini/condor-filleting-knife-19-0.jpg"
+  "description": [
+    "The flexible and extremely sharp stainless steel blade ensures clean-cut fillets. This size of blade is best suited for processing fish of about 2-3 kg.",
+    "Many other kitchen jobs such as slicing tomato become easy with this knife. The filleting knife is supplied with a black leather sheath.",
+    "We recommend hand wash."
   ],
   "attributes": [
     {
@@ -45,5 +43,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/condor-filleting-knife-19-0"
   ]
 }

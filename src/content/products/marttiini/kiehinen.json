@@ -1,25 +1,17 @@
 {
   "id": "marttiini.kiehinen",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/535010",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/535010",
   "category_slug": "outdoor",
-  "sku": "535010",
+  "category_name": "Outdoor",
   "name": "Kiehinen",
   "slug": "kiehinen",
   "lead": null,
-  "description": "\nThe blade is made of traditional carbon steel that is perfect for carving wood, and easy to re-sharpen to its original sharpness when needed.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/515D/4C02/5A39/6BE1/52BC/0A28/1041/CDA4/535010_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/515D/4C02/5A39/6BE1/52BC/0A28/1041/CDA4/puukko-vuoluun.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/515D/4C02/5A39/6BE1/52BC/0A28/1041/CDA4/kiehinen-vuolupuukko.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/515D/4C02/5A39/6BE1/52BC/0A28/1041/CDA4/kiehinen-havut.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/515D/4C02/5A39/6BE1/52BC/0A28/1041/CDA4/puulastan-vuoleminen-puukolla.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/515D/4C02/5A39/6BE1/52BC/0A28/1041/CDA4/vuolupuukko.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/515D/4C02/5A39/6BE1/52BC/0A28/1041/CDA4/2018-01-08_b0efd9fbffa24bd6a82bc4cbd917a8de.jpeg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/515D/4C02/5A39/6BE1/52BC/0A28/1041/CDA4/535010_second.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/515D/4C02/5A39/6BE1/52BC/0A28/1041/CDA4/5M9A8579.JPG"
+  "description": [
+    "The blade is made of traditional carbon steel that is perfect for carving wood, and easy to re-sharpen to its original sharpness when needed.",
+    "The handle is made of Finnish curly birch and the knife is protected with a beautiful natural coloured leather sheath.",
+    "This knife is suitable for the daily use of both campers and craftsmen as well as for fishermen and hunters."
   ],
-  "cdn_images": [],
   "attributes": [
     {
       "name": "DIMENSIONS",
@@ -51,5 +43,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/kiehinen-0"
   ]
 }

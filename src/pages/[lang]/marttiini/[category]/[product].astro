@@ -1,55 +1,37 @@
 ---
 import Layout from "../../../../layouts/Layout.astro";
-import MarttiiniProductPage from "../../../../components/MarttiiniProductPage.astro";
 import { languages } from "../../../../i18n/ui";
-import { 
-  getMarttiiniProductBySlug,
-  getAllMarttiiniProducts 
-} from "../../../../loaders/marttiini/marttiini";
 import { useTranslations } from "../../../../i18n/utils";
+import { productRepository } from "../../../../content";
 
-const { lang, category, product: productSlug } = Astro.params;
-const t = useTranslations(lang as 'en' | 'pl');
-
-const product = await getMarttiiniProductBySlug(
-  productSlug as string,
-  lang as 'en' | 'pl'
-);
-
-if (!product || !product.active) {
-  return Astro.redirect('/404');
-}
-
-if (product.category_slug !== category) {
-  return Astro.redirect(`/${lang}/marttiini/${product.category_slug}/${product.slug}`);
-}
+import ProductPage from "../../../../components/ProductPage.astro";
 
 export async function getStaticPaths() {
   const paths = [];
-  
+
   for (const lang of Object.keys(languages)) {
-    const products = await getAllMarttiiniProducts(lang as 'en' | 'pl');
-    
+    const products = await productRepository.findProducts("marttiini", lang);
     for (const product of products) {
-      if (product.active) {
-        paths.push({
-          params: { 
-            lang, 
-            category: product.category_slug,
-            product: product.slug
-          }
-        });
-      }
+      paths.push({
+        params: {
+          lang,
+          category: product.category_slug,
+          product: product.slug,
+        },
+      });
     }
   }
-  
+
   return paths;
 }
 
-const pageTitle = `${product.name} - Marttiini`;
-const pageDescription = product.lead || product.description.substring(0, 160);
+const { lang, product } = Astro.params;
+const t = useTranslations(lang as "en" | "pl");
+
+const prod = await productRepository.getProductById( `marttiini.${product}`, lang );
+const pageTitle = `${prod.name} - Marttiini`;
 ---
 
-<Layout title={pageTitle} description={pageDescription}>
-  <MarttiiniProductPage product={product} lang={lang as 'en' | 'pl'} />
+<Layout title={pageTitle}>
+  <ProductPage product={prod} lang={lang as "en" | "pl"} />
 </Layout>

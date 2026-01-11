@@ -1,13 +1,11 @@
 ---
-import { getRelativeLocaleUrl } from "astro:i18n";
-
 import type { ContentProduct } from '../content/product.repository';
 import ProductCard from './ProductCard.astro';
 
 export type Props = {
   products: ContentProduct[];
   lang: string;
-  categoryName?: string;
+  categoryName: string;
 }
 
 const { products, lang, categoryName } = Astro.props;
@@ -15,18 +13,12 @@ const { products, lang, categoryName } = Astro.props;
 
 <section class="py-4 py-md-5">
   <div class="container">
-    {categoryName && (
-      <h2 class="display-6 fw-bold mb-4">{categoryName}</h2>
-    )}
-    
+    <h2 class="display-6 fw-bold mb-4">{categoryName}</h2>
     {products.length > 0 ? (
       <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-4 row-cols-xl-5 g-3 g-md-4">
         {products.map((product) => (
           <div class="col">
-            <ProductCard 
-              product={product} 
-              link={getRelativeLocaleUrl(lang, `marttiini/${categoryName}/${product.slug}`)} 
-            />
+            <ProductCard product={product} />
           </div>
         ))}
       </div>

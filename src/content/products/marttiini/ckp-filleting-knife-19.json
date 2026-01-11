@@ -1,18 +1,16 @@
 {
   "id": "marttiini.ckp-filleting-knife-19",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/757114P",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/757114P",
   "category_slug": "kitchen",
-  "sku": "757114P",
+  "category_name": "Kitchen",
   "name": "CKP Filleting Knife 19",
   "slug": "ckp-filleting-knife-19",
   "lead": null,
-  "description": "  ",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/3C09/F485/E28C/4B93/0A28/1041/3055/757114P_first.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075012/greyhunter.com.pl/marttiini/ckp-filleting-knife-19-0.jpg"
+  "description": [
+    "The textured handle and finger guard ensure a safe and firm grip of the knife while you are handling a slippery fish. Handling the fish becomes easier when using a",
+    "in addition to the sharp knife.",
+    "We recommend hand wash."
   ],
   "attributes": [
     {
@@ -41,5 +39,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/ckp-filleting-knife-19-0"
   ]
 }

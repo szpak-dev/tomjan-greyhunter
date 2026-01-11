@@ -1,18 +1,19 @@
 {
   "id": "marttiini.diamond-sharpener-oval",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1515114",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1515114",
   "category_slug": "sharpening-and-accessories",
-  "sku": "1515114",
+  "category_name": "Sharpening and Accessories",
   "name": "Diamond sharpener Oval",
   "slug": "diamond-sharpener-oval",
   "lead": null,
-  "description": "\nThe oval shape of this sharpener is best for sharpening products that have a curving blade, such as skinning knives, augers, scythes and sickles. The sharpener is also excellent for sharpening filleting knives and kitchen knives.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8E/0375/8149/B4E0/034D/0A28/1041/30E0/1515114_first.jpg"
+  "description": [
+    "The oval shape of this sharpener is best for sharpening products that have a curving blade, such as skinning knives, augers, scythes and sickles. The sharpener is also excellent for sharpening filleting knives and kitchen knives.",
+    "The sharpener consists of two surfaces with different grit grades: first the blade is sharpened with circular movements on the rougher side, after which the blade edge is finished on the finer side by removing the circular marks. The sharpener also includes a groove for sharpening hooks. The roughened handle gives you a good grip.",
+    "Use water while sharpening, then wash and dry the sharpener after use."
   ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075052/greyhunter.com.pl/marttiini/diamond-sharpener-oval-0.jpg"
-  ],
-  "attributes": []
+  "attributes": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/diamond-sharpener-oval-0"
+  ]
 }

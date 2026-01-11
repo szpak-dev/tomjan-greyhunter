@@ -1,26 +1,14 @@
 {
   "id": "marttiini.lapp-knife-250",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/250010",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/250010",
   "category_slug": "traditional",
-  "sku": "250010",
+  "category_name": "Traditional",
   "name": "Lapp knife 250",
   "slug": "lapp-knife-250",
   "lead": null,
-  "description": "\nThe Lapp knife 250 is one of Marttiini's most popular knives and continues to maintain its place at the top of the sales ratings after many years of continuous production. The knife is excellent for hikers and hunters who are active knife users, and it also makes an ideal present.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D578/91B3/BF9F/A039/0A28/1041/300D/250010_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D578/91B3/BF9F/A039/0A28/1041/300D/leuku.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D578/91B3/BF9F/A039/0A28/1041/300D/lapinleuku-leukupuukko-leukuknife-lappknife.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D578/91B3/BF9F/A039/0A28/1041/300D/leuku-knife-lapinleuku-lappknife-marttiini.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D578/91B3/BF9F/A039/0A28/1041/300D/leukupuukko-leukuknife.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074501/greyhunter.com.pl/marttiini/lapp-knife-250-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074502/greyhunter.com.pl/marttiini/lapp-knife-250-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074504/greyhunter.com.pl/marttiini/lapp-knife-250-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074506/greyhunter.com.pl/marttiini/lapp-knife-250-3.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074508/greyhunter.com.pl/marttiini/lapp-knife-250-4.jpg"
+  "description": [
+    "The Lapp knife 250 is one of Marttiini's most popular knives and continues to maintain its place at the top of the sales ratings after many years of continuous production. The knife is excellent for hikers and hunters who are active knife users, and it also makes an ideal present."
   ],
   "attributes": [
     {
@@ -53,5 +41,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/lapp-knife-250-0"
   ]
 }

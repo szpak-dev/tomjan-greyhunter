@@ -1,22 +1,15 @@
 {
   "id": "marttiini.martef-carving-knife",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/935024T",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/935024T",
   "category_slug": "hunting",
-  "sku": "935024T",
+  "category_name": "Hunting",
   "name": "Martef Carving Knife",
   "slug": "martef-carving-knife",
   "lead": null,
-  "description": "\nThe dirt and moisture repelling Martef coating reduces friction to almost zero whilst protecting the blade against corrosion. Due to the coating the blade moves extremely smoothly through cut meat or fish, and cleaning the blade after use is extremely easy.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5BEC/1855/0992/705F/1AED/0A28/1041/9A87/935024T_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5BEC/1855/0992/705F/1AED/0A28/1041/9A87/marttiini-metsastysveitsi.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5BEC/1855/0992/705F/1AED/0A28/1041/9A87/martef-metsastysveitsi.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074803/greyhunter.com.pl/marttiini/martef-carving-knife-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074804/greyhunter.com.pl/marttiini/martef-carving-knife-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074805/greyhunter.com.pl/marttiini/martef-carving-knife-2.jpg"
+  "description": [
+    "The dirt and moisture repelling Martef coating reduces friction to almost zero whilst protecting the blade against corrosion. Due to the coating the blade moves extremely smoothly through cut meat or fish, and cleaning the blade after use is extremely easy.",
+    "This knife works like a dream for both cutting and butchering meat. The familiar handle design is combined with a stainless blade suitable for cutting meat, which is coated with Martef to reduce friction and make your cutting chores easier. The leather sheath is practical for carrying the knife with you on your hunting trips."
   ],
   "attributes": [
     {
@@ -49,5 +42,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/martef-carving-knife-0"
   ]
 }

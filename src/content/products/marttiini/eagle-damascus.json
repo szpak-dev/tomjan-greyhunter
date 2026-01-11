@@ -1,28 +1,16 @@
 {
   "id": "marttiini.eagle-damascus",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/557012W",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/557012W",
   "category_slug": "design-knives",
-  "sku": "557012W",
+  "category_name": "Design Knives",
   "name": "Eagle Damascus",
   "slug": "eagle-damascus",
   "lead": "Impressive Eagle Damascus Knife in a wooden gift box",
-  "description": "The Marttiini Eagle Damascus Knife combines three beautiful and durable materials – Damascus steel, heat-treated Finnish curly birch, and cast ferrules.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/575A/AC8D/459D/4B61/1890/0A28/1041/944B/557012W_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/575A/AC8D/459D/4B61/1890/0A28/1041/944B/damascus-tera-puukossa.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/575A/AC8D/459D/4B61/1890/0A28/1041/944B/damastiteras-puukossa.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/575A/AC8D/459D/4B61/1890/0A28/1041/944B/puukko-damastiteras.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/575A/AC8D/459D/4B61/1890/0A28/1041/944B/557012W_second.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/575A/AC8D/459D/4B61/1890/0A28/1041/944B/damaskiteras-puukko.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074659/greyhunter.com.pl/marttiini/eagle-damascus-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074661/greyhunter.com.pl/marttiini/eagle-damascus-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074663/greyhunter.com.pl/marttiini/eagle-damascus-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074664/greyhunter.com.pl/marttiini/eagle-damascus-3.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074666/greyhunter.com.pl/marttiini/eagle-damascus-4.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074667/greyhunter.com.pl/marttiini/eagle-damascus-5.jpg"
+  "description": [
+    "The Marttiini Eagle Damascus Knife combines three beautiful and durable materials – Damascus steel, heat-treated Finnish curly birch, and cast ferrules.",
+    "Damascus steel is a highly valued material among knife enthusiasts. It consists of 120 layers of two different steels, forged together under high pressure and heat. This process creates an exceptionally hard blade (HRC 60) with a distinctive flowing pattern. The Damascus steel blade retains its sharpness for a long time.",
+    "Eagle Damascus knives are individually numbered. The knife is delivered in wooden gift boxes."
   ],
   "attributes": [
     {
@@ -60,9 +48,12 @@
       "properties": [
         {
           "name": "Packaging",
-          "value": "wooden gift box Curly birch is a natural material – the tone and the pattern varies by each product. Each knife is different and unique."
+          "value": "wooden gift box"
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/eagle-damascus-0"
   ]
 }

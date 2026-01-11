@@ -1,22 +1,15 @@
 {
   "id": "marttiini.deluxe-lynx",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/450012",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/450012",
   "category_slug": "hunting",
-  "sku": "450012",
+  "category_name": "Hunting",
   "name": "Deluxe Lynx",
   "slug": "deluxe-lynx",
   "lead": null,
-  "description": "The impressive curly birch handle, combined with a cast finger guard, gives this knife a truly luxurious character. An excellent gift idea for a hiker or an avid hunter.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D164/5C38/0996/10FC/0A28/1041/301B/450012_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D164/5C38/0996/10FC/0A28/1041/301B/puukko_retkeilyyn_ja_vaellukselle.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/D164/5C38/0996/10FC/0A28/1041/301B/450012_second.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074455/greyhunter.com.pl/marttiini/deluxe-lynx-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074457/greyhunter.com.pl/marttiini/deluxe-lynx-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074458/greyhunter.com.pl/marttiini/deluxe-lynx-2.jpg"
+  "description": [
+    "The impressive curly birch handle, combined with a cast finger guard, gives this knife a truly luxurious character. An excellent gift idea for a hiker or an avid hunter.",
+    "The sheath of the knife is designed to withstand even harsh conditions. A handy flap makes sure this knife stays in the sheath safely."
   ],
   "attributes": [
     {
@@ -49,5 +42,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/deluxe-lynx-0"
   ]
 }

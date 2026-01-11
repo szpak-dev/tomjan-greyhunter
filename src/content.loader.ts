@@ -1,7 +1,7 @@
-import fs from 'node:fs/promises';
+import * as fs from 'node:fs/promises';
 import { createReadStream, existsSync } from 'node:fs';
-import path from 'node:path';
-import readline from 'node:readline';
+import * as path from 'node:path';
+import * as readline from 'node:readline';
 
 /**
  * Task: Implement content loading functionality.

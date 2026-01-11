@@ -1,28 +1,16 @@
 {
   "id": "marttiini.moose-knife",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/546012W",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/546012W",
   "category_slug": "design-knives",
-  "sku": "546012W",
+  "category_name": "Design Knives",
   "name": "Moose Knife",
   "slug": "moose-knife",
   "lead": null,
-  "description": "The Moose Knife is a high-quality design knife. This knife is at the same time an impressive collector’s item and a reliable tool. Moose, bearing a crown of antlers, is the king of the northern forests and it has been immortalized in the cast ferrule of the knife.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5421/2F4A/7C68/5F6D/85F9/0A28/1041/C065/546012W_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5421/2F4A/7C68/5F6D/85F9/0A28/1041/C065/Hirvipuukko-vaelluksella-kuksa-kartta.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5421/2F4A/7C68/5F6D/85F9/0A28/1041/C065/hirvipuukko-ruskaretki.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5421/2F4A/7C68/5F6D/85F9/0A28/1041/C065/kahvitauko-ruskavaelluksella-hirvipuukko-ja-kuksa.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5421/2F4A/7C68/5F6D/85F9/0A28/1041/C065/5M9A4825-Edit.JPG",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5421/2F4A/7C68/5F6D/85F9/0A28/1041/C065/546012_head.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074671/greyhunter.com.pl/marttiini/moose-knife-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074672/greyhunter.com.pl/marttiini/moose-knife-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074674/greyhunter.com.pl/marttiini/moose-knife-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074675/greyhunter.com.pl/marttiini/moose-knife-3.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074677/greyhunter.com.pl/marttiini/moose-knife-4.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074679/greyhunter.com.pl/marttiini/moose-knife-5.jpg"
+  "description": [
+    "The Moose Knife is a high-quality design knife. This knife is at the same time an impressive collector’s item and a reliable tool. Moose, bearing a crown of antlers, is the king of the northern forests and it has been immortalized in the cast ferrule of the knife.",
+    "The ultra sharp blade is made of carbon steel. The precious colour of the handle is achieved by thermal treatment of the wood, which also provides the handle with excellent protection against moisture.",
+    "This knife is delivered in a wooden gift box."
   ],
   "attributes": [
     {
@@ -64,5 +52,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/moose-knife-0"
   ]
 }

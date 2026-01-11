@@ -1,28 +1,15 @@
 {
   "id": "marttiini.mushroom-knife-ruska",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/709015",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/709015",
   "category_slug": "outdoor",
-  "sku": "709015",
+  "category_name": "Outdoor",
   "name": "Mushroom Knife Ruska",
   "slug": "mushroom-knife-ruska",
   "lead": null,
-  "description": "In Finnish language the word ‘ruska’ is used to describe the beginning of autumn when the leaves change to bright colours like red, yellow and orange. It’s also the best time for mushroom foraging. ",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/682C/54E7/6DCB/6372/B551/0A32/0E03/86B9/Mushroom_Knife_Ruska.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/682C/54E7/6DCB/6372/B551/0A32/0E03/86B9/Mushroom_Knife_Ruska_mood2.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/682C/54E7/6DCB/6372/B551/0A32/0E03/86B9/Mushroom_Knife_Ruska_mood4.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/682C/54E7/6DCB/6372/B551/0A32/0E03/86B9/Mushroom_Knife_Ruska_mood1.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/682C/54E7/6DCB/6372/B551/0A32/0E03/86B9/Mushroom_Knife_Ruska_mood3.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/682C/54E7/6DCB/6372/B551/0A32/0E03/86B9/Mushroom_Knife_Ruska_mood5.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074726/greyhunter.com.pl/marttiini/mushroom-knife-ruska-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074727/greyhunter.com.pl/marttiini/mushroom-knife-ruska-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074728/greyhunter.com.pl/marttiini/mushroom-knife-ruska-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074730/greyhunter.com.pl/marttiini/mushroom-knife-ruska-3.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074732/greyhunter.com.pl/marttiini/mushroom-knife-ruska-4.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074733/greyhunter.com.pl/marttiini/mushroom-knife-ruska-5.jpg"
+  "description": [
+    "In Finnish language the word ‘ruska’ is used to describe the beginning of autumn when the leaves change to bright colours like red, yellow and orange. It’s also the best time for mushroom foraging.",
+    "Bright red handle makes it easier to find the knife in the nature, as it might sometimes get lost. The shape of the curved blade enables smooth slicing of the stem without affecting or uprooting the underlying fungi mycelium. The brush is stiff enough to remove dirt, debris and bugs, but soft enough to not damage the mushrooms. The knife comes in a genuine, chrome tanned matte black leather sheath with silver foil de-bossing. The elastic attachment cord makes it easy to attach the sheath to various places like the belt, belt loop, wrist or the basket handle."
   ],
   "attributes": [
     {
@@ -59,5 +46,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/mushroom-knife-ruska-0"
   ]
 }

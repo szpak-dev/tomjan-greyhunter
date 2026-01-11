@@ -1,18 +1,22 @@
 {
   "id": "marttiini.leather-sheath-s",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1511210",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1511210",
   "category_slug": "folding-knives",
-  "sku": "1511210",
+  "category_name": "Folding Knives",
   "name": "Leather Sheath S",
   "slug": "leather-sheath-s",
-  "lead": null,
-  "description": "The leather sheath ensures that your folding knife travels with you safely and comfortably. The sheath has a belt loop for easy carrying. Genuine leather is extremely durable and easy to take care of.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5D88/B0ED/BB5F/4CBC/82AA/0A28/105F/78A2/1511210_first.jpg"
+  "lead": "This leather sheath is a perfect protective covering for your folding knives.",
+  "description": [
+    "The leather sheath ensures that your folding knife travels with you safely and comfortably. The sheath has a belt loop for easy carrying. Genuine leather is extremely durable and easy to take care of.",
+    "Cognac leather is a classic and elegant choice. Brass snap and a stamped logo add the finishing touch to this fine sheath.",
+    "S-size for:",
+    ",",
+    ",",
+    ","
   ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075053/greyhunter.com.pl/marttiini/leather-sheath-s-0.jpg"
-  ],
-  "attributes": []
+  "attributes": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/leather-sheath-s-0"
+  ]
 }

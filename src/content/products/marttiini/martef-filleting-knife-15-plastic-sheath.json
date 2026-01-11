@@ -1,20 +1,16 @@
 {
   "id": "marttiini.martef-filleting-knife-15-plastic-sheath",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/826017T",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/826017T",
   "category_slug": "fishing",
-  "sku": "826017T",
+  "category_name": "Fishing",
   "name": "Martef Filleting Knife 15 (plastic sheath)",
   "slug": "martef-filleting-knife-15-plastic-sheath",
   "lead": null,
-  "description": "\nThe Martef coating reduces friction to almost zero while protecting the blade against corrosion. Cleaning the blade after use is extremely easy.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/21DE/C95A/6776/C7C2/0A28/1041/D091/826017T_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/21DE/C95A/6776/C7C2/0A28/1041/D091/martef_filetti.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074927/greyhunter.com.pl/marttiini/martef-filleting-knife-15-plastic-sheath-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074929/greyhunter.com.pl/marttiini/martef-filleting-knife-15-plastic-sheath-1.jpg"
+  "description": [
+    "The Martef coating reduces friction to almost zero while protecting the blade against corrosion. Cleaning the blade after use is extremely easy.",
+    "The textured rubber handle and the finger guard ensure a firm grip of the knife even in difficult conditions. This blade length is suitable for processing fish of about 1 kg. Many other kitchen chores, such as slicing vegetables, become easy with this knife. The filleting knife comes with a plastic sheath.",
+    "We recommend hand wash."
   ],
   "attributes": [
     {
@@ -47,5 +43,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/martef-filleting-knife-15-plastic-sheath-0"
   ]
 }

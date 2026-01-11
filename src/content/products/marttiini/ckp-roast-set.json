@@ -1,22 +1,15 @@
 {
   "id": "marttiini.ckp-roast-set",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1482011",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1482011",
   "category_slug": "kitchen",
-  "sku": "1482011",
+  "category_name": "Kitchen",
   "name": "CKP Roast Set",
   "slug": "ckp-roast-set",
   "lead": null,
-  "description": "The set is delivered in a wooden gift box. ",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/56E2/278C/5757/9DFD/0A28/1041/30ED/1482011_NEW_copy.png",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/56E2/278C/5757/9DFD/0A28/1041/30ED/1482011_Laatikossa_NEW_copy.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/56E2/278C/5757/9DFD/0A28/1041/30ED/puulaatikko_kiinni.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074958/greyhunter.com.pl/marttiini/ckp-roast-set-0.png",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074960/greyhunter.com.pl/marttiini/ckp-roast-set-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074961/greyhunter.com.pl/marttiini/ckp-roast-set-2.jpg"
+  "description": [
+    "The set is delivered in a wooden gift box.",
+    "We recommend hand wash."
   ],
   "attributes": [
     {
@@ -54,5 +47,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/ckp-roast-set-0"
   ]
 }

@@ -1,18 +1,17 @@
 {
   "id": "marttiini.kide-paring-knife",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/421110",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/421110",
   "category_slug": "kitchen",
-  "sku": "421110",
+  "category_name": "Kitchen",
   "name": "Kide Paring Knife",
   "slug": "kide-paring-knife",
   "lead": null,
-  "description": "The paring knife with a curved blade is a handy tool for peeling fruit and cutting root vegetables.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5D0A/293C/0869/0EC1/37E3/0A28/1041/1BAD/421110_first.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075017/greyhunter.com.pl/marttiini/kide-paring-knife-0.jpg"
+  "description": [
+    "The paring knife with a curved blade is a handy tool for peeling fruit and cutting root vegetables.",
+    "The Kide series consists of sharp, easy-care kitchen knives and a roast fork. The German stainless steel and forged construction make them durable and they remain sharp in use. The Santoprene® handle is easy to keep clean and offers a good grip.",
+    "Ergonomic handle is comfortable to use. We recommend hand wash and sharpening with Marttiini sharpeners.",
+    "We recommend hand wash."
   ],
   "attributes": [
     {
@@ -45,5 +44,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/kide-paring-knife-0"
   ]
 }

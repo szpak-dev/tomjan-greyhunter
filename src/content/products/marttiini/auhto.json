@@ -1,18 +1,15 @@
 {
   "id": "marttiini.auhto",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559041W",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559041W",
   "category_slug": "unique-by-marttiini",
-  "sku": "559041W",
+  "category_name": "Unique By Marttiini",
   "name": "Auhto",
   "slug": "auhto",
-  "lead": null,
-  "description": "Auhto refers to a riverside grove, which is a lush forest type located along rivers and streams. These areas are rich in deciduous trees and offer beautiful landscapes and diverse nature, making them excellent hiking destinations. ",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/664B/1D6B/A172/665B/EE1C/0A28/105F/CAD5/auhto.png"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075439/greyhunter.com.pl/marttiini/auhto-0.png"
+  "lead": "Handmade",
+  "description": [
+    "Auhto refers to a riverside grove, which is a lush forest type located along rivers and streams. These areas are rich in deciduous trees and offer beautiful landscapes and diverse nature, making them excellent hiking destinations.",
+    "In the Auhto unique knife, you can sense the green lushness of spring as nature awakens after winter. The handle is made of reindeer antler, dyed birch, and vulcanized fiber, representing this magnificent grove. The blade is a 6 cm Damascus steel blade, and the black sheath is made of genuine leather."
   ],
   "attributes": [
     {
@@ -58,5 +55,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/auhto-0"
   ]
 }

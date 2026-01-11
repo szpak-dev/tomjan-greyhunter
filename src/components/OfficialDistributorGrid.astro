@@ -1,5 +1,5 @@
 ---
-import type { ContentManufacturer } from '../content/manufacturer.repository';
+import type { ContentManufacturer } from "../content/manufacturer.repository";
 
 export type Props = {
   manufacturers: ContentManufacturer[];
@@ -15,29 +15,23 @@ manufacturers.sort((a, b) => {
 });
 ---
 
-<section class="py-4 py-md-5">
-  <div class="container">
-    <h2 class="fs-1 fw-bold text-center mb-4">Oficjalny Dystrybutor</h2>
-    <hr class="text-secondary" />
-    <div class="row row-cols-2 g-3 g-md-4">
-      {
-        manufacturers.map((manufacturer) => (
-          <div class="col">
-            <a
-              class="d-flex justify-content-center align-items-center h-100 bg-white"
-              href={manufacturer.link.url}
-              target={manufacturer.link.target}
-            >
-              <img
-                src={manufacturer.logoUrl}
-                alt={manufacturer.name}
-                class="img-fluid"
-                style="max-height: 90%;"
-              />
-            </a>
-          </div>
-        ))
-      }
-    </div>
-  </div>
-</section>
+<div class="row row-cols-2 g-3 g-md-4">
+  {
+    manufacturers.map((manufacturer) => (
+      <div class="col">
+        <a
+          class="d-flex justify-content-center align-items-center h-100 bg-white"
+          href={manufacturer.link.url}
+          target={manufacturer.link.target}
+        >
+          <img
+            src={manufacturer.logoUrl}
+            alt={manufacturer.name}
+            class="img-fluid"
+            style="max-height: 90%;"
+          />
+        </a>
+      </div>
+    ))
+  }
+</div>

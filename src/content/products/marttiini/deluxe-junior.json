@@ -1,26 +1,17 @@
 {
   "id": "marttiini.deluxe-junior",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/122010",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/122010",
   "category_slug": "outdoor",
-  "sku": "122010",
+  "category_name": "Outdoor",
   "name": "Deluxe Junior",
   "slug": "deluxe-junior",
-  "lead": "Deluxe Junior is the ideal choice for a safe first knife. ",
-  "description": "The ideal gift for a child who wants to learn wilderness skills and how to use a knife. The Deluxe Junior is a great choice as a first knife: it’s a proper, stylish knife with a number of added safety features. ",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FC7/543B/CA01/9DBA/5EE6/0A28/105F/0139/122010_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FC7/543B/CA01/9DBA/5EE6/0A28/105F/0139/122010_second.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FC7/543B/CA01/9DBA/5EE6/0A28/105F/0139/deluxe_junuor_marttiini.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FC7/543B/CA01/9DBA/5EE6/0A28/105F/0139/deluxe_junior_marttiini_knife.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5FC7/543B/CA01/9DBA/5EE6/0A28/105F/0139/marttiini_junior_knife_deluxe_junior.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074325/greyhunter.com.pl/marttiini/deluxe-junior-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074327/greyhunter.com.pl/marttiini/deluxe-junior-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074328/greyhunter.com.pl/marttiini/deluxe-junior-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074331/greyhunter.com.pl/marttiini/deluxe-junior-3.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074333/greyhunter.com.pl/marttiini/deluxe-junior-4.jpg"
+  "lead": "Deluxe Junior is the ideal choice for a safe first knife.",
+  "description": [
+    "The ideal gift for a child who wants to learn wilderness skills and how to use a knife. The Deluxe Junior is a great choice as a first knife: it’s a proper, stylish knife with a number of added safety features.",
+    "The rounded tip protects against puncture wounds. The handle, made of heat-treated birch, is durable and the size is suitable for a child’s hand. The handle ensures a firm grip and the finger guard prevents fingers from slipping onto the blade.",
+    "The knife blade is made of easy-care, stainless steel. Naturally, a proper knife comes with a proper leather sheath.",
+    "The Deluxe Junior is a knife developed jointly by Partioaitta and Marttiini and is only available from Partioaitta and Marttiini."
   ],
   "attributes": [
     {
@@ -53,5 +44,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/deluxe-junior-0"
   ]
 }

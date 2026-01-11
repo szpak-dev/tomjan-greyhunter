@@ -1,18 +1,15 @@
 {
   "id": "marttiini.ckp-peeling-knife",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/740114P",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/740114P",
   "category_slug": "kitchen",
-  "sku": "740114P",
+  "category_name": "Kitchen",
   "name": "CKP Peeling Knife",
   "slug": "ckp-peeling-knife",
   "lead": null,
-  "description": "The peeling knife is a handy tool for peeling fruit and cutting root vegetables.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/38D7/2C8C/484F/4E29/0A28/1041/D023/740114P_first.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075004/greyhunter.com.pl/marttiini/ckp-peeling-knife-0.jpg"
+  "description": [
+    "The peeling knife is a handy tool for peeling fruit and cutting root vegetables.",
+    "We recommend hand wash."
   ],
   "attributes": [
     {
@@ -41,5 +38,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/ckp-peeling-knife-0"
   ]
 }

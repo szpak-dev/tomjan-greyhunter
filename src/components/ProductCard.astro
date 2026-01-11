@@ -4,11 +4,10 @@ import type { ContentProduct } from "../content/product.repository";
 
 interface Props {
   product: ContentProduct;
-  link: string;
   badge?: { text: string; color: string };
 }
 
-const { product, badge, link } = Astro.props;
+const { product, badge } = Astro.props;
 ---
 
 <div class="card shadow border-0 rounded-0 p-0">
@@ -25,11 +24,10 @@ const { product, badge, link } = Astro.props;
   {
     product.images?.[0] && (
       <CldImage
-        src={product.images[0].url}
+        src={product.images[0]}
         width={300}
         height={400}
         crop={"pad"}
-        gravity={"auto"}
         class="card-img-top rounded-0 object-fit-contain"
         loading="eager"
         sizes="(max-width: 576px) 100vw, (max-width: 768px) 50vw, (max-width: 992px) 33vw, 400px"
@@ -39,6 +37,6 @@ const { product, badge, link } = Astro.props;
 
   <div class="card-body">
     <h5 class="card-title fs-6 fw-semibold">{product.name}</h5>
-    <a href={link} class="text-decoration-none stretched-link"></a>
+    <a href={product.link} class="text-decoration-none stretched-link"></a>
   </div>
 </div>

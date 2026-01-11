@@ -1,18 +1,14 @@
 {
   "id": "marttiini.puzzle",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559040W",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559040W",
   "category_slug": "unique-by-marttiini",
-  "sku": "559040W",
+  "category_name": "Unique By Marttiini",
   "name": "Puzzle",
   "slug": "puzzle",
-  "lead": null,
-  "description": "This unique knife embodies both sun and shadow. The handle beautifully alternates between dark, heat-treated curly birch and light curly birch, with reindeer antler adding a lively contrast. The blade is a stunning 6 cm Damascus steel, and the sheath is crafted from black leather.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/664D/A928/0162/D624/06BE/0A28/105F/1CAC/siimes.png"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075452/greyhunter.com.pl/marttiini/puzzle-0.png"
+  "lead": "Handmade",
+  "description": [
+    "This unique knife embodies both sun and shadow. The handle beautifully alternates between dark, heat-treated curly birch and light curly birch, with reindeer antler adding a lively contrast. The blade is a stunning 6 cm Damascus steel, and the sheath is crafted from black leather."
   ],
   "attributes": [
     {
@@ -58,5 +54,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/puzzle-0"
   ]
 }

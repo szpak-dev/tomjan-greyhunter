@@ -1,22 +1,16 @@
 {
   "id": "marttiini.condor-timberjack",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/578019",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/578019",
   "category_slug": "outdoor",
-  "sku": "578019",
+  "category_name": "Outdoor",
   "name": "Condor Timberjack",
   "slug": "condor-timberjack",
   "lead": null,
-  "description": "The blade of the Timberjack is made of carbon steel, which is perfect for carving, and is easy to resharpen when required. Remember to take proper care of your carbon steel knife. Always dry the blade carefully after each use and oil the blade with unsalted oil on a regular basis. This will ensure your knife will serve you loyally from one year to the next.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/8F84/4CC1/1803/30FA/0A28/1041/304C/578019_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/8F84/4CC1/1803/30FA/0A28/1041/304C/kiehisten-vuoleminen-marttiini-condor-puukolla.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/8F84/4CC1/1803/30FA/0A28/1041/304C/marttiini-condor-timpuripuukko-polttopuita.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/8F84/4CC1/1803/30FA/0A28/1041/304C/condor-timpuri-nuotion-sytytys-kiehiset.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/8F84/4CC1/1803/30FA/0A28/1041/304C/condor-timpuri-tulistelua.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C98/8F84/4CC1/1803/30FA/0A28/1041/304C/marttiini_condor_timpuri_puukko_timberjack-knife.jpg"
+  "description": [
+    "The blade of the Timberjack is made of carbon steel, which is perfect for carving, and is easy to resharpen when required. Remember to take proper care of your carbon steel knife. Always dry the blade carefully after each use and oil the blade with unsalted oil on a regular basis. This will ensure your knife will serve you loyally from one year to the next.",
+    "The textured rubber handle and the finger guard ensure a safe and firm grip of the knife in the most demanding conditions. This knife is supplied with a leather sheath."
   ],
-  "cdn_images": [],
   "attributes": [
     {
       "name": "DIMENSIONS",
@@ -48,5 +42,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/condor-timberjack-0"
   ]
 }

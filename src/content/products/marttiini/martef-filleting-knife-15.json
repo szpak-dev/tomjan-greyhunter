@@ -1,22 +1,19 @@
 {
   "id": "marttiini.martef-filleting-knife-15",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/826014T",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/826014T",
   "category_slug": "fishing",
-  "sku": "826014T",
+  "category_name": "Fishing",
   "name": "Martef Filleting Knife 15",
   "slug": "martef-filleting-knife-15",
   "lead": null,
-  "description": "The Martef coating reduces friction to almost zero while protecting the blade against corrosion. Cleaning the blade after use is extremely easy.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1BE4/D1C7/F3CD/3EAC/0A28/1041/D0C4/826014T_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1BE4/D1C7/F3CD/3EAC/0A28/1041/D0C4/826014T_second.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C93/1BE4/D1C7/F3CD/3EAC/0A28/1041/D0C4/martef6.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074912/greyhunter.com.pl/marttiini/martef-filleting-knife-15-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074913/greyhunter.com.pl/marttiini/martef-filleting-knife-15-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074915/greyhunter.com.pl/marttiini/martef-filleting-knife-15-2.jpg"
+  "description": [
+    "The Martef coating reduces friction to almost zero while protecting the blade against corrosion. Cleaning the blade after use is extremely easy.",
+    "The textured rubber handle and the finger guard ensure a firm grip of the knife even in difficult conditions. This blade length is suitable for processing fish of about 1 kg.",
+    "Many other kitchen chores, such as slicing vegetables, become easy with this knife. The filleting knife is supplied with a leather sheath.",
+    "We recommend hand wash.",
+    "This knife is also available with a plastic sheath (",
+    ")."
   ],
   "attributes": [
     {
@@ -49,5 +46,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/martef-filleting-knife-15-0"
   ]
 }

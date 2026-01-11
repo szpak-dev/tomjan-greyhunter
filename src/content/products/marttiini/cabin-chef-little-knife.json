@@ -1,22 +1,18 @@
 {
   "id": "marttiini.cabin-chef-little-knife",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/441010",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/441010",
   "category_slug": "outdoor",
-  "sku": "441010",
+  "category_name": "Outdoor",
   "name": "Cabin Chef Little Knife",
   "slug": "cabin-chef-little-knife",
   "lead": "Cabin Chef Little Knife  design inspired by northern nature, powered by form and function",
-  "description": "Cabin Chef Little Knife is a multipurpose knife with a handy size. It can be used as a mushroom knife as well as cutting, chopping and peeling root vegetables. It is also a perfect steak knife and performs well small chores at the camping site.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F56/1284/A0F7/1C73/2562/0A28/105F/18E0/441010_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F56/1284/A0F7/1C73/2562/0A28/105F/18E0/441010.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5F56/1284/A0F7/1C73/2562/0A28/105F/18E0/441010_second.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074991/greyhunter.com.pl/marttiini/cabin-chef-little-knife-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074993/greyhunter.com.pl/marttiini/cabin-chef-little-knife-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074995/greyhunter.com.pl/marttiini/cabin-chef-little-knife-2.jpg"
+  "description": [
+    "Cabin Chef Little Knife is a multipurpose knife with a handy size. It can be used as a mushroom knife as well as cutting, chopping and peeling root vegetables. It is also a perfect steak knife and performs well small chores at the camping site.",
+    "The Knife is part of the Cabin Chef set designed by Harri Koskinen.",
+    "The blade of the knife is made of high-quality, durable stainless steel. The handle is made of Finnish thermally modified birch  a material known for its durability and graceful aging as well as warm and pleasant feel grip. The matte finish ensures a safe grip even when wet.",
+    "The harmonious combination of beautiful design and practicality, as well as durable natural materials, guarantee that the Cabin Chef Knife is a pleasure to use, time and time again.",
+    "We recommend hand wash."
   ],
   "attributes": [
     {
@@ -53,5 +49,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/cabin-chef-little-knife-0"
   ]
 }

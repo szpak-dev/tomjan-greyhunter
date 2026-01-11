@@ -1,22 +1,18 @@
 {
   "id": "marttiini.wooden-gift-box",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/P702260",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/P702260",
   "category_slug": "sharpening-and-accessories",
-  "sku": "P702260",
+  "category_name": "Sharpening and Accessories",
   "name": "Wooden Gift Box",
   "slug": "wooden-gift-box",
   "lead": null,
-  "description": "Beautiful wood grain inside the box completes the look of the product and protects the knife. The measures of the box are 340x70x50mm.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4F71/738D/5BAA/DD4D/8751/0A28/1041/C033/P702260_wooden_box.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4F71/738D/5BAA/DD4D/8751/0A28/1041/C033/lahjapakkaus_puu.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4F71/738D/5BAA/DD4D/8751/0A28/1041/C033/P702260_second.jpg"
+  "description": [
+    "Beautiful wood grain inside the box completes the look of the product and protects the knife. The measures of the box are 340x70x50mm.",
+    "This wooden gift box is visible as \"Accessories\" with the products that the box is suitable for."
   ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075061/greyhunter.com.pl/marttiini/wooden-gift-box-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075062/greyhunter.com.pl/marttiini/wooden-gift-box-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075064/greyhunter.com.pl/marttiini/wooden-gift-box-2.jpg"
-  ],
-  "attributes": []
+  "attributes": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/wooden-gift-box-0"
+  ]
 }

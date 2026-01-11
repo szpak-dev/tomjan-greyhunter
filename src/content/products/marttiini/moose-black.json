@@ -1,28 +1,14 @@
 {
   "id": "marttiini.moose-black",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/547021W",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/547021W",
   "category_slug": "design-knives",
-  "sku": "547021W",
+  "category_name": "Design Knives",
   "name": "Moose Black",
   "slug": "moose-black",
-  "lead": null,
-  "description": "Moose is a valuable and respected character in Finnish forests that can never been appraised too much. The moose in all its glory is depicted on the cast ferrule of the knife. The birch tree handle has a black leather paint and clear wax coating for extra protection. The blade is made from carbon steel. Moose Black knife comes in a genuine, vegetable tanned glossy black leather sheath with gold foil de-bossing. A knife is delivered in a stained black wooden gift box.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/671B/596B/C784/F5EE/B5FF/0A32/0E03/2A61/547021_Moose_Black_Marttiini_product.png",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/671B/596B/C784/F5EE/B5FF/0A32/0E03/2A61/black_moose_knife.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/671B/596B/C784/F5EE/B5FF/0A32/0E03/2A61/black_moose_mood.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/671B/596B/C784/F5EE/B5FF/0A32/0E03/2A61/black_moose_hela.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/671B/596B/C784/F5EE/B5FF/0A32/0E03/2A61/black_moose_box.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/671B/596B/C784/F5EE/B5FF/0A32/0E03/2A61/moose_black.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074681/greyhunter.com.pl/marttiini/moose-black-0.png",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074682/greyhunter.com.pl/marttiini/moose-black-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074684/greyhunter.com.pl/marttiini/moose-black-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074685/greyhunter.com.pl/marttiini/moose-black-3.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074686/greyhunter.com.pl/marttiini/moose-black-4.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074688/greyhunter.com.pl/marttiini/moose-black-5.jpg"
+  "lead": "Beautiful and practical Moose Black knife accompanies you in every day outdoor life and it’s a great gift for a nature and design lover!",
+  "description": [
+    "Moose is a valuable and respected character in Finnish forests that can never been appraised too much. The moose in all its glory is depicted on the cast ferrule of the knife. The birch tree handle has a black leather paint and clear wax coating for extra protection. The blade is made from carbon steel. Moose Black knife comes in a genuine, vegetable tanned glossy black leather sheath with gold foil de-bossing. A knife is delivered in a stained black wooden gift box."
   ],
   "attributes": [
     {
@@ -68,5 +54,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/moose-black-0"
   ]
 }

@@ -1,18 +1,18 @@
 {
   "id": "marttiini.diamond-sharpening-steel",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1515111",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1515111",
   "category_slug": "sharpening-and-accessories",
-  "sku": "1515111",
+  "category_name": "Sharpening and Accessories",
   "name": "Diamond Sharpening Steel",
   "slug": "diamond-sharpening-steel",
   "lead": null,
-  "description": "\nThe diamond particles in the sharpener make sharpening of a knife simple and easy. With diamond coated sharpeners you can sharpen the hardest blades, such as stainless chrome steel.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/FCDC/C739/4903/3CBB/0A28/1041/30F0/1515111_first.jpg"
+  "description": [
+    "The diamond particles in the sharpener make sharpening of a knife simple and easy. With diamond coated sharpeners you can sharpen the hardest blades, such as stainless chrome steel.",
+    "A practical hanging loop is located at the end of the handle. Wash and dry the sharpener after use."
   ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075047/greyhunter.com.pl/marttiini/diamond-sharpening-steel-0.jpg"
-  ],
-  "attributes": []
+  "attributes": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/diamond-sharpening-steel-0"
+  ]
 }

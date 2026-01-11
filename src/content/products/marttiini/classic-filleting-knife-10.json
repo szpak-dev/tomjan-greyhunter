@@ -1,18 +1,16 @@
 {
   "id": "marttiini.classic-filleting-knife-10",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/610010",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/610010",
   "category_slug": "fishing",
-  "sku": "610010",
+  "category_name": "Fishing",
   "name": "Classic Filleting Knife 10",
   "slug": "classic-filleting-knife-10",
   "lead": null,
-  "description": "\nThis model has been in production since the late 1960s and has been exported around the world for more than 50 years. With the superior finished, sharp and flexible stainless chrome steel blade it only takes a moment to make beautiful fish fillets.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C90/8BBF/CC69/E6A5/8313/0A28/1041/30F1/610010_first.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074831/greyhunter.com.pl/marttiini/classic-filleting-knife-10-0.jpg"
+  "description": [
+    "This model has been in production since the late 1960s and has been exported around the world for more than 50 years. With the superior finished, sharp and flexible stainless chrome steel blade it only takes a moment to make beautiful fish fillets.",
+    "The mini filleting knife is excellent for processing smaller fish like trout and perch. A traditional leather sheath in a natural colour completes the package.",
+    "We recommend hand wash."
   ],
   "attributes": [
     {
@@ -45,5 +43,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/classic-filleting-knife-10-0"
   ]
 }

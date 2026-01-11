@@ -1,22 +1,15 @@
 {
   "id": "marttiini.lapp-knife-antler",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/2230010",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/2230010",
   "category_slug": "design-knives",
-  "sku": "2230010",
+  "category_name": "Design Knives",
   "name": "Lapp Knife Antler",
   "slug": "lapp-knife-antler",
   "lead": null,
-  "description": "The handle of this traditional Lapp knife, also known as the leuku knife, combines Finnish curly birch with reindeer antler bone. The stainless chrome steel blade has a beautiful etched engraving with a Lappish theme. The leather sheath also reflects traditional Arctic patterns.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/F3E2/C3F4/6947/0767/0A28/1041/3057/2230010_LUU-VISALEUKU_Lapp_Knife_Antler_2023.png",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/F3E2/C3F4/6947/0767/0A28/1041/3057/marttiini_luu-visaleuku.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/F3E2/C3F4/6947/0767/0A28/1041/3057/2230010_second.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074558/greyhunter.com.pl/marttiini/lapp-knife-antler-0.png",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074559/greyhunter.com.pl/marttiini/lapp-knife-antler-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074561/greyhunter.com.pl/marttiini/lapp-knife-antler-2.jpg"
+  "description": [
+    "The handle of this traditional Lapp knife, also known as the leuku knife, combines Finnish curly birch with reindeer antler bone. The stainless chrome steel blade has a beautiful etched engraving with a Lappish theme. The leather sheath also reflects traditional Arctic patterns.",
+    "This leuku knife is an excellent gift idea for all those who have lost their hearts to northern nature!"
   ],
   "attributes": [
     {
@@ -49,5 +42,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/lapp-knife-antler-0"
   ]
 }

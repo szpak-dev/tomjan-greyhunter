@@ -1,18 +1,14 @@
 {
   "id": "marttiini.sunset",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559052W",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559052W",
   "category_slug": "unique-by-marttiini",
-  "sku": "559052W",
+  "category_name": "Unique By Marttiini",
   "name": "Sunset",
   "slug": "sunset",
-  "lead": null,
-  "description": "This knife draws inspiration from the renowned Finnish architect Alvar Aalto. His diverse styles, such as modernism and naturalism, are evident in this unique model. The handle's shape is simple, yet it is adorned with well-matched earthy colors. The handle is made of heat-treated birch, dyed plywood, and curly birch. The blade is a beautiful 10 cm Damascus steel, and the sheath is genuine black leather.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/664D/CF5C/ABC4/281E/3859/0A28/105F/0922/aalto.png"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075456/greyhunter.com.pl/marttiini/sunset-0.png"
+  "lead": "Handmade",
+  "description": [
+    "This knife draws inspiration from the renowned Finnish architect Alvar Aalto. His diverse styles, such as modernism and naturalism, are evident in this unique model. The handle's shape is simple, yet it is adorned with well-matched earthy colors. The handle is made of heat-treated birch, dyed plywood, and curly birch. The blade is a beautiful 10 cm Damascus steel, and the sheath is genuine black leather."
   ],
   "attributes": [
     {
@@ -58,5 +54,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/sunset-0"
   ]
 }

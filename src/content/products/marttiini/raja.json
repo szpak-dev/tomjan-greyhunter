@@ -1,21 +1,13 @@
 {
   "id": "marttiini.raja",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559013W",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559013W",
   "category_slug": "unique-by-marttiini",
-  "sku": "559013W",
+  "category_name": "Unique By Marttiini",
   "name": "Raja",
   "slug": "raja",
   "lead": null,
-  "description": null,
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5BD0/58EE/DB75/1818/32F1/0A28/1041/182B/Unique_Raja_copy.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5BD0/58EE/DB75/1818/32F1/0A28/1041/182B/Unique_Raja.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075074/greyhunter.com.pl/marttiini/raja-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075076/greyhunter.com.pl/marttiini/raja-1.jpg"
-  ],
+  "description": [],
   "attributes": [
     {
       "name": "DIMENSIONS",
@@ -60,5 +52,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/raja-0"
   ]
 }

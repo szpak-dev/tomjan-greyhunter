@@ -1,18 +1,19 @@
 {
   "id": "marttiini.diamond-sharpener-pen",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1515112",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1515112",
   "category_slug": "sharpening-and-accessories",
-  "sku": "1515112",
+  "category_name": "Sharpening and Accessories",
   "name": "Diamond sharpener Pen",
   "slug": "diamond-sharpener-pen",
   "lead": null,
-  "description": "\nWith the diamond coated sharpener you can sharpen harder blade materials such as stainless chrome steel.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8E/01C6/7EA0/B678/D223/0A28/1041/3022/1515112_first.jpg"
+  "description": [
+    "With the diamond coated sharpener you can sharpen harder blade materials such as stainless chrome steel.",
+    "This sharpener design is especially suitable for filleting knives and kitchen knives, but it is also used for for ice augers, skinning knives and gutting hooks. The sharpener also includes a sharpening groove for hooks.",
+    "This small-size sharpener is easy to carry with you, and the actual sharpener is stored inside a case after use. A handy pocket clip makes sure that the sharpener stays in the pocket. Use water while sharpening, then wash and dry the sharpener after use."
   ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768075049/greyhunter.com.pl/marttiini/diamond-sharpener-pen-0.jpg"
-  ],
-  "attributes": []
+  "attributes": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/diamond-sharpener-pen-0"
+  ]
 }

@@ -1,22 +1,15 @@
 {
   "id": "marttiini.salmon-knife",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/552010W",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/552010W",
   "category_slug": "design-knives",
-  "sku": "552010W",
+  "category_name": "Design Knives",
   "name": "Salmon Knife",
   "slug": "salmon-knife",
   "lead": null,
-  "description": "This design knife is an impressive collector’s item and a reliable tool. Stainless steel is an excellent material for regular use – the material stays rust-free and sharp for a long time. Thermal treatment of the curly birch wood gives the handle a good protection against moisture.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/ED1C/DDC8/2EFA/2C88/0A28/1041/309B/552010W_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/ED1C/DDC8/2EFA/2C88/0A28/1041/309B/kojamopuukko-lahjapuukko.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/4C8D/ED1C/DDC8/2EFA/2C88/0A28/1041/309B/kojamopuukko-marttiini-designpuukko.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074635/greyhunter.com.pl/marttiini/salmon-knife-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074636/greyhunter.com.pl/marttiini/salmon-knife-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074637/greyhunter.com.pl/marttiini/salmon-knife-2.jpg"
+  "description": [
+    "This design knife is an impressive collector’s item and a reliable tool. Stainless steel is an excellent material for regular use – the material stays rust-free and sharp for a long time. Thermal treatment of the curly birch wood gives the handle a good protection against moisture.",
+    "This knife is delivered in a wooden gift box."
   ],
   "attributes": [
     {
@@ -58,9 +51,12 @@
         },
         {
           "name": "Packaging",
-          "value": "wooden gift box Curly birch is a natural material – the tone and the pattern varies by each product. Each knife is different and unique."
+          "value": "wooden gift box"
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/salmon-knife-0"
   ]
 }

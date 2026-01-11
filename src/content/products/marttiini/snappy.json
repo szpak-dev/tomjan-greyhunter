@@ -1,26 +1,14 @@
 {
   "id": "marttiini.snappy",
-  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/511020",
   "manufacturer": "marttiini",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/511020",
   "category_slug": "outdoor",
-  "sku": "511020",
+  "category_name": "Outdoor",
   "name": "Snappy",
   "slug": "snappy",
   "lead": null,
-  "description": "The 6 cm long carbon steel blade is handy in use and easy to keep sharp. The handle shape follows the traditional Marttiini Lynx handle. Birch handle with waxed finish gives you a good grip on the knife. Black leather sheath with printed Marttiini logo pattern.",
-  "image_urls": [
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5AC4/84DB/7258/3B33/B047/0A28/1041/DFE2/511020_first.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5AC4/84DB/7258/3B33/B047/0A28/1041/DFE2/511020_second.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5AC4/84DB/7258/3B33/B047/0A28/1041/DFE2/marttiiin_napsa_vuolupuukko_carving_knife.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5AC4/84DB/7258/3B33/B047/0A28/1041/DFE2/napsa_vuolupuukko_marttiini_carving_knife.jpg",
-    "https://marttiini.fi/WebRoot/Marttiini/Shops/MarttiiniShop/5AC4/84DB/7258/3B33/B047/0A28/1041/DFE2/julk_fb_ja_inst.8.18.jpg"
-  ],
-  "cdn_images": [
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074383/greyhunter.com.pl/marttiini/snappy-0.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074385/greyhunter.com.pl/marttiini/snappy-1.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074386/greyhunter.com.pl/marttiini/snappy-2.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074388/greyhunter.com.pl/marttiini/snappy-3.jpg",
-    "https://res.cloudinary.com/dcpogr7md/image/upload/v1768074390/greyhunter.com.pl/marttiini/snappy-4.jpg"
+  "description": [
+    "The 6 cm long carbon steel blade is handy in use and easy to keep sharp. The handle shape follows the traditional Marttiini Lynx handle. Birch handle with waxed finish gives you a good grip on the knife. Black leather sheath with printed Marttiini logo pattern."
   ],
   "attributes": [
     {
@@ -57,5 +45,8 @@
         }
       ]
     }
+  ],
+  "images": [
+    "greyhunter.com.pl/marttiini/snappy-0"
   ]
 }
