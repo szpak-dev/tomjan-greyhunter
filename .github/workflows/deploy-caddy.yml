@@ -89,18 +89,18 @@ jobs:
       
       - name: Backup current deployment
         run: |
-          BACKUP_DIR="${CADDY_WEBROOT:-/var/www/html}/backup-$(date +%Y%m%d-%H%M%S)"
-          if [ -d "${CADDY_WEBROOT:-/var/www/html}" ]; then
+          BACKUP_DIR="${CADDY_WEBROOT}/backup-$(date +%Y%m%d-%H%M%S)"
+          if [ -d "${CADDY_WEBROOT}" ]; then
             sudo mkdir -p "$BACKUP_DIR"
-            sudo cp -r ${CADDY_WEBROOT:-/var/www/html}/* "$BACKUP_DIR/" 2>/dev/null || true
+            sudo cp -r ${CADDY_WEBROOT}/* "$BACKUP_DIR/" 2>/dev/null || true
             echo "Backup created at $BACKUP_DIR"
           fi
       
       - name: Deploy to Caddy webroot
         run: |
-          echo "Deploying to ${CADDY_WEBROOT:-/var/www/html}"
-          sudo rsync -av --delete ./dist/ ${CADDY_WEBROOT:-/var/www/html}/
-          sudo chown -R caddy:caddy ${CADDY_WEBROOT:-/var/www/html}
+          echo "Deploying to ${CADDY_WEBROOT}"
+          sudo rsync -av --delete ./dist/ ${CADDY_WEBROOT}/
+          sudo chown -R caddy:caddy ${CADDY_WEBROOT}
           echo "Deployment completed successfully"
       
       - name: Reload Caddy
