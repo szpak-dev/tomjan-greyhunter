@@ -1,18 +1,18 @@
 ---
-const { socials } = Astro.props;
+import type { SocialAccount } from "../content/misc.repository";
 
-type SocialProps = {
-  name: string;
-  url: string;
-  icon: string;
+export type Props = {
+  accounts: SocialAccount[];
 };
+
+const { accounts } = Astro.props;
 ---
 
 <div class="d-flex gap-4 justify-content-center">
   {
-    socials.map((social: SocialProps) => (
-      <a href={social.url} class="fs-5 link-underline link-underline-opacity-0 text-white">
-        <i class={social.icon}></i>
+    accounts.map((social: SocialAccount) => (
+      <a href={social.url} class="fs-5 link-underline link-underline-opacity-0 text-white" target="_blank" rel="noopener noreferrer">
+        <i class={social.icon} />
         {social.name}
       </a>
     ))

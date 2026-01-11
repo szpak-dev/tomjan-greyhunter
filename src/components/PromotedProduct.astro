@@ -1,0 +1,57 @@
+---
+import { CldImage } from "astro-cloudinary";
+
+export type Props = {
+  name: string;
+  image: string;
+  link: string;
+  layout: "landscape" | "portrait";
+  manufacturer?: string;
+  caption?: string;
+};
+
+const { manufacturer, name, caption, image, link, layout } = Astro.props;
+---
+
+{layout === "portrait" ? (
+  <div class="card position-relative border-0">
+    <div class="row g-0">
+      <div class="col-md-6 d-flex align-items-center justify-content-center">
+        <CldImage
+          src={image}
+          alt={name}
+          width={200}
+          height={400}
+          class="img-fluid rounded-start"
+        />
+      </div>
+      <div class="col-md-6 d-flex align-items-center justify-content-center">
+        <div class="card-body">
+          <h2 class="card-title">
+            <a href={link} class="stretched-link text-decoration-none link-underline-0 text-dark">{name}</a>
+          </h2>
+          <p class="card-text">{manufacturer}</p>
+          {caption && <p class="card-text"><small class="text-muted">{caption}</small></p>}
+        </div>
+      </div>
+    </div>
+  </div>
+) : (
+  <div class="card position-relative border-0">
+    <CldImage
+      src={image}
+      alt={name}
+      width={600}
+      height={400}
+      class="card-img-top"
+    />
+    <div class="card-body">
+      <h5 class="card-title">
+        <a href={link} class="stretched-link text-decoration-none">{name}</a>
+      </h5>
+      <p class="card-text">{manufacturer}</p>
+      {caption && <p class="card-text"><small class="text-muted">{caption}</small></p>}
+    </div>
+  </div>
+)}
+

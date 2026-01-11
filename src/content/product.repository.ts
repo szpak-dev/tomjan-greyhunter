@@ -30,6 +30,7 @@ export type PromotedContentProduct = {
     name: string;
     slug: string;
     image: string;
+    link: string;
 }
 
 export type NewProduct = {
@@ -79,6 +80,7 @@ export async function getPromotedProducts(productIds: string[], lang: string): P
             name: product.name,
             slug: product.slug,
             image: product.images.length > 0 ? product.images[0] : '',
+            link: product.link,
         };
     });
 

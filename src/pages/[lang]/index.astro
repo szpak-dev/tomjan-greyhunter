@@ -6,10 +6,12 @@ import FrontPageSection from "../../components/FrontPageSection.astro";
 
 import Layout from "../../layouts/Layout.astro";
 import { languages } from "../../i18n/ui";
+import { useTranslations } from "../../i18n/utils";
 
-import { productRepository, manufacturerRepository, miscRepository } from "../../content";
+import { productRepository, manufacturerRepository, miscRepository, categoryRepository } from "../../content";
 import PassionMossaicGrid from "../../components/PassionMossaicGrid.astro";
 const lang = Astro.currentLocale as string;
+const t = useTranslations(lang as keyof typeof languages);
 
 const sliderProductIds = ["marttiini.aapa", "marttiini.bear-knife"];
 const promotedProducts = await productRepository.getPromotedProducts(sliderProductIds, lang);
@@ -32,21 +34,21 @@ export async function getStaticPaths() {
     imagesOrientationMap={imagesOrientationMap}  
   />
   
-  <FrontPageSection heading="Official Distributor">
+  <FrontPageSection heading={t('headings.official-distributor')}>
     <OfficialDistributorGrid 
       manufacturers={manufacturers} 
       ordering={["marttiini", "sarsilmaz", "eley-hawk", "eley"]} 
     />
   </FrontPageSection>
 
-  <FrontPageSection heading="New in Offer">
+  <FrontPageSection heading={t('headings.new-in-offer')}>
     <NewInOffer 
       products={newProducts} 
       lang={lang} 
     />
   </FrontPageSection>
 
-  <FrontPageSection heading="Driven by Passion">
+  <FrontPageSection heading={t('headings.passion')}>
     <PassionMossaicGrid 
       mossaicPictures={mossaicPictures} 
     />

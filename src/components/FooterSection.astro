@@ -1,0 +1,33 @@
+---
+export type Props = {
+  title: string;
+  links?: {
+    label: string;
+    url: string;
+    target: string;
+  }[]
+}
+
+const { title, links } = Astro.props;
+---
+<section class="footer-section my-4">
+  <h5>{title}</h5>
+  <ul class="list-group list-group-flush bg-transparent">
+    {links && links.length > 0 ? (
+      links.map(link => (
+        <li class="list-group-item bg-transparent border-0">
+          <a 
+            href={link.url} 
+            target={link.target} 
+            rel={link.target === "_blank" ? "noopener noreferrer" : undefined}
+            class="fs-6 link-underline link-underline-opacity-0 text-white"
+          >
+            {link.label}
+          </a>
+        </li>
+      ))
+    ) : (
+      <slot />
+    )}
+  </ul>
+</section>
