@@ -78,6 +78,8 @@ jobs:
     name: Deploy to Caddy
     needs: build
     runs-on: tomjan-runner
+    env:
+      CADDY_WEBROOT: ${{ vars.CADDY_WEBROOT }}
     steps:
       - name: Download build artifact
         uses: actions/download-artifact@v4
