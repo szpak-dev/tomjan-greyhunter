@@ -8,7 +8,7 @@ import Layout from "../../layouts/Layout.astro";
 import { languages } from "../../i18n/ui";
 import { useTranslations } from "../../i18n/utils";
 
-import { productRepository, manufacturerRepository, miscRepository, categoryRepository } from "../../content";
+import { productRepository, manufacturerRepository, miscRepository } from "../../content";
 import PassionMossaicGrid from "../../components/PassionMossaicGrid.astro";
 const lang = Astro.currentLocale as string;
 const t = useTranslations(lang as keyof typeof languages);
@@ -19,7 +19,6 @@ const promotedProducts = await productRepository.getPromotedProducts(sliderProdu
 const newProductIds = ["marttiini.aapa", "marttiini.bear-knife"];
 const newProducts = await productRepository.getNewProducts(newProductIds, lang);
 
-const imagesOrientationMap = await manufacturerRepository.getImagesOrientationMap(lang);
 const manufacturers = await manufacturerRepository.findManufacturers(lang);
 const mossaicPictures = miscRepository.findMossaicPictures();
 
@@ -28,12 +27,11 @@ export async function getStaticPaths() {
 }
 ---
 
-<Layout title="Home">
-  <PromotedProductsSlider 
-    promotedProducts={promotedProducts} 
-    imagesOrientationMap={imagesOrientationMap}  
-  />
-  
+<Layout title="Grey Hunter - Tomasz Jantos">
+  <section class="promoted-products py-3">
+    <PromotedProductsSlider promotedProducts={promotedProducts} />
+  </section>
+
   <FrontPageSection heading={t('headings.official-distributor')}>
     <OfficialDistributorGrid 
       manufacturers={manufacturers} 
@@ -49,8 +47,6 @@ export async function getStaticPaths() {
   </FrontPageSection>
 
   <FrontPageSection heading={t('headings.passion')}>
-    <PassionMossaicGrid 
-      mossaicPictures={mossaicPictures} 
-    />
+    <PassionMossaicGrid mossaicPictures={mossaicPictures} />
   </FrontPageSection>
 </Layout>

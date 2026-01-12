@@ -10,10 +10,9 @@ export type Props = {
     image: string;
     link: string;
   }[];
-  imagesOrientationMap: Record<string, "landscape" | "portrait">;
 };
 
-const { promotedProducts, imagesOrientationMap } = Astro.props;
+const { promotedProducts } = Astro.props;
 
 const slides = promotedProducts.map((p, i) => ({
   active: i === 0,
@@ -21,28 +20,25 @@ const slides = promotedProducts.map((p, i) => ({
   img: p.image,
 }));
 
-const carouselId = "promotedProductsCarousel";
+const id = "promotedProductsCarousel";
 ---
 
-<section class="promoted-products">
-  <Carousel id={carouselId} class="h-100 bg-light" dark>
-    <Carousel.Inner>
-      { promotedProducts.map((product, idx) => {
-          const layout = imagesOrientationMap[product.image] || "landscape";
-          return <Carousel.Item active={idx === 0}>
-            <PromotedProduct
-              manufacturer={product.manufacturer}
-              name={product.name}
-              caption={product.caption}
-              image={product.image}
-              link={product.link}
-              layout={'portrait'}
-            />
-          </Carousel.Item>;
-        })
-      }
-    </Carousel.Inner>
-    <!-- <Carousel.Controls id={carouselId} /> -->
-    <Carousel.Indicators id={carouselId} slides={slides} />
-  </Carousel>
-</section>
+<Carousel {id} fade dark>
+  <Carousel.Indicators {id} {slides} />
+  <Carousel.Inner>
+    { promotedProducts.map((product, idx) => {
+        return <Carousel.Item active={idx === 0}>
+          <PromotedProduct
+            manufacturer={product.manufacturer}
+            name={product.name}
+            caption={product.caption}
+            image={product.image}
+            link={product.link}
+            layout={'portrait'}
+          />
+        </Carousel.Item>
+      })
+    }
+  </Carousel.Inner>
+  <Carousel.Controls {id} />
+</Carousel>
