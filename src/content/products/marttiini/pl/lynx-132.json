@@ -1,0 +1,61 @@
+{
+  "id": "marttiini.lynx-132",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/132010",
+  "manufacturer": "marttiini",
+  "category_slug": "traditional",
+  "category_name": "Traditional",
+  "name": "Lynx 132",
+  "name_short": "",
+  "slug": "lynx-132",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The most traditional Marttiini knife with a beautiful sheath.",
+    "The leather tassel at the tip of the sheath depicts the tuft of hair on the tip of the ears of a lynx. It said to frighten away the bad spirits so that the knife will be used only for peaceful purposes."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "22 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "curly birch, varnished"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/lynx-132-0"
+  ]
+}

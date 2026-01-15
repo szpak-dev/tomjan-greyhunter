@@ -1,0 +1,74 @@
+{
+  "id": "marttiini.damascus",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/557010W",
+  "manufacturer": "marttiini",
+  "category_slug": "design-knives",
+  "category_name": "Design Knives",
+  "name": "Damascus",
+  "name_short": "",
+  "slug": "damascus",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The blade of the Marttiini Damascus knife is from stainless Damascus steel, where, by means of special technology two different top-grade steels are combined into 120 layers. The interlayering of the two different steels and the highly specialised machining bring out the beautiful pattern on the blade.",
+    "The handle of the knife is made of Finnish curly birch, and the ferrules are cast. The beautiful pattern on the blade is echoed on the ferrule at the end of the handle.",
+    "Marttiini Damascus knives are numbered by the production year, making each knife is a unique collector's item.",
+    "Each knife is delivered in an elegant wooden gift box."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "10 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "20 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Damascus steel RWL34 & PMC27, HRC 60"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Curly birch, vaxed, cast ferrules"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Leather, brown"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "Wooden gift box"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/damascus-0"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "marttiini.basic-filleting-knife-19",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/837010",
+  "manufacturer": "marttiini",
+  "category_slug": "fishing",
+  "category_name": "Fishing",
+  "name": "Basic Filleting Knife 19",
+  "name_short": "",
+  "slug": "basic-filleting-knife-19",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The well fitting rubber handle and the flexible stainless steel blade ensure clean-cut fillets. This size of blade is best suited for processing of about 2-3 kg.",
+    "The filleting knife is an excellent tool for other jobs in the kitchen. The knife is supplied with a practical plastic sheath.",
+    "We recommend hand wash."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "19 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "31 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "rubber, black"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "plastic, black"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/basic-filleting-knife-19-0"
+  ]
+}

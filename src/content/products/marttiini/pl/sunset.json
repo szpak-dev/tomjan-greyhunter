@@ -1,0 +1,76 @@
+{
+  "id": "marttiini.sunset",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559052W",
+  "manufacturer": "marttiini",
+  "category_slug": "unique-by-marttiini",
+  "category_name": "Unique By Marttiini",
+  "name": "Sunset",
+  "name_short": "",
+  "slug": "sunset",
+  "model_name": "",
+  "lead": "Handmade",
+  "description": [
+    "This knife draws inspiration from the renowned Finnish architect Alvar Aalto. His diverse styles, such as modernism and naturalism, are evident in this unique model. The handle's shape is simple, yet it is adorned with well-matched earthy colors. The handle is made of heat-treated birch, dyed plywood, and curly birch. The blade is a beautiful 10 cm Damascus steel, and the sheath is genuine black leather."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "10 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "22,3 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "140g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Damascus"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Heat-treated curly birch, curly birch, colored birch"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Leather, black"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "Wooden Unique Gift Box"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/sunset-0"
+  ]
+}

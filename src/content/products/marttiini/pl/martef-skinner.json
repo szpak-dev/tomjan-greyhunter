@@ -1,0 +1,61 @@
+{
+  "id": "marttiini.martef-skinner",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/186024T",
+  "manufacturer": "marttiini",
+  "category_slug": "hunting",
+  "category_name": "Hunting",
+  "name": "Martef Skinner",
+  "name_short": "",
+  "slug": "martef-skinner",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The dirt and moisture repelling Martef coating reduces friction to almost zero whilst protecting the blade against corrosion. Due to the coating the blade moves extremely smoothly through cut meat or fish, and cleaning the blade after use is extremely easy.",
+    "knife is the most frequently sold knife in the Hunting series. The blade is produced from stainless steel and by design it is excellent for both skinning game and for carving. Not suitable for splitting bones. The textured orange rubber handle and the finger guard ferrule ensure a good grip in demanding conditions. The knife is supplied with a black leather sheath."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "23 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel, Martef coating"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "rubber, orange"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather, black"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/martef-skinner-0"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "marttiini.kiehinen",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/535010",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "category_name": "Outdoor",
+  "name": "Kiehinen",
+  "name_short": "",
+  "slug": "kiehinen",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The blade is made of traditional carbon steel that is perfect for carving wood, and easy to re-sharpen to its original sharpness when needed.",
+    "The handle is made of Finnish curly birch and the knife is protected with a beautiful natural coloured leather sheath.",
+    "This knife is suitable for the daily use of both campers and craftsmen as well as for fishermen and hunters."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "9 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "19,5 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "carbon steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "curly birch, vaxed"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/kiehinen-0"
+  ]
+}

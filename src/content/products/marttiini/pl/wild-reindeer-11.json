@@ -1,0 +1,61 @@
+{
+  "id": "marttiini.wild-reindeer-11",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/542014",
+  "manufacturer": "marttiini",
+  "category_slug": "design-knives",
+  "category_name": "Design Knives",
+  "name": "Wild Reindeer 11",
+  "name_short": "",
+  "slug": "wild-reindeer-11",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The Marttiini Wild Reindeer 11 is a beautiful and versatile general-purpose knife that reflects the charm of northern nature. It is an iconic Marttiini blade model, developed in the ’30s by Janne Marttiini himself. The knife features a lynx blade with a blood groove and a slightly upturned tip hook, making it an excellent reliable tool for wilderness trips.",
+    "The stainless-steel blade delivers durability while the shaped handle offers a firm grip. The handle is made from Finnish curly birch and reindeer antler, ensuring a good grip and making each knife unique. The reindeer antler pattern on the handle brings a touch of northern charm. The name “Pailakka” means untamed male reindeer, symbolizing its strong and durable nature. The sheath is made of leather, adding to the knife’s practicality and elegance."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "23 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel X46Cr13 / 1.4034, HRC 53.5-55"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "curly birch & reindeer antler bone"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/wild-reindeer-11-0"
+  ]
+}

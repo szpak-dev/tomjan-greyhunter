@@ -1,0 +1,66 @@
+{
+  "id": "marttiini.taiga-lapp-knife",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/230012",
+  "manufacturer": "marttiini",
+  "category_slug": "traditional",
+  "category_name": "Traditional",
+  "name": "Taiga Lapp Knife",
+  "name_short": "",
+  "slug": "taiga-lapp-knife",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Taiga, or the vast arctic forest zone, is a popular hiking area where a knife is handy to have. The Taiga Lapp Knife is a special knife that combines a beautiful two-tone birch handle, reflecting the diverse forest of the taiga, with a stainless chrome blade featuring an engraved taiga landscape. The knife also includes a genuine vegetable-tanned leather sheath.",
+    "The Taiga Lapp Knife is produced in limited quantities and is sold exclusively in Marttiini's stores and online shop."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "22 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "141 g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Birch, heat-treated and varnished"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Leather, light brown"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/taiga-lapp-knife-0"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "marttiini.kide-chef-s-knife-21",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/429110",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "category_name": "Kitchen",
+  "name": "Kide Chef's Knife 21",
+  "name_short": "",
+  "slug": "kide-chef-s-knife-21",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "An excellent general kitchen knife for all kinds of chopping, dicing and cutting jobs.",
+    "The Kide series consists of sharp, easy-care kitchen knives and a roast fork. The German stainless steel and forged construction make them durable and they remain sharp in use. The Santoprene® handle is easy to keep clean and offers a good grip.",
+    "Ergonomic handle is comfortable to use. We recommend hand wash and sharpening with Marttiini sharpeners."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "21 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "33,4 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "232g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel 1.4116"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "rubber (Santoprene)"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/kide-chef-s-knife-21-0"
+  ]
+}

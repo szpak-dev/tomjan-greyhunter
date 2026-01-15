@@ -1,0 +1,68 @@
+{
+  "id": "marttiini.marttiini-hiking-axe",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1031010",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "category_name": "Outdoor",
+  "name": "Marttiini Hiking axe",
+  "name_short": "",
+  "slug": "marttiini-hiking-axe",
+  "model_name": "",
+  "lead": "Split firewood with a Marttiini Axe.",
+  "description": [
+    "Our axe series follow the example set by Marttiini knives.",
+    "We combined modern technology with traditional handicraft. The result is a family of three durable and reliable axes.",
+    "For materials, we chose quality carbon steel, beautiful ash wood and timeless leather.",
+    "The Marttiini Hiking Axe is the most lightweight in the series. It is easy to carry with during longer hikes. Blade: 300 g."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "14 x 8 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "34cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "550 g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "carbon steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "ash wood"
+        },
+        {
+          "id": "blade-cover",
+          "name": "Blade cover",
+          "value": "leather, brown"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/marttiini-hiking-axe-0"
+  ]
+}

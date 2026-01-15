@@ -1,0 +1,76 @@
+{
+  "id": "marttiini.paljakka",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559031W",
+  "manufacturer": "marttiini",
+  "category_slug": "unique-by-marttiini",
+  "category_name": "Unique By Marttiini",
+  "name": "Paljakka",
+  "name_short": "",
+  "slug": "paljakka",
+  "model_name": "",
+  "lead": "Handmade",
+  "description": [
+    "The treeless area of the fell is called \"paljakka.\" Often, it is a barren, rocky terrain with little vegetation. This description fits this unique knife well. The earthy colors are represented in the handle made from reindeer antler. The 6 cm blade is stunning Damascus steel with beautiful patterns. The black sheath is genuine leather."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "6 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "16,1 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "160g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Damascus"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Reindeer antler bone, Volcano White Paper, colored birch"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Leather, Black"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "Wooden Unique Gift Box"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/paljakka-0"
+  ]
+}

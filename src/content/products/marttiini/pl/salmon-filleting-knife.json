@@ -1,0 +1,72 @@
+{
+  "id": "marttiini.salmon-filleting-knife",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/552017W",
+  "manufacturer": "marttiini",
+  "category_slug": "design-knives",
+  "category_name": "Design Knives",
+  "name": "Salmon Filleting Knife",
+  "name_short": "",
+  "slug": "salmon-filleting-knife",
+  "model_name": "",
+  "lead": "From wild waters to perfect cuts",
+  "description": [
+    "The Kojamo is no ordinary salmon. He’s the big, hooked-jawed old male—the king of Finland’s wild rivers. Known for his strength, beauty, and legendary glow (they say his scales shine brighter than the stars), Kojamo has ruled the northern waters for generations. Marttiini created Salmon Filleting Knife as a tribute to this mighty fish.",
+    "Sharp, flexible, and built to last—this knife makes filleting effortless anywhere, from lakeside to kitchen. With a durable heat-treated curly birch handle, cast ferrules and elegant gift box, it’s made for both collectors and everyday anglers."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "19 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "31 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Stainless steel X46Cr13, HRC 53-55"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Finnish heat-treated curly birch, waxed, cust ferrules"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Leather, black"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "Wooden gift box"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/salmon-filleting-knife-0"
+  ]
+}

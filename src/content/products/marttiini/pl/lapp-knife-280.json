@@ -1,0 +1,61 @@
+{
+  "id": "marttiini.lapp-knife-280",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/280015",
+  "manufacturer": "marttiini",
+  "category_slug": "traditional",
+  "category_name": "Traditional",
+  "name": "Lapp knife 280",
+  "name_short": "",
+  "slug": "lapp-knife-280",
+  "model_name": "",
+  "lead": "An excellent gift for those who already have it all",
+  "description": [
+    "This impressive knife is almost half a meter long. The blade and the sheath are decorated with a traditional themes and scenery from Lapland. This knife is surely one to be noticed!",
+    "As Crocodile Dundee said:"
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "45 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "56 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel 1.4034 / X46Cr13, HRC 53.5-55"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Finnish curly birch, varnished"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather, brown"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/lapp-knife-280-0"
+  ]
+}

@@ -362,6 +362,13 @@ export async function synchronize(manufacturer: string, sourceLang: string, targ
     ? path.join(projectRoot, 'src', 'content', 'dictionaries', manufacturer, targetLang)
     : path.join(projectRoot, 'src', 'content', 'dictionaries', targetLang);
 
+  // Validate source directory exists
+  if (!fs.existsSync(sourceDictDir)) {
+    console.error(`❌ Error: Source dictionary directory not found: ${sourceDictDir}`);
+    console.error(`   Expected path for manufacturer: "${manufacturer}" and language: "${sourceLang}"`);
+    process.exit(1);
+  }
+
   // Ensure target directory exists
   if (!fs.existsSync(targetDictDir)) {
     fs.mkdirSync(targetDictDir, { recursive: true });
@@ -383,14 +390,28 @@ export async function synchronize(manufacturer: string, sourceLang: string, targ
     console.log(`Synchronizing dictionaries from ${sourceLang} to ${targetLang}...\n`);
   }
 
+  // Validate that all expected source files exist before starting sync
+  const missingFiles: string[] = [];
+  for (const fileName of dictionaryFiles) {
+    const sourceFile = path.join(sourceDictDir, fileName);
+    if (!fs.existsSync(sourceFile)) {
+      missingFiles.push(fileName);
+    }
+  }
+
+  if (missingFiles.length > 0) {
+    console.error(`❌ Error: Missing source dictionary files:`);
+    missingFiles.forEach(file => {
+      console.error(`   - ${path.join(sourceDictDir, file)}`);
+    });
+    console.error(`\n   Please run 'make dictionaries-build' first to generate the source dictionaries.`);
+    process.exit(1);
+  }
+
+  // Synchronize all files
   for (const fileName of dictionaryFiles) {
     const sourceFile = path.join(sourceDictDir, fileName);
     const targetFile = path.join(targetDictDir, fileName);
-
-    if (!fs.existsSync(sourceFile)) {
-      console.log(`⊘ Skipping ${fileName} (source file not found)`);
-      continue;
-    }
 
     // Load source dictionary
     const sourceDict = JSON.parse(fs.readFileSync(sourceFile, 'utf-8'));

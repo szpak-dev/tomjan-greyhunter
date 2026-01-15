@@ -1,0 +1,61 @@
+{
+  "id": "marttiini.condor-trailblazer",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/185018T",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "category_name": "Outdoor",
+  "name": "Condor Trailblazer",
+  "name_short": "",
+  "slug": "condor-trailblazer",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Hunting and Outdoor knife. The dirt and moisture repelling Martef coating reduces friction.",
+    "Safe rubber handle with finger guard."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "23 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Stainless Steel, Martef"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Rubber, musta"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Leather, black"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/condor-trailblazer-0"
+  ]
+}

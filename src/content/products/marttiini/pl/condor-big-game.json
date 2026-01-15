@@ -1,0 +1,65 @@
+{
+  "id": "marttiini.condor-big-game",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/184019",
+  "manufacturer": "marttiini",
+  "category_slug": "hunting",
+  "category_name": "Hunting",
+  "name": "Condor Big Game",
+  "name_short": "",
+  "slug": "condor-big-game",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "This hunting and hiking knife is specifically designed for a firm grip. Its 13 cm long blade is made of matte-polished chrome steel, ensuring excellent durability. The knife is competitively priced compared to similar models, but the quality remains equally high. The rubber handle provides a secure grip even when your hands are wet."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "13 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "26 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "214 g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Rubber"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Leather"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/condor-big-game-0"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "marttiini.martef-filleting-knife-23",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/846014T",
+  "manufacturer": "marttiini",
+  "category_slug": "fishing",
+  "category_name": "Fishing",
+  "name": "Martef Filleting Knife 23",
+  "name_short": "",
+  "slug": "martef-filleting-knife-23",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    ".",
+    "The Martef coating reduces friction almost to none while protecting the blade against corrosion. Cleaning the blade after use is extremely easy. The roughened rubber handle and the finger guard ensure a firm grip of the knife even in difficult conditions. This blade lenght is suitable for the biggest whoppers. The filleting knife comes with a leather sheath.",
+    "We recommend hand wash."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "23 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "36 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel, Martef coating"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "rubber, blue"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather, black"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/martef-filleting-knife-23-0"
+  ]
+}

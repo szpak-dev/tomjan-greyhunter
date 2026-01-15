@@ -1,0 +1,76 @@
+{
+  "id": "marttiini.lusto-annual-knife-2025",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/235019C",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "category_name": "Outdoor",
+  "name": "Lusto Annual Knife 2025",
+  "name_short": "",
+  "slug": "lusto-annual-knife-2025",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Beautiful and practical Lusto Annual Knife is with you in every day outdoor life and it’s a great gift for a nature lover! Lusto is the Finnish word for an annual ring of a tree. Annual ring-shape is repeated in prints and the bottom of the handle made of plywood – the annual ring of every single piece is unique. The handle is made from heat treated birch with clear oil for extra protection. Classic Lapp knife shaped blade is made from stainless chromium steel. Lusto Annual Knife 2025 comes in a genuine, vegetable tanned brown leather sheath. Each knife is individually numbered."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "23 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "150 g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Heat treated birch"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Vegetable tanned leather"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "Cardboard gift box"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/lusto-annual-knife-2025-0"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "id": "marttiini.lynx-139",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/139010",
+  "manufacturer": "marttiini",
+  "category_slug": "traditional",
+  "category_name": "Traditional",
+  "name": "Lynx 139",
+  "name_short": "",
+  "slug": "lynx-139",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "This knife has a 13 cm long blade of stainless chrome steel featuring the traditional upturned point. The handle is of curly birch, and the leather sheath features traditional Lappish scenes."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "13 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "24 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "curly birch, varnished"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/lynx-139-0"
+  ]
+}

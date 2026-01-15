@@ -1,0 +1,79 @@
+{
+  "id": "marttiini.carbon-lapp-knife-240",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/240012",
+  "manufacturer": "marttiini",
+  "category_slug": "traditional",
+  "category_name": "Traditional",
+  "name": "Carbon Lapp Knife 240",
+  "name_short": "",
+  "slug": "carbon-lapp-knife-240",
+  "model_name": "",
+  "lead": "The long-awaited Lapp knife with a carbon steel blade",
+  "description": [
+    "Experience the Spark of the North! Fans of Marttiini throughout the world have been requesting a Lapp knife with a carbon steel blade. We listened – and proudly present the Carbon Lapp Knife 240.",
+    "The Carbon Lapp Knife 240 is a stunningly beautiful knife with",
+    "And, with regular maintenance, this knife will stay rust-free and serve you for years to come.",
+    "For the handle material, we chose beautiful curly birch to contrast the dark carbon steel. For extra protection, a layer of see-through wax was added. The elegant sheath made of light brown leather seals the deal."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "13 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "24 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "220 g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "carbon steel 1.2235 / 80CrV2, HRC 59.5"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "curly birch, waxed"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather, light brown"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "sharpening-angle",
+          "name": "Sharpening angle",
+          "value": "22 degrees / Scandi grind"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/carbon-lapp-knife-240-0"
+  ]
+}

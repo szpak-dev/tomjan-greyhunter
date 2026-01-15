@@ -8,9 +8,9 @@
     "preview": "astro preview",
     "astro": "astro",
     "load:contents": "tsx src/content.loader.ts",
-    "dicts:build": "tsx src/content.dictionaries.ts",
-    "dicts:sync": "tsx src/content.dictionaries.ts sync",
-    "translations": "tsx src/content.translations.ts",
+    "dictionaries:build": "tsx src/content.dictionaries.ts",
+    "dictionaries:sync": "tsx src/content.dictionaries.ts sync",
+    "translations:init": "tsx src/content.translations.ts",
     "translations:update": "tsx src/content.translations.ts update"
   },
   "dependencies": {

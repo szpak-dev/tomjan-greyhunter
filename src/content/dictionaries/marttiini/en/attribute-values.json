@@ -1,0 +1,1088 @@
+{
+    "marttiini.aapa": {
+        "blade-material": "forged carbon steel 80CrV2, HRC 59.5",
+        "handle-material": "colour-waxed curly birch, reindeer antler bone, protective oil",
+        "length-of-blade": "11 cm",
+        "sharpening-angle": "22 degrees / Scandi grind",
+        "sheath-material": "leather, black",
+        "total-length": "23 cm",
+        "weight": "176 g"
+    },
+    "marttiini.antler-damascus": {
+        "blade-material": "Damascus steel RWL34 & PMC27, HRC 60",
+        "handle-material": "Moose antler bone, cast ferrules",
+        "length-of-blade": "10 cm",
+        "packaging": "Wooden gift box",
+        "sheath-material": "Leather, black",
+        "total-length": "20 cm"
+    },
+    "marttiini.arctic-circle-knife": {
+        "blade-material": "carbon steel",
+        "handle-material": "birch, vaxed",
+        "length-of-blade": "9 cm",
+        "sheath-material": "leather, brown",
+        "total-length": "20 cm"
+    },
+    "marttiini.auhto": {
+        "blade-material": "Damascus",
+        "handle-material": "Reindeer antler bone, Elforyn, volcano yellow paper, colored birch",
+        "length-of-blade": "6 cm",
+        "packaging": "Wooden Unique Gift Box",
+        "sheath-material": "Leather, Black",
+        "total-length": "16,7 cm",
+        "weight": "160g"
+    },
+    "marttiini.basic-filleting-knife-10": {
+        "blade-material": "stainless steel",
+        "handle-material": "rubber, black",
+        "length-of-blade": "10 cm",
+        "sheath-material": "plastic, black",
+        "total-length": "20 cm"
+    },
+    "marttiini.basic-filleting-knife-15": {
+        "blade-material": "stainless steel",
+        "handle-material": "rubber, black",
+        "length-of-blade": "15 cm",
+        "sheath-material": "plastic, black",
+        "total-length": "27 cm"
+    },
+    "marttiini.basic-filleting-knife-19": {
+        "blade-material": "stainless steel",
+        "handle-material": "rubber, black",
+        "length-of-blade": "19 cm",
+        "sheath-material": "plastic, black",
+        "total-length": "31 cm"
+    },
+    "marttiini.bear-knife": {
+        "blade-material": "stainless steel 1.4034 / X46Cr13, HRC 53.5-55",
+        "handle-material": "curly birch, vaxed, cast ferrules",
+        "length-of-blade": "11 cm",
+        "packaging": "wooden gift box",
+        "sheath-material": "leather, brown",
+        "total-length": "22 cm"
+    },
+    "marttiini.black-8-folding-knife": {
+        "blade-material": "Stainless steel, chromium plated. Liner lock",
+        "handle-material": "G10, black. Belt clip",
+        "length-of-blade": "8 cm",
+        "packaging": "Cardboard gift box",
+        "total-length": "18 cm",
+        "weight": "99g"
+    },
+    "marttiini.cabin-chef-filleting-knife": {
+        "blade-material": "stainless steel (8Cr14MoV)",
+        "ferrule-material": "stainless steel",
+        "handle-material": "heat treated birch,",
+        "length-of-blade": "15,5 cm",
+        "sheath-material": "leather, brown",
+        "total-length": "27 cm",
+        "weight": "97 g"
+    },
+    "marttiini.cabin-chef-fish-fork": {
+        "blade-material": "stainless steel (8Cr14MoV)",
+        "ferrule-material": "stainless steel",
+        "handle-material": "heat treated birch",
+        "length-of-blade": "7,5 cm",
+        "sheath-material": "leather, brown",
+        "total-length": "19 cm",
+        "weight": "86 cm"
+    },
+    "marttiini.cabin-chef-kitchen-knife": {
+        "blade-material": "stainless steel (8Cr14MoV)",
+        "ferrule-material": "stainless steel",
+        "handle-material": "heat treated birch, waxed",
+        "length-of-blade": "14 cm",
+        "sheath-material": "leather, brown",
+        "total-length": "25,5 cm",
+        "weight": "85 g"
+    },
+    "marttiini.cabin-chef-knife": {
+        "blade-material": "stainless steel (8Cr14MoV)",
+        "ferrule-material": "stainless steel",
+        "handle-material": "heat treated birch,",
+        "length-of-blade": "9,5 cm",
+        "sheath-material": "leather, brown",
+        "total-length": "21 cm",
+        "weight": "120 g"
+    },
+    "marttiini.cabin-chef-knife-set": {
+        "blade-material": "stainless steel (8Cr14MoV)",
+        "ferrule-material": "stainless steel",
+        "handle-material": "heat treated birch,",
+        "roll-opened": "44 x 29.7 cm",
+        "sharpening-stone-material": "phyllite",
+        "sheath-material": "leather, brown",
+        "weight": "1126 g"
+    },
+    "marttiini.cabin-chef-little-knife": {
+        "blade-material": "stainless steel",
+        "handle-material": "curly birch, waxed",
+        "length-of-blade": "8 cm",
+        "sheath-material": "leather, brown",
+        "total-length": "19.5 cm",
+        "weight": "85 g"
+    },
+    "marttiini.carbon-lapp-knife-240": {
+        "blade-material": "carbon steel 1.2235 / 80CrV2, HRC 59.5",
+        "handle-material": "curly birch, waxed",
+        "length-of-blade": "13 cm",
+        "sharpening-angle": "22 degrees / Scandi grind",
+        "sheath-material": "leather, light brown",
+        "total-length": "24 cm",
+        "weight": "220 g"
+    },
+    "marttiini.chopping-board-large": {
+        "height": "2 cm",
+        "length": "39 cm",
+        "weight": "1,2 kg",
+        "width": "24 cm"
+    },
+    "marttiini.chopping-board-small": {
+        "height": "2 cm",
+        "length": "39 cm",
+        "weight": "850 g",
+        "width": "16 cm"
+    },
+    "marttiini.ckp-bread-knife": {
+        "blade-material": "stainless steel",
+        "handle-material": "rubber",
+        "length-of-blade": "19,5 cm",
+        "total-length": "31 cm"
+    },
+    "marttiini.ckp-carving-knife": {
+        "blade-material": "stainless steel",
+        "handle-material": "rubber",
+        "length-of-blade": "15 cm",
+        "total-length": "27 cm"
+    },
+    "marttiini.ckp-chef-s-knife-15": {
+        "blade-material": "stainless steel",
+        "handle-material": "rubber",
+        "length-of-blade": "15 cm",
+        "total-length": "27 cm"
+    },
+    "marttiini.ckp-chef-s-knife-21": {
+        "blade-material": "stainless steel",
+        "handle-material": "rubber",
+        "length-of-blade": "21 cm",
+        "total-length": "33 cm"
+    },
+    "marttiini.ckp-filleting-knife-19": {
+        "blade-material": "stainless steel",
+        "handle-material": "rubber",
+        "length-of-blade": "19 cm",
+        "total-length": "31 cm"
+    },
+    "marttiini.ckp-fish-fork": {
+        "blade-material": "stainless steel",
+        "handle-material": "rubber",
+        "length-of-blade": "5 cm",
+        "total-length": "17 cm"
+    },
+    "marttiini.ckp-knife-block-5-knives": {
+        "blade-material": "stainless steel",
+        "handle-material": "rubber"
+    },
+    "marttiini.ckp-peeling-knife": {
+        "blade-material": "stainless steel",
+        "handle-material": "rubber",
+        "length-of-blade": "7 cm",
+        "total-length": "17 cm"
+    },
+    "marttiini.ckp-roast-fork": {
+        "blade-material": "stainless steel",
+        "handle-material": "rubber",
+        "length-of-blade": "15 cm",
+        "total-length": "27 cm"
+    },
+    "marttiini.ckp-roast-set": {
+        "blade-material": "stainless steel",
+        "handle-material": "rubber",
+        "length-of-blade": "15 / 15cm",
+        "packaging": "wooden gift box",
+        "total-length": "27 / 27cm"
+    },
+    "marttiini.ckp-tomato-knife": {
+        "blade-material": "stainless steel",
+        "handle-material": "rubber",
+        "length-of-blade": "10 cm",
+        "total-length": "20 cm"
+    },
+    "marttiini.ckp-vegetable-knife": {
+        "blade-material": "stainless steel",
+        "handle-material": "rubber",
+        "length-of-blade": "10 cm",
+        "total-length": "20 cm"
+    },
+    "marttiini.classic-filleting-knife-10": {
+        "blade-material": "stainless steel",
+        "handle-material": "birch, varnished",
+        "length-of-blade": "10 cm",
+        "sheath-material": "leather",
+        "total-length": "20 cm"
+    },
+    "marttiini.classic-filleting-knife-15": {
+        "blade-material": "stainless steel",
+        "handle-material": "birch, varnished",
+        "length-of-blade": "15 cm",
+        "sheath-material": "leather",
+        "total-length": "27 cm"
+    },
+    "marttiini.classic-filleting-knife-19": {
+        "blade-material": "stainless steel",
+        "handle-material": "birch, varnished",
+        "length-of-blade": "19 cm",
+        "sheath-material": "leather",
+        "total-length": "31 cm"
+    },
+    "marttiini.condor-big-game": {
+        "blade-material": "Stainless steel",
+        "handle-material": "Rubber",
+        "length-of-blade": "13 cm",
+        "sheath-material": "Leather",
+        "total-length": "26 cm",
+        "weight": "214 g"
+    },
+    "marttiini.condor-classic": {
+        "blade-material": "stainless steel",
+        "handle-material": "rubber, black",
+        "length-of-blade": "11 cm",
+        "sheath-material": "leather, black",
+        "total-length": "23 cm"
+    },
+    "marttiini.condor-filleting-knife-10": {
+        "blade-material": "stainless steel",
+        "handle-material": "rubber",
+        "length-of-blade": "10 cm",
+        "sheath-material": "eather",
+        "total-length": "20 cm"
+    },
+    "marttiini.condor-filleting-knife-15": {
+        "blade-material": "stainless steel",
+        "handle-material": "rubber, black",
+        "length-of-blade": "15 cm",
+        "sheath-material": "leather, black",
+        "total-length": "27 cm"
+    },
+    "marttiini.condor-filleting-knife-19": {
+        "blade-material": "stainless steel",
+        "handle-material": "rubber, black",
+        "length-of-blade": "19 cm",
+        "sheath-material": "leather, black",
+        "total-length": "31 cm"
+    },
+    "marttiini.condor-fish-fork-plastic-sheath": {
+        "blade-material": "stainless steel",
+        "handle-material": "rubber",
+        "length-of-blade": "5 cm",
+        "sheath-material": "plastic",
+        "total-length": "17 cm"
+    },
+    "marttiini.condor-frontier": {
+        "blade-material": "Stainless Steel, Martef",
+        "handle-material": "Rubber, musta",
+        "length-of-blade": "13 cm",
+        "sheath-material": "Leather, black",
+        "total-length": "26 cm"
+    },
+    "marttiini.condor-junior": {
+        "blade-material": "stainless steel, rounded tip",
+        "handle-material": "rubber, black",
+        "length-of-blade": "8 cm",
+        "sheath-material": "leather, black",
+        "total-length": "18 cm"
+    },
+    "marttiini.condor-skinner": {
+        "blade-material": "stainless steel",
+        "handle-material": "rubber",
+        "length-of-blade": "11 cm",
+        "sheath-material": "leather",
+        "total-length": "23 cm"
+    },
+    "marttiini.condor-timberjack": {
+        "blade-material": "carbon steel 1.2003 / X75Cr1, HRC 55-57",
+        "handle-material": "rubber",
+        "length-of-blade": "9,5 cm",
+        "sheath-material": "leather",
+        "total-length": "22 cm"
+    },
+    "marttiini.condor-timberjack-plastic-sheath": {
+        "blade-material": "carbon steel 1.2003 / X75Cr1, HRC 55-57",
+        "handle-material": "rubber",
+        "length-of-blade": "9,5 cm",
+        "sheath-material": "plastic",
+        "total-length": "22 cm"
+    },
+    "marttiini.condor-trailblazer": {
+        "blade-material": "Stainless Steel, Martef",
+        "handle-material": "Rubber, musta",
+        "length-of-blade": "11 cm",
+        "sheath-material": "Leather, black",
+        "total-length": "23 cm"
+    },
+    "marttiini.condor-trailblazer-and-firestick": {
+        "blade-material": "Stainless Steel, Martef",
+        "handle-material": "Rubber, black",
+        "length-of-blade": "11 cm",
+        "sheath-material": "Leather, black",
+        "total-length": "23 cm",
+        "weight": "227 g"
+    },
+    "marttiini.damascus": {
+        "blade-material": "Damascus steel RWL34 & PMC27, HRC 60",
+        "handle-material": "Curly birch, vaxed, cast ferrules",
+        "length-of-blade": "10 cm",
+        "packaging": "Wooden gift box",
+        "sheath-material": "Leather, brown",
+        "total-length": "20 cm"
+    },
+    "marttiini.deluxe-classic": {
+        "blade-material": "stainless steel",
+        "handle-material": "curly birch, waxed",
+        "length-of-blade": "11 cm",
+        "sheath-material": "leather",
+        "total-length": "23 cm"
+    },
+    "marttiini.deluxe-gourmet-steak-knife": {
+        "blade-material": "stainless steel",
+        "handle-material": "heat treated birch, brown",
+        "length-of-blade": "10 cm",
+        "total-length": "21 cm"
+    },
+    "marttiini.deluxe-gourmet-steak-knife-set": {
+        "blade-material": "stainless steel",
+        "handle-material": "heat treated birch",
+        "length-of-blade": "10 cm",
+        "packaging": "wooden box",
+        "total-length": "21 cm"
+    },
+    "marttiini.deluxe-junior": {
+        "blade": "stainless steel, rounded tip",
+        "handle": "heat-treated birch, finger guard",
+        "length-of-blade": "8 cm",
+        "sheath": "leather, brown",
+        "total-length": "19 cm"
+    },
+    "marttiini.deluxe-lynx": {
+        "blade-material": "Stainless steel",
+        "handle-material": "Curly birch, waxed, cast finger guard",
+        "length-of-blade": "11 cm",
+        "sheath-material": "Leather",
+        "total-length": "22 cm"
+    },
+    "marttiini.deluxe-roast-set": {
+        "blade-material": "stainless steel 1.4034 / X46Cr13, HRC 53,5-55",
+        "finger-guard": "100 % recycled ABS",
+        "handle-material": "Finnish curly birch",
+        "length-of-blade": "15 cm",
+        "packaging": "wooden gift box",
+        "total-length": "27 cm"
+    },
+    "marttiini.deluxe-skinner": {
+        "blade-material": "stainless steel",
+        "handle-material": "curly birch, waxed",
+        "length-of-blade": "11 cm",
+        "sheath-material": "leather",
+        "total-length": "23 cm"
+    },
+    "marttiini.eagle-damascus": {
+        "blade-material": "Stainless Damascus steel blade RWL34 & PMC27, HRC 60",
+        "handle-material": "Heat treated curly birch handle",
+        "length-of-blade": "10 cm",
+        "packaging": "wooden gift box",
+        "sheath-material": "Leather sheet with Damascus pattern",
+        "total-length": "22,5 cm"
+    },
+    "marttiini.eagle-knife": {
+        "blade-material": "Stainless steel 1.4034 / X46Cr13, HRC 53,5-55",
+        "handle-material": "Heat treated curly birch, waxed, cast ferrules",
+        "length-of-blade": "11 cm",
+        "packaging": "wooden gift box",
+        "sheath-material": "Leather, black",
+        "total-length": "22 cm"
+    },
+    "marttiini.enamel-mug-37-dl-white": {
+        "size": "3.7 dl",
+        "weight": "158 g"
+    },
+    "marttiini.fish-cleaner": {
+        "blade-material": "stainless steel",
+        "handle-material": "rubber",
+        "length-of-blade": "10 cm",
+        "sheath-material": "plastic",
+        "total-length": "27 cm"
+    },
+    "marttiini.fishermans-knife-condor": {
+        "blade-material": "stainless steel",
+        "handle-material": "rubber",
+        "length-of-blade": "11 cm",
+        "sheath-material": "leather",
+        "total-length": "23 cm"
+    },
+    "marttiini.golden-lynx": {
+        "blade-material": "stainless steel",
+        "handle-material": "curly birch",
+        "length-of-blade": "11 cm",
+        "sheath-material": "leather",
+        "total-length": "25 cm"
+    },
+    "marttiini.handy": {
+        "blade-material": "stainless steel",
+        "handle-material": "curly birch, waxed",
+        "length-of-blade": "7,5 cm",
+        "sheath-material": "leather",
+        "total-length": "19 cm"
+    },
+    "marttiini.herb-knife-keraaja": {
+        "blade-material": "Stainless steel",
+        "handle-material": "Heat-treated birch",
+        "length-of-blade": "7 cm",
+        "sheath-material": "Chrome tanned leather",
+        "total-length": "17,5 cm"
+    },
+    "marttiini.jarvi-annual-knife-2026": {
+        "blade-material": "Polished stainless steel",
+        "handle-material": "Heat treated curly birch",
+        "length-of-blade": "19 cm",
+        "sheath-material": "Chrome tanned leather",
+        "total-length": "30 cm",
+        "weight": "Knife 80 g, with sheath 160 g"
+    },
+    "marttiini.kaamos-carbon": {
+        "blade-material": "carbon steel 1.2003 / X75Cr1, HRC 55-57",
+        "handle-material": "birch, stained",
+        "length-of-blade": "9 cm",
+        "sheath-material": "leather, black",
+        "total-length": "19,5 cm"
+    },
+    "marttiini.kide-bread-knife": {
+        "blade-material": "stainless steel 1.4116",
+        "handle-material": "rubber (Santoprene)",
+        "length-of-blade": "21 cm",
+        "total-length": "33,2 cm",
+        "weight": "187g"
+    },
+    "marttiini.kide-carving-fork": {
+        "blade-material": "stainless steel 1.4116",
+        "handle-material": "rubber (Santoprene)",
+        "length-of-blade": "18 cm",
+        "total-length": "29,5 cm",
+        "weight": "137g"
+    },
+    "marttiini.kide-carving-knife": {
+        "blade-material": "stainless steel 1.4116",
+        "handle-material": "rubber (Santoprene)",
+        "length-of-blade": "21 cm",
+        "total-length": "32,9 cm",
+        "weight": "182g"
+    },
+    "marttiini.kide-chef-s-knife-15": {
+        "blade-material": "stainless steel 1.4116",
+        "handle-material": "rubber (Santoprene)",
+        "length-of-blade": "15 cm",
+        "total-length": "28,6 cm",
+        "weight": "191g"
+    },
+    "marttiini.kide-chef-s-knife-21": {
+        "blade-material": "stainless steel 1.4116",
+        "handle-material": "rubber (Santoprene)",
+        "length-of-blade": "21 cm",
+        "total-length": "33,4 cm",
+        "weight": "232g"
+    },
+    "marttiini.kide-fillet-knife-21": {
+        "blade-material": "stainless steel 1.4116",
+        "handle-material": "rubber (Santoprene)",
+        "length-of-blade": "21 cm",
+        "total-length": "34 cm",
+        "weight": "163g"
+    },
+    "marttiini.kide-paring-knife": {
+        "blade-material": "stainless steel 1.4116",
+        "handle-material": "rubber (Santoprene)",
+        "length-of-blade": "8 cm",
+        "total-length": "18,5 cm",
+        "weight": "76g"
+    },
+    "marttiini.kide-santoku": {
+        "blade-material": "stainless steel 1.4116",
+        "handle-material": "rubber (Santoprene)",
+        "length-of-blade": "18 cm",
+        "total-length": "31,3 cm",
+        "weight": "208g"
+    },
+    "marttiini.kide-tomato-knife": {
+        "blade-material": "stainless steel 1.4116",
+        "handle-material": "rubber (Santoprene)",
+        "length-of-blade": "14 cm",
+        "total-length": "24 cm",
+        "weight": "84g"
+    },
+    "marttiini.kide-vegetable-knife": {
+        "blade-material": "stainless steel 1.4116",
+        "handle-material": "rubber (Santoprene)",
+        "length-of-blade": "8 cm",
+        "total-length": "19,8 cm",
+        "weight": "81g"
+    },
+    "marttiini.kiehinen": {
+        "blade-material": "carbon steel",
+        "handle-material": "curly birch, vaxed",
+        "length-of-blade": "9 cm",
+        "sheath-material": "leather",
+        "total-length": "19,5 cm"
+    },
+    "marttiini.kierinki": {
+        "blade": "Carbon steel, Forged Blade 1.2235 / 80CrV2, HRC 59.5",
+        "handle": "Heat-treated burch / curly birch",
+        "length-of-blade": "11 cm",
+        "sheath": "Leather, light brown",
+        "total-length": "23 cm",
+        "weight": "136g"
+    },
+    "marttiini.kojamo-unique": {
+        "blade-material": "Stainless steel",
+        "handle-material": "Moose antler bone, bronze cast ferrules",
+        "length-of-blade": "19 cm",
+        "packaging": "Wooden Unique Gift Box",
+        "sheath-material": "Leather, black",
+        "total-length": "33.5 cm",
+        "weight": "200 g"
+    },
+    "marttiini.lake-whisperer": {
+        "blade-material": "Damascus",
+        "handle-material": "Reindeer antler bone, colored birch",
+        "length-of-blade": "6 cm",
+        "packaging": "Wooden Unique Gift Box",
+        "sheath-material": "Leather, black",
+        "total-length": "16,1 cm",
+        "weight": "140g"
+    },
+    "marttiini.lapp-knife-230": {
+        "blade-material": "stainless steel",
+        "handle-material": "curly birch, varnished",
+        "length-of-blade": "11 cm",
+        "sheath-material": "leather",
+        "total-length": "22 cm"
+    },
+    "marttiini.lapp-knife-235": {
+        "blade-material": "stainless steel",
+        "handle-material": "curly birch, varnished",
+        "length-of-blade": "11 cm",
+        "sheath-material": "leather, brown",
+        "total-length": "22 cm"
+    },
+    "marttiini.lapp-knife-240": {
+        "blade-material": "stainless steel",
+        "handle-material": "curly birch, varnished",
+        "length-of-blade": "13 cm",
+        "sheath-material": "leather, light brown",
+        "total-length": "24 cm"
+    },
+    "marttiini.lapp-knife-245": {
+        "blade-material": "stainless steel",
+        "handle-material": "curly birch, varnished",
+        "length-of-blade": "13 cm",
+        "sheath-material": "leather, brown",
+        "total-length": "24 cm"
+    },
+    "marttiini.lapp-knife-250": {
+        "blade-material": "stainless steel",
+        "handle-material": "curly birch, varnished",
+        "length-of-blade": "16 cm",
+        "sheath-material": "leather",
+        "total-length": "27 cm"
+    },
+    "marttiini.lapp-knife-255": {
+        "blade-material": "stainless steel",
+        "handle-material": "curly birch, varnished",
+        "length-of-blade": "16 cm",
+        "sheath-material": "leather",
+        "total-length": "27 cm"
+    },
+    "marttiini.lapp-knife-280": {
+        "blade-material": "stainless steel 1.4034 / X46Cr13, HRC 53.5-55",
+        "handle-material": "Finnish curly birch, varnished",
+        "length-of-blade": "45 cm",
+        "sheath-material": "leather, brown",
+        "total-length": "56 cm"
+    },
+    "marttiini.lapp-knife-antler": {
+        "blade-material": "stainless steel X46Cr13, HRC 53-55",
+        "handle-material": "Finnish curly birch & reindeer antler bone",
+        "length-of-blade": "11 cm",
+        "sheath-material": "leather",
+        "total-length": "22 cm"
+    },
+    "marttiini.little-condor": {
+        "blade-material": "stainless steel 1.4034 / X46Cr13, HRC 53.5-55",
+        "handle-material": "rubber",
+        "length-of-blade": "9 cm",
+        "sheath-material": "leather",
+        "total-length": "19 cm"
+    },
+    "marttiini.lumberjack-antler": {
+        "blade-material": "carbon steel 1.2003 / X75Cr1, HRC 55-57",
+        "handle-material": "heat-treated birch & reindeer antler bone",
+        "length-of-blade": "10 cm",
+        "sheath-material": "leather, brown",
+        "total-length": "22 cm",
+        "weight": "140 g"
+    },
+    "marttiini.lumberjack-carbon": {
+        "blade-material": "carbon steel 1.2003 / X75Cr1, HRC 55-57",
+        "handle-material": "birch, stained",
+        "length-of-blade": "10 cm",
+        "sheath-material": "leather, brown",
+        "total-length": "22 cm"
+    },
+    "marttiini.lumberjack-stainless": {
+        "blade-material": "stainless steel 1.4034 / X46Cr13, HRC 53.5-55",
+        "handle-material": "birch, stained",
+        "length-of-blade": "11 cm",
+        "sheath-material": "leather",
+        "total-length": "22 cm"
+    },
+    "marttiini.lusto-annual-knife-2025": {
+        "blade-material": "Stainless steel",
+        "handle-material": "Heat treated birch",
+        "length-of-blade": "11 cm",
+        "packaging": "Cardboard gift box",
+        "sheath-material": "Vegetable tanned leather",
+        "total-length": "23 cm",
+        "weight": "150 g"
+    },
+    "marttiini.lynx-121": {
+        "blade-material": "stainless steel",
+        "handle-material": "curly birch",
+        "length-of-blade": "9 cm",
+        "sheath-material": "leather",
+        "total-length": "20 cm"
+    },
+    "marttiini.lynx-129": {
+        "blade-material": "stainless steel",
+        "handle-material": "birch, varnished",
+        "length-of-blade": "11 cm",
+        "sheath-material": "leather",
+        "total-length": "22 cm"
+    },
+    "marttiini.lynx-131": {
+        "blade-material": "stainless steel",
+        "handle-material": "curly birch, varnished",
+        "length-of-blade": "11 cm",
+        "sheath-material": "leather, brown",
+        "total-length": "22 cm"
+    },
+    "marttiini.lynx-132": {
+        "blade-material": "stainless steel",
+        "handle-material": "curly birch, varnished",
+        "length-of-blade": "11 cm",
+        "sheath-material": "leather",
+        "total-length": "22 cm"
+    },
+    "marttiini.lynx-134": {
+        "blade-material": "Stainless steel 1.4034 / X46Cr13, HRC 53.5-55",
+        "handle-material": "Curly birch, waxed, finger guard of cast",
+        "length-of-blade": "11 cm",
+        "sharpening-angle": "22 degrees / Scandi grind",
+        "sheath-material": "Leather",
+        "total-length": "22 cm"
+    },
+    "marttiini.lynx-138": {
+        "blade-material": "stainless steel",
+        "handle-material": "curly birch, waxed",
+        "length-of-blade": "13 cm",
+        "sheath-material": "leather",
+        "total-length": "24 cm"
+    },
+    "marttiini.lynx-139": {
+        "blade-material": "stainless steel",
+        "handle-material": "curly birch, varnished",
+        "length-of-blade": "13 cm",
+        "sheath-material": "leather",
+        "total-length": "24 cm"
+    },
+    "marttiini.lynx-black-edition": {
+        "blade-material": "Carbon steel 80CrV2, HRC 59.5",
+        "handle-material": "Black birch, protective oil coating",
+        "length-of-blade": "11 cm",
+        "sharpening-angle": "22 degrees / Scandi grind",
+        "sheath-material": "Black leather",
+        "total-length": "23 cm"
+    },
+    "marttiini.lynx-forged": {
+        "blade-material": "Carbon steel 1.2235 / 80CrV2, HRC 59.5",
+        "handle-material": "Curly Birch",
+        "length-of-blade": "11 cm",
+        "sheath-material": "Leather",
+        "total-length": "23 cm"
+    },
+    "marttiini.maarjakas": {
+        "blade-material": "Damascus",
+        "handle-material": "Heat-treated curly birch, curly birch, reindeer antler bone, colored birch",
+        "length-of-blade": "10 cm",
+        "packaging": "Wooden Unique Gift Box",
+        "sheath-material": "Leather, Black",
+        "total-length": "22,3 cm",
+        "weight": "140g"
+    },
+    "marttiini.martef-big-game": {
+        "blade-material": "stainless steel, Martef coating",
+        "handle-material": "rubber, orange",
+        "length-of-blade": "13 cm",
+        "sheath-material": "leather, black",
+        "total-length": "26 cm"
+    },
+    "marttiini.martef-carving-knife": {
+        "blade-material": "stainless steel, Martef coating",
+        "handle-material": "rubber, orange",
+        "length-of-blade": "15 cm",
+        "sheath-material": "leather, black",
+        "total-length": "27 cm"
+    },
+    "marttiini.martef-filleting-knife-15": {
+        "blade-material": "stainless steel, Martef coating",
+        "handle-material": "rubber, blue",
+        "length-of-blade": "15 cm",
+        "sheath-material": "leather, black",
+        "total-length": "27 cm"
+    },
+    "marttiini.martef-filleting-knife-15-plastic-sheath": {
+        "blade-material": "stainless steel, Martef coating",
+        "handle-material": "rubber, blue",
+        "length-of-blade": "15 cm",
+        "sheath-material": "plastic, black",
+        "total-length": "27 cm"
+    },
+    "marttiini.martef-filleting-knife-19": {
+        "blade-material": "stainless steel, Martef coating",
+        "handle-material": "rubber, blue",
+        "length-of-blade": "19 cm",
+        "sheath-material": "leather, black",
+        "total-length": "31 cm"
+    },
+    "marttiini.martef-filleting-knife-19-plastic-sheath": {
+        "blade-material": "stainless steel, Martef coating",
+        "handle-material": "rubber, blue",
+        "length-of-blade": "19 cm",
+        "sheath-material": "plastic, black",
+        "total-length": "31 cm"
+    },
+    "marttiini.martef-filleting-knife-23": {
+        "blade-material": "stainless steel, Martef coating",
+        "handle-material": "rubber, blue",
+        "length-of-blade": "23 cm",
+        "sheath-material": "leather, black",
+        "total-length": "36 cm"
+    },
+    "marttiini.martef-fishing-knife": {
+        "blade-material": "stainless steel, Martef coating",
+        "handle-material": "rubber, blue",
+        "length-of-blade": "11 cm",
+        "sheath-material": "leather, black",
+        "total-length": "23 cm",
+        "weight": "131 g"
+    },
+    "marttiini.martef-skinner": {
+        "blade-material": "stainless steel, Martef coating",
+        "handle-material": "rubber, orange",
+        "length-of-blade": "11 cm",
+        "sheath-material": "leather, black",
+        "total-length": "23 cm"
+    },
+    "marttiini.martef-skinning-hook": {
+        "blade-material": "stainless steel, Martef coating",
+        "handle-material": "rubber, orange",
+        "length-of-blade": "11 cm",
+        "sheath-material": "leather. black",
+        "total-length": "25 cm"
+    },
+    "marttiini.marttiini-camping-axe": {
+        "blade-cover": "leather, brown",
+        "blade-material": "carbon steel",
+        "handle-material": "ash wood",
+        "length-of-blade": "13 x 8 cm",
+        "total-length": "38,5 cm",
+        "weight": "830 g"
+    },
+    "marttiini.marttiini-hiking-axe": {
+        "blade-cover": "leather, brown",
+        "blade-material": "carbon steel",
+        "handle-material": "ash wood",
+        "length-of-blade": "14 x 8 cm",
+        "total-length": "34cm",
+        "weight": "550 g"
+    },
+    "marttiini.marttiini-tote-bag": {
+        "size": "37"
+    },
+    "marttiini.marttiini-trekking-axe": {
+        "blade-cover": "leather, brown",
+        "blade-material": "carbon steel",
+        "handle-material": "ash wood",
+        "length-of-blade": "13 x 7 cm",
+        "total-length": "34cm",
+        "weight": "680 g"
+    },
+    "marttiini.mef8-folding-knife": {
+        "blade-material": "Stainless steel / Liner lock / Flipper",
+        "handle-material": "G-10. / Belt clip",
+        "length-of-blade": "8,5 cm",
+        "total-length": "20 cm",
+        "weight": "130g"
+    },
+    "marttiini.mfk-curly-birch-folding-knife": {
+        "blade-material": "Stainless steel. Liner lock",
+        "handle-material": "Curly birch. Belt clip",
+        "length-of-blade": "8 cm",
+        "total-length": "19 cm",
+        "weight": "126g"
+    },
+    "marttiini.moose-black": {
+        "blade-material": "Carbon Steel X75Cr1, HRC 55-57",
+        "handle-material": "Colored birch",
+        "length-of-blade": "9 cm",
+        "packaging": "Wooden gift box, stained black",
+        "sheath-material": "Genuine vegetable tanned leather",
+        "total-length": "20 cm",
+        "weight": "120 g"
+    },
+    "marttiini.moose-knife": {
+        "blade-material": "carbon steel 1.2235 / 80CrV2 / HRC 59.5",
+        "handle-material": "heat treated curlybirch, waxed, cast ferrules",
+        "length-of-blade": "11 cm",
+        "packaging": "wooden gift box",
+        "sheath-material": "leather, black",
+        "total-length": "24,5 cm"
+    },
+    "marttiini.mushroom-knife": {
+        "blade-material": "stainless steel",
+        "handle-material": "plastic",
+        "length-of-blade": "6,5 cm",
+        "sheath-material": "leather",
+        "total-length": "18,5 cm"
+    },
+    "marttiini.mushroom-knife-keraaja": {
+        "blade-material": "Stainless steel",
+        "brush": "Genuine wild boar hair",
+        "brush-length": "2 cm",
+        "handle-material": "Heat-treated birch",
+        "length-of-blade": "7 cm",
+        "sheath-material": "Chrome tanned leather",
+        "total-length": "20 cm"
+    },
+    "marttiini.mushroom-knife-neck-sheath": {
+        "blade-material": "stainless steel",
+        "handle-material": "plastic, yellow",
+        "length-of-blade": "6,5 cm",
+        "sheath-material": "leather",
+        "total-length": "18,5 cm"
+    },
+    "marttiini.mushroom-knife-ruska": {
+        "blade-material": "Stainless steel",
+        "brush": "Nylon",
+        "handle-material": "Plastic",
+        "length-of-blade": "5 cm",
+        "sheath-material": "Chrome tanned leather",
+        "total-length": "16 cm"
+    },
+    "marttiini.paljakka": {
+        "blade-material": "Damascus",
+        "handle-material": "Reindeer antler bone, Volcano White Paper, colored birch",
+        "length-of-blade": "6 cm",
+        "packaging": "Wooden Unique Gift Box",
+        "sheath-material": "Leather, Black",
+        "total-length": "16,1 cm",
+        "weight": "160g"
+    },
+    "marttiini.puzzle": {
+        "blade-material": "Damascus",
+        "handle-material": "Reindeer antler bone, heat-treated curly birch, colored birch, curly birch",
+        "length-of-blade": "6 cm",
+        "packaging": "Wooden Unique Gift Box",
+        "sheath-material": "Leather, Black",
+        "total-length": "17,5 cm",
+        "weight": "120g"
+    },
+    "marttiini.raja": {
+        "blade-material": "Damascus",
+        "handle-material": "Reindeer Antler Bone, curly birch",
+        "length-of-blade": "10 cm",
+        "packaging": "Wooden Unique Gift Box",
+        "sheath-material": "Leather, White",
+        "total-length": "22 cm",
+        "weight": "180g"
+    },
+    "marttiini.ranger": {
+        "blade-material": "stainless steel X46Cr13, HRC 53-55",
+        "handle-material": "Finnish curly birch & heat-treated birch",
+        "length-of-blade": "16 cm",
+        "sheath-material": "leather",
+        "total-length": "29 cm"
+    },
+    "marttiini.salmon-filleting-knife": {
+        "blade-material": "Stainless steel X46Cr13, HRC 53-55",
+        "handle-material": "Finnish heat-treated curly birch, waxed, cust ferrules",
+        "length-of-blade": "19 cm",
+        "packaging": "Wooden gift box",
+        "sheath-material": "Leather, black",
+        "total-length": "31 cm"
+    },
+    "marttiini.salmon-knife": {
+        "blade-material": "stainless steel 1.4034 / X46Cr13, HRC 53.5-55",
+        "handle-material": "heat treated curly birch, waxed, cast ferrules",
+        "length-of-blade": "11 cm",
+        "packaging": "wooden gift box",
+        "sharpening-angle": "22 degrees / Scandi grind",
+        "sheath-material": "leather, black",
+        "total-length": "24 cm"
+    },
+    "marttiini.scout-s-knife": {
+        "blade-material": "stainless steel",
+        "handle-material": "curly birch, varnished",
+        "length-of-blade": "9 cm",
+        "sheath-material": "leather",
+        "total-length": "19 cm"
+    },
+    "marttiini.snappy": {
+        "blade-material": "carbon steel",
+        "handle-material": "birch, waxed",
+        "length-of-blade": "5,9 cm",
+        "sheath-material": "leather, black",
+        "total-length": "18 cm",
+        "weight": "102g"
+    },
+    "marttiini.soft-handle-hunting": {
+        "blade-material": "Stainless steel",
+        "handle-material": "Rubber",
+        "length-of-blade": "13 cm",
+        "sheath-material": "Leather",
+        "total-length": "26,5 cm",
+        "weight": "160 g"
+    },
+    "marttiini.sunset": {
+        "blade-material": "Damascus",
+        "handle-material": "Heat-treated curly birch, curly birch, colored birch",
+        "length-of-blade": "10 cm",
+        "packaging": "Wooden Unique Gift Box",
+        "sheath-material": "Leather, black",
+        "total-length": "22,3 cm",
+        "weight": "140g"
+    },
+    "marttiini.suomi-finland": {
+        "blade-material": "stainless steel 1.4034 / X46Cr13, HRC 53.5-55",
+        "handle-material": "curly birch, waxed, cast ferrules",
+        "length-of-blade": "11 cm",
+        "packaging": "wooden gift box",
+        "sheath-material": "leather",
+        "total-length": "22 cm"
+    },
+    "marttiini.superflex-filleting-knife-10": {
+        "blade-material": "stainless steel",
+        "handle-material": "heat treated birch, vaxed",
+        "length-of-blade": "10 cm",
+        "sheath-material": "leather, brown",
+        "total-length": "20 cm"
+    },
+    "marttiini.superflex-filleting-knife-15": {
+        "blade-material": "stainless steel",
+        "handle-material": "heat treated birch, waxed",
+        "length-of-blade": "15 cm",
+        "sheath-material": "leather, brown",
+        "total-length": "27 cm"
+    },
+    "marttiini.superflex-filleting-knife-19": {
+        "blade-material": "stainless steel",
+        "handle-material": "heat treated birch, waxed",
+        "length-of-blade": "19 cm",
+        "sheath-material": "leather, brown",
+        "total-length": "31 cm"
+    },
+    "marttiini.taiga-lapp-knife": {
+        "blade-material": "Stainless steel",
+        "handle-material": "Birch, heat-treated and varnished",
+        "length-of-blade": "11 cm",
+        "sheath-material": "Leather, light brown",
+        "total-length": "22 cm",
+        "weight": "141 g"
+    },
+    "marttiini.tervas": {
+        "blade-material": "Damascus",
+        "handle-material": "Heat-treated curly birch, reindeer antler bone, colored birch",
+        "length-of-blade": "10 cm",
+        "packaging": "Wooden Unique Gift Box",
+        "sheath-material": "Leather, Black",
+        "total-length": "22,3 cm",
+        "weight": "140g"
+    },
+    "marttiini.tundra-cb": {
+        "blade-material": "stainless steel",
+        "handle-material": "curly birch, waxed",
+        "length-of-blade": "11 cm",
+        "sheath-material": "leather, brown",
+        "total-length": "22 cm"
+    },
+    "marttiini.tundra-gr": {
+        "blade-material": "stainless steel",
+        "handle-material": "curly birch & color waxed",
+        "length-of-blade": "11 cm",
+        "sheath-material": "leather, black",
+        "total-length": "22 cm"
+    },
+    "marttiini.viserrys": {
+        "blade-material": "Damascus",
+        "handle-material": "Reindeer antler bone, heat-treated curly birch, colored birch, curly birch",
+        "length-of-blade": "6 cm",
+        "packaging": "Wooden Unique Gift Box",
+        "sheath-material": "Leather, black",
+        "total-length": "15,9 cm",
+        "weight": "120g"
+    },
+    "marttiini.vuonelo": {
+        "blade-material": "Damascus",
+        "handle-material": "Reindeer antler bone, curly birch, colored wood veneers",
+        "length-of-blade": "10 cm",
+        "packaging": "Wooden Unique Gift Box",
+        "sheath-material": "Leather, blue",
+        "total-length": "26 cm",
+        "weight": "220 g"
+    },
+    "marttiini.wild-boar": {
+        "blade-material": "stainless steel 1.4034 / X46Cr13, HRC 53,5-55",
+        "handle-material": "curly birch, color waxed",
+        "length-of-blade": "11 cm",
+        "packaging": "wooden gift box",
+        "sheath-material": "leather, black",
+        "total-length": "24 cm"
+    },
+    "marttiini.wild-reindeer-11": {
+        "blade-material": "stainless steel X46Cr13 / 1.4034, HRC 53.5-55",
+        "handle-material": "curly birch & reindeer antler bone",
+        "length-of-blade": "11 cm",
+        "sheath-material": "leather",
+        "total-length": "23 cm"
+    },
+    "marttiini.wild-reindeer-13": {
+        "blade-material": "stainless steel 1.4034 / X46Cr13, HRC 53.5-55",
+        "handle-material": "curly birch & reindeer antler bone",
+        "length-of-blade": "13 cm",
+        "sheath-material": "leather",
+        "total-length": "25 cm"
+    },
+    "marttiini.witch-s-tooth": {
+        "blade-material": "stainless steel 1.4034 / X46Cr13, HRC 53.5-55",
+        "handle-material": "Finnish curly birch & antler",
+        "length-of-blade": "11 cm",
+        "sheath-material": "leather, light brown",
+        "total-length": "22 cm",
+        "weight": "143g"
+    },
+    "marttiini.wood-grouse-knife": {
+        "blade-material": "Stainless steel 1.4034 / X46Cr13, HRC 53.5-55",
+        "handle-material": "Curly birch, cast ferrules",
+        "length-of-blade": "11 cm",
+        "packaging": "wooden gift box",
+        "sheath-material": "Leather, black",
+        "total-length": "24,5 cm"
+    }
+}

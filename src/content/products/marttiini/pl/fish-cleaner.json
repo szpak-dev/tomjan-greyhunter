@@ -1,0 +1,61 @@
+{
+  "id": "marttiini.fish-cleaner",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/175019",
+  "manufacturer": "marttiini",
+  "category_slug": "fishing",
+  "category_name": "Fishing",
+  "name": "Fish Cleaner",
+  "name_short": "",
+  "slug": "fish-cleaner",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The fish cleaner is a very handy tool. The curved blade makes it easy to open up the fish, while the serrated edge comes in handy for scaling.",
+    "With the metal scoop at the end of the handle removing the intestines is clean and fast. The blade is protected by a plastic shield."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "10 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "27 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "rubber"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "plastic"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/fish-cleaner-0"
+  ]
+}

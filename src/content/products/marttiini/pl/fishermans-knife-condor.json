@@ -1,0 +1,63 @@
+{
+  "id": "marttiini.fishermans-knife-condor",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/175014",
+  "manufacturer": "marttiini",
+  "category_slug": "fishing",
+  "category_name": "Fishing",
+  "name": "Fishermans knife Condor",
+  "name_short": "",
+  "slug": "fishermans-knife-condor",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The serrated edge on the back of the stainless steel blade makes the removal of fish scales easy.",
+    "The blade of the fisherman's knife is sharpened just like a normal Marttiini knife, therefore you can use this knife not only for processing fish but also for many jobs around the house or camp. The textured rubber handle and the finger guard ensure a firm grip of the knife even in cold and wet conditions.",
+    "The knife is supplied with a black leather sheath.",
+    "We recommend hand wash."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "23 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "rubber"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/fishermans-knife-condor-0"
+  ]
+}

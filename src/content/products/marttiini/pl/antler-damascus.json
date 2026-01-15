@@ -1,0 +1,75 @@
+{
+  "id": "marttiini.antler-damascus",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/557011W",
+  "manufacturer": "marttiini",
+  "category_slug": "design-knives",
+  "category_name": "Design Knives",
+  "name": "Antler Damascus",
+  "name_short": "",
+  "slug": "antler-damascus",
+  "model_name": "",
+  "lead": "The Antler Damascus – the crown jewel of Marttiini knives",
+  "description": [
+    "The Antler Damascus is the most prestigious knife we have ever made, since the establishment of our knife factory in 1928. It is the tour de force of knifemaking by our skilled professionals. The Antler Damascus has been carefully handcrafted using materials selected exclusively for this knife.",
+    "The ultra-sharp blade is made of stainless Damascus steel. Damascus steel is crafted using technology in which two different top-grade steels are embedded together in 120 layers under high pressure and high temperature. Interlaying two different steels and using the traditional blacksmith techniques of forging, hammering and rolling in the right temperatures brings out the beautiful rose pattern. The Damascus blade is extremely durable and stays sharp for a long time.",
+    "The rock-solid handle of the knife is made of Finnish moose antler. The handle has been elaborated by hand, which requires strong craftsmanship skills. The color of the antler is natural, no chemical whitening has been used. The cast ferrule imitates the rose pattern of the blade.",
+    "Each of the Antler Damascus knife blades is individually numbered, making the knife not only a practical tool for the outdoors but also a unique collector’s item.",
+    "Each knife is delivered in an elegant wooden gift box."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "10 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "20 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Damascus steel RWL34 & PMC27, HRC 60"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Moose antler bone, cast ferrules"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Leather, black"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "Wooden gift box"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/antler-damascus-0"
+  ]
+}

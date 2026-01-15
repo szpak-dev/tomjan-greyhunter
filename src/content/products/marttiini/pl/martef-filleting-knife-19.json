@@ -1,0 +1,65 @@
+{
+  "id": "marttiini.martef-filleting-knife-19",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/836014T",
+  "manufacturer": "marttiini",
+  "category_slug": "fishing",
+  "category_name": "Fishing",
+  "name": "Martef Filleting Knife 19",
+  "name_short": "",
+  "slug": "martef-filleting-knife-19",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The Martef coating reduces friction to almost zero while protecting the blade against corrosion. Cleaning the blade after use is extremely easy.",
+    "The textured rubber handle and the finger guard ensure a firm grip of the knife even in difficult conditions. This blade length is suitable for processing fish of about 2-3 kg.",
+    "Many other kitchen chores, such as slicing vegetables, become easy with this knife. The filleting knife is supplied with a leather sheath.",
+    "We recommend hand wash.",
+    "This knife is also available with a plastic sheath (",
+    ")."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "19 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "31 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel, Martef coating"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "rubber, blue"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather, black"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/martef-filleting-knife-19-0"
+  ]
+}

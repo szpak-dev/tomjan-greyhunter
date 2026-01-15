@@ -1,0 +1,61 @@
+{
+  "id": "marttiini.lapp-knife-antler",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/2230010",
+  "manufacturer": "marttiini",
+  "category_slug": "design-knives",
+  "category_name": "Design Knives",
+  "name": "Lapp Knife Antler",
+  "name_short": "",
+  "slug": "lapp-knife-antler",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The handle of this traditional Lapp knife, also known as the leuku knife, combines Finnish curly birch with reindeer antler bone. The stainless chrome steel blade has a beautiful etched engraving with a Lappish theme. The leather sheath also reflects traditional Arctic patterns.",
+    "This leuku knife is an excellent gift idea for all those who have lost their hearts to northern nature!"
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "22 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel X46Cr13, HRC 53-55"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Finnish curly birch & reindeer antler bone"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/lapp-knife-antler-0"
+  ]
+}

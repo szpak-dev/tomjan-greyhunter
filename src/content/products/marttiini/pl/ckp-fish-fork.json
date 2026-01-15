@@ -1,0 +1,56 @@
+{
+  "id": "marttiini.ckp-fish-fork",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/819114P",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "category_name": "Kitchen",
+  "name": "CKP Fish Fork",
+  "name_short": "",
+  "slug": "ckp-fish-fork",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The fork really proves its worth when removing the skin from a fish fillet. The fish fork ensures a good grip of the fish or fillet, without having to worry that the knife will slip onto your fingers. The Marttiini fish fork has a normal knife handle to enable you to get the best possible grip.",
+    "We recommend hand wash."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "5 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "17 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "rubber"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/ckp-fish-fork-0"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "marttiini.lake-whisperer",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559011W",
+  "manufacturer": "marttiini",
+  "category_slug": "unique-by-marttiini",
+  "category_name": "Unique By Marttiini",
+  "name": "Lake whisperer",
+  "name_short": "",
+  "slug": "lake-whisperer",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "This unique knife is inspired by a tranquil lake. The gray sky reflects off the water's surface, and just a few ripples from the wind make the blue water appear like a whisper. The blade is 6 cm of Damascus steel, where you can see waves as if something is breaking the water's surface. The handle is made of reindeer antler, bordered by plywood pieces in various shades of blue, creating the impression of a whisper. The sheath is genuine leather."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "6 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "16,1 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "140g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Damascus"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Reindeer antler bone, colored birch"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Leather, black"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "Wooden Unique Gift Box"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/lake-whisperer-0"
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "id": "marttiini.moose-black",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/547021W",
+  "manufacturer": "marttiini",
+  "category_slug": "design-knives",
+  "category_name": "Design Knives",
+  "name": "Moose Black",
+  "name_short": "",
+  "slug": "moose-black",
+  "model_name": "",
+  "lead": "Beautiful and practical Moose Black knife accompanies you in every day outdoor life and it’s a great gift for a nature and design lover!",
+  "description": [
+    "Moose is a valuable and respected character in Finnish forests that can never been appraised too much. The moose in all its glory is depicted on the cast ferrule of the knife. The birch tree handle has a black leather paint and clear wax coating for extra protection. The blade is made from carbon steel. Moose Black knife comes in a genuine, vegetable tanned glossy black leather sheath with gold foil de-bossing. A knife is delivered in a stained black wooden gift box."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "9 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "20 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "120 g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Carbon Steel X75Cr1, HRC 55-57"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Colored birch"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Genuine vegetable tanned leather"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "Wooden gift box, stained black"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/moose-black-0"
+  ]
+}

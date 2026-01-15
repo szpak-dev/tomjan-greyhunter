@@ -1,0 +1,23 @@
+{
+  "id": "marttiini.gift-box-l",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/P702313",
+  "manufacturer": "marttiini",
+  "category_slug": "sharpening-and-accessories",
+  "category_name": "Sharpening and Accessories",
+  "name": "Gift Box L",
+  "name_short": "",
+  "slug": "gift-box-l",
+  "model_name": "",
+  "lead": "It’s a pleasure to present a gift to a recipient in a stylish gift box.",
+  "description": [
+    "The gift box is made of sturdy cardboard, which can be recycled after use.",
+    "The dimensions of the gift box are 380x60x50 mm. The gift box is included as an add on product for all products for which this box is suitable."
+  ],
+  "attribute_groups": [],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/gift-box-l-0"
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "marttiini.herb-knife-keraaja",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/709017",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "category_name": "Outdoor",
+  "name": "Herb Knife Kerääjä",
+  "name_short": "",
+  "slug": "herb-knife-keraaja",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "In Finnish language the word ‘’kerääjä’’ means gatherer. The holes on the blade are meant for removing the leaves of smaller herbs like rosemary, peppermint or even basil. Serrated edge and the hook can be used for harvesting stronger and bigger herbs and plants. The size of the hook is perfect for cutting lupine plant for example.",
+    "The blade is made of high end stainless steel used in high quality kitchen knives. The premium heat-treated birch handle is comfortable to use in both hands and in both ways, whatever edge of the blade you might be using. The knife comes in a genuine, chrome tanned matte brown leather sheath with silver foil debossing.",
+    "The quick fix attachment belt makes it easy to attach the sheath to various places like the belt, belt loop, wrist or basket handle. Eyelet rivets offer an option to use a lanyard for example."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "7 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "17,5 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Heat-treated birch"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Chrome tanned leather"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/herb-knife-keraaja-0"
+  ]
+}

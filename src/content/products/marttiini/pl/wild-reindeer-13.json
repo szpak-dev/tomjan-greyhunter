@@ -1,0 +1,60 @@
+{
+  "id": "marttiini.wild-reindeer-13",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/542015",
+  "manufacturer": "marttiini",
+  "category_slug": "design-knives",
+  "category_name": "Design Knives",
+  "name": "Wild Reindeer 13",
+  "name_short": "",
+  "slug": "wild-reindeer-13",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The versatile Wild Reindeer 13 is a reliable all-around knife for outdoor enthusiasts. The Lynx blade, with a blood groove and a slightly upturned blade tip, is an iconic Marttiini blade model, developed in the ’30s by Janne Marttiini himself. The stainless steel blade (1.4034, HRC 53,5-55) delivers durability while the shaped handle offers a firm grip."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "13 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "25 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel 1.4034 / X46Cr13, HRC 53.5-55"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "curly birch & reindeer antler bone"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/wild-reindeer-13-0"
+  ]
+}

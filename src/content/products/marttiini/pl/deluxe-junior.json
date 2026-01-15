@@ -1,0 +1,63 @@
+{
+  "id": "marttiini.deluxe-junior",
+  "lang": "pl",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/122010",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "category_name": "Outdoor",
+  "name": "Deluxe Junior",
+  "name_short": "",
+  "slug": "deluxe-junior",
+  "model_name": "",
+  "lead": "Deluxe Junior is the ideal choice for a safe first knife.",
+  "description": [
+    "The ideal gift for a child who wants to learn wilderness skills and how to use a knife. The Deluxe Junior is a great choice as a first knife: it’s a proper, stylish knife with a number of added safety features.",
+    "The rounded tip protects against puncture wounds. The handle, made of heat-treated birch, is durable and the size is suitable for a child’s hand. The handle ensures a firm grip and the finger guard prevents fingers from slipping onto the blade.",
+    "The knife blade is made of easy-care, stainless steel. Naturally, a proper knife comes with a proper leather sheath.",
+    "The Deluxe Junior is a knife developed jointly by Partioaitta and Marttiini and is only available from Partioaitta and Marttiini."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "8 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "19 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade",
+          "name": "Blade",
+          "value": "stainless steel, rounded tip"
+        },
+        {
+          "id": "handle",
+          "name": "Handle",
+          "value": "heat-treated birch, finger guard"
+        },
+        {
+          "id": "sheath",
+          "name": "Sheath",
+          "value": "leather, brown"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/deluxe-junior-0"
+  ]
+}
