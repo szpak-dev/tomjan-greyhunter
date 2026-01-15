@@ -2,16 +2,17 @@
 export type Props = {
   title: string;
   slogan: string;
+  gap?: number
 }
 
-const { title, slogan } = Astro.props;
+const { title, slogan, gap = 4 } = Astro.props;
 ---
 
-<div class="text-center mb-5 hero-section">
-  <h1 class="display-4 fw-bold mb-3 hero-title">
+<div class="hero text-center d-flex flex-column justify-content-center align-items-center" style={`gap: ${gap}px`}>
+  <h1 class="hero-title display-4 fw-bold p-0 m-0">
     {title}
   </h1>
-  <p class="lead text-muted hero-slogan">
+  <p class="hero-slogan lead text-muted p-0 m-0">
     {slogan}
   </p>
 </div>

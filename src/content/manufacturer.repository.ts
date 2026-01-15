@@ -33,3 +33,14 @@ export async function get(id: string, lang: string): Promise<Manufacturer> {
     }
     return manufacturer;
 }
+
+export function sortForFrontPage(manufacturers: Manufacturer[]): Manufacturer[] {
+    const order = ["marttiini", "sarsilmaz", "eley-hawk", "eley"];
+    const orderMap = new Map(order.map((id, index) => [id, index]));
+
+    return manufacturers.sort((a, b) => {
+        const indexA = orderMap.get(a.id) ?? order.length;
+        const indexB = orderMap.get(b.id) ?? order.length;
+        return indexA - indexB;
+    });
+}

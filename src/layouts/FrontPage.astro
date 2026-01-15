@@ -8,6 +8,9 @@ import type { MossaicPicture } from "../content/site.repository";
 import { CldImage } from "astro-cloudinary";
 import { siteRepository } from "../content";
 import OfficialDistributor from "../components/OfficialDistributor.astro";
+import Grid from "../components/utils/Grid.astro";
+import GridItem from "../components/utils/GridItem.astro";
+import Page from "../components/utils/Page.astro";
 
 export type Props = {
   manufacturers: Manufacturer[];
@@ -20,59 +23,54 @@ export type Props = {
 const { manufacturers, newProducts, sliderItems, mossaicImages, lang } =
   Astro.props;
 
-const order = ["marttiini", "sarsilmaz", "eley-hawk", "eley"];
 const t = siteRepository.getTranslator(lang);
 ---
 
-<div id="frontPage">
-  <section class="promo-slider py-3">
+<Page id="frontPage" gap={5}>
+  <Section id="promoSlider">
     <Slider items={sliderItems} />
-  </section>
-
-  <Section heading={t("headings.official-distributor")} divider={true}>
-    <div class="row row-cols-2 g-4 animate-stagger">
-      {
-        order.map((id) => {
-          const manufacturer = manufacturers.find((m) => m.id === id);
-          if (!manufacturer) return null;
-          return (
-            <div class="col">
-              <OfficialDistributor manufacturer={manufacturer} />
-            </div>
-          );
-        })
-      }
-    </div>
   </Section>
 
-  <Section heading={t("headings.new-in-offer")}>
-    <div class="row">
-      {
-        newProducts.map((product) => (
-          <div class="col-6 col-md-2 col-lg-3 mb-4">
-            <ProductCard {product} />
-          </div>
-        ))
-      }
-    </div>
+  <Section id="officialDistributor" heading={t("headings.official-distributor")} divider={true}>
+    <Grid cols={{ xs: 1, md: 2 }} gap={4} animate="animate-stagger">
+      {manufacturers.map((manufacturer) => (
+        <GridItem>
+          <OfficialDistributor manufacturer={manufacturer} />
+        </GridItem>
+      ))}
+    </Grid>
   </Section>
 
-  <Section heading={t("headings.passion")}>
-    <div class="row g-3">
-      {
-        mossaicImages.map((image) => (
-          <div class="col-6 col-md-4 col-lg-3">
-            <CldImage
-              src={image.image_url}
-              alt={"Mossaic image"}
-              width={300}
-              height={300}
-              crop="fill"
-              class="w-100 h-auto object-fit"
-            />
-          </div>
-        ))
-      }
-    </div>
+  <Section id="newInOffer" heading={t("headings.new-in-offer")} divider={true}>
+    <Grid cols={{ xs: 1, md: 3 }} gap={3} animate="animate-stagger">
+      {newProducts.map((product) => (
+        <GridItem>
+          <ProductCard 
+            product={product} 
+            label={{ 
+              text: t("products.new"), 
+              colorClass: "badge bg-success rounded-0" 
+            }} 
+          />
+        </GridItem>
+      ))}
+    </Grid>
   </Section>
-</div>
+
+  <Section id="passionMossaic" heading={t("headings.passion")} divider={true}>
+    <Grid cols={{ xs: 2, md: 4 }} gap={3} animate="animate-stagger">
+      {mossaicImages.map((image) => (
+        <GridItem>
+          <CldImage
+            src={image.image_url}
+            alt="Mossaic image"
+            width={300}
+            height={300}
+            crop="fill"
+            class="w-100 h-auto object-fit"
+          />
+        </GridItem>
+      ))}
+    </Grid>
+  </Section>
+</Page>

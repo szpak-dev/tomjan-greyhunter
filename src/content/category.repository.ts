@@ -1,5 +1,6 @@
 import { getCollection } from "astro:content";
 import { getRelativeLocaleUrl } from "astro:i18n";
+import { VISIBLE_CATEGORIES } from "./filters.config";
 
 export type Category = {
     id: string;
@@ -16,7 +17,7 @@ export async function findCategories(lang: string): Promise<Category[]> {
     const products = await getCollection("products");
     
     const result = categories
-        .filter((c) => c.data.lang === lang)
+        .filter((c) => VISIBLE_CATEGORIES[c.data.manufacturer]?.includes(c.data.slug) && c.data.lang === lang)
         .map((c) => {
             const category = c.data as Category;
             category.link = getCategoryUrl(category, lang);

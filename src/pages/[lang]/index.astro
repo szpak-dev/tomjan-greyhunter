@@ -10,7 +10,8 @@ export async function getStaticPaths() {
 
 const { lang } = Astro.params;
 const sliderItems = siteRepository.getSliderItems("marttiini");
-const manufacturers = await manufacturerRepository.findAll(lang);
+const looseManufacturers = await manufacturerRepository.findAll(lang);
+const manufacturers = manufacturerRepository.sortForFrontPage(looseManufacturers);
 const newProducts = await productRepository.findNewProducts("marttiini", lang);
 const mossaicImages: MossaicPicture[] = siteRepository.getMossaic();
 ---

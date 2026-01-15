@@ -1,5 +1,6 @@
 import { getCollection } from "astro:content";
 import { getRelativeLocaleUrl } from "astro:i18n";
+import { NEW_PRODUCTS } from "./filters.config";
 
 export type Attribute = {
     id: string;
@@ -58,7 +59,7 @@ export async function findProducts(manufacturer: string, lang: string): Promise<
 
 export async function findNewProducts(manufacturer: string, lang: string): Promise<Product[]> {
     const products = await findProducts(manufacturer, lang);
-    return products.filter((p) => p.lang === lang);
+    return products.filter((p) => p.lang === lang && NEW_PRODUCTS[manufacturer]?.includes(p.slug));
 }
 
 export async function getProductBySlug(manufacturer: string, slug: string, lang: string): Promise<Product> {

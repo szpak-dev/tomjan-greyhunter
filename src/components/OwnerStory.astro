@@ -1,19 +1,21 @@
 ---
+import { siteRepository } from "../content";
 import type { Manufacturer } from "../content/manufacturer.repository";
 import ManufacturerLogo from "./ManufacturerLogo.astro";
 
 export type Props = {
     manufacturer: Manufacturer;
-    ownerStory: string;
+    story: string;
 }
 
-const { manufacturer, ownerStory } = Astro.props;
+const { manufacturer, story } = Astro.props;
+const t = siteRepository.getTranslator(manufacturer.lang);
 ---
 
-<section class="row">
+<section class="row animate-fade-in">
     <div class="col-md-6 d-flex flex-column justify-content-center align-items-center">
-        <h2 class="h5 fw-bold">{"Why " + manufacturer.name + "?"}</h2>
-        <p class="text-secondary">{ownerStory}</p>
+        <h2 class="h5 fw-bold">{t('headings.owner-story-why') + " " + manufacturer.name + "?"}</h2>
+        <p class="text-secondary">{story}</p>
     </div>
     <div class="col-md-6 d-flex flex-column justify-content-center align-items-center">
         <ManufacturerLogo manufacturer={manufacturer} />

@@ -20,6 +20,13 @@ export type Props = {
     shadow?: "none" | "sm" | "md" | "lg";
     rounded?: "none" | "sm" | "md" | "lg" | "full";
   };
+  /** Label configuration - displayed with position absolute */
+  label?: {
+    text: string;
+    position: "left" | "right";
+    color?: string;
+    colorClass?: string;
+  };
   href?: string;
   /** Card variant/style: 'default', 'elevated', 'gradient', 'dark', 'light' */
   variant?: "default" | "elevated" | "gradient" | "dark" | "light";
@@ -35,6 +42,7 @@ const {
   image = {},
   badges = {},
   border = {},
+  label,
   href,
   variant = "default",
   animation = "lift",
@@ -133,6 +141,19 @@ const imageRoundedClasses = {
 
 {hasLink ? (
   <a href={href} class={`${cardClasses} card-link-wrapper`}>
+    {/* Label */}
+    {label && (
+      <div
+        class={`position-absolute ${label.colorClass || ""}`}
+        style={{
+          [label.position]: "0",
+          top: "0",
+          ...(label.color && { backgroundColor: label.color }),
+        }}
+      >
+        {label.text}
+      </div>
+    )}
     {/* Card Image */}
     {hasImage && (
       <CldImage
@@ -216,6 +237,19 @@ const imageRoundedClasses = {
   </a>
 ) : (
   <div class={cardClasses}>
+    {/* Label */}
+    {label && (
+      <div
+        class={`position-absolute ${label.colorClass || ""}`}
+        style={{
+          [label.position]: "0",
+          top: "0",
+          ...(label.color && { backgroundColor: label.color }),
+        }}
+      >
+        {label.text}
+      </div>
+    )}
     {/* Card Image */}
     {hasImage && (
       <CldImage

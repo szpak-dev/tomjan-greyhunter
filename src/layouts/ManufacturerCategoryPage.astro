@@ -1,0 +1,47 @@
+---
+import ProductCard from "../components/product/ProductCard.astro";
+import Hero from "../components/ui/Hero.astro";
+import Section from "../components/ui/Section.astro";
+import Grid from "../components/utils/Grid.astro";
+import GridItem from "../components/utils/GridItem.astro";
+import Page from "../components/utils/Page.astro";
+import { siteRepository } from "../content";
+
+import type { Category } from "../content/category.repository";
+import type { Manufacturer } from "../content/manufacturer.repository";
+import type { Product } from "../content/product.repository";
+
+export type Props = {
+  manufacturer: Manufacturer;
+  category: Category;
+  products: Product[];
+};
+
+const { manufacturer, category, products } = Astro.props;
+const t = siteRepository.getTranslator(manufacturer.lang);
+---
+<Page id="manufacturerCategoryPage" gap={5} animation="animate-fade-in">
+    <Hero title={manufacturer.name} slogan={category.name} />
+    <Section id="categoryProducts" heading={t("headings.my-offer")} divider={true}>
+        <Grid cols={{ xs: 1, md: 4 }} gap={4} animate="animate-stagger">
+          {
+            products.map((product) => (
+              <GridItem>
+                <ProductCard
+                  product={product}
+                  badgeQueries={{
+                    variant: "light",
+                    propKeys: [
+                      "attribute_groups[{id=dimensions}].properties[{id=length-of-blade}].value",
+                    ],
+                    templates: [
+                      "{value} " + t("products.blade")
+                    ]
+                  }}
+                />
+              </GridItem>
+            ))
+          }
+        </Grid>
+    </Section>
+</Page>
