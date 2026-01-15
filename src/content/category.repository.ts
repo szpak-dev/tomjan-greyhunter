@@ -8,16 +8,31 @@ export type Category = {
     manufacturer: string;
     name: string;
     slug: string;
+    image: string;
 }
 
 export async function findCategories(lang: string): Promise<Category[]> {
     const categories = await getCollection("categories");
+    const products = await getCollection("products");
     
     const result = categories
         .filter((c) => c.data.lang === lang)
         .map((c) => {
             const category = c.data as Category;
             category.link = getCategoryUrl(category, lang);
+            
+            const firstProduct = products.find(
+                (p) => p.data.lang === lang && 
+                       p.data.manufacturer === category.manufacturer &&
+                       p.data.category_slug === category.slug
+            );
+
+            if (!firstProduct) {
+                throw new Error(`No products found for category ${category.slug} in language ${lang}`);
+            }
+            
+            category.image = firstProduct.data.images[0];
+            
             return category;
         });
 

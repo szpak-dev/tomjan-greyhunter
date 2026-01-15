@@ -1,5 +1,4 @@
 ---
-import Layout from "../layouts/Layout.astro";
 import Slider, { type SliderItem } from "../components/ui/Slider.astro";
 import type { Manufacturer } from "../content/manufacturer.repository";
 import type { Product } from "../content/product.repository";
@@ -8,7 +7,7 @@ import ProductCard from "../components/product/ProductCard.astro";
 import type { MossaicPicture } from "../content/site.repository";
 import { CldImage } from "astro-cloudinary";
 import { siteRepository } from "../content";
-import ManufacturerLogo from "../components/ManufacturerLogo.astro";
+import OfficialDistributor from "../components/OfficialDistributor.astro";
 
 export type Props = {
   manufacturers: Manufacturer[];
@@ -18,14 +17,10 @@ export type Props = {
   lang: string;
 };
 
-const { 
-    manufacturers, 
-    newProducts, 
-    sliderItems, 
-    mossaicImages, 
-    lang,
-} = Astro.props;
+const { manufacturers, newProducts, sliderItems, mossaicImages, lang } =
+  Astro.props;
 
+const order = ["marttiini", "sarsilmaz", "eley-hawk", "eley"];
 const t = siteRepository.getTranslator(lang);
 ---
 
@@ -34,32 +29,50 @@ const t = siteRepository.getTranslator(lang);
     <Slider items={sliderItems} />
   </section>
 
-  <Section heading={t("headings.official-distributor")}>
-    {manufacturers.map((manufacturer) => (
-      <div class="col-6 col-md-4 col-lg-3 mb-4">
-        <ManufacturerLogo manufacturer={manufacturer} />
-      </div>
-    ))}
+  <Section heading={t("headings.official-distributor")} divider={true}>
+    <div class="row row-cols-2 g-4 animate-stagger">
+      {
+        order.map((id) => {
+          const manufacturer = manufacturers.find((m) => m.id === id);
+          if (!manufacturer) return null;
+          return (
+            <div class="col">
+              <OfficialDistributor manufacturer={manufacturer} />
+            </div>
+          );
+        })
+      }
+    </div>
   </Section>
 
   <Section heading={t("headings.new-in-offer")}>
-    {newProducts.map((product) => ( <ProductCard product={product} /> ))}
+    <div class="row">
+      {
+        newProducts.map((product) => (
+          <div class="col-6 col-md-2 col-lg-3 mb-4">
+            <ProductCard {product} />
+          </div>
+        ))
+      }
+    </div>
   </Section>
 
   <Section heading={t("headings.passion")}>
     <div class="row g-3">
-      {mossaicImages.map((image) => (
-        <div class="col-6 col-md-4 col-lg-3">
-          <CldImage
-            src={image.image_url}
-            alt={"Mossaic image"}
-            width={300}
-            height={300}
-            crop="fill"
-            class="w-100 h-auto object-fit"
-          />
-        </div>
-      ))}
+      {
+        mossaicImages.map((image) => (
+          <div class="col-6 col-md-4 col-lg-3">
+            <CldImage
+              src={image.image_url}
+              alt={"Mossaic image"}
+              width={300}
+              height={300}
+              crop="fill"
+              class="w-100 h-auto object-fit"
+            />
+          </div>
+        ))
+      }
     </div>
   </Section>
 </div>

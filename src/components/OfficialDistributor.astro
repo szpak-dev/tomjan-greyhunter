@@ -1,0 +1,34 @@
+---
+import type { Manufacturer } from "../content/manufacturer.repository";
+import { makeUrl } from "../libs/url";
+import { CldImage } from "astro-cloudinary";
+import Card from "./ui/Card.astro";
+
+export type Props = {
+  manufacturer: Manufacturer;
+};
+
+const { manufacturer } = Astro.props;
+
+const href = manufacturer.link?.startsWith('http')
+  ? manufacturer.link
+  : makeUrl(Astro, { path: manufacturer.link });
+---
+
+<Card
+  href={href}
+  variant="elevated"
+  animation="lift"
+>
+  <div
+    slot="body"
+    class="d-flex align-items-center justify-content-center"
+    style="min-height: 280px;"
+  >
+    <CldImage
+      src={manufacturer.logoImage}
+      alt={manufacturer.name + " logo"}
+      width={400}
+    />
+  </div>
+</Card>

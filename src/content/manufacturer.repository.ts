@@ -12,6 +12,7 @@ export type Manufacturer = {
     name: string;
     logoImage: string;
     website: string;
+    link: string; // External URL or internal path for the manufacturer page
     socials: SocialLink[];
     description: string[];
     domains: string[]; // List of domain names associated with the manufacturer

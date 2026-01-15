@@ -1,8 +1,10 @@
 ---
 import Layout from "../../../layouts/Layout.astro";
 import { categoryRepository, manufacturerRepository } from "../../../content";
+import { getOwnerStory } from "../../../content/site.repository";
 import Section from "../../../components/ui/Section.astro";
-import ManufacturerLogo from "../../../components/ManufacturerLogo.astro";
+import OfficialDistributor from "../../../components/OfficialDistributor.astro";
+import CategoryCard from "../../../components/product/CategoryCard.astro";
 
 export async function getStaticPaths() {
   return [
@@ -15,24 +17,17 @@ const { lang, manufacturer } = Astro.params;
 const manufacturerData = await manufacturerRepository.get(manufacturer, lang);
 const allCategories = await categoryRepository.findCategories(lang);
 const manufacturerCategories = allCategories.filter((c) => c.manufacturer === manufacturer);
+const ownerStory = getOwnerStory(manufacturer, lang);
 ---
 
 <Layout title={manufacturerData.name} lang={lang}>
   <div class="manufacturer-page animate-fade-in">
-    <div class="text-center mb-5 animate-fade-in-up">
-      <ManufacturerLogo manufacturer={manufacturerData} />
-      <h1 class="fw-bold mt-3">{manufacturerData.name}</h1>
-    </div>
+
+    <OfficialDistributor manufacturer={manufacturerData} ownerStory={ownerStory} />
 
     <Section heading="Kategorie produktów" divider={true}>
       <div class="row row-cols-1 row-cols-md-3 g-4 animate-stagger">
-        {
-          manufacturerCategories.map((category) => (
-            <div class="col">
-              {category.name}
-            </div>
-          ))
-        }
+        { manufacturerCategories.map((category) => <CategoryCard category={category} /> ) }
       </div>
     </Section>
   </div>

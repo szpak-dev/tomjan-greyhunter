@@ -132,3 +132,26 @@ export function getSliderItems(manufacturer: string): { image: string; altText: 
 
     return mapping[manufacturer] || [];
 }
+
+export function getOwnerStory(manufacturerId: string, lang: string): string {
+    const stories: Record<string, Record<string, string>> = {
+        "marttiini": {
+            "en": "I chose Marttiini because Finnish craftsmanship represents everything I believe in. For generations, Marttiini has been perfecting the art of knife-making with meticulous attention to detail. Their commitment to innovation in blade design, combined with decades of tradition, creates tools that hunters and outdoor enthusiasts can trust with their lives. When you hold a Marttiini knife, you're holding Finnish heritage.",
+            "pl": "Wybrałem Marttiini, ponieważ fińskie rzemiosło to wszystko, w co wierzę. Przez pokolenia Marttiini doskonali sztukę wyrobu noży z niezwykłą staranności. Ich zaangażowanie w innowacje w projektowaniu ostrzy, połączone z dziesięcioleciami tradycji, tworzy narzędzia, którym mogą ufać myśliwi i entuzjaści przyrody. Trzymając nóż Marttiini, trzymasz fińskie dziedzictwo."
+        },
+        "sarsilmaz": {
+            "en": "Sarsilmaz represents the modern face of Turkish firearms engineering. With decades of proven excellence, they've earned recognition worldwide for their reliability and innovative designs. Whether for hunting or sport shooting, Sarsilmaz firearms combine precision manufacturing with timeless quality. I partnered with them because they understand that a firearm must be dependable when it matters most.",
+            "pl": "Sarsilmaz reprezentuje nowoczesną twarz tureckiej inżynierii strzeleckiej. Dzięki dziesięcioleciom sprawdzonej doskonałości zdobyli uznanie na całym świecie za niezawodność i innowacyjne projekty. Niezależnie od tego, czy chodzi o łowiectwo czy sport strzelecki, karabiny Sarsilmaz łączą precyzyjną produkcję z ponadczasową jakością. Zawiązałem z nimi partnerstwo, ponieważ wiedzą, że broń musi być niezawodna, gdy to się liczy najbardziej."
+        },
+        "eley": {
+            "en": "Over 140 years of ammunition manufacturing expertise. Eley's name is synonymous with precision and consistency in the shooting world. Their commitment to quality control and performance has made them the choice of serious hunters and competitive shooters globally. When I considered ammunition suppliers, there was no question—Eley's heritage and proven track record spoke for themselves.",
+            "pl": "Ponad 140 lat doświadczenia w produkcji amunicji. Nazwa Eley jest synonimem precyzji i konsekwencji w świecie strzeleckim. Ich zaangażowanie w kontrolę jakości i wydajność uczyniło ich wyborem poważnych myśliwych i zawodowych strzelców na całym świecie. Kiedy rozpatrywałem dostawców amunicji, nie było pytań—dziedzictwo Eley i sprawdzony dorobek mówiły same za siebie."
+        },
+        "eley-hawk": {
+            "en": "Eley Hawk is where precision meets perfection. This premium ammunition line from Eley represents the absolute peak of shooting accuracy. For hunters and competitors who refuse to compromise, Eley Hawk delivers the superior quality and consistency that separates good shots from great ones. I distribute Eley Hawk because excellence demands nothing less.",
+            "pl": "Eley Hawk to miejsce, gdzie precyzja spotyka się z doskonałością. Ta linia premium amunicji od Eley reprezentuje absolutny szczyt dokładności strzeleckiej. Dla myśliwych i zawodników, którzy nie pójdą na kompromisy, Eley Hawk dostarcza najwyższą jakość i konsekwencję, która odróżnia dobre strzały od świetnych. Dystrybuuję Eley Hawk, ponieważ doskonałość wymaga nic mniej."
+        }
+    };
+
+    return stories[manufacturerId][lang];
+}

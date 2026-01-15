@@ -11,13 +11,13 @@ const { product } = Astro.props;
 ---
 
 <Card
-  href={makeUrl(Astro, { path: `${product.slug}/` })}
+  href={makeUrl(Astro, { path: `${product.manufacturer}/${product.category_slug}/${product.slug}/` })}
   image={{ src: product.images[0], alt: product.name, fit: "cover" }}
   badges={{ items: [{ text: product.category_name, variant: "light" }], position: "below" }}
   border={{ style: "light", shadow: "sm" }}
   variant="elevated"
 >
   <h6 slot="title" class="card-title text-truncate m-0 mt-1" title={product.name}>
-    {product.name_short}
+    {product.name}
   </h6>
 </Card>

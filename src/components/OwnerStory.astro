@@ -1,0 +1,21 @@
+---
+import type { Manufacturer } from "../content/manufacturer.repository";
+import ManufacturerLogo from "./ManufacturerLogo.astro";
+
+export type Props = {
+    manufacturer: Manufacturer;
+    ownerStory: string;
+}
+
+const { manufacturer, ownerStory } = Astro.props;
+---
+
+<section class="row">
+    <div class="col-md-6 d-flex flex-column justify-content-center align-items-center">
+        <h2 class="h5 fw-bold">{"Why " + manufacturer.name + "?"}</h2>
+        <p class="text-secondary">{ownerStory}</p>
+    </div>
+    <div class="col-md-6 d-flex flex-column justify-content-center align-items-center">
+        <ManufacturerLogo manufacturer={manufacturer} />
+    </div>
+</section>
