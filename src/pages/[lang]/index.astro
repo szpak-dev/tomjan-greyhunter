@@ -14,9 +14,14 @@ const looseManufacturers = await manufacturerRepository.findAll(lang);
 const manufacturers = manufacturerRepository.sortForFrontPage(looseManufacturers);
 const newProducts = await productRepository.findNewProducts("marttiini", lang);
 const mossaicImages: MossaicPicture[] = siteRepository.getMossaic();
+const socials = siteRepository.getSocialAccounts();
+const owner = siteRepository.getSiteOwner();
+const languages = siteRepository.getAvailableLanguages();
+const currentLanguage = siteRepository.getLanguage(lang);
+const navigationItems = siteRepository.getNavigationItems(lang);
 ---
 
-<Layout title="Grey Hunter - Tomasz Jantos" lang={lang}>
+<Layout title="Grey Hunter - Tomasz Jantos" {lang} {socials} {owner} {languages} {currentLanguage} {navigationItems}>
   <FrontPage 
     {lang}
     {sliderItems}

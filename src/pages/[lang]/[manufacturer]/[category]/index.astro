@@ -1,7 +1,7 @@
 ---
 import Layout from "../../../../layouts/Layout.astro";
 import ManufacturerCategoryPage from "../../../../layouts/ManufacturerCategoryPage.astro";
-import { categoryRepository, manufacturerRepository, productRepository } from "../../../../content";
+import { categoryRepository, manufacturerRepository, productRepository, siteRepository } from "../../../../content";
 
 export async function getStaticPaths() {
   const languages = ["en", "pl"];
@@ -29,9 +29,14 @@ const manufacturerData = await manufacturerRepository.get(manufacturer, lang);
 const products = await productRepository.findProducts(manufacturer, lang);
 const categoryData = await categoryRepository.getCategoryBySlug(category, lang);
 const categoryProducts = products.filter((p) => p.category_slug === category);
+const socials = siteRepository.getSocialAccounts();
+const owner = siteRepository.getSiteOwner();
+const languages = siteRepository.getAvailableLanguages();
+const currentLanguage = siteRepository.getLanguage(lang);
+const navigationItems = siteRepository.getNavigationItems(lang);
 ---
 
-<Layout title={manufacturerData.name} lang={lang}>
+<Layout title={manufacturerData.name} {lang} {socials} {owner} {languages} {currentLanguage} {navigationItems}>
   <ManufacturerCategoryPage 
     manufacturer={manufacturerData} 
     category={categoryData}

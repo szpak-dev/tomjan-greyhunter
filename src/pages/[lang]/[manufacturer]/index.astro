@@ -1,8 +1,7 @@
 ---
 import Layout from "../../../layouts/Layout.astro";
 import ManufacturerPage from "../../../layouts/ManufacturerPage.astro";
-import { categoryRepository, manufacturerRepository } from "../../../content";
-import { getOwnerStory } from "../../../content/site.repository";
+import { categoryRepository, manufacturerRepository, siteRepository } from "../../../content";
 
 export async function getStaticPaths() {
   return [
@@ -15,10 +14,15 @@ const { lang, manufacturer } = Astro.params;
 const manufacturerData = await manufacturerRepository.get(manufacturer, lang);
 const allCategories = await categoryRepository.findCategories(lang);
 const manufacturerCategories = allCategories.filter((c) => c.manufacturer === manufacturer);
-const ownerStory = getOwnerStory(manufacturer, lang);
+const ownerStory = siteRepository.getOwnerStory(manufacturer, lang);
+const socials = siteRepository.getSocialAccounts();
+const owner = siteRepository.getSiteOwner();
+const languages = siteRepository.getAvailableLanguages();
+const currentLanguage = siteRepository.getLanguage(lang);
+const navigationItems = siteRepository.getNavigationItems(lang);
 ---
 
-<Layout title={manufacturerData.name} lang={lang}>
+<Layout title={manufacturerData.name} {lang} {socials} {owner} {languages} {currentLanguage} {navigationItems}>
   <ManufacturerPage 
     manufacturer={manufacturerData}
     categories={manufacturerCategories}

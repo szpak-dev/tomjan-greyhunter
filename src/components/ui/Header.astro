@@ -4,18 +4,17 @@ import LanguageSelector from "./LanguageSelector.astro";
 import Socials from "./Socials.astro";
 import Navigation from "./Navigation.astro";
 
-import { siteRepository } from "../../content";
-import type { SocialAccount } from "../../content/site.repository";
+import type { SocialAccount, AvailableLanguage, NavigationItem } from "../../content/site.repository";
 
 export type Props = {
   lang: string;
   socials: SocialAccount[];
+  languages: AvailableLanguage[];
+  currentLanguage: AvailableLanguage;
+  navigationItems: NavigationItem[];
 };
 
-const { lang, socials } = Astro.props;
-const languages = siteRepository.getAvailableLanguages();
-const currentLanguage = siteRepository.getLanguage(lang);
-const navigationItems = siteRepository.getNavigationItems(lang);
+const { lang, socials, languages, currentLanguage, navigationItems } = Astro.props;
 ---
 
 <header class="ui-header container-fluid px-0">
@@ -23,7 +22,7 @@ const navigationItems = siteRepository.getNavigationItems(lang);
     <Socials socials={socials} />
   </div>
   <div class="container d-flex justify-content-between align-items-center py-2">
-    <Logo />
+    <Logo {lang} />
     <div class="d-flex align-items-center gap-3">
       <LanguageSelector {languages} {currentLanguage} />
     </div>

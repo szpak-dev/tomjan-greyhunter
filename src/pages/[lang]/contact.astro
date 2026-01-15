@@ -16,8 +16,11 @@ const slug = slugMap[lang as keyof typeof slugMap];
 const page = siteRepository.getContentPage(slug, lang);
 const navigationItems = siteRepository.getNavigationItems(lang);
 const owner = siteRepository.getSiteOwner();
+const socials = siteRepository.getSocialAccounts();
+const languages = siteRepository.getAvailableLanguages();
+const currentLanguage = siteRepository.getLanguage(lang);
 ---
 
-<Layout title={page.title} lang={lang}>
-  <ContactPage {page} {lang} {navigationItems} {owner} />
+<Layout title={page.title} {lang} {socials} {owner} {languages} {currentLanguage} {navigationItems}>
+  <ContactPage {page} {lang} {owner} />
 </Layout>

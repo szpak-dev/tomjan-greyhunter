@@ -229,14 +229,14 @@ export type NavigationItem = {
 export function getNavigationItems(lang: string): NavigationItem[] {
     const items: Record<string, NavigationItem[]> = {
         "en": [
-            { id: "about-company", slug: "about-company", path: "/en/about-company", icon: "bi bi-building" },
-            { id: "contact", slug: "contact", path: "/en/contact", icon: "bi bi-envelope" },
+            { id: "about-company", slug: "about-company", path: "/en/company/", icon: "bi bi-building" },
+            { id: "contact", slug: "contact", path: "/en/contact/", icon: "bi bi-envelope" },
         ],
         "pl": [
-            { id: "o-firmie", slug: "o-firmie", path: "/o-firmie", icon: "bi bi-building" },
-            { id: "kontakt", slug: "kontakt", path: "/kontakt", icon: "bi bi-envelope" },
+            { id: "o-firmie", slug: "o-firmie", path: "/pl/company/", icon: "bi bi-building" },
+            { id: "kontakt", slug: "kontakt", path: "/pl/kontakt/", icon: "bi bi-envelope" },
         ],
     };
 
-    return items[lang] || items["pl"];
+    return items[lang];
 }
