@@ -1,0 +1,61 @@
+{
+  "id": "marttiini.kaamos-carbon",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/127019",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "category_name": "Outdoor",
+  "name": "Kaamos Carbon",
+  "name_short": "",
+  "slug": "kaamos-carbon",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The handle is made of stained birch. Its surface is slightly textured so you easily get a firm, safe grip of the knife.",
+    "The blade is made of carbon steel that is perfect for carving and is easy to re-sharpen to its original sharpness. Remember to take proper care of your carbon steel knife. Always dry the blade carefully after each use and oil the blade with unsalted oil on a regular basis. This will ensure your knife will serve you loyally from one year to the next."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "9 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "19,5 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "carbon steel 1.2003 / X75Cr1, HRC 55-57"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "birch, stained"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather, black"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/kaamos-carbon-0"
+  ]
+}

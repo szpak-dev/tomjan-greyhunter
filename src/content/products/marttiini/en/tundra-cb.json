@@ -1,0 +1,64 @@
+{
+  "id": "marttiini.tundra-cb",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/352010",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "category_name": "Outdoor",
+  "name": "Tundra CB",
+  "name_short": "",
+  "slug": "tundra-cb",
+  "model_name": "",
+  "lead": "The Tundra is a tough performer",
+  "description": [
+    "The Tundra is a full-blooded bushcraft all-round knife for the demanding user. This bushcraft knife is designed for heavy-duty use. Made of of high-strength stainless steel, the full tang structure and robust blade provide excellent durability. The blade and the full tang are 3.5 mm thick.",
+    "On this knife, traditional materials go hand in hand with modern design. The handle is made of Finnish curly birch. The red details on the handle and leather sheath seal the dynamic look.",
+    "The Tundra knife is available with two handle options: deadwood-like, gray-waxed curly birch",
+    "and natural-colored, waxed curly birch (Tundra CB). The surface of the waxed wood and the design of the handle ensure a firm grip. The sturdy leather sheath is reinforced with rivets.",
+    "If needed, the knife handle parts can be re-tightened. The screw has a Torx T10 head."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "22 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "curly birch, waxed"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather, brown"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/tundra-cb-0"
+  ]
+}

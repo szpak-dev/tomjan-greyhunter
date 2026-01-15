@@ -1,0 +1,25 @@
+{
+    "id": "eley",
+    "lang": "en",
+    "name": "Eley",
+    "logoImage": "https://res.cloudinary.com/dcpogr7md/image/upload/v1768058636/greyhunter.com.pl/eley_logo.svg",
+    "website": "https://www.eleylimited.com",
+    "socials": [
+        {
+            "label": "Facebook",
+            "url": "https://www.facebook.com/EleyLimited",
+            "icon": "facebook"
+        },
+        {
+            "label": "Twitter",
+            "url": "https://twitter.com/EleyLimited",
+            "icon": "twitter"
+        }
+    ],
+    "description": [
+        "Eley is a British manufacturer of ammunition with over 140 years of heritage.",
+        "Specializing in precision ammunition for shooters and hunters worldwide.",
+        "Known for consistent quality and performance in rifle and shotgun ammunition."
+    ],
+    "domains": ["ammunition", "firearms ammunition", "sporting ammunition", "shooting"]
+}

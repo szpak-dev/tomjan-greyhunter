@@ -1,0 +1,62 @@
+{
+  "id": "marttiini.classic-filleting-knife-15",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/620010",
+  "manufacturer": "marttiini",
+  "category_slug": "fishing",
+  "category_name": "Fishing",
+  "name": "Classic Filleting Knife 15",
+  "name_short": "",
+  "slug": "classic-filleting-knife-15",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "This model has been in production since the late 1960s and has been exported around the world for more than 50 years. With the superior finished, sharp and flexible stainless chrome steel blade it only takes a moment to make beautiful fish fillets.",
+    "This blade length is suitable for processing fish of about 1 kg. A traditional leather sheath in a natural colour completes the package.",
+    "We recommend hand wash."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "15 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "27 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "birch, varnished"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/classic-filleting-knife-15-0"
+  ]
+}

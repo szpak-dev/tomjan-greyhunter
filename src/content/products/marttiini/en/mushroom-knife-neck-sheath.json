@@ -1,0 +1,61 @@
+{
+  "id": "marttiini.mushroom-knife-neck-sheath",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/709014",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "category_name": "Outdoor",
+  "name": "Mushroom Knife (neck sheath)",
+  "name_short": "",
+  "slug": "mushroom-knife-neck-sheath",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The Marttiini mushroom knife features a handy cleaning brush at the end of the handle for neatly removing any debris from the mushrooms. The blade is exactly the right shape and length for cutting delicate mushrooms.",
+    "The sheath of this knife can be easily hung from the neck. The strap includes a safety mechanism, which opens the strap when it becomes entangled. It also includes a handy clip for attaching the knife to a jacket so that it will not be in the way when stooping to pick mushrooms."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "6,5 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "18,5 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "plastic, yellow"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/mushroom-knife-neck-sheath-0"
+  ]
+}

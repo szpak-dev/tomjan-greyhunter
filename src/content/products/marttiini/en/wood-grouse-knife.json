@@ -1,0 +1,74 @@
+{
+  "id": "marttiini.wood-grouse-knife",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/549019W",
+  "manufacturer": "marttiini",
+  "category_slug": "design-knives",
+  "category_name": "Design Knives",
+  "name": "Wood Grouse Knife",
+  "name_short": "",
+  "slug": "wood-grouse-knife",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "This handsome bird is one of the most valued creatures in the Finnish fauna.",
+    "Wood grouse's characteristic feature, a striking red eyebrow, plays an important role in this beautiful knife.",
+    "The cast ferrules and the beautiful curly birch handle make this knife a unique gift item for all those who appreciate great knives and the purity of Finnish nature.",
+    "This knife is delivered in a wooden gift box."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "24,5 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Stainless steel 1.4034 / X46Cr13, HRC 53.5-55"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Curly birch, cast ferrules"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Leather, black"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "wooden gift box"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/wood-grouse-knife-0"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "eley-hawk",
+    "lang": "en",
+    "name": "Eley Hawk",
+    "logoImage": "https://res.cloudinary.com/dcpogr7md/image/upload/v1768058687/greyhunter.com.pl/eley_hawk_tpc_strap_logo.png",
+    "website": "https://www.eleylimited.com",
+    "socials": [
+        {
+            "label": "Facebook",
+            "url": "https://www.facebook.com/EleyLimited",
+            "icon": "facebook"
+        },
+        {
+            "label": "Twitter",
+            "url": "https://twitter.com/EleyLimited",
+            "icon": "twitter"
+        }
+    ],
+    "description": [
+        "Eley Hawk is the premium ammunition line from Eley Limited.",
+        "Designed for competitive shooters and serious hunters demanding superior accuracy.",
+        "Represents the pinnacle of precision ammunition manufacturing and quality control."
+    ],
+    "domains": ["premium ammunition", "precision ammunition", "competitive shooting", "ammunition"]
+}

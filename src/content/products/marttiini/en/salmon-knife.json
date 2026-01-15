@@ -1,0 +1,77 @@
+{
+  "id": "marttiini.salmon-knife",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/552010W",
+  "manufacturer": "marttiini",
+  "category_slug": "design-knives",
+  "category_name": "Design Knives",
+  "name": "Salmon Knife",
+  "name_short": "",
+  "slug": "salmon-knife",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "This design knife is an impressive collector’s item and a reliable tool. Stainless steel is an excellent material for regular use – the material stays rust-free and sharp for a long time. Thermal treatment of the curly birch wood gives the handle a good protection against moisture.",
+    "This knife is delivered in a wooden gift box."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "24 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel 1.4034 / X46Cr13, HRC 53.5-55"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "heat treated curly birch, waxed, cast ferrules"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather, black"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "sharpening-angle",
+          "name": "Sharpening Angle",
+          "value": "22 degrees / Scandi grind"
+        },
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "wooden gift box"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/salmon-knife-0"
+  ]
+}

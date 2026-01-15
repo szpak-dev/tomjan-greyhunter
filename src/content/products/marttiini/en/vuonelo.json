@@ -1,0 +1,76 @@
+{
+  "id": "marttiini.vuonelo",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559043W",
+  "manufacturer": "marttiini",
+  "category_slug": "unique-by-marttiini",
+  "category_name": "Unique By Marttiini",
+  "name": "Vuonelo",
+  "name_short": "",
+  "slug": "vuonelo",
+  "model_name": "",
+  "lead": "Handmade",
+  "description": [
+    "Vuonelo is a Lappish word, referring to a female reindeer over one year old – a young maiden. It symbolizes vitality and the strong beauty of the northern wilderness. In the same way, the Vuonelo knife reflects this youthful energy and delicacy, combining elegance with northern tradition in a truly unique form."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "10 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "26 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "220 g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Damascus"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Reindeer antler bone, curly birch, colored wood veneers"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Leather, blue"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "Wooden Unique Gift Box"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/vuonelo-0"
+  ]
+}

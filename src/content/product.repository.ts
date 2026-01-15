@@ -1,107 +1,77 @@
-import { getCollection } from 'astro:content';
+import { getCollection } from "astro:content";
 import { getRelativeLocaleUrl } from "astro:i18n";
 
-export type AttributeGroup = {
+export type Attribute = {
+    id: string;
     name: string;
-    properties: {
-        name: string;
-        value: string;
-    }[];
+    value: string;
 }
 
-export type ContentProduct = {
+export type AttributeGroup = {
     id: string;
-    url: string;
+    name: string;
+    properties: Attribute[];
+}
+
+export type Variant = {
+    id: string;
+    name: string;
+    value: string;
+}
+
+export type ExtraValue = {
+    id: string;
+    name: string;
+    value: string;
+}
+
+export type Product = {
+    id: string;
+    lang: string;
     link: string;
+    url: string;
     manufacturer: string;
     category_slug: string;
     category_name: string;
     name: string;
+    name_short: string;
     slug: string;
-    lead: string | null;
+    model_name: string;
+    lead: string;
     description: string[];
+    attribute_groups: AttributeGroup[];
+    variants: Variant[];
+    extra_data: ExtraValue[];
     images: string[];
-    attributes: AttributeGroup[];
 }
 
-export type PromotedContentProduct = {
-    id: string;
-    manufacturer: string;
-    name: string;
-    slug: string;
-    image: string;
-    link: string;
+export async function findProducts(manufacturer: string, lang: string): Promise<Product[]> {
+    const products = await getCollection("products");
+    const filtered = products.filter((p) => p.data.lang === lang && p.data.manufacturer === manufacturer);
+
+    return filtered.map((p) => {
+        const product = p.data as Product;
+        product.link = getProductUrl(product, lang);
+        return product;
+    });
 }
 
-export type NewProduct = {
-    product: ContentProduct;
-    label: {
-        text: string;
-        color: string;
+export async function findNewProducts(manufacturer: string, lang: string): Promise<Product[]> {
+    const products = await findProducts(manufacturer, lang);
+    return products.filter((p) => p.lang === lang);
+}
+
+export async function getProductBySlug(manufacturer: string, slug: string, lang: string): Promise<Product> {
+    const products = await findProducts(manufacturer, lang);
+    const product = products.find((product) => product.slug === slug);
+
+    if (!product) {
+        throw new Error(`Product with slug ${slug} not found`);
     }
-}
 
-export async function getProductById(id: string, lang: string): Promise<ContentProduct> {
-    const products = await getCollection('products', (entry) => entry.data.id === id);
-
-    if (products.length === 0) {
-        throw new Error(`Product with ID ${id} not found`);
-    }
-
-    const product = products[0].data as ContentProduct;
-    const {manufacturer, category_slug, slug} = product;
-
-    product.link = getRelativeLocaleUrl(lang, `${manufacturer}/${category_slug}/${slug}/`);
     return product;
 }
 
-export async function findProducts(manufacturer: string, lang: string): Promise<ContentProduct[]> {
-    const products = await getCollection('products', (entry) => entry.data.manufacturer === manufacturer);
-    
-    const productsPromises = products.map(async (entry) => {
-        const product = await getProductById(entry.data.id, lang);
-        return product;
-    });
-
-    return Promise.all(productsPromises);
-}
-
-export async function findProductsByCategory(manufacturer: string, category: string, lang: string): Promise<ContentProduct[]> {
-    const products = await findProducts(manufacturer, lang);
-    return products.filter((product) => product.category_slug === category);
-}
-
-export async function getPromotedProducts(productIds: string[], lang: string): Promise<PromotedContentProduct[]> {
-    const promotedProducts = productIds.map(async (id) => {
-        const product = await getProductById(id, lang);
-        return {
-            id: product.id,
-            manufacturer: product.manufacturer,
-            name: product.name,
-            slug: product.slug,
-            image: product.images.length > 0 ? product.images[0] : '',
-            link: product.link,
-        };
-    });
-
-    return Promise.all(promotedProducts);
-}
-
-export async function getNewProducts(productIds: string[], lang: string): Promise<NewProduct[]> {
-    const newProducts = productIds.map(async (id) => {
-        const product = await getProductById(id, lang);
-        return {
-            product,
-            label: {
-                text: 'New',
-                color: 'success',
-            },
-        };
-    });
-
-    return Promise.all(newProducts);
-}
-
-export function makeProductUrl(product: ContentProduct, lang: string): string {
-    return getRelativeLocaleUrl(lang, `${product.manufacturer}/${product.category_slug}/${product.slug}/`);
+export function getProductUrl(product: Product, lang: string): string {
+    return getRelativeLocaleUrl(lang, `/${product.slug}/`);
 }

@@ -1,0 +1,74 @@
+{
+  "id": "marttiini.cabin-chef-filleting-knife",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/443010",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "category_name": "Outdoor",
+  "name": "Cabin Chef Filleting Knife",
+  "name_short": "",
+  "slug": "cabin-chef-filleting-knife",
+  "model_name": "",
+  "lead": "Cabin Chef Filleting Knife design inspired by northern nature, powered by form and function",
+  "description": [
+    "Cabin Chef knives design inspired by northern nature, powered by form and function.",
+    "Marttiini filleting knives are legendary for their sharpness and usability. The Filleting Knife is part of the Cabin Chef set designed by Harri Koskinen.",
+    "The blade of the Filleting Knife is made of high-quality, durable stainless steel. The handle is made of Finnish thermally modified birch a material known for its durability and graceful aging as well as warm and pleasant feel grip. The matte finish ensures a safe grip even when wet.",
+    "The harmonious combination of beautiful design and practicality, as well as durable natural materials, guarantee that the Cabin Chef Filleting Knife is a pleasure to use, time and time again.",
+    "We recommend hand wash."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "15,5 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "27 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "97 g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel (8Cr14MoV)"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "heat treated birch,"
+        },
+        {
+          "id": "ferrule-material",
+          "name": "Ferrule material",
+          "value": "stainless steel"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather, brown"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/cabin-chef-filleting-knife-0"
+  ]
+}

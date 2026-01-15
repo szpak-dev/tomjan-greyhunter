@@ -1,0 +1,75 @@
+{
+  "id": "marttiini.eagle-knife",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/555010W",
+  "manufacturer": "marttiini",
+  "category_slug": "design-knives",
+  "category_name": "Design Knives",
+  "name": "Eagle Knife",
+  "name_short": "",
+  "slug": "eagle-knife",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Sharp and reliable, designed for daily use and built to last a lifetime. That is why the Eagle Knife is a timeless and respected gift item.",
+    "Kotkapuukko was the first product in Marttiini’s range of animal themed knives, and it remains one of our most popular models. The eagle head pommel was designed by the famous jewelry designer Jorma Laine in the mid-1970s and it quickly became a success, leading to the production of other knives with brass bolsters.",
+    "In many cultures, the eagle symbolizes strength, freedom, and keen vision. It is often associated with courage and leadership. For example, in ancient Rome, the eagle was the symbol of the Roman Empire, and in the United States, the bald eagle represents freedom and independence.",
+    "The versatile Eagle Knife is a reliable knife fit for both outdoor enthusiasts and collectors. The stainless steel blade (1.4034, HRC 53,5-55) is versatile, while the heat-treated curly birch handle's wax coating ensures durability for years.",
+    "Every Eagle Knife is delivered in an elegant wooden box."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "22 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Stainless steel 1.4034 / X46Cr13, HRC 53,5-55"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Heat treated curly birch, waxed, cast ferrules"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Leather, black"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "wooden gift box"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/eagle-knife-0"
+  ]
+}

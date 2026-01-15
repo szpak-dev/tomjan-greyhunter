@@ -1,0 +1,74 @@
+{
+  "id": "marttiini.lynx-134",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/134012",
+  "manufacturer": "marttiini",
+  "category_slug": "traditional",
+  "category_name": "Traditional",
+  "name": "Lynx 134",
+  "name_short": "",
+  "slug": "lynx-134",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The 134 Lynx knife combines practical features with stunning details. This impressive knife is perfect for any outdoors person or",
+    ".",
+    "The handle is made of waxed curly birch – the cast finger guard adds a hint of luxury. The blade is made of practical stainless chrome steel. A durable and beautiful leather sheath is included.",
+    "The same knife is available also with a different sheath design :"
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "22 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Stainless steel 1.4034 / X46Cr13, HRC 53.5-55"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Curly birch, waxed, finger guard of cast"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Leather"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "sharpening-angle",
+          "name": "Sharpening Angle",
+          "value": "22 degrees / Scandi grind"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/lynx-134-0"
+  ]
+}

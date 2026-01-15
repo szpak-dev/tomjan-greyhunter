@@ -1,0 +1,71 @@
+{
+  "id": "marttiini.lynx-black-edition",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/131013",
+  "manufacturer": "marttiini",
+  "category_slug": "traditional",
+  "category_name": "Traditional",
+  "name": "Lynx Black Edition",
+  "name_short": "",
+  "slug": "lynx-black-edition",
+  "model_name": "",
+  "lead": "Classic Lynx knife with an updated modern black look",
+  "description": [
+    "The forged carbon steel blade is perfect for carving; it is also easy to sharpen to its original sharpness."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "23 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Carbon steel 80CrV2, HRC 59.5"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Black birch, protective oil coating"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Black leather"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "sharpening-angle",
+          "name": "Sharpening angle",
+          "value": "22 degrees / Scandi grind"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/lynx-black-edition-0"
+  ]
+}

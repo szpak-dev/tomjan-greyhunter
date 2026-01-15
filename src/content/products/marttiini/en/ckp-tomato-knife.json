@@ -1,0 +1,56 @@
+{
+  "id": "marttiini.ckp-tomato-knife",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/750114P",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "category_name": "Kitchen",
+  "name": "CKP Tomato Knife",
+  "name_short": "",
+  "slug": "ckp-tomato-knife",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "This knife has a serrated blade that cuts into the tomato skin with no nonsense. It is ideal for cutting thin tomato slices. Naturally, the knife can manage other cutting and slicing jobs that require precision.",
+    "We recommend hand wash."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "10 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "20 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "rubber"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/ckp-tomato-knife-0"
+  ]
+}

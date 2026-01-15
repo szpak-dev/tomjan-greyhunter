@@ -1,0 +1,61 @@
+{
+  "id": "marttiini.condor-junior",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/186010",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "category_name": "Outdoor",
+  "name": "Condor Junior",
+  "name_short": "",
+  "slug": "condor-junior",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The safe rounded tip protects junior carvers from puncture wounds and tip cuts. The blade is made from easy to maintain stainless steel. The sharpening of the blade is naturally the same as in the knives of more experienced carvers.",
+    "Roughened rubber handle and finger guard ensure a firm grip of the knife. The handle fits into the hand of a child also by its size. And a proper knife certainly comes with the proper leather sheath."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "8 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "18 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel, rounded tip"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "rubber, black"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather, black"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/condor-junior-0"
+  ]
+}

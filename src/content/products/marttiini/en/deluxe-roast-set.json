@@ -1,0 +1,73 @@
+{
+  "id": "marttiini.deluxe-roast-set",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1483012",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "category_name": "Kitchen",
+  "name": "Deluxe Roast Set",
+  "name_short": "",
+  "slug": "deluxe-roast-set",
+  "model_name": "",
+  "lead": "Every feast needs a good knife",
+  "description": [
+    "Carving the first slice of a roast is an act of ceremony – that’s why every feast needs a good knife. Whether it’s ham, poultry, or seitan you’re carving, Marttiini’s Deluxe Roast Set is an elegant two-piece set of cutlery to crown your banquet.",
+    "The long, curved blade of the knife is ideal for carving slices, while the carving fork helps keep the roast in place. The handles are made of beautiful Finnish curly birch and feature finger guards and curved butts to ensure a good, firm grip.",
+    "Every Deluxe Roast Set comes in a wooden gift box, making the set a great gift."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "15 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "27 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel 1.4034 / X46Cr13, HRC 53,5-55"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Finnish curly birch"
+        },
+        {
+          "id": "finger-guard",
+          "name": "Finger guard",
+          "value": "100 % recycled ABS"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "wooden gift box"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/deluxe-roast-set-0"
+  ]
+}

@@ -1,0 +1,39 @@
+---
+import Layout from "../../../layouts/Layout.astro";
+import { categoryRepository, manufacturerRepository } from "../../../content";
+import Section from "../../../components/ui/Section.astro";
+import ManufacturerLogo from "../../../components/ManufacturerLogo.astro";
+
+export async function getStaticPaths() {
+  return [
+    { params: { lang: "en", manufacturer: "marttiini" } },
+    { params: { lang: "pl", manufacturer: "marttiini" } }
+  ];
+}
+
+const { lang, manufacturer } = Astro.params;
+const manufacturerData = await manufacturerRepository.get(manufacturer, lang);
+const allCategories = await categoryRepository.findCategories(lang);
+const manufacturerCategories = allCategories.filter((c) => c.manufacturer === manufacturer);
+---
+
+<Layout title={manufacturerData.name} lang={lang}>
+  <div class="manufacturer-page animate-fade-in">
+    <div class="text-center mb-5 animate-fade-in-up">
+      <ManufacturerLogo manufacturer={manufacturerData} />
+      <h1 class="fw-bold mt-3">{manufacturerData.name}</h1>
+    </div>
+
+    <Section heading="Kategorie produktów" divider={true}>
+      <div class="row row-cols-1 row-cols-md-3 g-4 animate-stagger">
+        {
+          manufacturerCategories.map((category) => (
+            <div class="col">
+              {category.name}
+            </div>
+          ))
+        }
+      </div>
+    </Section>
+  </div>
+</Layout>

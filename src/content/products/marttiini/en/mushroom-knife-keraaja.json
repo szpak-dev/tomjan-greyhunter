@@ -1,0 +1,72 @@
+{
+  "id": "marttiini.mushroom-knife-keraaja",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/709016",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "category_name": "Outdoor",
+  "name": "Mushroom Knife Kerääjä",
+  "name_short": "",
+  "slug": "mushroom-knife-keraaja",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "In Finnish language the word ‘’kerääjä’’ means gatherer. The premium heat-treated birch handle is turned in a direction counter to the blade's grinding. This design facilitates a more comfortable grip, drawing inspiration from the inward movement most common in mushroom foraging.",
+    "The curved shape of the blade facilitates smooth slicing through the stem, preserving the integrity of the underlying fungal mycelium and preventing any disruption to its growth. The blade is made of high end stainless steel used in high quality kitchen knives.",
+    "The brush is firm enough to remove dirt, debris and bugs, but soft enough to avoid damaging delicate mushrooms. It is made of natural animal hair. The knife comes in a genuine, chrome tanned matte brown leather sheath with silver foil debossing. The quick fix attachment belt makes it easy to attach the sheath to various places like the belt, belt loop, wrist or basket handle. Eyelet rivets offer an option to use a lanyard for example."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "7 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "20 cm"
+        },
+        {
+          "id": "brush-length",
+          "name": "Brush length",
+          "value": "2 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Heat-treated birch"
+        },
+        {
+          "id": "brush",
+          "name": "Brush",
+          "value": "Genuine wild boar hair"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Chrome tanned leather"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/mushroom-knife-keraaja-0"
+  ]
+}

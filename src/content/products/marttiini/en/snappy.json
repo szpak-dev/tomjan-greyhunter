@@ -1,0 +1,65 @@
+{
+  "id": "marttiini.snappy",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/511020",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "category_name": "Outdoor",
+  "name": "Snappy",
+  "name_short": "",
+  "slug": "snappy",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The 6 cm long carbon steel blade is handy in use and easy to keep sharp. The handle shape follows the traditional Marttiini Lynx handle. Birch handle with waxed finish gives you a good grip on the knife. Black leather sheath with printed Marttiini logo pattern."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "5,9 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "18 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "102g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "carbon steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "birch, waxed"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather, black"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/snappy-0"
+  ]
+}

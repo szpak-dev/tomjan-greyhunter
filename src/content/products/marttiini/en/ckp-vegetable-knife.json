@@ -1,0 +1,56 @@
+{
+  "id": "marttiini.ckp-vegetable-knife",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/745114P",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "category_name": "Kitchen",
+  "name": "CKP Vegetable Knife",
+  "name_short": "",
+  "slug": "ckp-vegetable-knife",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The flexible blade is also excellent for cleaning small fish.",
+    "We recommend hand wash."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "10 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "20 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "rubber"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/ckp-vegetable-knife-0"
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "id": "marttiini.tervas",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559032W",
+  "manufacturer": "marttiini",
+  "category_slug": "unique-by-marttiini",
+  "category_name": "Unique By Marttiini",
+  "name": "Tervas",
+  "name_short": "",
+  "slug": "tervas",
+  "model_name": "",
+  "lead": "Handmade",
+  "description": [
+    "This unique Tervas knife gets its name and color from the resinous stump of a conifer tree. Tervas is warm brown, smells of resin, and is the best material for campfire wood. Hikers can use it to light a fire even in the rain.",
+    "The handle of the Tervas knife is made of heat-treated curly birch and reindeer antler. The stunning 10 cm Damascus blade is stainless steel, and the black sheath is made of genuine leather."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "10 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "22,3 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "140g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Damascus"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Heat-treated curly birch, reindeer antler bone, colored birch"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Leather, Black"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "Wooden Unique Gift Box"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/tervas-0"
+  ]
+}

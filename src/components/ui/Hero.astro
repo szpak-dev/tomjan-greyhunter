@@ -1,0 +1,17 @@
+---
+export type Props = {
+  title: string;
+  slogan: string;
+}
+
+const { title, slogan } = Astro.props;
+---
+
+<div class="text-center mb-5 hero-section">
+  <h1 class="display-4 fw-bold mb-3 hero-title">
+    {title}
+  </h1>
+  <p class="lead text-muted hero-slogan">
+    {slogan}
+  </p>
+</div>

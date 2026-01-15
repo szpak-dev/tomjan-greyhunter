@@ -1,0 +1,42 @@
+{
+  "id": "marttiini.enamel-mug-37-dl-white",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/V160037",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "category_name": "Outdoor",
+  "name": "Enamel mug, 3,7 dl, white",
+  "name_short": "",
+  "slug": "enamel-mug-37-dl-white",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "A durable and practical enamel mug with a fresh and modern look, made in collaboration with Finnish design company Muurla.",
+    "This enamel mug is the perfect companion for your outdoor adventures – it is light-weight and easy to keep clean.",
+    "The mug carries a carbon steel core, with a double coating of enamel. The rim is fully rounded for your comfort.",
+    "Capacity 3.7dl. Dishwasher safe. Do not put in a microwave oven."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "size",
+          "name": "Size",
+          "value": "3.7 dl"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "158 g"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/enamel-mug-37-dl-white-0"
+  ]
+}

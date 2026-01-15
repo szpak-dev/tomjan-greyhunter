@@ -1,0 +1,60 @@
+{
+  "id": "marttiini.lynx-121",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/121010",
+  "manufacturer": "marttiini",
+  "category_slug": "traditional",
+  "category_name": "Traditional",
+  "name": "Lynx 121",
+  "name_short": "",
+  "slug": "lynx-121",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "This handy general purpose knife is especially suitable for carving dried salted meat and for the precise cutting of wood. The knife features an easy to maintain stainless chrome steel blade and a leather sheath in the traditional style."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "9 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "20 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "curly birch"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/lynx-121-0"
+  ]
+}

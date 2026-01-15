@@ -1,0 +1,71 @@
+{
+  "id": "marttiini.black-8-folding-knife",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/970110",
+  "manufacturer": "marttiini",
+  "category_slug": "folding-knives",
+  "category_name": "Folding Knives",
+  "name": "Black 8 Folding Knife",
+  "name_short": "",
+  "slug": "black-8-folding-knife",
+  "model_name": "",
+  "lead": "A convenient folding knife with a stylish, chromium plated steel blade",
+  "description": [
+    "The handle is made of fiber-reinforced composite G10. Eight-centimeter blade locks in the operating position with the liner lock. The handle is equipped with a belt clip, which allows the folding knife to be kept conveniently at your reach."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "8 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "18 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "99g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Stainless steel, chromium plated. Liner lock"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "G10, black. Belt clip"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "Cardboard gift box"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/black-8-folding-knife-0"
+  ]
+}

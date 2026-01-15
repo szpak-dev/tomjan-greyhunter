@@ -1,0 +1,68 @@
+{
+  "id": "marttiini.deluxe-gourmet-steak-knife-set",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1440016",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "category_name": "Kitchen",
+  "name": "Deluxe Gourmet Steak Knife Set",
+  "name_short": "",
+  "slug": "deluxe-gourmet-steak-knife-set",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "These steak knives are an excellent gift for all lovers of a good steak. The set includes six extremely sharp steak knives in a wooden storage box.",
+    "Gourmet Steak Knives are available also separately (",
+    ")."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "10 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "21 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "heat treated birch"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "wooden box"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/deluxe-gourmet-steak-knife-set-0"
+  ]
+}

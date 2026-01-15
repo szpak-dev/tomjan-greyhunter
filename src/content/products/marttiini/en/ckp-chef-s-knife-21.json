@@ -1,0 +1,56 @@
+{
+  "id": "marttiini.ckp-chef-s-knife-21",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/770114P",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "category_name": "Kitchen",
+  "name": "CKP Chef's Knife 21",
+  "name_short": "",
+  "slug": "ckp-chef-s-knife-21",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The thick and robust blade makes this knife durable and strong. The larger handle is a comfortable fit even in larger hands.",
+    "We recommend hand wash."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "21 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "33 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "rubber"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/ckp-chef-s-knife-21-0"
+  ]
+}

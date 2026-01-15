@@ -1,0 +1,62 @@
+{
+  "id": "marttiini.lapp-knife-240",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/240010",
+  "manufacturer": "marttiini",
+  "category_slug": "traditional",
+  "category_name": "Traditional",
+  "name": "Lapp knife 240",
+  "name_short": "",
+  "slug": "lapp-knife-240",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    ".",
+    "The Lapp knife 240 is one of Marttiini's most popular knives and continues to maintain its place at the top of the sales ratings after many years of continuous production. The knife is excellent for hikers and hunters who are active knife users, and it also makes an ideal present or souvenir from a trip to Finland.",
+    "The stainless chrome steel blade features a beautiful etched engraving depicting a Lappish theme, whilst the pattern on the sheath also reflects a strong Lappish heritage."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "13 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "24 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "curly birch, varnished"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather, light brown"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/lapp-knife-240-0"
+  ]
+}

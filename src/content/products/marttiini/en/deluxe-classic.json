@@ -1,0 +1,62 @@
+{
+  "id": "marttiini.deluxe-classic",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/167015",
+  "manufacturer": "marttiini",
+  "category_slug": "hunting",
+  "category_name": "Hunting",
+  "name": "Deluxe Classic",
+  "name_short": "",
+  "slug": "deluxe-classic",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The traditional Ilves blade features a blood groove and a pot hook. The beautifully waxed curly birch handle with finger guard fittings fits securely in the hand. This knife is perfect for hiking, hunting, and fishing. The same knife is also available with a rubber handle.",
+    "Check out the same model with a textured rubber handle (",
+    ")."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "23 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "curly birch, waxed"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/deluxe-classic-0"
+  ]
+}

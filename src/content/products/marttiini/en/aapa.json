@@ -1,0 +1,76 @@
+{
+  "id": "marttiini.aapa",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/131030",
+  "manufacturer": "marttiini",
+  "category_slug": "design-knives",
+  "category_name": "Design Knives",
+  "name": "Aapa",
+  "name_short": "",
+  "slug": "aapa",
+  "model_name": "",
+  "lead": "The characteristics of two strong traditional knives combined into one",
+  "description": [
+    "The bold Aapa knife embodies the harsh atmosphere of the Finnish swamp landscape. The model combines the typical characteristics of two strong traditional knives: the blade of a classic Lapp knife and the handle of a Lynx knife. The blade is made of forged carbon steel. The handle is an earthy mix of curly birch waxed in a tar tone and reindeer antler bone. The new sheath type has a wider holster."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "23 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "176 g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "forged carbon steel 80CrV2, HRC 59.5"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "colour-waxed curly birch, reindeer antler bone, protective oil"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather, black"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "sharpening-angle",
+          "name": "Sharpening angle",
+          "value": "22 degrees / Scandi grind"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/aapa-0"
+  ]
+}

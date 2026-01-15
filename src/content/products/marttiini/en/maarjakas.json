@@ -1,0 +1,76 @@
+{
+  "id": "marttiini.maarjakas",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559042W",
+  "manufacturer": "marttiini",
+  "category_slug": "unique-by-marttiini",
+  "category_name": "Unique By Marttiini",
+  "name": "Maarjakas",
+  "name_short": "",
+  "slug": "maarjakas",
+  "model_name": "",
+  "lead": "Handmade",
+  "description": [
+    "Marjakaas refers to curly birch, which is a valuable wood material. Curly birch has dark streaks within the wood and is a popular material for decorative items. Each curly birch is unique in its pattern, just like this Marjakaas knife. The handle of the knife is made of beautiful heat-treated curly birch, adorned with light untreated curls, reindeer antler, and dyed birch veneer. The blade is a stunning 10 cm Damascus steel, and the black sheath is genuine leather."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "10 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "22,3 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "140g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Damascus"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Heat-treated curly birch, curly birch, reindeer antler bone, colored birch"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Leather, Black"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "Wooden Unique Gift Box"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/maarjakas-0"
+  ]
+}

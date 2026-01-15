@@ -1,0 +1,74 @@
+{
+  "id": "marttiini.kojamo-unique",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559016W",
+  "manufacturer": "marttiini",
+  "category_slug": "unique-by-marttiini",
+  "category_name": "Unique By Marttiini",
+  "name": "Kojamo Unique",
+  "name_short": "",
+  "slug": "kojamo-unique",
+  "model_name": "",
+  "lead": "Handmade",
+  "description": [],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "19 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "33.5 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "200 g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Moose antler bone, bronze cast ferrules"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Leather, black"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "Wooden Unique Gift Box"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/kojamo-unique-0"
+  ]
+}

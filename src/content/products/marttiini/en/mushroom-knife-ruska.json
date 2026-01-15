@@ -1,0 +1,66 @@
+{
+  "id": "marttiini.mushroom-knife-ruska",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/709015",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "category_name": "Outdoor",
+  "name": "Mushroom Knife Ruska",
+  "name_short": "",
+  "slug": "mushroom-knife-ruska",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "In Finnish language the word ‘ruska’ is used to describe the beginning of autumn when the leaves change to bright colours like red, yellow and orange. It’s also the best time for mushroom foraging.",
+    "Bright red handle makes it easier to find the knife in the nature, as it might sometimes get lost. The shape of the curved blade enables smooth slicing of the stem without affecting or uprooting the underlying fungi mycelium. The brush is stiff enough to remove dirt, debris and bugs, but soft enough to not damage the mushrooms. The knife comes in a genuine, chrome tanned matte black leather sheath with silver foil de-bossing. The elastic attachment cord makes it easy to attach the sheath to various places like the belt, belt loop, wrist or the basket handle."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "5 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "16 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Plastic"
+        },
+        {
+          "id": "brush",
+          "name": "Brush",
+          "value": "Nylon"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Chrome tanned leather"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/mushroom-knife-ruska-0"
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "marttiini.ckp-peeling-knife",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/740114P",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "category_name": "Kitchen",
+  "name": "CKP Peeling Knife",
+  "name_short": "",
+  "slug": "ckp-peeling-knife",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The peeling knife is a handy tool for peeling fruit and cutting root vegetables.",
+    "We recommend hand wash."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "7 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "17 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "rubber"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/ckp-peeling-knife-0"
+  ]
+}

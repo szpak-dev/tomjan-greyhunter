@@ -1,0 +1,60 @@
+{
+  "id": "marttiini.deluxe-skinner",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/167014",
+  "manufacturer": "marttiini",
+  "category_slug": "hunting",
+  "category_name": "Hunting",
+  "name": "Deluxe Skinner",
+  "name_short": "",
+  "slug": "deluxe-skinner",
+  "model_name": "",
+  "lead": "Deluxe Skinner is an elegant hunting knife",
+  "description": [
+    "Deluxe Skinner is a hunting knife with a touch of luxury – waxed curly birch handle, stainless steel blade and leather sheath is a fine combination. The skinner blade is suitable for both skinning and carving, but not suitable for splitting bones."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "23 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "curly birch, waxed"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/deluxe-skinner-0"
+  ]
+}

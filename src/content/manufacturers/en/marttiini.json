@@ -1,0 +1,25 @@
+{
+    "id": "marttiini",
+    "lang": "en",
+    "name": "Marttiini",
+    "logoImage": "https://res.cloudinary.com/dcpogr7md/image/upload/v1768059253/greyhunter.com.pl/marttiini_logo.svg",
+    "website": "https://www.marttiini.fi",
+    "socials": [
+        {
+            "label": "Facebook",
+            "url": "https://www.facebook.com/marttiini.fi",
+            "icon": "facebook"
+        },
+        {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/marttiini_knives",
+            "icon": "instagram"
+        }
+    ],
+    "description": [
+        "Marttiini is a Finnish manufacturer of high-quality hunting and outdoor knives.",
+        "Founded in Finland, the company specializes in premium knife production for hunters and outdoor enthusiasts.",
+        "Known for innovative designs and superior craftsmanship in blade manufacturing."
+    ],
+    "domains": ["hunting knives", "outdoor equipment", "cutlery", "sporting knives"]
+}

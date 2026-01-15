@@ -1,0 +1,68 @@
+{
+  "id": "marttiini.martef-fishing-knife",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/175014T",
+  "manufacturer": "marttiini",
+  "category_slug": "fishing",
+  "category_name": "Fishing",
+  "name": "Martef Fishing Knife",
+  "name_short": "",
+  "slug": "martef-fishing-knife",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The serrated edge on the back of the Martef coated stainless steel blade makes the removal of fish scales easy.",
+    "The blade of the fisherman's knife is sharpened just like a normal Marttiini knife, therefore you can use this knife not only for processing fish but also for many jobs around the house or camp. The textured rubber handle and the finger guard ensure a firm grip of the knife even in cold and wet conditions.",
+    "The knife is supplied with a black leather sheath.",
+    "We recommend hand wash."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "23 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "131 g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel, Martef coating"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "rubber, blue"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather, black"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/martef-fishing-knife-0"
+  ]
+}

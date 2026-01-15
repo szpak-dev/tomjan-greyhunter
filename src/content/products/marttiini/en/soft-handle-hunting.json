@@ -1,0 +1,65 @@
+{
+  "id": "marttiini.soft-handle-hunting",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/215015",
+  "manufacturer": "marttiini",
+  "category_slug": "hunting",
+  "category_name": "Hunting",
+  "name": "Soft Handle Hunting",
+  "name_short": "",
+  "slug": "soft-handle-hunting",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Soft Handle Hunting knife combines a smoothly contoured handle that provides a comfortable grip with a 13 cm long chrome blade which ensures excellent usability in various applications. The knife is specifically designed for hunting, but it is also well-suited for hiking and fishing."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "13 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "26,5 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "160 g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Rubber"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Leather"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/soft-handle-hunting-0"
+  ]
+}

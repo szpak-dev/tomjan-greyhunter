@@ -1,0 +1,25 @@
+{
+    "id": "marttiini",
+    "lang": "pl",
+    "name": "Marttiini",
+    "logoImage": "https://res.cloudinary.com/dcpogr7md/image/upload/v1768059253/greyhunter.com.pl/marttiini_logo.svg",
+    "website": "https://www.marttiini.fi",
+    "socials": [
+        {
+            "label": "Facebook",
+            "url": "https://www.facebook.com/marttiini.fi",
+            "icon": "facebook"
+        },
+        {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/marttiini_knives",
+            "icon": "instagram"
+        }
+    ],
+    "description": [
+        "Marttiini to fiński producent wysokiej jakości noży myśliwskich i do użytku na świeżym powietrzu.",
+        "Założona w Finlandii firma specjalizuje się w produkcji noży premium dla myśliwych i miłośników przyrody.",
+        "Znana z innowacyjnych projektów i doskonałego rzemiosła w produkcji ostrzy."
+    ],
+    "domains": ["noże myśliwskie", "sprzęt outdoor", "noże sportowe", "noże do cięcia"]
+}

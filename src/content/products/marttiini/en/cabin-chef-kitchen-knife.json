@@ -1,0 +1,74 @@
+{
+  "id": "marttiini.cabin-chef-kitchen-knife",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/444010",
+  "manufacturer": "marttiini",
+  "category_slug": "outdoor",
+  "category_name": "Outdoor",
+  "name": "Cabin Chef Kitchen Knife",
+  "name_short": "",
+  "slug": "cabin-chef-kitchen-knife",
+  "model_name": "",
+  "lead": "Cabin Chef Knife design inspired by northern nature, powered by form and function",
+  "description": [
+    "This Chef Knife is a versatile kitchen knife that cuts, chops, slices and dices extremely smoothly. If you need only one knife for your camping and cabin kitchen, youve found the perfect knife! The Chef Knife is also a great, practical gift idea for anyone.",
+    "The handle is made of Finnish thermally modified birch a material known for its durability and graceful aging as well as warm and pleasant feel grip. The matte finish ensures a safe grip even when wet.",
+    "The blade of the Chef Knife is made of high-quality, durable stainless steel.",
+    "The harmonious combination of beautiful design and practicality, as well as durable natural materials, guarantee that the Cabin Chef knives are a pleasure to use, time and time again.",
+    "We recommend hand wash."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "14 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "25,5 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "85 g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel (8Cr14MoV)"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "heat treated birch, waxed"
+        },
+        {
+          "id": "ferrule-material",
+          "name": "Ferrule material",
+          "value": "stainless steel"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather, brown"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/cabin-chef-kitchen-knife-0"
+  ]
+}

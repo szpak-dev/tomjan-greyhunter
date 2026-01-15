@@ -1,0 +1,30 @@
+---
+import { makeUrl } from "../../libs/url";
+import { siteRepository } from "../../content";
+
+const languages = siteRepository.getAvailableLanguages();
+const currentLang = siteRepository.getLanguage( Astro.currentLocale as string );
+---
+
+<div class="ui-language-selector dropdown d-inline-block ms-3">
+  <button
+    class="btn btn-outline-secondary dropdown-toggle btn-sm"
+    type="button"
+    data-bs-toggle="dropdown"
+    aria-expanded="false"
+  >
+    {currentLang.flag}
+  </button>
+  <ul class="dropdown-menu">
+    {
+      languages.map(({ code, label, flag }) => (
+        <li>
+          <a class="dropdown-item" href={makeUrl(Astro, { targetLocale: code })} >
+            {flag}
+            {label}
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</div>

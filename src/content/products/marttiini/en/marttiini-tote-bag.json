@@ -1,0 +1,36 @@
+{
+  "id": "marttiini.marttiini-tote-bag",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/M712009",
+  "manufacturer": "marttiini",
+  "category_slug": "sharpening-and-accessories",
+  "category_name": "Sharpening and Accessories",
+  "name": "Marttiini Tote Bag",
+  "name_short": "",
+  "slug": "marttiini-tote-bag",
+  "model_name": "",
+  "lead": "Durable Marttiini tote bag made of recycled cotton",
+  "description": [
+    "The tote bag is made of sturdy material and is comfortable to use. The tote bag will hold everything you need in your daily life – including your laptop. The neat tote bag, equipped with the Marttiini logo, looks stylish on your shoulder.",
+    "The light tote bag can be folded into a small square, making it easy to keep with you as a shopping bag or a backup bag when travelling.",
+    "The tote bag is made of 100% recycled materials. If necessary, you can handwash the bag in lukewarm water."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "size",
+          "name": "Size",
+          "value": "37"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/marttiini-tote-bag-0"
+  ]
+}

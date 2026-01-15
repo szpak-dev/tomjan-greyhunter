@@ -1,0 +1,77 @@
+{
+  "id": "marttiini.auhto",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559041W",
+  "manufacturer": "marttiini",
+  "category_slug": "unique-by-marttiini",
+  "category_name": "Unique By Marttiini",
+  "name": "Auhto",
+  "name_short": "",
+  "slug": "auhto",
+  "model_name": "",
+  "lead": "Handmade",
+  "description": [
+    "Auhto refers to a riverside grove, which is a lush forest type located along rivers and streams. These areas are rich in deciduous trees and offer beautiful landscapes and diverse nature, making them excellent hiking destinations.",
+    "In the Auhto unique knife, you can sense the green lushness of spring as nature awakens after winter. The handle is made of reindeer antler, dyed birch, and vulcanized fiber, representing this magnificent grove. The blade is a 6 cm Damascus steel blade, and the black sheath is made of genuine leather."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "6 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "16,7 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "160g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Damascus"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Reindeer antler bone, Elforyn, volcano yellow paper, colored birch"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Leather, Black"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "Wooden Unique Gift Box"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/auhto-0"
+  ]
+}

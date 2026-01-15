@@ -1,0 +1,23 @@
+---
+import Logo from "./Logo.astro";
+import LanguageSelector from "./LanguageSelector.astro";
+import Socials from "./Socials.astro";
+
+import { siteRepository } from "../../content";
+const socials = siteRepository.getSocialAccounts();
+---
+
+<header class="ui-header container-fluid px-0">
+  <div class="socials-container bg-dark">
+    <Socials socials={socials} />
+  </div>
+  <div class="container d-flex justify-content-between align-items-center py-2">
+    <Logo />
+    <div class="d-flex align-items-center gap-3">
+      <LanguageSelector />
+    </div>
+  </div>
+</header>
+<div class="container-fluid bg-secondary text-center py-1 shadow-sm">
+  <span class="text-white fw-bold">GREY HUNTER</span>
+</div>

@@ -1,0 +1,60 @@
+{
+  "id": "marttiini.mfk-curly-birch-folding-knife",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/915111",
+  "manufacturer": "marttiini",
+  "category_slug": "folding-knives",
+  "category_name": "Folding Knives",
+  "name": "MFK Curly Birch Folding Knife",
+  "name_short": "",
+  "slug": "mfk-curly-birch-folding-knife",
+  "model_name": "",
+  "lead": "MFK Curly Birch is a multipurpose folding knife for outdoor and general use",
+  "description": [
+    "The handle is decorated with beautiful Finnish curly birch. The blade is made of japanese stainless steel and has a satin finish. Belt clip on the handle."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "8 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "19 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "126g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Stainless steel. Liner lock"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Curly birch. Belt clip"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/mfk-curly-birch-folding-knife-0"
+  ]
+}

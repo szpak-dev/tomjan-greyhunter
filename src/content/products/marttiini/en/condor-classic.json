@@ -1,0 +1,62 @@
+{
+  "id": "marttiini.condor-classic",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/186015",
+  "manufacturer": "marttiini",
+  "category_slug": "hunting",
+  "category_name": "Hunting",
+  "name": "Condor Classic",
+  "name_short": "",
+  "slug": "condor-classic",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The textured rubber handle is combined with the legendary blade of the Lynx knife offering incomparable sharpness and featuring the traditional blood groove.",
+    "For those who prefer knives with wood handles we have a",
+    "available."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "23 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "rubber, black"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather, black"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/condor-classic-0"
+  ]
+}

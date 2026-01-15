@@ -1,0 +1,30 @@
+{
+    "id": "sarsilmaz",
+    "lang": "en",
+    "name": "Sarsilmaz",
+    "logoImage": "https://res.cloudinary.com/dcpogr7md/image/upload/v1768058636/greyhunter.com.pl/sarsilmaz_logo_blue.png",
+    "website": "https://www.sarsilmaz.com.tr",
+    "socials": [
+        {
+            "label": "Facebook",
+            "url": "https://www.facebook.com/Sarsilmaz",
+            "icon": "facebook"
+        },
+        {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/sarsilmaz_official",
+            "icon": "instagram"
+        },
+        {
+            "label": "YouTube",
+            "url": "https://www.youtube.com/channel/UCJvPz_O5LywLYZJP8gIWWjA",
+            "icon": "youtube"
+        }
+    ],
+    "description": [
+        "Sarsilmaz is a leading Turkish manufacturer of firearms and sporting weapons.",
+        "With decades of experience, Sarsilmaz produces reliable and innovative firearms for hunting and sport shooting.",
+        "Recognized internationally for quality craftsmanship and modern firearm design."
+    ],
+    "domains": ["firearms", "hunting rifles", "sporting weapons", "weapons manufacturing"]
+}

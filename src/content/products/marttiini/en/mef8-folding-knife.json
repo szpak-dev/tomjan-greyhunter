@@ -1,0 +1,61 @@
+{
+  "id": "marttiini.mef8-folding-knife",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/970210",
+  "manufacturer": "marttiini",
+  "category_slug": "folding-knives",
+  "category_name": "Folding Knives",
+  "name": "MEF8 Folding Knife",
+  "name_short": "",
+  "slug": "mef8-folding-knife",
+  "model_name": "",
+  "lead": "The blade on the Marttiini MEF8 folding knife flips open with one smooth swing",
+  "description": [
+    "The stainless steel blade is secured in the open position with a liner lock.",
+    "Fiber-enforced G-10 handle with a groove-pattern guarantees secure hold. Low profile pocket clip for easy storage."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "8,5 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "20 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "130g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Stainless steel / Liner lock / Flipper"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "G-10. / Belt clip"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/mef8-folding-knife-0"
+  ]
+}

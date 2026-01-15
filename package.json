@@ -6,7 +6,12 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "load:contents": "tsx src/content.loader.ts",
+    "dicts:build": "tsx src/content.dictionaries.ts",
+    "dicts:sync": "tsx src/content.dictionaries.ts sync",
+    "translations": "tsx src/content.translations.ts",
+    "translations:update": "tsx src/content.translations.ts update"
   },
   "dependencies": {
     "astro": "^5.16.8",
@@ -16,5 +21,8 @@
     "bootstrap-icons": "^1.13.1",
     "cloudinary": "^2.8.0",
     "dotenv": "^17.2.3"
+  },
+  "devDependencies": {
+    "tsx": "^4.21.0"
   }
 }

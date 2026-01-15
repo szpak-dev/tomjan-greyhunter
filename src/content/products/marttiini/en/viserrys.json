@@ -1,0 +1,76 @@
+{
+  "id": "marttiini.viserrys",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559020W",
+  "manufacturer": "marttiini",
+  "category_slug": "unique-by-marttiini",
+  "category_name": "Unique By Marttiini",
+  "name": "Viserrys",
+  "name_short": "",
+  "slug": "viserrys",
+  "model_name": "",
+  "lead": "Handmade - Since 1928",
+  "description": [
+    "This unique model is inspired by spring and the cheerful birdsong of the season. The handle features a variety of materials that harmonize beautifully: reindeer antler, heat-treated birch, curly birch, and dyed veneer. The blade is a handy 6 cm Damascus steel, and the sheath is made of genuine black leather."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "6 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "15,9 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "120g"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "Damascus"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "Reindeer antler bone, heat-treated curly birch, colored birch, curly birch"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "Leather, black"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "Wooden Unique Gift Box"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/viserrys-0"
+  ]
+}

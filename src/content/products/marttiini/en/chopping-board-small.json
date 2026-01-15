@@ -1,0 +1,50 @@
+{
+  "id": "marttiini.chopping-board-small",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1520160C",
+  "manufacturer": "marttiini",
+  "category_slug": "kitchen",
+  "category_name": "Kitchen",
+  "name": "Chopping Board Small",
+  "name_short": "",
+  "slug": "chopping-board-small",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "Crafted from high-quality oak wood, this chopping board combines timeless design with exceptional durability, making it an essential addition to any kitchen. The natural strength of oak ensures long-lasting performance, while its elegant grain pattern adds a touch of rustic charm. Gentle on knives, it helps maintain sharpness, and as a naturally hygienic material, oak’s porous structure and tannins help reduce bacterial survival compared to many other surfaces.",
+    "The cutting board should be washed with clean water after use, as soap is not recommended. If soap is applied, the washing should be done quickly, followed by careful rinsing and immediate drying with a clean cloth. To keep the board in the best condition, avoid placing it in a dishwasher. Over time, the surface may lose some of its original finish; in this case, a new layer of coating can be applied. For the best results, it is recommended to use Rubio Monocoat Oilplus 2c, which is the same protective treatment originally applied in the factory."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length",
+          "name": "Length",
+          "value": "39 cm"
+        },
+        {
+          "id": "width",
+          "name": "Width",
+          "value": "16 cm"
+        },
+        {
+          "id": "height",
+          "name": "Height",
+          "value": "2 cm"
+        },
+        {
+          "id": "weight",
+          "name": "Weight",
+          "value": "850 g"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/chopping-board-small-0"
+  ]
+}

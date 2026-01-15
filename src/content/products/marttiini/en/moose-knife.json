@@ -1,0 +1,73 @@
+{
+  "id": "marttiini.moose-knife",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/546012W",
+  "manufacturer": "marttiini",
+  "category_slug": "design-knives",
+  "category_name": "Design Knives",
+  "name": "Moose Knife",
+  "name_short": "",
+  "slug": "moose-knife",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The Moose Knife is a high-quality design knife. This knife is at the same time an impressive collector’s item and a reliable tool. Moose, bearing a crown of antlers, is the king of the northern forests and it has been immortalized in the cast ferrule of the knife.",
+    "The ultra sharp blade is made of carbon steel. The precious colour of the handle is achieved by thermal treatment of the wood, which also provides the handle with excellent protection against moisture.",
+    "This knife is delivered in a wooden gift box."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "24,5 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "carbon steel 1.2235 / 80CrV2 / HRC 59.5"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "heat treated curlybirch, waxed, cast ferrules"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather, black"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "wooden gift box"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/moose-knife-0"
+  ]
+}

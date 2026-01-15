@@ -1,52 +1,26 @@
 ---
-import PromotedProductsSlider from "../../components/PromotedProductsSlider.astro";
-import NewInOffer from "../../components/NewInOffer.astro";
-import OfficialDistributorGrid from "../../components/OfficialDistributorGrid.astro";
-import FrontPageSection from "../../components/FrontPageSection.astro";
-
+import { siteRepository, manufacturerRepository, productRepository } from "../../content";
+import type { MossaicPicture } from "../../content/site.repository";
+import FrontPage from "../../layouts/FrontPage.astro";
 import Layout from "../../layouts/Layout.astro";
-import { languages } from "../../i18n/ui";
-import { useTranslations } from "../../i18n/utils";
-
-import { productRepository, manufacturerRepository, miscRepository } from "../../content";
-import PassionMossaicGrid from "../../components/PassionMossaicGrid.astro";
-const lang = Astro.currentLocale as string;
-const t = useTranslations(lang as keyof typeof languages);
-
-const sliderProductIds = ["marttiini.aapa", "marttiini.bear-knife"];
-const promotedProducts = await productRepository.getPromotedProducts(sliderProductIds, lang);
-
-const newProductIds = ["marttiini.aapa", "marttiini.bear-knife"];
-const newProducts = await productRepository.getNewProducts(newProductIds, lang);
-
-const manufacturers = await manufacturerRepository.findManufacturers(lang);
-const mossaicPictures = miscRepository.findMossaicPictures();
 
 export async function getStaticPaths() {
-  return Object.keys(languages).map((lang) => ({ params: { lang } }));
+  return siteRepository.getAvailableLanguages().map((lang) => ({ params: { lang: lang.code } }));
 }
+
+const { lang } = Astro.params;
+const sliderItems = siteRepository.getSliderItems("marttiini");
+const manufacturers = await manufacturerRepository.findAll(lang);
+const newProducts = await productRepository.findNewProducts("marttiini", lang);
+const mossaicImages: MossaicPicture[] = siteRepository.getMossaic();
 ---
 
-<Layout title="Grey Hunter - Tomasz Jantos">
-  <section class="promoted-products py-3">
-    <PromotedProductsSlider promotedProducts={promotedProducts} />
-  </section>
-
-  <FrontPageSection heading={t('headings.official-distributor')}>
-    <OfficialDistributorGrid 
-      manufacturers={manufacturers} 
-      ordering={["marttiini", "sarsilmaz", "eley-hawk", "eley"]} 
-    />
-  </FrontPageSection>
-
-  <FrontPageSection heading={t('headings.new-in-offer')}>
-    <NewInOffer 
-      products={newProducts} 
-      lang={lang} 
-    />
-  </FrontPageSection>
-
-  <FrontPageSection heading={t('headings.passion')}>
-    <PassionMossaicGrid mossaicPictures={mossaicPictures} />
-  </FrontPageSection>
+<Layout title="Grey Hunter - Tomasz Jantos" lang={lang}>
+  <FrontPage 
+    {lang}
+    {sliderItems}
+    {manufacturers}
+    {newProducts}
+    {mossaicImages}
+  />
 </Layout>

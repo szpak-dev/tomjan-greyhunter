@@ -1,0 +1,72 @@
+{
+  "id": "marttiini.wild-boar",
+  "lang": "en",
+  "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/546013W",
+  "manufacturer": "marttiini",
+  "category_slug": "design-knives",
+  "category_name": "Design Knives",
+  "name": "Wild Boar",
+  "name_short": "",
+  "slug": "wild-boar",
+  "model_name": "",
+  "lead": "",
+  "description": [
+    "The butt of the knife features a wild boar head on a cast ferrule. The curly birch handle with a finger groove is color-waxed to withstand use and ensure a good grip. The razor-sharp blade is made of durable stainless steel.",
+    "The knife comes in an elegant wooden box, making it a perfect gift."
+  ],
+  "attribute_groups": [
+    {
+      "id": "dimensions",
+      "name": "DIMENSIONS",
+      "properties": [
+        {
+          "id": "length-of-blade",
+          "name": "Length of blade",
+          "value": "11 cm"
+        },
+        {
+          "id": "total-length",
+          "name": "Total length",
+          "value": "24 cm"
+        }
+      ]
+    },
+    {
+      "id": "materials",
+      "name": "MATERIALS",
+      "properties": [
+        {
+          "id": "blade-material",
+          "name": "Blade material",
+          "value": "stainless steel 1.4034 / X46Cr13, HRC 53,5-55"
+        },
+        {
+          "id": "handle-material",
+          "name": "Handle material",
+          "value": "curly birch, color waxed"
+        },
+        {
+          "id": "sheath-material",
+          "name": "Sheath material",
+          "value": "leather, black"
+        }
+      ]
+    },
+    {
+      "id": "properties",
+      "name": "PROPERTIES",
+      "properties": [
+        {
+          "id": "packaging",
+          "name": "Packaging",
+          "value": "wooden gift box"
+        }
+      ]
+    }
+  ],
+  "variants": [],
+  "extra_data": [],
+  "images": [
+    "greyhunter.com.pl/marttiini/wild-boar-0"
+  ]
+}

@@ -1,45 +1,34 @@
 import { getCollection } from 'astro:content';
-import { getRelativeLocaleUrl } from "astro:i18n";
 
+export type SocialLink = {
+    label: string;
+    url: string;
+    icon: string;
+}
 
-export type ContentManufacturer = {
+export type Manufacturer = {
+    id: string;
+    lang: string;
     name: string;
-    slug: string;
-    logoUrl: string;
-    imagesOrientation: 'landscape' | 'portrait';
-    link: {
-        url: string;
-        target: string;
-    }
+    logoImage: string;
+    website: string;
+    socials: SocialLink[];
+    description: string[];
+    domains: string[]; // List of domain names associated with the manufacturer
 }
 
-export async function findManufacturers(lang: string): Promise<ContentManufacturer[]> {
+export async function findAll(lang: string): Promise<Manufacturer[]> {
     const manufacturers = await getCollection('manufacturers');
-    
-    return manufacturers.map((entry) => {
-        const {name, slug, link, logoUrl, imagesOrientation} = entry.data;
-
-        if (link.url.startsWith('_INTERNAL_URL_')) {
-            link.url = getRelativeLocaleUrl(lang,`/${slug}/`);
-        }
-
-        return { name, slug, logoUrl, imagesOrientation, link }
-    });
+    return manufacturers
+        .map((entry) => entry.data as Manufacturer)
+        .filter((manufacturer) => manufacturer.lang === lang);
 }
 
-export async function getImagesOrientation(manufacturer: string, lang: string ): Promise<'landscape' | 'portrait'> {
-    const manufacturers = await findManufacturers(lang);
-    const manufacturerEntry = manufacturers.find((entry) => entry.slug === manufacturer);
-    return manufacturerEntry ? manufacturerEntry.imagesOrientation : 'landscape';
-}
-
-export async function getImagesOrientationMap(lang: string): Promise<Record<string, 'landscape' | 'portrait'>> {
-    const manufacturers = await findManufacturers(lang);
-    const orientationMap: Record<string, 'landscape' | 'portrait'> = {};
-
-    manufacturers.forEach((entry) => {
-        orientationMap[entry.slug] = entry.imagesOrientation;
-    });
-
-    return orientationMap;
+export async function get(id: string, lang: string): Promise<Manufacturer> {
+    const manufacturers = await findAll(lang);
+    const manufacturer = manufacturers.find((m) => m.id === id);
+    if (!manufacturer) {
+        throw new Error(`Manufacturer with id '${id}' not found for lang '${lang}'`);
+    }
+    return manufacturer;
 }

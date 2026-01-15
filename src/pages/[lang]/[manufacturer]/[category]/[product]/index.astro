@@ -1,0 +1,41 @@
+---
+import Layout from "../../../../../layouts/Layout.astro";
+import ProductPage from "../../../../../layouts/ProductPage.astro";
+import { categoryRepository, manufacturerRepository, productRepository } from "../../../../../content";
+
+export async function getStaticPaths() {
+  const languages = ["en", "pl"];
+  const manufacturers = ["marttiini"];
+  const paths = [];
+
+  for (const lang of languages) {
+    for (const manufacturer of manufacturers) {
+      const products = await productRepository.findProducts(manufacturer, lang);
+      
+      for (const product of products) {
+        paths.push({
+          params: { 
+            lang, 
+            manufacturer, 
+            category: product.category_slug,
+            product: product.slug
+          }
+        });
+      }
+    }
+  }
+
+  return paths;
+}
+
+const { lang, manufacturer, product } = Astro.params;
+const manufacturerData = await manufacturerRepository.get(manufacturer, lang);
+const productData = await productRepository.getProductBySlug(manufacturer, product, lang);
+---
+
+<Layout title={productData.name_short} lang={lang}>
+  <ProductPage 
+    manufacturer={manufacturerData} 
+    product={productData} 
+  />
+</Layout>
