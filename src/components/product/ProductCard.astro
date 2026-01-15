@@ -19,9 +19,6 @@ export type Props = {
 
 const { product, badgeQueries, label } = Astro.props;
 
-/**
- * Build badges array from badgeQueries configuration
- */
 function getBadges() {
   if (!badgeQueries?.propKeys) {
     return [{ text: product.category_name, variant: "light" }];

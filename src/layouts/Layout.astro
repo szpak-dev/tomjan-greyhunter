@@ -10,12 +10,16 @@ import Header from "../components/ui/Header.astro";
 import Footer from "../components/ui/Footer.astro";
 
 import { getCloudinaryUrl } from "../libs/cloudinary";
+import { siteRepository } from "../content";
+
 const faviconUrl = getCloudinaryUrl("tomjan/grey-hunter-logo-01");
+const socials = siteRepository.getSocialAccounts();
+const owner = siteRepository.getSiteOwner();
 
 interface Props {
   title: string;
   mainClass?: string;
-  lang?: string;
+  lang: string;
 }
 
 const { title, mainClass, lang } = Astro.props;
@@ -32,11 +36,11 @@ const { title, mainClass, lang } = Astro.props;
     <title>{title}</title>
   </head>
   <body class="d-flex flex-column min-vh-100 bg-light">
-    <Header />
+    <Header {lang} {socials} />
     <main class={"container flex-grow-1 py-4 " + (mainClass ?? "")}>
       <slot />
     </main>
-    <Footer lang={lang} />
+    <Footer {lang} {owner} {socials} />
     <script>
       import "bootstrap/js/dist/carousel";
       import "bootstrap/dist/js/bootstrap.bundle.min.js";

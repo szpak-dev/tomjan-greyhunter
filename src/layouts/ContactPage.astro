@@ -1,0 +1,102 @@
+---
+import Page from "../components/utils/Page.astro";
+import Section from "../components/ui/Section.astro";
+import Navigation from "../components/ui/Navigation.astro";
+
+import { siteRepository } from "../content";
+import type { ContentPage, NavigationItem, SiteOwner } from "../content/site.repository";
+
+export type Props = {
+  page: ContentPage;
+  lang: string;
+  navigationItems: NavigationItem[];
+  owner: SiteOwner;
+};
+
+const { page, lang, navigationItems, owner } = Astro.props;
+const t = siteRepository.getTranslator(lang);
+---
+
+<Page id="contactPage" gap={4} animation="animate-fade-in">
+  <Navigation {lang} {navigationItems} currentSlug={page.slug} />
+  
+  <div class="heading d-flex flex-column animate-fade-in-up">
+    <h1 class="fw-bold text-center m-0">{page.title}</h1>
+  </div>
+
+  <Section id="pageContent" divider={true}>
+    <div class="content-text">
+      {page.paragraphs.map((paragraph) => (
+        <p class="lh-base mb-3">{paragraph}</p>
+      ))}
+    </div>
+  </Section>
+
+  <Section id="contactInfo" heading={t('footer.contact')} divider={true}>
+    <div class="row g-4">
+      <div class="col-md-6">
+        <div class="p-4 bg-light rounded">
+          <h5 class="fw-bold mb-3">{t('footer.business-partners')}</h5>
+          <div class="mb-2">
+            <strong>{owner.company.name}</strong>
+          </div>
+          <div class="mb-2">
+            <span class="text-muted">{t('contact.tax-id')}:</span> {owner.company.taxId}
+          </div>
+          <div class="mb-3">
+            <span class="text-muted">{t('contact.registration-id')}:</span> {owner.company.registrationId}
+          </div>
+          
+          <h6 class="fw-bold mb-2 mt-4">{t('contact.address')}</h6>
+          <div class="mb-1">{owner.address.street}</div>
+          <div class="mb-3">{owner.address.postalCode} {owner.address.city}</div>
+          <div>{owner.address.country}</div>
+        </div>
+      </div>
+
+      <div class="col-md-6">
+        <div class="p-4 bg-light rounded">
+          <h5 class="fw-bold mb-3">{t('contact.get-in-touch')}</h5>
+          
+          <div class="mb-3">
+            <h6 class="text-muted mb-1">{t('contact.email')}</h6>
+            <a href={`mailto:${owner.contact.email}`}>
+              {owner.contact.email}
+            </a>
+          </div>
+
+          <div class="mb-3">
+            <h6 class="text-muted mb-1">{t('contact.phone')}</h6>
+            <a href={owner.contact.phone.url}>
+              {owner.contact.phone.number}
+            </a>
+          </div>
+
+          <div class="mb-3">
+            <h6 class="text-muted mb-1">{t('contact.website')}</h6>
+            <a href={owner.contact.website} target="_blank" rel="noopener noreferrer">
+              greyhunter.com.pl
+            </a>
+          </div>
+
+          <div class="mt-4 pt-4 border-top">
+            <h6 class="fw-bold mb-3">{t('footer.followUs')}</h6>
+            <div class="d-flex gap-2">
+              {owner.socials.map((social) => (
+                <a 
+                  href={social.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  class="btn btn-sm btn-outline-secondary"
+                  title={social.name}
+                >
+                  <i class={social.icon}></i>
+                </a>
+              ))}
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </Section>
+</Page>

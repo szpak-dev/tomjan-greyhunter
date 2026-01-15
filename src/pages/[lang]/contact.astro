@@ -1,0 +1,23 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import ContactPage from "../../layouts/ContactPage.astro";
+import { siteRepository } from "../../content";
+
+export async function getStaticPaths() {
+  return [
+    { params: { lang: "en" } },
+    { params: { lang: "pl" } },
+  ];
+}
+
+const { lang } = Astro.params;
+const slugMap = { en: "contact", pl: "kontakt" };
+const slug = slugMap[lang as keyof typeof slugMap];
+const page = siteRepository.getContentPage(slug, lang);
+const navigationItems = siteRepository.getNavigationItems(lang);
+const owner = siteRepository.getSiteOwner();
+---
+
+<Layout title={page.title} lang={lang}>
+  <ContactPage {page} {lang} {navigationItems} {owner} />
+</Layout>

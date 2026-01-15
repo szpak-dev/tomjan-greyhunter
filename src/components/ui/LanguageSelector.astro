@@ -1,9 +1,13 @@
 ---
 import { makeUrl } from "../../libs/url";
-import { siteRepository } from "../../content";
+import type { AvailableLanguage } from "../../content/site.repository";
 
-const languages = siteRepository.getAvailableLanguages();
-const currentLang = siteRepository.getLanguage( Astro.currentLocale as string );
+interface Props {
+  languages: AvailableLanguage[];
+  currentLanguage: AvailableLanguage;
+}
+
+const { languages, currentLanguage } = Astro.props;
 ---
 
 <div class="ui-language-selector dropdown d-inline-block ms-3">
@@ -13,7 +17,7 @@ const currentLang = siteRepository.getLanguage( Astro.currentLocale as string );
     data-bs-toggle="dropdown"
     aria-expanded="false"
   >
-    {currentLang.flag}
+    {currentLanguage.flag}
   </button>
   <ul class="dropdown-menu">
     {

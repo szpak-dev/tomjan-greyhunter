@@ -1,0 +1,22 @@
+---
+import Layout from "../../layouts/Layout.astro";
+import ContentPage from "../../layouts/ContentPage.astro";
+import { siteRepository } from "../../content";
+
+export async function getStaticPaths() {
+  return [
+    { params: { lang: "en" } },
+    { params: { lang: "pl" } },
+  ];
+}
+
+const { lang } = Astro.params;
+const slugMap = { en: "about-company", pl: "o-firmie" };
+const slug = slugMap[lang as keyof typeof slugMap];
+const page = siteRepository.getContentPage(slug, lang);
+const navigationItems = siteRepository.getNavigationItems(lang);
+---
+
+<Layout title={page.title} lang={lang}>
+  <ContentPage {page} {lang} {navigationItems} />
+</Layout>

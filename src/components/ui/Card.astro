@@ -156,15 +156,17 @@ const imageRoundedClasses = {
     )}
     {/* Card Image */}
     {hasImage && (
-      <CldImage
-        src={image.src!}
-        alt={image.alt || "Card image"}
-        crop="pad"
-        width={400}
-        height={300}
-        sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-        class={`card-img-top ${imageFitClasses[image.fit || "cover"]} ${imageRoundedClasses[borderRounded] === "rounded-0" ? "" : "border-0"}`}
-      />
+      <div class="d-flex justify-content-center">
+        <CldImage
+          src={image.src!}
+          alt={image.alt || "Card image"}
+          crop="pad"
+          width={400}
+          height={300}
+          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+          class={`card-img-top ${imageFitClasses[image.fit || "cover"]} ${imageRoundedClasses[borderRounded] === "rounded-0" ? "" : "border-0"}`}
+        />
+      </div>
     )}
     <slot name="image" />
 
@@ -252,15 +254,17 @@ const imageRoundedClasses = {
     )}
     {/* Card Image */}
     {hasImage && (
-      <CldImage
-        src={image.src!}
-        alt={image.alt || "Card image"}
-        crop="pad"
-        width={400}
-        height={300}
-        sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-        class={`card-img-top ${imageFitClasses[image.fit || "cover"]} ${imageRoundedClasses[borderRounded] === "rounded-0" ? "" : "border-0"}`}
-      />
+      <div class="d-flex justify-content-center">
+        <CldImage
+          src={image.src!}
+          alt={image.alt || "Card image"}
+          crop="pad"
+          width={400}
+          height={300}
+          sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+          class={`card-img-top ${imageFitClasses[image.fit || "cover"]} ${imageRoundedClasses[borderRounded] === "rounded-0" ? "" : "border-0"}`}
+        />
+      </div>
     )}
     <slot name="image" />
 

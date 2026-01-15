@@ -1,17 +1,16 @@
 ---
-import { siteRepository } from "../../content"
 import FooterSocials from "./FooterSocials.astro";
 import { useTranslations } from "../../i18n/utils";
+import type { SiteOwner, SocialAccount } from "../../content/site.repository";
 
 interface Props {
-  lang?: string;
+  lang: string;
+  owner: SiteOwner;
+  socials: SocialAccount[];
 }
 
-const { lang = 'en' } = Astro.props;
+const { lang, owner, socials } = Astro.props;
 const t = useTranslations(lang as 'en' | 'pl');
-
-const owner = siteRepository.getSiteOwner();
-const socials = siteRepository.getSocialAccounts();
 const currentYear = new Date().getFullYear();
 ---
 <footer class="ui-footer bg-dark text-white py-5">

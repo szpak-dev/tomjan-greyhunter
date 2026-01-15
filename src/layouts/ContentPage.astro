@@ -1,0 +1,37 @@
+---
+import Page from "../components/utils/Page.astro";
+import Section from "../components/ui/Section.astro";
+import Navigation from "../components/ui/Navigation.astro";
+
+import type { ContentPage, NavigationItem } from "../content/site.repository";
+
+export type Props = {
+  page: ContentPage;
+  lang: string;
+  navigationItems: NavigationItem[];
+};
+
+const { page, lang, navigationItems } = Astro.props;
+---
+
+<Page id="contentPage" gap={4} animation="animate-fade-in">
+  <Navigation {lang} {navigationItems} currentSlug={page.slug} />
+  
+  <div class="heading d-flex flex-column animate-fade-in-up">
+    <h1 class="fw-bold text-center m-0">{page.title}</h1>
+  </div>
+
+  <Section id="pageContent" divider={true}>
+    <div class="content-text">
+      {page.paragraphs.map((paragraph) => (
+        <p class="lh-base mb-3">{paragraph}</p>
+      ))}
+    </div>
+  </Section>
+</Page>
+
+<style>
+  .content-text {
+    max-width: 100%;
+  }
+</style>

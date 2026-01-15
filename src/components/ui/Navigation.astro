@@ -1,0 +1,24 @@
+---
+import type { NavigationItem } from "../../content/site.repository";
+
+export type Props = {
+  lang: string;
+  navigationItems: NavigationItem[];
+  currentSlug?: string;
+};
+
+const { lang, navigationItems, currentSlug } = Astro.props;
+---
+
+<nav class="d-flex gap-2 flex-wrap">
+  {navigationItems.map((item) => (
+    <a 
+      href={item.path}
+      class={`nav-link ${currentSlug === item.slug ? 'active' : ''}`}
+      title={item.id}
+    >
+      {item.icon && <i class={`${item.icon} me-2`}></i>}
+      <span class="d-none d-md-inline">{item.id}</span>
+    </a>
+  ))}
+</nav>

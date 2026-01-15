@@ -32,6 +32,15 @@ export const ui = {
         'footer.contact': 'Contact',
         'footer.followUs': 'Follow us',
         'footer.allRightsReserved': 'All rights reserved',
+
+        // Contact
+        'contact.get-in-touch': 'Get In Touch',
+        'contact.email': 'Email',
+        'contact.phone': 'Phone',
+        'contact.website': 'Website',
+        'contact.address': 'Address',
+        'contact.tax-id': 'Tax ID',
+        'contact.registration-id': 'Registration ID',
     },
     pl: {
         'nav.company': 'O Firmie',
@@ -59,5 +68,14 @@ export const ui = {
         'footer.contact': 'Kontakt',
         'footer.followUs': 'Obserwuj nas',
         'footer.allRightsReserved': 'Wszelkie prawa zastrzeżone',
+
+        // Contact
+        'contact.get-in-touch': 'Skontaktuj się z nami',
+        'contact.email': 'Email',
+        'contact.phone': 'Telefon',
+        'contact.website': 'Strona Internetowa',
+        'contact.address': 'Adres',
+        'contact.tax-id': 'NIP',
+        'contact.registration-id': 'REGON',
     },
 } as const;
