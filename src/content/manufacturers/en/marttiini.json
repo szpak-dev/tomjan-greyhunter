@@ -4,7 +4,10 @@
     "name": "Marttiini",
     "logoImage": "https://res.cloudinary.com/dcpogr7md/image/upload/v1768059253/greyhunter.com.pl/marttiini_logo.svg",
     "website": "https://www.marttiini.fi",
-    "link": "/marttiini/",
+    "link": {
+        "url": "/marttiini/",
+        "target": "_self"
+    },
     "socials": [
         {
             "label": "Facebook",

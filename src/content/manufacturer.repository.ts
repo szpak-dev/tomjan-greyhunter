@@ -6,13 +6,18 @@ export type SocialLink = {
     icon: string;
 }
 
+export type ManufacturerLink = {
+    url: string;
+    target: string; // '_self' for internal links, '_blank' for external
+}
+
 export type Manufacturer = {
     id: string;
     lang: string;
     name: string;
     logoImage: string;
     website: string;
-    link: string; 
+    link: ManufacturerLink; 
     socials: SocialLink[];
     description: string[];
     domains: string[]; // List of domain names associated with the manufacturer

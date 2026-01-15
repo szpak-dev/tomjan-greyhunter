@@ -21,6 +21,6 @@ const languages = siteRepository.getAvailableLanguages();
 const currentLanguage = siteRepository.getLanguage(lang);
 ---
 
-<Layout title={page.title} {lang} {socials} {owner} {languages} {currentLanguage} {navigationItems}>
+<Layout title={page.title} {lang} {socials} {owner} {languages} {currentLanguage} {navigationItems} currentSlug={slug}>
   <ContentPage {page} />
 </Layout>

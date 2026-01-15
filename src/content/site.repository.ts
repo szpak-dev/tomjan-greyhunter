@@ -196,16 +196,16 @@ export function getContentPage(slug: string, lang: string): ContentPage {
             title: "Contact",
             slug: "contact",
             paragraphs: [
-                "Get in touch with us. We're here to help and answer any questions you might have."
+                "Get in touch. I'm here to help and answer any questions you might have."
             ],
         },
         {
             id: "contact",
             lang: "pl",
             title: "Kontakt",
-            slug: "kontakt",
+            slug: "contact",
             paragraphs: [
-                "Skontaktuj się z nami. Jesteśmy tutaj, aby pomóc i odpowiedzieć na wszelkie pytania, które możesz mieć."
+                "Skontaktuj się ze mną. Jestem tutaj, aby pomóc i odpowiedzieć na wszelkie pytania, które możesz mieć."
             ],
         },
     ];
@@ -220,8 +220,8 @@ export function getContentPage(slug: string, lang: string): ContentPage {
 }
 
 export type NavigationItem = {
-    id: string;
     slug: string;
+    name: string;
     path: string;
     icon?: string;
 };
@@ -229,12 +229,12 @@ export type NavigationItem = {
 export function getNavigationItems(lang: string): NavigationItem[] {
     const items: Record<string, NavigationItem[]> = {
         "en": [
-            { id: "about-company", slug: "about-company", path: "/en/company/", icon: "bi bi-building" },
-            { id: "contact", slug: "contact", path: "/en/contact/", icon: "bi bi-envelope" },
+            { slug: "about-company", name: "About Company", path: "/en/company/", icon: "bi bi-building" },
+            { slug: "contact", name: "Contact", path: "/en/contact/", icon: "bi bi-envelope" },
         ],
         "pl": [
-            { id: "o-firmie", slug: "o-firmie", path: "/pl/company/", icon: "bi bi-building" },
-            { id: "kontakt", slug: "kontakt", path: "/pl/kontakt/", icon: "bi bi-envelope" },
+            { slug: "o-firmie", name: "O Firmie", path: "/pl/company/", icon: "bi bi-building" },
+            { slug: "kontakt", name: "Kontakt", path: "/pl/contact/", icon: "bi bi-envelope" },
         ],
     };
 

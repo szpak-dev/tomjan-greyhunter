@@ -10,13 +10,14 @@ export type Props = {
 
 const { manufacturer } = Astro.props;
 
-const href = manufacturer.link?.startsWith('http')
-  ? manufacturer.link
-  : makeUrl(Astro, { path: manufacturer.link });
+const href = manufacturer.link.url.startsWith('http')
+  ? manufacturer.link.url
+  : makeUrl(Astro, { path: manufacturer.link.url });
 ---
 
 <Card
   href={href}
+  target={manufacturer.link.target}
   variant="elevated"
   animation="lift"
 >

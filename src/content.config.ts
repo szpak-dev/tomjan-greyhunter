@@ -8,7 +8,10 @@ const manufacturers = defineCollection({
         name: z.string(),
         logoImage: z.string(),
         website: z.string(),
-        link: z.string().optional(),
+        link: z.object({
+            url: z.string(),
+            target: z.string(),
+        }),
         socials: z.array(z.object({
             label: z.string(),
             url: z.string(),

@@ -28,6 +28,7 @@ export type Props = {
     colorClass?: string;
   };
   href?: string;
+  target?: string;
   /** Card variant/style: 'default', 'elevated', 'gradient', 'dark', 'light' */
   variant?: "default" | "elevated" | "gradient" | "dark" | "light";
   /** Animation type: 'none', 'lift', 'fade', 'slide', 'scale', 'flip' */
@@ -44,6 +45,7 @@ const {
   border = {},
   label,
   href,
+  target,
   variant = "default",
   animation = "lift",
   rounded = "none",
@@ -140,7 +142,7 @@ const imageRoundedClasses = {
 ---
 
 {hasLink ? (
-  <a href={href} class={`${cardClasses} card-link-wrapper`}>
+  <a href={href} target={target} class={`${cardClasses} card-link-wrapper`}>
     {/* Label */}
     {label && (
       <div

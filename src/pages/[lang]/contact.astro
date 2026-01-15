@@ -11,8 +11,7 @@ export async function getStaticPaths() {
 }
 
 const { lang } = Astro.params;
-const slugMap = { en: "contact", pl: "kontakt" };
-const slug = slugMap[lang as keyof typeof slugMap];
+const slug = "contact";
 const page = siteRepository.getContentPage(slug, lang);
 const navigationItems = siteRepository.getNavigationItems(lang);
 const owner = siteRepository.getSiteOwner();
@@ -21,6 +20,6 @@ const languages = siteRepository.getAvailableLanguages();
 const currentLanguage = siteRepository.getLanguage(lang);
 ---
 
-<Layout title={page.title} {lang} {socials} {owner} {languages} {currentLanguage} {navigationItems}>
+<Layout title={page.title} {lang} {socials} {owner} {languages} {currentLanguage} {navigationItems} currentSlug="contact">
   <ContactPage {page} {lang} {owner} />
 </Layout>

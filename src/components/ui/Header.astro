@@ -12,9 +12,10 @@ export type Props = {
   languages: AvailableLanguage[];
   currentLanguage: AvailableLanguage;
   navigationItems: NavigationItem[];
+  currentSlug?: string;
 };
 
-const { lang, socials, languages, currentLanguage, navigationItems } = Astro.props;
+const { lang, socials, languages, currentLanguage, navigationItems, currentSlug } = Astro.props;
 ---
 
 <header class="ui-header container-fluid px-0">
@@ -27,9 +28,9 @@ const { lang, socials, languages, currentLanguage, navigationItems } = Astro.pro
       <LanguageSelector {languages} {currentLanguage} />
     </div>
   </div>
-  <div class="container-fluid bg-light border-bottom py-3">
+  <div class="container-fluid bg-light border-bottom pb-2">
     <div class="container">
-      <Navigation {lang} {navigationItems} />
+      <Navigation {navigationItems} {currentSlug} />
     </div>
   </div>
 </header>
