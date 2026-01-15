@@ -4,66 +4,66 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559052W",
   "manufacturer": "marttiini",
   "category_slug": "unique-by-marttiini",
-  "category_name": "Unique By Marttiini",
+  "category_name": "Unikalny przez Marttiini",
   "name": "Sunset",
   "name_short": "",
   "slug": "sunset",
   "model_name": "",
-  "lead": "Handmade",
+  "lead": "Ten nóż czerpie inspirację od renomowanego fińskiego architekta Alvara Aalto. Jego różnorodne style, takie jak nowoczesność i naturalizm, są widoczne w tym unikalnym modelu. kształt uchwytu jest prosty, ale jest ozdobiony dobrze dopasowanymi ziemnymi kolorami.",
   "description": [
-    "This knife draws inspiration from the renowned Finnish architect Alvar Aalto. His diverse styles, such as modernism and naturalism, are evident in this unique model. The handle's shape is simple, yet it is adorned with well-matched earthy colors. The handle is made of heat-treated birch, dyed plywood, and curly birch. The blade is a beautiful 10 cm Damascus steel, and the sheath is genuine black leather."
+    "Ten nóż czerpie inspirację od renomowanego fińskiego architekta Alvara Aalto. Jego różnorodne style, takie jak nowoczesność i naturalizm, są widoczne w tym unikalnym modelu. kształt uchwytu jest prosty, ale jest ozdobiony dobrze dopasowanymi ziemnymi kolorami."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "10 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "22,3 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
-          "value": "140g"
+          "name": "Waga",
+          "value": "140 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Damascus"
+          "name": "Materiał ostrza",
+          "value": "Damaszek"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Heat-treated curly birch, curly birch, colored birch"
+          "name": "Materiał obsługi",
+          "value": "Gotowo oczyszczona kręcona birka, kręcona birka, kolorowa birka"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Leather, black"
+          "name": "Materiał z obudowy",
+          "value": "Skóra, czarna"
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "packaging",
-          "name": "Packaging",
-          "value": "Wooden Unique Gift Box"
+          "name": "Opakowanie",
+          "value": "Drzewna wyjątkowa pudełka prezentów"
         }
       ]
     }

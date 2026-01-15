@@ -4,51 +4,51 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/245010",
   "manufacturer": "marttiini",
   "category_slug": "traditional",
-  "category_name": "Traditional",
+  "category_name": "Tradycyjne",
   "name": "Lapp knife 245",
   "name_short": "",
   "slug": "lapp-knife-245",
   "model_name": "",
-  "lead": "",
+  "lead": "Tradycyjnie ochroniarze palców nie są częścią skandynawskiej kultury noży, ale na przykład w Europie Środkowej ochroniarze palców są powszechnie montowane do noży. Ochroniarze palców zapewnia większe bezpieczeństwo dla użytkownika noży. Dla tych, którzy są nieco mniej przyzwyczajeni do używania noży model z ochroniarzem palców jest szczególnie uzasadniony.",
   "description": [
-    "Traditionally finger guards are not part of Scandinavian knife culture, but in Central Europe for example, finger guards are commonly fitted to knives. A finger guard provides more safety for the knife user. For those who are a little less accustomed to using knives a model with a finger guard is especially justified. You can get a good grip of the knife and your hand will not slip on to the blade even in wet or cold conditions. This Lapp knife is an excellent general knife suitable for both outdoors and hunting.",
-    "The stainless chrome steel blade and the sheath depict traditional themes from Lapland. The sheath also features a secure snap closure."
+    "Tradycyjnie ochroniarze palców nie są częścią skandynawskiej kultury noży, ale na przykład w Europie Środkowej ochroniarze palców są powszechnie montowane do noży. Ochroniarze palców zapewnia większe bezpieczeństwo dla użytkownika noży. Dla tych, którzy są nieco mniej przyzwyczajeni do używania noży model z ochroniarzem palców jest szczególnie uzasadniony.",
+    "Płytka z nierdzewnej stali chromowanej i płytka przedstawiają tradycyjne tematy z Laponii."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "13 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "24 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "curly birch, varnished"
+          "name": "Materiał obsługi",
+          "value": "węgielny, lakierowany"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather, brown"
+          "name": "Materiał z obudowy",
+          "value": "skórę, brązową"
         }
       ]
     }

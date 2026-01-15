@@ -4,31 +4,31 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/V160037",
   "manufacturer": "marttiini",
   "category_slug": "outdoor",
-  "category_name": "Outdoor",
+  "category_name": "Na zewnątrz",
   "name": "Enamel mug, 3,7 dl, white",
   "name_short": "",
   "slug": "enamel-mug-37-dl-white",
   "model_name": "",
-  "lead": "",
+  "lead": "Trwała i praktyczna szmatka z świeżym i nowoczesnym wyglądem, wykonana we współpracy z fińską firmą projektową Muurla.",
   "description": [
-    "A durable and practical enamel mug with a fresh and modern look, made in collaboration with Finnish design company Muurla.",
-    "This enamel mug is the perfect companion for your outdoor adventures – it is light-weight and easy to keep clean.",
-    "The mug carries a carbon steel core, with a double coating of enamel. The rim is fully rounded for your comfort.",
-    "Capacity 3.7dl. Dishwasher safe. Do not put in a microwave oven."
+    "Trwała i praktyczna szmatka z świeżym i nowoczesnym wyglądem, wykonana we współpracy z fińską firmą projektową Muurla.",
+    "Ta szmatka z emailu jest idealnym towarzyszem dla przygód na świeżym powietrzu  jest lekka i łatwa do utrzymania w czystości.",
+    "W kubku znajduje się rdzeń ze stali węglowej, z podwójną powłoką emału.",
+    "Pojemność 3,7dl, bezpieczny sprzęt do mycia naczynia."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "size",
-          "name": "Size",
-          "value": "3.7 dl"
+          "name": "Wielkość",
+          "value": "3,7 dl"
         },
         {
           "id": "weight",
-          "name": "Weight",
+          "name": "Waga",
           "value": "158 g"
         }
       ]

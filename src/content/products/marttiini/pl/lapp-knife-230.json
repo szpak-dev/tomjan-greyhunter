@@ -4,52 +4,51 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/230010",
   "manufacturer": "marttiini",
   "category_slug": "traditional",
-  "category_name": "Traditional",
+  "category_name": "Tradycyjne",
   "name": "Lapp knife 230",
   "name_short": "",
   "slug": "lapp-knife-230",
   "model_name": "",
-  "lead": "",
+  "lead": "Noż Lapp 230 jest jednym z najpopularniejszych noży Marttiini i nadal utrzymuje swoje miejsce na szczycie oceny sprzedaży po wielu latach ciągłej produkcji.",
   "description": [
-    ".",
-    "The Lapp knife 230 is one of Marttiini's most popular knives and continues to maintain its place at the top of the sales ratings after many years of continuous production. The knife is excellent for hikers and hunters who are active knife users, and it also makes an ideal present.",
-    "The stainless chrome steel blade and the sheath depict beautiful traditional themes from Lapland."
+    "Noż Lapp 230 jest jednym z najpopularniejszych noży Marttiini i nadal utrzymuje swoje miejsce na szczycie oceny sprzedaży po wielu latach ciągłej produkcji.",
+    "Płytka z nierdzewnej stali chromowanej i obudowa przedstawiają piękne tradycyjne tematy z Laponii."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "22 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "curly birch, varnished"
+          "name": "Materiał obsługi",
+          "value": "węgielny, lakierowany"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather"
+          "name": "Materiał z obudowy",
+          "value": "skórze"
         }
       ]
     }

@@ -4,67 +4,67 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/552010W",
   "manufacturer": "marttiini",
   "category_slug": "design-knives",
-  "category_name": "Design Knives",
+  "category_name": "Noże projektowe",
   "name": "Salmon Knife",
   "name_short": "",
   "slug": "salmon-knife",
   "model_name": "",
-  "lead": "",
+  "lead": "Ten noż konstrukcyjny jest imponującym przedmiotem kolekcjonerskim i niezawodnym narzędziem. stali nierdzewnej jest doskonałym materiałem do regularnego użycia.",
   "description": [
-    "This design knife is an impressive collector’s item and a reliable tool. Stainless steel is an excellent material for regular use – the material stays rust-free and sharp for a long time. Thermal treatment of the curly birch wood gives the handle a good protection against moisture.",
-    "This knife is delivered in a wooden gift box."
+    "Ten noż konstrukcyjny jest imponującym przedmiotem kolekcjonerskim i niezawodnym narzędziem. stali nierdzewnej jest doskonałym materiałem do regularnego użycia.",
+    "Ten nóż jest dostarczany w drewnianej pudełku prezentów."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "24 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel 1.4034 / X46Cr13, HRC 53.5-55"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej 1.4034 / X46Cr13, HRC 53.5-55"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "heat treated curly birch, waxed, cast ferrules"
+          "name": "Materiał obsługi",
+          "value": "Gotowo przetworzone kręcone birki, woskowane, odlewane ferrule"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather, black"
+          "name": "Materiał z obudowy",
+          "value": "skórę, czarną"
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "sharpening-angle",
-          "name": "Sharpening angle",
-          "value": "22 degrees / Scandi grind"
+          "name": "Uostrzenie kąta",
+          "value": "22 stopnie / Grinding Scandi"
         },
         {
           "id": "packaging",
-          "name": "Packaging",
-          "value": "wooden gift box"
+          "name": "Opakowanie",
+          "value": "drewniana skrzynka prezentów"
         }
       ]
     }

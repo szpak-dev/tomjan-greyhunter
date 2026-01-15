@@ -4,64 +4,64 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/549019W",
   "manufacturer": "marttiini",
   "category_slug": "design-knives",
-  "category_name": "Design Knives",
+  "category_name": "Noże projektowe",
   "name": "Wood Grouse Knife",
   "name_short": "",
   "slug": "wood-grouse-knife",
   "model_name": "",
-  "lead": "",
+  "lead": "Ten przystojny ptak jest jednym z najcenniejszych stworzeń fauny w Finlandii.",
   "description": [
-    "This handsome bird is one of the most valued creatures in the Finnish fauna.",
-    "Wood grouse's characteristic feature, a striking red eyebrow, plays an important role in this beautiful knife.",
-    "The cast ferrules and the beautiful curly birch handle make this knife a unique gift item for all those who appreciate great knives and the purity of Finnish nature.",
-    "This knife is delivered in a wooden gift box."
+    "Ten przystojny ptak jest jednym z najcenniejszych stworzeń fauny w Finlandii.",
+    "W tym pięknym nożie odgrywa ważną rolę charakterystyczna cecha drewnianego grouse'a - uderzająca czerwona brwica.",
+    "Wyrzucone ferrule i piękny kręcony brzęzowy uchwyt sprawiają, że ten nóż jest wyjątkowym prezentem dla wszystkich, którzy cenią wspaniałe nóże i czystość finskiej natury.",
+    "Ten nóż jest dostarczany w drewnianej pudełku prezentów."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "24,5 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Stainless steel 1.4034 / X46Cr13, HRC 53.5-55"
+          "name": "Materiał ostrza",
+          "value": "Stal nierdzewna 1.4034 / X46Cr13, HRC 53.5-55"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Curly birch, cast ferrules"
+          "name": "Materiał obsługi",
+          "value": "Płytkowy, wykończony lub wykończony"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Leather, black"
+          "name": "Materiał z obudowy",
+          "value": "Skóra, czarna"
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "packaging",
-          "name": "Packaging",
-          "value": "wooden gift box"
+          "name": "Opakowanie",
+          "value": "drewniana skrzynka prezentów"
         }
       ]
     }

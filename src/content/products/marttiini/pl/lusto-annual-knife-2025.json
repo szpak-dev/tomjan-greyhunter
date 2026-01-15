@@ -4,66 +4,66 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/235019C",
   "manufacturer": "marttiini",
   "category_slug": "outdoor",
-  "category_name": "Outdoor",
+  "category_name": "Na zewnątrz",
   "name": "Lusto Annual Knife 2025",
   "name_short": "",
   "slug": "lusto-annual-knife-2025",
   "model_name": "",
-  "lead": "",
+  "lead": "Piękny i praktyczny noż roczny Lusto jest z tobą w każdym dniu życia na zewnątrz i jest to świetny prezent dla miłośnika przyrody! Lusto to fińskie słowo dla rocznego pierścienia drzewa. Roczny kształt pierścienia powtarza się w drukowaniach, a dolna część ręcznika wykonana z sztuczki  roczny pierścień każdego pojedynczego kawałka jest unikalny.",
   "description": [
-    "Beautiful and practical Lusto Annual Knife is with you in every day outdoor life and it’s a great gift for a nature lover! Lusto is the Finnish word for an annual ring of a tree. Annual ring-shape is repeated in prints and the bottom of the handle made of plywood – the annual ring of every single piece is unique. The handle is made from heat treated birch with clear oil for extra protection. Classic Lapp knife shaped blade is made from stainless chromium steel. Lusto Annual Knife 2025 comes in a genuine, vegetable tanned brown leather sheath. Each knife is individually numbered."
+    "Piękny i praktyczny noż roczny Lusto jest z tobą w każdym dniu życia na zewnątrz i jest to świetny prezent dla miłośnika przyrody! Lusto to fińskie słowo dla rocznego pierścienia drzewa. Roczny kształt pierścienia powtarza się w drukowaniach, a dolna część ręcznika wykonana z sztuczki  roczny pierścień każdego pojedynczego kawałka jest unikalny."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "23 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
+          "name": "Waga",
           "value": "150 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Stainless steel"
+          "name": "Materiał ostrza",
+          "value": "Pozostałe stali nierdzewnych"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Heat treated birch"
+          "name": "Materiał obsługi",
+          "value": "Gotowo przetworzona birka"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Vegetable tanned leather"
+          "name": "Materiał z obudowy",
+          "value": "Pozostałe skórki roślinne"
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "packaging",
-          "name": "Packaging",
-          "value": "Cardboard gift box"
+          "name": "Opakowanie",
+          "value": "Kartonowa skrzynka prezentów"
         }
       ]
     }

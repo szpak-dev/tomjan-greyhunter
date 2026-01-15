@@ -4,31 +4,31 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1475010",
   "manufacturer": "marttiini",
   "category_slug": "kitchen",
-  "category_name": "Kitchen",
+  "category_name": "Kuchnia",
   "name": "CKP Knife Block, 5 knives",
   "name_short": "",
   "slug": "ckp-knife-block-5-knives",
   "model_name": "",
-  "lead": "",
+  "lead": "Zestaw ten zawiera pięć noży różnych rozmiarów, dzięki czemu przygotowanie żywności jest łatwe, ponieważ zawsze masz w ręku odpowiedni narzędzie. Noż parujący jest przeznaczony do peeling, jak sugeruje jego nazwa. Noż roślinny jest odpowiedni do cięcia warzyw i filetowania małych ryb. Noż chleba cięje zarówno twardy, jak i miękkie chleb ostre i jest również odpowiedni do szczelania kapusty. Noż filetowy jest przeznaczony dla ryb, ale jest również odpowiedni do usunięcia błon z mięsa. Noż szefa jest wszechstronny, a długość ostrza jest wystarczająca do większych składników.",
   "description": [
-    "This set includes five knives of different sizes, making food preparation easy as you always have the right tool at hand. The paring knife is intended for peeling, as its name suggests. The vegetable knife is suitable for cutting vegetables and filleting small fish. The bread knife cuts both hard and soft bread sharply and is also suitable for shredding cabbage. The fillet knife is designed for fish but is also suitable for removing membranes from meat. The chef’s knife is versatile, and its blade length is sufficient for larger ingredients. In the stand, the knives are kept separate from each other, which helps them stay sharp longer. After hand washing, the knives can be dried in this white beech stand. The knives remain sharp and in a good condition for longer, if stored in this block.",
-    "The set contains five knives: peeling, vegetable, filleting, bread and cook's knives.(Products: 740114, 745114, 757114, 765114 ja 770114)",
-    "We recommend hand wash."
+    "Zestaw ten zawiera pięć noży różnych rozmiarów, dzięki czemu przygotowanie żywności jest łatwe, ponieważ zawsze masz w ręku odpowiedni narzędzie. Noż parujący jest przeznaczony do peeling, jak sugeruje jego nazwa. Noż roślinny jest odpowiedni do cięcia warzyw i filetowania małych ryb. Noż chleba cięje zarówno twardy, jak i miękkie chleb ostre i jest również odpowiedni do szczelania kapusty. Noż filetowy jest przeznaczony dla ryb, ale jest również odpowiedni do usunięcia błon z mięsa. Noż szefa jest wszechstronny, a długość ostrza jest wystarczająca do większych składników.",
+    "Zestaw składa się z pięciu noży: peeling, warzywa, filleting, chleb i noże kucharskie.",
+    "Zalecamy mycie rąk."
   ],
   "attribute_groups": [
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "rubber"
+          "name": "Materiał obsługi",
+          "value": "gumowe"
         }
       ]
     }

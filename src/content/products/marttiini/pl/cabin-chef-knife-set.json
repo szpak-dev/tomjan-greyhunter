@@ -4,64 +4,64 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1494000",
   "manufacturer": "marttiini",
   "category_slug": "outdoor",
-  "category_name": "Outdoor",
+  "category_name": "Na zewnątrz",
   "name": "Cabin Chef Knife Set",
   "name_short": "",
   "slug": "cabin-chef-knife-set",
   "model_name": "",
-  "lead": "The Cabin Chef set – Design inspired by northern nature, powered by form and function",
+  "lead": "Zestaw Cabin Chef, zaprojektowany przez Harri Koskinen, posiada niezbędne noże do kempingu i kuchni kabiny. Dokładnie czyste linie noży są zaprojektowane tak, aby służyły funkcjonowaniu i ergonomii. Harmoniczne połączenie pięknego designu i praktyczności, a także trwałych naturalnych materiałów gwarantuje, że noże Cabin Chef są przyjemne w użyciu, wielokrotnie.",
   "description": [
-    "The Cabin Chef set, designed by Harri Koskinen, has the essential knives for the camping and cabin kitchen. The meticulously clean lines of the knives are designed to serve function and ergonomics. The harmonious combination of beautiful design and practicality, as well as durable natural materials, guarantee that the Cabin Chef knives are a pleasure to use, time and time again.",
-    "The rounded square profile of the handle are designed to accommodate different grips required for different ingredients. The handles are made of Finnish thermally modified birch – a material known for its durability and graceful aging as well as warm and pleasant feel grip. The matte finish ensures a safe grip even when wet.",
-    "The blades are made of high-quality, durable stainless steel with the utmost precision for the specific use of each knife.",
-    "The set includes a chef knife, a filleting knife, a fish fork, two smaller knives and a sharpening stone wrapped in a leather knife roll. The Cabin Chef knives are available individually or as a set. The set does not include sheaths.",
-    "We recommend hand wash."
+    "Zestaw Cabin Chef, zaprojektowany przez Harri Koskinen, posiada niezbędne noże do kempingu i kuchni kabiny. Dokładnie czyste linie noży są zaprojektowane tak, aby służyły funkcjonowaniu i ergonomii. Harmoniczne połączenie pięknego designu i praktyczności, a także trwałych naturalnych materiałów gwarantuje, że noże Cabin Chef są przyjemne w użyciu, wielokrotnie.",
+    "Zaokrąglony kwadratowy profil uchwytu jest zaprojektowany tak, aby pomieścić różne uchwyty potrzebne do różnych składników. Uchwyty są wykonane z fińskiego termicznie zmodyfikowanego brzoszkę  materiał znany ze swojej trwałości i eleganckiego starzenia, a także ciepłego i przyjemnego przyczepienia. Matte wykończenie zapewnia bezpieczne przyczepienie nawet w mokrości.",
+    "Płytki są wykonane z wysokiej jakości, trwałej stali nierdzewnej z najwyższą precyzją dla konkretnego zastosowania każdego noża.",
+    "Zestaw obejmuje noż szefa kuchni, noż filetowy, widelko rybne, dwa mniejsze noże i kamień ostrzający owinięty w skórzonym nożem.",
+    "Zalecamy mycie rąk."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "roll-opened",
-          "name": "Roll opened",
-          "value": "44 x 29.7 cm"
+          "name": "Rołka otwarta",
+          "value": "44 x 29,7 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
+          "name": "Waga",
           "value": "1126 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel (8Cr14MoV)"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej (8Cr14MoV)"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "heat treated birch,"
+          "name": "Materiał obsługi",
+          "value": "gorąco oczyszczona birka,"
         },
         {
           "id": "ferrule-material",
-          "name": "Ferrule material",
-          "value": "stainless steel"
+          "name": "Materiał ferrule",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather, brown"
+          "name": "Materiał z obudowy",
+          "value": "skórę, brązową"
         },
         {
           "id": "sharpening-stone-material",
-          "name": "Sharpening stone material",
-          "value": "phyllite"
+          "name": "Materiał do ostrzenia kamienia",
+          "value": "fillit"
         }
       ]
     }

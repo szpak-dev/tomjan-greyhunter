@@ -4,52 +4,51 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/846014T",
   "manufacturer": "marttiini",
   "category_slug": "fishing",
-  "category_name": "Fishing",
+  "category_name": "Rybołówstwo",
   "name": "Martef Filleting Knife 23",
   "name_short": "",
   "slug": "martef-filleting-knife-23",
   "model_name": "",
-  "lead": "",
+  "lead": "Położenie Martef zmniejsza tarcie prawie do zero, chroniąc ostrze przed korozją. Czyszczenie ostrza po użyciu jest niezwykle łatwe.",
   "description": [
-    ".",
-    "The Martef coating reduces friction almost to none while protecting the blade against corrosion. Cleaning the blade after use is extremely easy. The roughened rubber handle and the finger guard ensure a firm grip of the knife even in difficult conditions. This blade lenght is suitable for the biggest whoppers. The filleting knife comes with a leather sheath.",
-    "We recommend hand wash."
+    "Położenie Martef zmniejsza tarcie prawie do zero, chroniąc ostrze przed korozją. Czyszczenie ostrza po użyciu jest niezwykle łatwe.",
+    "Zalecamy mycie rąk."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "23 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "36 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel, Martef coating"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej, powłoki Martef"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "rubber, blue"
+          "name": "Materiał obsługi",
+          "value": "gumy, niebieskie"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather, black"
+          "name": "Materiał z obudowy",
+          "value": "skórę, czarną"
         }
       ]
     }

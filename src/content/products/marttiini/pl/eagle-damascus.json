@@ -4,63 +4,63 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/557012W",
   "manufacturer": "marttiini",
   "category_slug": "design-knives",
-  "category_name": "Design Knives",
+  "category_name": "Noże projektowe",
   "name": "Eagle Damascus",
   "name_short": "",
   "slug": "eagle-damascus",
   "model_name": "",
-  "lead": "Impressive Eagle Damascus Knife in a wooden gift box",
+  "lead": "Marttiini Eagle Damascus Knife łączy w sobie trzy piękne i trwałe materiały  stali z Damaszku, opracowanej cieplnie fińskiej kręconej birki i walcowanych żółw.",
   "description": [
-    "The Marttiini Eagle Damascus Knife combines three beautiful and durable materials – Damascus steel, heat-treated Finnish curly birch, and cast ferrules.",
-    "Damascus steel is a highly valued material among knife enthusiasts. It consists of 120 layers of two different steels, forged together under high pressure and heat. This process creates an exceptionally hard blade (HRC 60) with a distinctive flowing pattern. The Damascus steel blade retains its sharpness for a long time.",
-    "Eagle Damascus knives are individually numbered. The knife is delivered in wooden gift boxes."
+    "Marttiini Eagle Damascus Knife łączy w sobie trzy piękne i trwałe materiały  stali z Damaszku, opracowanej cieplnie fińskiej kręconej birki i walcowanych żółw.",
+    "Stal z Damaszku jest bardzo cenionym materiałem wśród entuzjastów noży. Składa się z 120 warstw dwóch różnych stalów, kształtowanych razem pod wysokim ciśnieniem i ciepłem.",
+    "Noże Eagle Damascus są numerowane indywidualnie."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "10 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "22,5 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Stainless Damascus steel blade RWL34 & PMC27, HRC 60"
+          "name": "Materiał ostrza",
+          "value": "Płytka z stali nierdzewnej z Damaszku RWL34 & PMC27, HRC 60"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Heat treated curly birch handle"
+          "name": "Materiał obsługi",
+          "value": "Ręcznik z obróbki cieplnej z kręconymi birkami"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Leather sheet with Damascus pattern"
+          "name": "Materiał z obudowy",
+          "value": "Sztukę skórzoną z wzoru z Damaszku"
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "packaging",
-          "name": "Packaging",
-          "value": "wooden gift box"
+          "name": "Opakowanie",
+          "value": "drewniana skrzynka prezentów"
         }
       ]
     }

@@ -4,57 +4,57 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1482011",
   "manufacturer": "marttiini",
   "category_slug": "kitchen",
-  "category_name": "Kitchen",
+  "category_name": "Kuchnia",
   "name": "CKP Roast Set",
   "name_short": "",
   "slug": "ckp-roast-set",
   "model_name": "",
-  "lead": "",
+  "lead": "Zestaw jest dostarczany w drewnianej pudełku prezentów.",
   "description": [
-    "The set is delivered in a wooden gift box.",
-    "We recommend hand wash."
+    "Zestaw jest dostarczany w drewnianej pudełku prezentów.",
+    "Zalecamy mycie rąk."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "15 / 15cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "27 / 27cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "rubber"
+          "name": "Materiał obsługi",
+          "value": "gumowe"
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "packaging",
-          "name": "Packaging",
-          "value": "wooden gift box"
+          "name": "Opakowanie",
+          "value": "drewniana skrzynka prezentów"
         }
       ]
     }

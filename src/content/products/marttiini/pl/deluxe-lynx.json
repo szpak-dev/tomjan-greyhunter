@@ -4,51 +4,51 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/450012",
   "manufacturer": "marttiini",
   "category_slug": "hunting",
-  "category_name": "Hunting",
+  "category_name": "Łowstwo",
   "name": "Deluxe Lynx",
   "name_short": "",
   "slug": "deluxe-lynx",
   "model_name": "",
-  "lead": "",
+  "lead": "Imponująca, kręcona, wiązała się z wrzuconymi palecami ochroniarzami, sprawiają, że nóż ten ma naprawdę luksusowy charakter - doskonały pomysł na prezent dla turystów lub żądnych myśliwych.",
   "description": [
-    "The impressive curly birch handle, combined with a cast finger guard, gives this knife a truly luxurious character. An excellent gift idea for a hiker or an avid hunter.",
-    "The sheath of the knife is designed to withstand even harsh conditions. A handy flap makes sure this knife stays in the sheath safely."
+    "Imponująca, kręcona, wiązała się z wrzuconymi palecami ochroniarzami, sprawiają, że nóż ten ma naprawdę luksusowy charakter - doskonały pomysł na prezent dla turystów lub żądnych myśliwych.",
+    "Łapka noża jest zaprojektowana tak, aby wytrzymała nawet w trudnych warunkach."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "22 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Stainless steel"
+          "name": "Materiał ostrza",
+          "value": "Pozostałe stali nierdzewnych"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Curly birch, waxed, cast finger guard"
+          "name": "Materiał obsługi",
+          "value": "Wyrzucone, woskowane, wrzucone, ochraniające palce"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Leather"
+          "name": "Materiał z obudowy",
+          "value": "Skórze"
         }
       ]
     }

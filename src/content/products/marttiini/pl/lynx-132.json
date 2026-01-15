@@ -4,51 +4,51 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/132010",
   "manufacturer": "marttiini",
   "category_slug": "traditional",
-  "category_name": "Traditional",
+  "category_name": "Tradycyjne",
   "name": "Lynx 132",
   "name_short": "",
   "slug": "lynx-132",
   "model_name": "",
-  "lead": "",
+  "lead": "Najbardziej tradycyjny nóż Marttiini z piękną obłoką.",
   "description": [
-    "The most traditional Marttiini knife with a beautiful sheath.",
-    "The leather tassel at the tip of the sheath depicts the tuft of hair on the tip of the ears of a lynx. It said to frighten away the bad spirits so that the knife will be used only for peaceful purposes."
+    "Najbardziej tradycyjny nóż Marttiini z piękną obłoką.",
+    "Na skórzonym szczeniaku na szczycie płaszczyzny znajduje się wyobraźnia włosów na szczycie uszu rysa, która miała odstraszać złe duchy, aby nóż był używany wyłącznie do celów pokojowych."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "22 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "curly birch, varnished"
+          "name": "Materiał obsługi",
+          "value": "węgielny, lakierowany"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather"
+          "name": "Materiał z obudowy",
+          "value": "skórze"
         }
       ]
     }

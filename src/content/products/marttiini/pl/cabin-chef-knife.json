@@ -4,65 +4,65 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/442010",
   "manufacturer": "marttiini",
   "category_slug": "outdoor",
-  "category_name": "Outdoor",
+  "category_name": "Na zewnątrz",
   "name": "Cabin Chef Knife",
   "name_short": "",
   "slug": "cabin-chef-knife",
   "model_name": "",
-  "lead": "Cabin Chef Knife design inspired by northern nature, powered by form and function",
+  "lead": "Noż ten jest doskonały do cięcia warzyw i mięsa, a także do wykonywania drobnych zadań przy ognisku.",
   "description": [
-    "Cabin Chef Knife is a versatile general purpose knife. This knife is excellent for chopping and cutting vegetables and meat, as well as doing small chores at the campfire.",
-    "Marttiinis knife making tradition can be seen in the small detail of the blade: the slightly upturned tip of the spine. The purpose of the upturned tip was originally to make it easier to lift a hot pot on top of an open fire.",
-    "The Knife is part of the Cabin Chef set designed by Harri Koskinen.",
-    "The blade of the knife is made of high-quality, durable stainless steel. The handle is made of Finnish thermally modified birch a material known for its durability and graceful aging as well as warm and pleasant feel grip. The matte finish ensures a safe grip even when wet.",
-    "The harmonious combination of beautiful design and practicality, as well as durable natural materials, guarantee that the Cabin Chef Knife is a pleasure to use, time and time again.",
-    "We recommend hand wash."
+    "Noż ten jest doskonały do cięcia warzyw i mięsa, a także do wykonywania drobnych zadań przy ognisku.",
+    "Tradycja tworzenia noża Marttiini można zobaczyć w małych szczegółach ostrza: lekko zwrócony końcówek kręgosłupa.",
+    "Noż jest częścią zestawu \"Cabin Chef\" zaprojektowanego przez Harri Koskinen.",
+    "Płytek noża jest wykonany z wysokiej jakości, trwałej stali nierdzewnej.",
+    "Harmoniczne połączenie pięknego designu i praktyczności, a także trwałe naturalne materiały gwarantują, że noż kabinowy jest przyjemny do użycia, wielokrotnie.",
+    "Zalecamy mycie rąk."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "9,5 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "21 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
+          "name": "Waga",
           "value": "120 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel (8Cr14MoV)"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej (8Cr14MoV)"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "heat treated birch,"
+          "name": "Materiał obsługi",
+          "value": "gorąco oczyszczona birka,"
         },
         {
           "id": "ferrule-material",
-          "name": "Ferrule material",
-          "value": "stainless steel"
+          "name": "Materiał ferrule",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather, brown"
+          "name": "Materiał z obudowy",
+          "value": "skórę, brązową"
         }
       ]
     }

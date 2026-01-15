@@ -4,52 +4,52 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/610016",
   "manufacturer": "marttiini",
   "category_slug": "fishing",
-  "category_name": "Fishing",
+  "category_name": "Rybołówstwo",
   "name": "Superflex Filleting Knife 10",
   "name_short": "",
   "slug": "superflex-filleting-knife-10",
   "model_name": "",
-  "lead": "",
+  "lead": "Klasyczny noż filetowy został przekształcony zarówno w jego wyglądzie, jak i w jego cechach.",
   "description": [
-    "The classical filleting knife has been remodelled both in its appearance and its features. The blade is even more flexible than before. This filleting knife is perfect for preparing perch.",
-    "The handle is from thermally treated Finnish birch. The surface patterns applied to the handle with laser technology make the surface highly textured to ensure a firmer grip of the knife. The handle is coated with a protective wax.",
-    "We recommend washing by hand."
+    "Klasyczny noż filetowy został przekształcony zarówno w jego wyglądzie, jak i w jego cechach.",
+    "Wykorzystywane przez technologię laserową wzory powierzchni sprawiają, że powierzchnia jest wysoce skonstruowana, aby zapewnić mocniejszą chwytę noża.",
+    "Zalecamy umycie ręcznie."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "10 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "20 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "heat treated birch, vaxed"
+          "name": "Materiał obsługi",
+          "value": "roślinne, oczyszczonej ciepłem"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather, brown"
+          "name": "Materiał z obudowy",
+          "value": "skórę, brązową"
         }
       ]
     }

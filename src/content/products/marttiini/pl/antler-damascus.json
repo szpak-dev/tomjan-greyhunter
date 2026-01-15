@@ -4,65 +4,65 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/557011W",
   "manufacturer": "marttiini",
   "category_slug": "design-knives",
-  "category_name": "Design Knives",
+  "category_name": "Noże projektowe",
   "name": "Antler Damascus",
   "name_short": "",
   "slug": "antler-damascus",
   "model_name": "",
-  "lead": "The Antler Damascus – the crown jewel of Marttiini knives",
+  "lead": "Antler Damascus jest najbardziej prestiżowym nożem, jaki kiedykolwiek wyprodukowaliśmy od momentu założenia naszej fabryki noży w 1928 roku.",
   "description": [
-    "The Antler Damascus is the most prestigious knife we have ever made, since the establishment of our knife factory in 1928. It is the tour de force of knifemaking by our skilled professionals. The Antler Damascus has been carefully handcrafted using materials selected exclusively for this knife.",
-    "The ultra-sharp blade is made of stainless Damascus steel. Damascus steel is crafted using technology in which two different top-grade steels are embedded together in 120 layers under high pressure and high temperature. Interlaying two different steels and using the traditional blacksmith techniques of forging, hammering and rolling in the right temperatures brings out the beautiful rose pattern. The Damascus blade is extremely durable and stays sharp for a long time.",
-    "The rock-solid handle of the knife is made of Finnish moose antler. The handle has been elaborated by hand, which requires strong craftsmanship skills. The color of the antler is natural, no chemical whitening has been used. The cast ferrule imitates the rose pattern of the blade.",
-    "Each of the Antler Damascus knife blades is individually numbered, making the knife not only a practical tool for the outdoors but also a unique collector’s item.",
-    "Each knife is delivered in an elegant wooden gift box."
+    "Antler Damascus jest najbardziej prestiżowym nożem, jaki kiedykolwiek wyprodukowaliśmy od momentu założenia naszej fabryki noży w 1928 roku.",
+    "Ostrza z Damaszku jest wykonana z stali nierdzewnej. Ostrza z Damaszku jest wykonana przy użyciu technologii, w której dwie różne stali najwyższej klasy są wbudowane razem w 120 warstwach pod wysokim ciśnieniem i wysoką temperaturą. Przełożenie dwóch różnych stalów i wykorzystanie tradycyjnych technik szminarza kształtowania, młotkowania i walcowania w odpowiednich temperaturach tworzy piękny wzór róż. Ostrza z Damaszku jest niezwykle trwałe i pozostaje ostre przez długi czas.",
+    "Łącznik noża jest wykonany z fińskiego łosiego rogu. Łącznik został wypracowany ręcznie, co wymaga silnych umiejętności rąk. Kolor rogu jest naturalny, nie użyto białania chemicznego.",
+    "Każdy noż Antler Damascus jest numerowany indywidualnie, co czyni nóż nie tylko praktycznym narzędziem do pracy na zewnątrz, ale także wyjątkowym przedmiotem kolekcjonerskim.",
+    "Każdy nóż jest dostarczany w eleganckiej drewnianej pudełce."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "10 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "20 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Damascus steel RWL34 & PMC27, HRC 60"
+          "name": "Materiał ostrza",
+          "value": "Stal z Damaszku RWL34 & PMC27, HRC 60"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Moose antler bone, cast ferrules"
+          "name": "Materiał obsługi",
+          "value": "Kość róg łosień, odlewane ferrule"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Leather, black"
+          "name": "Materiał z obudowy",
+          "value": "Skóra, czarna"
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "packaging",
-          "name": "Packaging",
-          "value": "Wooden gift box"
+          "name": "Opakowanie",
+          "value": "Skrzynka darmowa drewniana"
         }
       ]
     }

@@ -4,50 +4,50 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/390021T",
   "manufacturer": "marttiini",
   "category_slug": "outdoor",
-  "category_name": "Outdoor",
+  "category_name": "Na zewnątrz",
   "name": "Condor Frontier",
   "name_short": "",
   "slug": "condor-frontier",
   "model_name": "",
-  "lead": "",
+  "lead": "Ten duży noż jest doskonałym wyborem dla użytkowników z dużymi rękoma. Głowa gumy zapewnia doskonałą chwyt, nawet podczas noszenia rękawiczek, a ochrona palców zapewnia dodatkową bezpieczeństwo. Głowa gumy czuje się komfortowo również w zimną pogodę.",
   "description": [
-    "This large knife is the perfect choice for users with big hands. Its rubber handle provides an excellent grip, even when wearing gloves, and the finger guard adds extra safety. The rubber handle also feels comfortable in cold winter weather. This knife is ideal for both hunters and hikers. The blade is made of stainless steel with a Martef coating and is 13 cm long."
+    "Ten duży noż jest doskonałym wyborem dla użytkowników z dużymi rękoma. Głowa gumy zapewnia doskonałą chwyt, nawet podczas noszenia rękawiczek, a ochrona palców zapewnia dodatkową bezpieczeństwo. Głowa gumy czuje się komfortowo również w zimną pogodę."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "13 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "26 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Stainless Steel, Martef"
+          "name": "Materiał ostrza",
+          "value": "Stal nierdzewna, Martef"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Rubber, musta"
+          "name": "Materiał obsługi",
+          "value": "Gumienie, muszty"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Leather, black"
+          "name": "Materiał z obudowy",
+          "value": "Skóra, czarna"
         }
       ]
     }

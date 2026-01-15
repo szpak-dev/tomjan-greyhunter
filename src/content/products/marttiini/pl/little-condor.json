@@ -4,50 +4,50 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/186011",
   "manufacturer": "marttiini",
   "category_slug": "outdoor",
-  "category_name": "Outdoor",
+  "category_name": "Na zewnątrz",
   "name": "Little Condor",
   "name_short": "",
   "slug": "little-condor",
   "model_name": "",
-  "lead": "A handy small knife",
+  "lead": "Wykorzystywane w gumowej rękojeści i zabezpieczenie palców zapewniają mocną przyczepność noża. Ostrze wykonane jest z łatwo utrzymującej się stali nierdzewnej.",
   "description": [
-    "The textured rubber handle and finger guard ensure a firm grip of the knife. The blade is made of easy to maintain stainless steel. The handle is designed to fit the hand of a youngster, but the knife is a handy tool for adults for carving and work that requires precision."
+    "Wykorzystywane w gumowej rękojeści i zabezpieczenie palców zapewniają mocną przyczepność noża. Ostrze wykonane jest z łatwo utrzymującej się stali nierdzewnej."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "9 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "19 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel 1.4034 / X46Cr13, HRC 53.5-55"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej 1.4034 / X46Cr13, HRC 53.5-55"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "rubber"
+          "name": "Materiał obsługi",
+          "value": "gumowe"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather"
+          "name": "Materiał z obudowy",
+          "value": "skórze"
         }
       ]
     }

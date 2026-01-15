@@ -4,55 +4,55 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/511020",
   "manufacturer": "marttiini",
   "category_slug": "outdoor",
-  "category_name": "Outdoor",
+  "category_name": "Na zewnątrz",
   "name": "Snappy",
   "name_short": "",
   "slug": "snappy",
   "model_name": "",
-  "lead": "",
+  "lead": "6 cm długi ostrz z stali węglowej jest przydatny do użytku i łatwy do utrzymania ostrego. kształt ręcznika następuje zgodnie z tradycyjnym ręcznikiem Marttiini Lynx.",
   "description": [
-    "The 6 cm long carbon steel blade is handy in use and easy to keep sharp. The handle shape follows the traditional Marttiini Lynx handle. Birch handle with waxed finish gives you a good grip on the knife. Black leather sheath with printed Marttiini logo pattern."
+    "6 cm długi ostrz z stali węglowej jest przydatny do użytku i łatwy do utrzymania ostrego. kształt ręcznika następuje zgodnie z tradycyjnym ręcznikiem Marttiini Lynx."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "5,9 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "18 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
-          "value": "102g"
+          "name": "Waga",
+          "value": "102 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "carbon steel"
+          "name": "Materiał ostrza",
+          "value": "stal węglowy"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "birch, waxed"
+          "name": "Materiał obsługi",
+          "value": "Burska, woskowana"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather, black"
+          "name": "Materiał z obudowy",
+          "value": "skórę, czarną"
         }
       ]
     }

@@ -4,58 +4,58 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/552026C",
   "manufacturer": "marttiini",
   "category_slug": "fishing",
-  "category_name": "Fishing",
+  "category_name": "Rybołówstwo",
   "name": "Järvi Annual Knife 2026",
   "name_short": "",
   "slug": "jarvi-annual-knife-2026",
   "model_name": "",
-  "lead": "The theme of Marttiini’s 2026 Annual Knife draws its inspiration from Finland, also known as “The Land of a Thousand Lakes.”",
+  "lead": "Nazwa Järvi  oznacza lake w języku fińskim   uchwyca głębokie połączenie Finlandii z jej wodami. Projekt noża  odzwierciedla spokój niezliczonych jezior kraju, błyszczenie czystej wody i długotrwałe tradycje rybołówstwa.",
   "description": [
-    "The name Järvi – meaning “lake” in Finnish – captures Finland’s deep connection with its waters. The knife’s design reflects the tranquillity of the country’s countless lakes, the shimmer of clear waters, and the long-standing traditions of fishing. Imagine yourself in the gentle warmth of a lakeside sauna, watching the evening sun sink behind the islands as boats glide silently across the calm water. As twilight settles over the lake, the scene invites you to slow down, breathe in the stillness, and experience the peaceful rhythm of Finnish lake life — the very essence that inspired the Järvi Fillet.",
-    "Every detail of the knife is designed to reflect this harmony between nature and craftsmanship. The handle combines dark, heat-treated curly birch with bright, stainless steel fittings. Natural materials and meticulous finishing create a harmonious composition where traditional craftsmanship meets modern design.",
-    "The reflective laser engravings on the blade and bolster highlight subtle details and enhance the knife’s elegant character.",
-    "and comes in a genuine black leather sheath, decorated with a lake-inspired pattern printed in blue foil."
+    "Nazwa Järvi  oznacza lake w języku fińskim   uchwyca głębokie połączenie Finlandii z jej wodami. Projekt noża  odzwierciedla spokój niezliczonych jezior kraju, błyszczenie czystej wody i długotrwałe tradycje rybołówstwa.",
+    "Każdy szczegół noża jest zaprojektowany tak, aby odzwierciedlać harmonię między naturą a rzemieślnictwem.",
+    "Odbicie laserowe wykonane na ostrzu i podtrzymywaniu podkreślają subtelne szczegóły i wzmacniają elegancki charakter noża.",
+    "i jest w prawdziwej czarnej skórzanej szatce, ozdobionej wzorem inspirowanym jeziorem wydrukowanym w niebieskim folii."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "19 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
-          "value": "30 cm"
+          "name": "Całkowita długość",
+          "value": "30 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
-          "value": "Knife 80 g, with sheath 160 g"
+          "name": "Waga",
+          "value": "Noż 80 g, z obudową 160 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Polished stainless steel"
+          "name": "Materiał ostrza",
+          "value": "Polity stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Heat treated curly birch"
+          "name": "Materiał obsługi",
+          "value": "Gotowo przetworzone kręcone birki"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Chrome tanned leather"
+          "name": "Materiał z obudowy",
+          "value": "Skórze chromowe"
         }
       ]
     }

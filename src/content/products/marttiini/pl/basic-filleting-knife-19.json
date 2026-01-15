@@ -4,52 +4,52 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/837010",
   "manufacturer": "marttiini",
   "category_slug": "fishing",
-  "category_name": "Fishing",
+  "category_name": "Rybołówstwo",
   "name": "Basic Filleting Knife 19",
   "name_short": "",
   "slug": "basic-filleting-knife-19",
   "model_name": "",
-  "lead": "",
+  "lead": "Głoda gumowa i elastyczna szczelina z stali nierdzewnej zapewniają czysty wycięty filet.",
   "description": [
-    "The well fitting rubber handle and the flexible stainless steel blade ensure clean-cut fillets. This size of blade is best suited for processing of about 2-3 kg.",
-    "The filleting knife is an excellent tool for other jobs in the kitchen. The knife is supplied with a practical plastic sheath.",
-    "We recommend hand wash."
+    "Głoda gumowa i elastyczna szczelina z stali nierdzewnej zapewniają czysty wycięty filet.",
+    "Noż jest doskonałym narzędziem do wykonywania innych zadań w kuchni.",
+    "Zalecamy mycie rąk."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "19 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "31 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "rubber, black"
+          "name": "Materiał obsługi",
+          "value": "gumowe, czarne"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "plastic, black"
+          "name": "Materiał z obudowy",
+          "value": "plastikowe, czarne"
         }
       ]
     }

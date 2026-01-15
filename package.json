@@ -10,10 +10,12 @@
     "load:contents": "tsx src/content.loader.ts",
     "dictionaries:build": "tsx src/content.dictionaries.ts",
     "dictionaries:sync": "tsx src/content.dictionaries.ts sync",
-    "translations:init": "tsx src/content.translations.ts",
-    "translations:update": "tsx src/content.translations.ts update"
+    "translations:apply": "tsx src/content.translations.ts",
+    "translations:update": "tsx src/content.translations.ts update",
+    "translations:auto": "tsx src/content.translations.ts auto"
   },
   "dependencies": {
+    "@google/generative-ai": "^0.21.0",
     "astro": "^5.16.8",
     "astro-bootstrap": "^0.7.2",
     "astro-cloudinary": "^1.3.5",

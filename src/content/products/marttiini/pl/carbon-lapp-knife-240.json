@@ -4,69 +4,69 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/240012",
   "manufacturer": "marttiini",
   "category_slug": "traditional",
-  "category_name": "Traditional",
+  "category_name": "Tradycyjne",
   "name": "Carbon Lapp Knife 240",
   "name_short": "",
   "slug": "carbon-lapp-knife-240",
   "model_name": "",
-  "lead": "The long-awaited Lapp knife with a carbon steel blade",
+  "lead": "Fani Marttiini na całym świecie poprosili o noż Lapp z szklanym ostrzem stalowym.",
   "description": [
-    "Experience the Spark of the North! Fans of Marttiini throughout the world have been requesting a Lapp knife with a carbon steel blade. We listened – and proudly present the Carbon Lapp Knife 240.",
-    "The Carbon Lapp Knife 240 is a stunningly beautiful knife with",
-    "And, with regular maintenance, this knife will stay rust-free and serve you for years to come.",
-    "For the handle material, we chose beautiful curly birch to contrast the dark carbon steel. For extra protection, a layer of see-through wax was added. The elegant sheath made of light brown leather seals the deal."
+    "Fani Marttiini na całym świecie poprosili o noż Lapp z szklanym ostrzem stalowym.",
+    "Carbon Lapp Knife 240 to niesamowicie piękny nóż z",
+    "A przy regularnej konserwacji ten nóż pozostanie bez rdzenia i służy ci przez wiele lat.",
+    "W celu zapewnienia dodatkowej ochrony dodano warstwę przejrzystego wosku."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "13 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "24 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
+          "name": "Waga",
           "value": "220 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "carbon steel 1.2235 / 80CrV2, HRC 59.5"
+          "name": "Materiał ostrza",
+          "value": "stali węglowej 1.2235 / 80CrV2, HRC 59.5"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "curly birch, waxed"
+          "name": "Materiał obsługi",
+          "value": "Burska kręcona, woskowana"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather, light brown"
+          "name": "Materiał z obudowy",
+          "value": "skórę, jasko brązową"
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "sharpening-angle",
-          "name": "Sharpening angle",
-          "value": "22 degrees / Scandi grind"
+          "name": "Węg ostrzenia",
+          "value": "22 stopnie / Grinding Scandi"
         }
       ]
     }

@@ -4,39 +4,39 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/1520240C",
   "manufacturer": "marttiini",
   "category_slug": "kitchen",
-  "category_name": "Kitchen",
+  "category_name": "Kuchnia",
   "name": "Chopping Board Large",
   "name_short": "",
   "slug": "chopping-board-large",
   "model_name": "",
-  "lead": "",
+  "lead": "Wykonane z wysokiej jakości dębowego drewna, ta tablica cięcia łączy ponadczasowy design z wyjątkową trwałością, co czyni ją niezbędnym dodatkiem do każdej kuchni. Naturalna siła dęba zapewnia długotrwałe wydajności, podczas gdy jego elegancki wzór ziaren dodaje dotknięcie rustycznego uroku.",
   "description": [
-    "Crafted from high-quality oak wood, this chopping board combines timeless design with exceptional durability, making it an essential addition to any kitchen. The natural strength of oak ensures long-lasting performance, while its elegant grain pattern adds a touch of rustic charm. Gentle on knives, it helps maintain sharpness, and as a naturally hygienic material, oak’s porous structure and tannins help reduce bacterial survival compared to many other surfaces.",
-    "The cutting board should be washed with clean water after use, as soap is not recommended. If soap is applied, the washing should be done quickly, followed by careful rinsing and immediate drying with a clean cloth. To keep the board in the best condition, avoid placing it in a dishwasher. Over time, the surface may lose some of its original finish; in this case, a new layer of coating can be applied. For the best results, it is recommended to use Rubio Monocoat Oilplus 2c, which is the same protective treatment originally applied in the factory."
+    "Wykonane z wysokiej jakości dębowego drewna, ta tablica cięcia łączy ponadczasowy design z wyjątkową trwałością, co czyni ją niezbędnym dodatkiem do każdej kuchni. Naturalna siła dęba zapewnia długotrwałe wydajności, podczas gdy jego elegancki wzór ziaren dodaje dotknięcie rustycznego uroku.",
+    "W przypadku zastosowania mydła należy prać płytę czystej wody po użyciu, ponieważ nie zaleca się stosowanie mydła. W przypadku zastosowania mydła należy je prać szybko, a następnie ostrożnie spłukać i natychmiast suszyć czystej tkaniny. Aby utrzymać płytę w najlepszym stanie, unikaj umieszczania w pralce naczynia. Z czasem powierzchnia może stracić część pierwotnego wykończenia; w tym przypadku można zastosować nową warstwę powłoki. Aby uzyskać najlepsze wyniki, zaleca się stosowanie Rubio Monocoat Oilplus 2c, który jest tym samym lekiem ochronnym stosowanym pierwotnie w fabryce."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length",
-          "name": "Length",
+          "name": "Długość",
           "value": "39 cm"
         },
         {
           "id": "width",
-          "name": "Width",
+          "name": "Szerokość",
           "value": "24 cm"
         },
         {
           "id": "height",
-          "name": "Height",
+          "name": "Wysokość",
           "value": "2 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
+          "name": "Waga",
           "value": "1,2 kg"
         }
       ]

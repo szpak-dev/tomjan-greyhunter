@@ -4,52 +4,52 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/709017",
   "manufacturer": "marttiini",
   "category_slug": "outdoor",
-  "category_name": "Outdoor",
+  "category_name": "Na zewnątrz",
   "name": "Herb Knife Kerääjä",
   "name_short": "",
   "slug": "herb-knife-keraaja",
   "model_name": "",
-  "lead": "",
+  "lead": "W języku fińskim słowo kerääjä oznacza zbieracz. Dziury na ostrzu są przeznaczone do usunięcia liści mniejszych ziół, takich jak rozmaryn, migda czy nawet bazylika.",
   "description": [
-    "In Finnish language the word ‘’kerääjä’’ means gatherer. The holes on the blade are meant for removing the leaves of smaller herbs like rosemary, peppermint or even basil. Serrated edge and the hook can be used for harvesting stronger and bigger herbs and plants. The size of the hook is perfect for cutting lupine plant for example.",
-    "The blade is made of high end stainless steel used in high quality kitchen knives. The premium heat-treated birch handle is comfortable to use in both hands and in both ways, whatever edge of the blade you might be using. The knife comes in a genuine, chrome tanned matte brown leather sheath with silver foil debossing.",
-    "The quick fix attachment belt makes it easy to attach the sheath to various places like the belt, belt loop, wrist or basket handle. Eyelet rivets offer an option to use a lanyard for example."
+    "W języku fińskim słowo kerääjä oznacza zbieracz. Dziury na ostrzu są przeznaczone do usunięcia liści mniejszych ziół, takich jak rozmaryn, migda czy nawet bazylika.",
+    "Noż jest wykonany z wysokiej jakości stali nierdzewnej wykorzystywanej w wysokiej jakości noży kuchni.",
+    "Szybko układający się pas przymocowy sprawia, że łatwo jest przymocować powłokę do różnych miejsc, takich jak pas, śluz pasa, nadgarstka lub ręcznik koszyka."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "7 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "17,5 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Stainless steel"
+          "name": "Materiał ostrza",
+          "value": "Pozostałe stali nierdzewnych"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Heat-treated birch"
+          "name": "Materiał obsługi",
+          "value": "Gotowo oczyszczona birka"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Chrome tanned leather"
+          "name": "Materiał z obudowy",
+          "value": "Skórze chromowe"
         }
       ]
     }

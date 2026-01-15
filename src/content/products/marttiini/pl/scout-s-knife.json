@@ -4,50 +4,50 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/508010",
   "manufacturer": "marttiini",
   "category_slug": "outdoor",
-  "category_name": "Outdoor",
+  "category_name": "Na zewnątrz",
   "name": "Scout's Knife",
   "name_short": "",
   "slug": "scout-s-knife",
   "model_name": "",
-  "lead": "",
+  "lead": "Noż jest niezbędną częścią każdego sprzętu skautów. Marttiini Scout Knife jest wiarygodnym towarzyszem od dziesięcioleci. Podwójny strona ochrona palca zwiększa bezpieczeństwo użytkownika. Noż jest wykonany z łatwo utrzymywanego stali chromowej.",
   "description": [
-    "A knife is an essential part of every scout’s gear. The Marttiini Scout Knife has been a reliable companion for decades. The double-sided finger guard enhances user safety. The blade is made of easy-to-maintain chrome steel. The sheath with a snap closure features an embossed scout emblem, giving the knife a traditional look. This knife is an excellent general-purpose knife for young users, as it allows them to safely practice their knife-handling skills."
+    "Noż jest niezbędną częścią każdego sprzętu skautów. Marttiini Scout Knife jest wiarygodnym towarzyszem od dziesięcioleci. Podwójny strona ochrona palca zwiększa bezpieczeństwo użytkownika. Noż jest wykonany z łatwo utrzymywanego stali chromowej."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "9 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "19 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "curly birch, varnished"
+          "name": "Materiał obsługi",
+          "value": "węgielny, lakierowany"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather"
+          "name": "Materiał z obudowy",
+          "value": "skórze"
         }
       ]
     }

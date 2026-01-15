@@ -2,229 +2,168 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { fileURLToPath } from 'url';
 import { dirname } from 'path';
+import {
+  sortKeys,
+  buildAttributeGroupsDictionary,
+  buildAttributesDictionary,
+  buildVariantsDictionary,
+  buildDescriptionsDictionary,
+  buildCategoriesDictionary,
+  buildAttributeValuesDictionary,
+  synchronizeDictionaries,
+  type Dictionary,
+  type DescriptionsDictionary,
+  type AttributeValuesDictionary,
+  type Product
+} from './libs/dictionaries.ts';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
 const projectRoot = path.resolve(__dirname, '..');
 
-type Dictionary = Record<string, string>;
-type DescriptionsDictionary = Record<string, string[]>;
-type AttributeValuesDictionary = Record<string, Record<string, string>>;
-
-interface Product {
-  id: string;
-  description: string[];
-  category_slug: string;
-  category_name: string;
-  attribute_groups: Array<{
-    id: string;
-    name: string;
-    properties: Array<{
-      id: string;
-      name: string;
-      value: string;
-    }>;
-  }>;
-  variants: Array<{
-    id: string;
-    name: string;
-    value: string;
-  }>;
-}
-
-/** * Sort object keys alphabetically (ascending)
+/**
+ * Load and build attribute groups dictionary from all products in a given language
  */
-function sortKeys<T extends Record<string, any>>(obj: T): T {
-  const sorted = Object.keys(obj)
-    .sort()
-    .reduce((result, key) => {
-      const value = obj[key];
-      // If value is an object (but not an array), sort its keys too
-      if (value && typeof value === 'object' && !Array.isArray(value)) {
-        (result as any)[key] = sortKeys(value);
-      } else {
-        (result as any)[key] = value;
-      }
-      return result;
-    }, {} as T);
-  return sorted;
-}
-
-/** * Build attribute groups dictionary from all products in a given language
- * Uses id as key and name as value
- */
-async function buildAttributeGroupsDictionary(manufacturer: string, language: string): Promise<Dictionary> {
-  const dictionary: Dictionary = {};
+async function loadAndBuildAttributeGroupsDictionary(manufacturer: string, language: string): Promise<Dictionary> {
   const productsDir = manufacturer
     ? path.join(projectRoot, 'src', 'content', 'products', manufacturer, language)
     : path.join(projectRoot, 'src', 'content', 'products', language);
 
   // Load existing dictionary if it exists
+  let existingDictionary: Dictionary = {};
   const dictionaryPath = manufacturer
     ? path.join(projectRoot, 'src', 'content', 'dictionaries', manufacturer, language, 'attribute-groups.json')
     : path.join(projectRoot, 'src', 'content', 'dictionaries', language, 'attribute-groups.json');
   if (fs.existsSync(dictionaryPath)) {
-    const existing = JSON.parse(fs.readFileSync(dictionaryPath, 'utf-8'));
-    Object.assign(dictionary, existing);
+    existingDictionary = JSON.parse(fs.readFileSync(dictionaryPath, 'utf-8'));
   }
 
-  // Iterate through all product files
+  // Load products
+  const products: Product[] = [];
   if (fs.existsSync(productsDir)) {
     const files = fs.readdirSync(productsDir).filter(file => file.endsWith('.json'));
-
     for (const file of files) {
       const filePath = path.join(productsDir, file);
       const product: Product = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-
-      // Extract attribute group ids and names
-      for (const group of product.attribute_groups || []) {
-        if (group.id && group.name && !dictionary[group.id]) {
-          dictionary[group.id] = group.name;
-        }
-      }
+      products.push(product);
     }
   }
 
-  return dictionary;
+  return buildAttributeGroupsDictionary(products, existingDictionary);
 }
 
 /**
- * Build attributes dictionary from all products in a given language
- * Uses id as key and name as value
+ * Load and build attributes dictionary from all products in a given language
  */
-async function buildAttributesDictionary(manufacturer: string, language: string): Promise<Dictionary> {
-  const dictionary: Dictionary = {};
+async function loadAndBuildAttributesDictionary(manufacturer: string, language: string): Promise<Dictionary> {
   const productsDir = manufacturer
     ? path.join(projectRoot, 'src', 'content', 'products', manufacturer, language)
     : path.join(projectRoot, 'src', 'content', 'products', language);
 
   // Load existing dictionary if it exists
+  let existingDictionary: Dictionary = {};
   const dictionaryPath = manufacturer
     ? path.join(projectRoot, 'src', 'content', 'dictionaries', manufacturer, language, 'attributes.json')
     : path.join(projectRoot, 'src', 'content', 'dictionaries', language, 'attributes.json');
   if (fs.existsSync(dictionaryPath)) {
-    const existing = JSON.parse(fs.readFileSync(dictionaryPath, 'utf-8'));
-    Object.assign(dictionary, existing);
+    existingDictionary = JSON.parse(fs.readFileSync(dictionaryPath, 'utf-8'));
   }
 
-  // Iterate through all product files
+  // Load products
+  const products: Product[] = [];
   if (fs.existsSync(productsDir)) {
     const files = fs.readdirSync(productsDir).filter(file => file.endsWith('.json'));
-
     for (const file of files) {
       const filePath = path.join(productsDir, file);
       const product: Product = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-
-      // Extract attribute ids and names from properties
-      for (const group of product.attribute_groups || []) {
-        for (const property of group.properties || []) {
-          if (property.id && property.name && !dictionary[property.id]) {
-            dictionary[property.id] = property.name;
-          }
-        }
-      }
+      products.push(product);
     }
   }
 
-  return dictionary;
+  return buildAttributesDictionary(products, existingDictionary);
 }
 
 /**
- * Build variants dictionary from all products in a given language
- * Uses id as key and name as value
+ * Load and build variants dictionary from all products in a given language
  */
-async function buildVariantsDictionary(manufacturer: string, language: string): Promise<Dictionary> {
-  const dictionary: Dictionary = {};
+async function loadAndBuildVariantsDictionary(manufacturer: string, language: string): Promise<Dictionary> {
   const productsDir = manufacturer
     ? path.join(projectRoot, 'src', 'content', 'products', manufacturer, language)
     : path.join(projectRoot, 'src', 'content', 'products', language);
 
   // Load existing dictionary if it exists
+  let existingDictionary: Dictionary = {};
   const dictionaryPath = manufacturer
     ? path.join(projectRoot, 'src', 'content', 'dictionaries', manufacturer, language, 'variants.json')
     : path.join(projectRoot, 'src', 'content', 'dictionaries', language, 'variants.json');
   if (fs.existsSync(dictionaryPath)) {
-    const existing = JSON.parse(fs.readFileSync(dictionaryPath, 'utf-8'));
-    Object.assign(dictionary, existing);
+    existingDictionary = JSON.parse(fs.readFileSync(dictionaryPath, 'utf-8'));
   }
 
-  // Iterate through all product files
+  // Load products
+  const products: Product[] = [];
   if (fs.existsSync(productsDir)) {
     const files = fs.readdirSync(productsDir).filter(file => file.endsWith('.json'));
-
     for (const file of files) {
       const filePath = path.join(productsDir, file);
       const product: Product = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-
-      // Extract variant ids and names
-      for (const variant of product.variants || []) {
-        if (variant.id && variant.name && !dictionary[variant.id]) {
-          dictionary[variant.id] = variant.name;
-        }
-      }
+      products.push(product);
     }
   }
 
-  return dictionary;
+  return buildVariantsDictionary(products, existingDictionary);
 }
 
 /**
- * Build descriptions dictionary from all products in a given language
- * Uses product id as key and description array as value
+ * Load and build descriptions dictionary from all products in a given language
  */
-async function buildDescriptionsDictionary(manufacturer: string, language: string): Promise<DescriptionsDictionary> {
-  const dictionary: DescriptionsDictionary = {};
+async function loadAndBuildDescriptionsDictionary(manufacturer: string, language: string): Promise<DescriptionsDictionary> {
   const productsDir = manufacturer
     ? path.join(projectRoot, 'src', 'content', 'products', manufacturer, language)
     : path.join(projectRoot, 'src', 'content', 'products', language);
 
   // Load existing dictionary if it exists
+  let existingDictionary: DescriptionsDictionary = {};
   const dictionaryPath = manufacturer
     ? path.join(projectRoot, 'src', 'content', 'dictionaries', manufacturer, language, 'descriptions.json')
     : path.join(projectRoot, 'src', 'content', 'dictionaries', language, 'descriptions.json');
   if (fs.existsSync(dictionaryPath)) {
-    const existing = JSON.parse(fs.readFileSync(dictionaryPath, 'utf-8'));
-    Object.assign(dictionary, existing);
+    existingDictionary = JSON.parse(fs.readFileSync(dictionaryPath, 'utf-8'));
   }
 
-  // Iterate through all product files
+  // Load products
+  const products: Product[] = [];
   if (fs.existsSync(productsDir)) {
     const files = fs.readdirSync(productsDir).filter(file => file.endsWith('.json'));
-
     for (const file of files) {
       const filePath = path.join(productsDir, file);
       const product: Product = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-
-      // Extract product id and description
-      if (product.id && product.description && !dictionary[product.id]) {
-        dictionary[product.id] = product.description;
-      }
+      products.push(product);
     }
   }
 
-  return dictionary;
+  return buildDescriptionsDictionary(products, existingDictionary);
 }
 
 /**
- * Build categories dictionary from scraped categories JSONL file
- * Uses category id as key and category name as value
+ * Load and build categories dictionary from scraped categories JSONL file
  */
-async function buildCategoriesDictionary(manufacturer: string, language: string): Promise<Dictionary> {
-  const dictionary: Dictionary = {};
+async function loadAndBuildCategoriesDictionary(manufacturer: string, language: string): Promise<Dictionary> {
   const scrapedCategoriesPath = manufacturer
     ? path.join(projectRoot, 'scraped', manufacturer, 'categories.jsonl')
     : path.join(projectRoot, 'scraped', 'categories.jsonl');
 
   // Load existing dictionary if it exists
+  let existingDictionary: Dictionary = {};
   const dictionaryPath = manufacturer
     ? path.join(projectRoot, 'src', 'content', 'dictionaries', manufacturer, language, 'categories.json')
     : path.join(projectRoot, 'src', 'content', 'dictionaries', language, 'categories.json');
   if (fs.existsSync(dictionaryPath)) {
-    const existing = JSON.parse(fs.readFileSync(dictionaryPath, 'utf-8'));
-    Object.assign(dictionary, existing);
+    existingDictionary = JSON.parse(fs.readFileSync(dictionaryPath, 'utf-8'));
   }
 
   // Read categories from scraped JSONL file
+  const categories: Array<{ id: string; name: string }> = [];
   if (fs.existsSync(scrapedCategoriesPath)) {
     const content = fs.readFileSync(scrapedCategoriesPath, 'utf-8');
     const lines = content.trim().split('\n');
@@ -232,65 +171,43 @@ async function buildCategoriesDictionary(manufacturer: string, language: string)
     for (const line of lines) {
       if (line.trim()) {
         const category = JSON.parse(line);
-        
-        // Extract category id and name
-        if (category.id && category.name && !dictionary[category.id]) {
-          dictionary[category.id] = category.name;
-        }
+        categories.push(category);
       }
     }
   }
 
-  return dictionary;
+  return buildCategoriesDictionary(categories, existingDictionary);
 }
 
 /**
- * Build attribute values dictionary from all products in a given language
- * Maps product ID to their attribute ID/value pairs
+ * Load and build attribute values dictionary from all products in a given language
  */
-async function buildAttributeValuesDictionary(manufacturer: string, language: string): Promise<AttributeValuesDictionary> {
-  const dictionary: AttributeValuesDictionary = {};
+async function loadAndBuildAttributeValuesDictionary(manufacturer: string, language: string): Promise<AttributeValuesDictionary> {
   const productsDir = manufacturer
     ? path.join(projectRoot, 'src', 'content', 'products', manufacturer, language)
     : path.join(projectRoot, 'src', 'content', 'products', language);
 
   // Load existing dictionary if it exists
+  let existingDictionary: AttributeValuesDictionary = {};
   const dictionaryPath = manufacturer
     ? path.join(projectRoot, 'src', 'content', 'dictionaries', manufacturer, language, 'attribute-values.json')
     : path.join(projectRoot, 'src', 'content', 'dictionaries', language, 'attribute-values.json');
   if (fs.existsSync(dictionaryPath)) {
-    const existing = JSON.parse(fs.readFileSync(dictionaryPath, 'utf-8'));
-    Object.assign(dictionary, existing);
+    existingDictionary = JSON.parse(fs.readFileSync(dictionaryPath, 'utf-8'));
   }
 
-  // Iterate through all product files
+  // Load products
+  const products: Product[] = [];
   if (fs.existsSync(productsDir)) {
     const files = fs.readdirSync(productsDir).filter(file => file.endsWith('.json'));
-
     for (const file of files) {
       const filePath = path.join(productsDir, file);
       const product: Product = JSON.parse(fs.readFileSync(filePath, 'utf-8'));
-
-      // Extract attribute values for this product
-      if (product.id && !dictionary[product.id]) {
-        const attributeValues: Record<string, string> = {};
-        
-        for (const group of product.attribute_groups || []) {
-          for (const property of group.properties || []) {
-            if (property.id && property.value) {
-              attributeValues[property.id] = property.value;
-            }
-          }
-        }
-        
-        if (Object.keys(attributeValues).length > 0) {
-          dictionary[product.id] = attributeValues;
-        }
-      }
+      products.push(product);
     }
   }
 
-  return dictionary;
+  return buildAttributeValuesDictionary(products, existingDictionary);
 }
 
 /**
@@ -307,37 +224,37 @@ export async function generateDictionaries(manufacturer: string, language: strin
   }
 
   // Build and save each dictionary
-  const attributeGroups = await buildAttributeGroupsDictionary(manufacturer, language);
+  const attributeGroups = await loadAndBuildAttributeGroupsDictionary(manufacturer, language);
   fs.writeFileSync(
     path.join(dictDir, 'attribute-groups.json'),
     JSON.stringify(sortKeys(attributeGroups), null, 4) + '\n'
   );
 
-  const attributes = await buildAttributesDictionary(manufacturer, language);
+  const attributes = await loadAndBuildAttributesDictionary(manufacturer, language);
   fs.writeFileSync(
     path.join(dictDir, 'attributes.json'),
     JSON.stringify(sortKeys(attributes), null, 4) + '\n'
   );
 
-  const variants = await buildVariantsDictionary(manufacturer, language);
+  const variants = await loadAndBuildVariantsDictionary(manufacturer, language);
   fs.writeFileSync(
     path.join(dictDir, 'variants.json'),
     JSON.stringify(sortKeys(variants), null, 4) + '\n'
   );
 
-  const descriptions = await buildDescriptionsDictionary(manufacturer, language);
+  const descriptions = await loadAndBuildDescriptionsDictionary(manufacturer, language);
   fs.writeFileSync(
     path.join(dictDir, 'descriptions.json'),
     JSON.stringify(sortKeys(descriptions), null, 4) + '\n'
   );
 
-  const categories = await buildCategoriesDictionary(manufacturer, language);
+  const categories = await loadAndBuildCategoriesDictionary(manufacturer, language);
   fs.writeFileSync(
     path.join(dictDir, 'categories.json'),
     JSON.stringify(sortKeys(categories), null, 4) + '\n'
   );
 
-  const attributeValues = await buildAttributeValuesDictionary(manufacturer, language);
+  const attributeValues = await loadAndBuildAttributeValuesDictionary(manufacturer, language);
   fs.writeFileSync(
     path.join(dictDir, 'attribute-values.json'),
     JSON.stringify(sortKeys(attributeValues), null, 4) + '\n'
@@ -422,19 +339,13 @@ export async function synchronize(manufacturer: string, sourceLang: string, targ
       targetDict = JSON.parse(fs.readFileSync(targetFile, 'utf-8'));
     }
 
-    // Synchronize: add missing keys from source to target
-    let addedCount = 0;
-    for (const key in sourceDict) {
-      if (!targetDict[key]) {
-        targetDict[key] = sourceDict[key];
-        addedCount++;
-      }
-    }
+    // Synchronize using library function
+    const { updated, addedCount } = synchronizeDictionaries(sourceDict, targetDict);
 
     // Save synchronized target dictionary
     fs.writeFileSync(
       targetFile,
-      JSON.stringify(sortKeys(targetDict), null, 4) + '\n'
+      JSON.stringify(sortKeys(updated), null, 4) + '\n'
     );
 
     if (addedCount > 0) {

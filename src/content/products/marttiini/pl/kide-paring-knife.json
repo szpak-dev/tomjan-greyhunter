@@ -4,53 +4,53 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/421110",
   "manufacturer": "marttiini",
   "category_slug": "kitchen",
-  "category_name": "Kitchen",
+  "category_name": "Kuchnia",
   "name": "Kide Paring Knife",
   "name_short": "",
   "slug": "kide-paring-knife",
   "model_name": "",
-  "lead": "",
+  "lead": "Noż z zakrzywionym ostrzem jest przydatnym narzędziem do szczelania owoców i cięcia warzyw korzeniowych.",
   "description": [
-    "The paring knife with a curved blade is a handy tool for peeling fruit and cutting root vegetables.",
-    "The Kide series consists of sharp, easy-care kitchen knives and a roast fork. The German stainless steel and forged construction make them durable and they remain sharp in use. The Santoprene® handle is easy to keep clean and offers a good grip.",
-    "Ergonomic handle is comfortable to use. We recommend hand wash and sharpening with Marttiini sharpeners.",
-    "We recommend hand wash."
+    "Noż z zakrzywionym ostrzem jest przydatnym narzędziem do szczelania owoców i cięcia warzyw korzeniowych.",
+    "Seria Kide składa się z ostrych, łatwych do pielęgnacji noży kucheniowych i żarówki pieczonej. Niemiecka stal nierdzewna i kształtowana konstrukcja sprawiają, że są one trwałe i pozostają ostre w użyciu. Chwyt Santoprene® jest łatwy do utrzymania w czystości i zapewnia dobrą chwyt.",
+    "Ergonomiczna ręcznika jest wygodna do użytku.",
+    "Zalecamy mycie rąk."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "8 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "18,5 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
-          "value": "76g"
+          "name": "Waga",
+          "value": "76 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel 1.4116"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej 1.4116"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "rubber (Santoprene)"
+          "name": "Materiał obsługi",
+          "value": "gumowe (Santoprene)"
         }
       ]
     }

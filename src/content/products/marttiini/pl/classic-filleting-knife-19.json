@@ -4,52 +4,52 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/630010",
   "manufacturer": "marttiini",
   "category_slug": "fishing",
-  "category_name": "Fishing",
+  "category_name": "Rybołówstwo",
   "name": "Classic Filleting Knife 19",
   "name_short": "",
   "slug": "classic-filleting-knife-19",
   "model_name": "",
-  "lead": "",
+  "lead": "Model ten jest produkowany od końca lat sześćdziesiątych XX wieku i jest eksportowany na całym świecie od ponad 50 lat.",
   "description": [
-    "This model has been in production since the late 1960s and has been exported around the world for more than 50 years. With the superior finished, sharp and flexible stainless chrome steel blade it only takes a moment to make beautiful fish fillets.",
-    "This blade length is suitable for processing fish of between 2-3 kg. A traditional leather sheath in a natural colour completes the package.",
-    "We recommend hand wash."
+    "Model ten jest produkowany od końca lat sześćdziesiątych XX wieku i jest eksportowany na całym świecie od ponad 50 lat.",
+    "Długość tego ostrza jest odpowiednia do przetwarzania ryb o masie od 2 do 3 kg. Tradycyjna skóra w kolorze naturalnym uzupełnia opakowanie.",
+    "Zalecamy mycie rąk."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "19 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "31 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "birch, varnished"
+          "name": "Materiał obsługi",
+          "value": "Burska, lakierowana"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather"
+          "name": "Materiał z obudowy",
+          "value": "skórze"
         }
       ]
     }

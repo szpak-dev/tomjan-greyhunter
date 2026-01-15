@@ -4,56 +4,56 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/230012",
   "manufacturer": "marttiini",
   "category_slug": "traditional",
-  "category_name": "Traditional",
+  "category_name": "Tradycyjne",
   "name": "Taiga Lapp Knife",
   "name_short": "",
   "slug": "taiga-lapp-knife",
   "model_name": "",
-  "lead": "",
+  "lead": "Taiga Lapp Knife to specjalny nóż, który łączy w sobie piękną dwufarbową ręcznikę z birki, odzwierciedlającą zróżnicowany las taiga, z nierdzewnym chromowym ostrzem z grawerowanym krajobrazem taiga.",
   "description": [
-    "Taiga, or the vast arctic forest zone, is a popular hiking area where a knife is handy to have. The Taiga Lapp Knife is a special knife that combines a beautiful two-tone birch handle, reflecting the diverse forest of the taiga, with a stainless chrome blade featuring an engraved taiga landscape. The knife also includes a genuine vegetable-tanned leather sheath.",
-    "The Taiga Lapp Knife is produced in limited quantities and is sold exclusively in Marttiini's stores and online shop."
+    "Taiga Lapp Knife to specjalny nóż, który łączy w sobie piękną dwufarbową ręcznikę z birki, odzwierciedlającą zróżnicowany las taiga, z nierdzewnym chromowym ostrzem z grawerowanym krajobrazem taiga.",
+    "Noż Taiga Lapp jest produkowany w ograniczonych ilościach i sprzedawany wyłącznie w sklepach Marttiini i sklepie internetowym."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "22 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
+          "name": "Waga",
           "value": "141 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Stainless steel"
+          "name": "Materiał ostrza",
+          "value": "Pozostałe stali nierdzewnych"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Birch, heat-treated and varnished"
+          "name": "Materiał obsługi",
+          "value": "Burska, oczyszczona termicznie i lakierowana"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Leather, light brown"
+          "name": "Materiał z obudowy",
+          "value": "Skóra, jasko brązowa"
         }
       ]
     }

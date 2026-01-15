@@ -4,51 +4,51 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/121019",
   "manufacturer": "marttiini",
   "category_slug": "outdoor",
-  "category_name": "Outdoor",
+  "category_name": "Na zewnątrz",
   "name": "Arctic Circle Knife",
   "name_short": "",
   "slug": "arctic-circle-knife",
   "model_name": "",
-  "lead": "",
+  "lead": "Marttiini'ego północna historia była inspiracją do tego noża. Światło-kolorowa obudowa i rękawica są inspirowane naszymi jasnymi letnimi nocami, a mroczne miesiące zimowe reprezentowane są ciemnym ostrzem.",
   "description": [
-    "Marttiini's northern history was the inspiration for this knife. The light coloured sheath and handle are inspired by our bright summer nights and the dark winter months are represented by the dark blade. Lapland is indeed a land of contrasts.",
-    "The blade is made of carbon steel that is perfect for carving and is easy to re-sharpen to its original sharpness. Remember to take proper care of your carbon steel knife: always dry the blade carefully after each use and oil the blade with unsalted oil on a regular basis. This will ensure your knife will serve you loyally from one year to the next."
+    "Marttiini'ego północna historia była inspiracją do tego noża. Światło-kolorowa obudowa i rękawica są inspirowane naszymi jasnymi letnimi nocami, a mroczne miesiące zimowe reprezentowane są ciemnym ostrzem.",
+    "Ostrze wykonane jest z stali węglowej, która jest doskonała do rzeźby i łatwa do ponownego ostrzenia do pierwotnej ostrości. Pamiętaj, aby należycie zadbać o swój nóż węglowy: zawsze starannie suszyć nóż po każdym użyciu i regularnie olejować nóż niezasalonym olejem."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "9 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "20 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "carbon steel"
+          "name": "Materiał ostrza",
+          "value": "stal węglowy"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "birch, vaxed"
+          "name": "Materiał obsługi",
+          "value": "roślinki i roślinki"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather, brown"
+          "name": "Materiał z obudowy",
+          "value": "skórę, brązową"
         }
       ]
     }

@@ -4,51 +4,51 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/280015",
   "manufacturer": "marttiini",
   "category_slug": "traditional",
-  "category_name": "Traditional",
+  "category_name": "Tradycyjne",
   "name": "Lapp knife 280",
   "name_short": "",
   "slug": "lapp-knife-280",
   "model_name": "",
-  "lead": "An excellent gift for those who already have it all",
+  "lead": "Ten imponujący nóż ma prawie pół metra długości, a ostrze i łódź są ozdobione tradycyjnymi tematami i krajobrazem z Laponii.",
   "description": [
-    "This impressive knife is almost half a meter long. The blade and the sheath are decorated with a traditional themes and scenery from Lapland. This knife is surely one to be noticed!",
-    "As Crocodile Dundee said:"
+    "Ten imponujący nóż ma prawie pół metra długości, a ostrze i łódź są ozdobione tradycyjnymi tematami i krajobrazem z Laponii.",
+    "Jak powiedział Krokodyl Dundee:"
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "45 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "56 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel 1.4034 / X46Cr13, HRC 53.5-55"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej 1.4034 / X46Cr13, HRC 53.5-55"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Finnish curly birch, varnished"
+          "name": "Materiał obsługi",
+          "value": "Finowska kręcona birka, lakierowana"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather, brown"
+          "name": "Materiał z obudowy",
+          "value": "skórę, brązową"
         }
       ]
     }

@@ -4,50 +4,50 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/167014",
   "manufacturer": "marttiini",
   "category_slug": "hunting",
-  "category_name": "Hunting",
+  "category_name": "Łowstwo",
   "name": "Deluxe Skinner",
   "name_short": "",
   "slug": "deluxe-skinner",
   "model_name": "",
-  "lead": "Deluxe Skinner is an elegant hunting knife",
+  "lead": "Deluxe Skinner to noż łowiecki z odrobiną luksusowej  woskowej, kręconej rękojeści z birki, ostrzem ze stali nierdzewnej i skórą jest pięknym połączeniem. Skinner jest odpowiedni zarówno do skórzenia, jak i rzeźby, ale nie nadaje się do rozdzielenia kości.",
   "description": [
-    "Deluxe Skinner is a hunting knife with a touch of luxury – waxed curly birch handle, stainless steel blade and leather sheath is a fine combination. The skinner blade is suitable for both skinning and carving, but not suitable for splitting bones."
+    "Deluxe Skinner to noż łowiecki z odrobiną luksusowej  woskowej, kręconej rękojeści z birki, ostrzem ze stali nierdzewnej i skórą jest pięknym połączeniem. Skinner jest odpowiedni zarówno do skórzenia, jak i rzeźby, ale nie nadaje się do rozdzielenia kości."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "23 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "curly birch, waxed"
+          "name": "Materiał obsługi",
+          "value": "Burska kręcona, woskowana"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather"
+          "name": "Materiał z obudowy",
+          "value": "skórze"
         }
       ]
     }

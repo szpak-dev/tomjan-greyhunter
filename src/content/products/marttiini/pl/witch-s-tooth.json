@@ -4,56 +4,56 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/2121010",
   "manufacturer": "marttiini",
   "category_slug": "design-knives",
-  "category_name": "Design Knives",
+  "category_name": "Noże projektowe",
   "name": "Witch's Tooth",
   "name_short": "",
   "slug": "witch-s-tooth",
   "model_name": "",
-  "lead": "",
+  "lead": "Według starożytnych przekonań szczura z roniowego rogu na końcu rękawicy powstrzymuje złych duchów, aby użytkownik noża mógł spokojnie jeść.",
   "description": [
-    "According to old beliefs, the rattle made of reindeer antler at the end of the handle keeps the evil spirits at bay so that the user of the knife may eat in peace. A legend says that this knife model belonged to an old witch, who used it to carve thin slices of dried meat.",
-    "The combination of curly birch and reindeer antler in the handle turn this knife into a true gem."
+    "Według starożytnych przekonań szczura z roniowego rogu na końcu rękawicy powstrzymuje złych duchów, aby użytkownik noża mógł spokojnie jeść.",
+    "Połączenie w rękawiczce krętych brzoszków i roniowego rogu sprawia, że nóż ten staje się prawdziwym klejnotem."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "22 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
-          "value": "143g"
+          "name": "Waga",
+          "value": "143 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel 1.4034 / X46Cr13, HRC 53.5-55"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej 1.4034 / X46Cr13, HRC 53.5-55"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Finnish curly birch & antler"
+          "name": "Materiał obsługi",
+          "value": "Finowska kręcona birka i róg"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather, light brown"
+          "name": "Materiał z obudowy",
+          "value": "skórę, jasko brązową"
         }
       ]
     }

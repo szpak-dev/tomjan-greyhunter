@@ -4,62 +4,62 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/546013W",
   "manufacturer": "marttiini",
   "category_slug": "design-knives",
-  "category_name": "Design Knives",
+  "category_name": "Noże projektowe",
   "name": "Wild Boar",
   "name_short": "",
   "slug": "wild-boar",
   "model_name": "",
-  "lead": "",
+  "lead": "Na tyłku noża znajduje się głowa dzikich świnek na odlewanych żarówkach. Kręta wierszowa z kręgiem brązowym z rankiem palca jest kolorowo woskowana, aby wytrzymać użycie i zapewnić dobrą przyczepność. Ostrze ostrze ostrze jest wykonane z trwałej stali nierdzewna.",
   "description": [
-    "The butt of the knife features a wild boar head on a cast ferrule. The curly birch handle with a finger groove is color-waxed to withstand use and ensure a good grip. The razor-sharp blade is made of durable stainless steel.",
-    "The knife comes in an elegant wooden box, making it a perfect gift."
+    "Na tyłku noża znajduje się głowa dzikich świnek na odlewanych żarówkach. Kręta wierszowa z kręgiem brązowym z rankiem palca jest kolorowo woskowana, aby wytrzymać użycie i zapewnić dobrą przyczepność. Ostrze ostrze ostrze jest wykonane z trwałej stali nierdzewna.",
+    "Noż jest w eleganckim drewnianym pudełku, co czyni go doskonałym prezentem."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "24 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel 1.4034 / X46Cr13, HRC 53,5-55"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej 1.4034 / X46Cr13, HRC 53,5-55"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "curly birch, color waxed"
+          "name": "Materiał obsługi",
+          "value": "Burska kręcona, kolorowa woskowana"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather, black"
+          "name": "Materiał z obudowy",
+          "value": "skórę, czarną"
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "packaging",
-          "name": "Packaging",
-          "value": "wooden gift box"
+          "name": "Opakowanie",
+          "value": "drewniana skrzynka prezentów"
         }
       ]
     }

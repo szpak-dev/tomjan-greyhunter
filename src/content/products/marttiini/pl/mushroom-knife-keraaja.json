@@ -4,62 +4,62 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/709016",
   "manufacturer": "marttiini",
   "category_slug": "outdoor",
-  "category_name": "Outdoor",
+  "category_name": "Na zewnątrz",
   "name": "Mushroom Knife Kerääjä",
   "name_short": "",
   "slug": "mushroom-knife-keraaja",
   "model_name": "",
-  "lead": "",
+  "lead": "W języku fińskim słowo kerääjä oznacza gromadzący.",
   "description": [
-    "In Finnish language the word ‘’kerääjä’’ means gatherer. The premium heat-treated birch handle is turned in a direction counter to the blade's grinding. This design facilitates a more comfortable grip, drawing inspiration from the inward movement most common in mushroom foraging.",
-    "The curved shape of the blade facilitates smooth slicing through the stem, preserving the integrity of the underlying fungal mycelium and preventing any disruption to its growth. The blade is made of high end stainless steel used in high quality kitchen knives.",
-    "The brush is firm enough to remove dirt, debris and bugs, but soft enough to avoid damaging delicate mushrooms. It is made of natural animal hair. The knife comes in a genuine, chrome tanned matte brown leather sheath with silver foil debossing. The quick fix attachment belt makes it easy to attach the sheath to various places like the belt, belt loop, wrist or basket handle. Eyelet rivets offer an option to use a lanyard for example."
+    "W języku fińskim słowo kerääjä oznacza gromadzący.",
+    "Wykrzywiony kształt ostrza ułatwia płynne cięcie poprzez kształt, zachowując integralność micelium grzybiczego i zapobiegając zakłóceniu jego wzrostu.",
+    "Szczotka jest wystarczająco mocna, aby usunąć brud, szczątki i owady, ale wystarczająco miękka, aby uniknąć uszkodzenia delikatnych grzybów. Wykonane jest z naturalnych włosów zwierzęcych. Noż wchodzi w prawdziwą, chromowaną matową brązową skórę z srebrną folią."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "7 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "20 cm"
         },
         {
           "id": "brush-length",
-          "name": "Brush length",
+          "name": "Długość szczotki",
           "value": "2 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Stainless steel"
+          "name": "Materiał ostrza",
+          "value": "Pozostałe stali nierdzewnych"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Heat-treated birch"
+          "name": "Materiał obsługi",
+          "value": "Gotowo oczyszczona birka"
         },
         {
           "id": "brush",
-          "name": "Brush",
-          "value": "Genuine wild boar hair"
+          "name": "Szczotka",
+          "value": "Prawdziwe włosy dzikich świń"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Chrome tanned leather"
+          "name": "Materiał z obudowy",
+          "value": "Skórze chromowe"
         }
       ]
     }

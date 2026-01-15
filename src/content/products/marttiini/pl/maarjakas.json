@@ -4,66 +4,66 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559042W",
   "manufacturer": "marttiini",
   "category_slug": "unique-by-marttiini",
-  "category_name": "Unique By Marttiini",
+  "category_name": "Unikalny przez Marttiini",
   "name": "Maarjakas",
   "name_short": "",
   "slug": "maarjakas",
   "model_name": "",
-  "lead": "Handmade",
+  "lead": "Marjakaas odnosi się do kręconej birki, która jest cennym materiałem drewnianym. Kręcona birka ma ciemne paski w drewni i jest popularnym materiałem do przedmiotów dekoracyjnych. Każdy kręcony birka jest wyjątkowy w swoim wzorowi, podobnie jak ten nóż Marjakaas.",
   "description": [
-    "Marjakaas refers to curly birch, which is a valuable wood material. Curly birch has dark streaks within the wood and is a popular material for decorative items. Each curly birch is unique in its pattern, just like this Marjakaas knife. The handle of the knife is made of beautiful heat-treated curly birch, adorned with light untreated curls, reindeer antler, and dyed birch veneer. The blade is a stunning 10 cm Damascus steel, and the black sheath is genuine leather."
+    "Marjakaas odnosi się do kręconej birki, która jest cennym materiałem drewnianym. Kręcona birka ma ciemne paski w drewni i jest popularnym materiałem do przedmiotów dekoracyjnych. Każdy kręcony birka jest wyjątkowy w swoim wzorowi, podobnie jak ten nóż Marjakaas."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "10 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "22,3 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
-          "value": "140g"
+          "name": "Waga",
+          "value": "140 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Damascus"
+          "name": "Materiał ostrza",
+          "value": "Damaszek"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Heat-treated curly birch, curly birch, reindeer antler bone, colored birch"
+          "name": "Materiał obsługi",
+          "value": "Gotowo oczyszczona kręcona birka, kręcona birka, kość roniowa, kolorowa birka"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Leather, Black"
+          "name": "Materiał z obudowy",
+          "value": "Skóra, Czarna"
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "packaging",
-          "name": "Packaging",
-          "value": "Wooden Unique Gift Box"
+          "name": "Opakowanie",
+          "value": "Drzewna wyjątkowa pudełka prezentów"
         }
       ]
     }

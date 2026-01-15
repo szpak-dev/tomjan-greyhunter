@@ -4,51 +4,51 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/127015",
   "manufacturer": "marttiini",
   "category_slug": "outdoor",
-  "category_name": "Outdoor",
+  "category_name": "Na zewnątrz",
   "name": "Lumberjack Stainless",
   "name_short": "",
   "slug": "lumberjack-stainless",
   "model_name": "",
-  "lead": "Easy-to-maintain hiker's general-purpose knife",
+  "lead": "W oparciu o jeden z najpopularniejszych nóżów Marttiini, Lynx Lumberjack Carbon, ta wersja jest wykonana z łatwo utrzymywanego stali nierdzewnej.",
   "description": [
-    "Based on one of the most popular Marttiini knives, the Lynx Lumberjack Carbon, this version is made from easy-to-maintain stainless steel.",
-    "The handle is made of stained birch. Its surface is slightly textured so you easily get a firm, safe grip of the knife."
+    "W oparciu o jeden z najpopularniejszych nóżów Marttiini, Lynx Lumberjack Carbon, ta wersja jest wykonana z łatwo utrzymywanego stali nierdzewnej.",
+    "Łącznik wykonany jest z zabarwionej birki, a jego powierzchnia ma niewielką teksturę, dzięki czemu można łatwo uzyskać mocne i bezpieczne chwytanie noża."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "22 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel 1.4034 / X46Cr13, HRC 53.5-55"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej 1.4034 / X46Cr13, HRC 53.5-55"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "birch, stained"
+          "name": "Materiał obsługi",
+          "value": "Birka, zabarwiona"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather"
+          "name": "Materiał z obudowy",
+          "value": "skórze"
         }
       ]
     }

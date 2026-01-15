@@ -4,50 +4,50 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/160014",
   "manufacturer": "marttiini",
   "category_slug": "traditional",
-  "category_name": "Traditional",
+  "category_name": "Tradycyjne",
   "name": "Golden Lynx",
   "name_short": "",
   "slug": "golden-lynx",
   "model_name": "",
-  "lead": "",
+  "lead": "Noż Złoty Lynx ma swoją nazwę po złotych kolorach, które łączą lekki kręcony brzęk i szczeliny ze stali nierdzewnej. Noż oferuje doskonałą przyczepność, a ochrona palca dodatkową bezpieczeństwo dla użytkownika. Noż ma typowy hak Ilves, dzięki czemu łatwo podnieść pojemnik kawy z ognia obozowego. Lekka skórzana szata jest ozdobiona starymi wzorami z wczesnych dni Martini, które były ręcznie drukowane w tym czasie. Ta piękna szata jest dostępna tylko dla modelu Złoty Lynx.",
   "description": [
-    "The Golden Lynx knife gets its name from its golden-colored bolster, which connects the light curly birch handle and the stainless steel blade. The knife offers an excellent grip, and the finger guard bolster adds extra safety for the user. The blade features the typical Ilves hook, making it easy to lift a coffee pot from the campfire. The light leather sheath is adorned with old patterns from Marttiini’s early days, which were hand-pressed at the time. This beautiful sheath is available only for the Golden Lynx model. It is safe to use even when your hands are wet or slippery."
+    "Noż Złoty Lynx ma swoją nazwę po złotych kolorach, które łączą lekki kręcony brzęk i szczeliny ze stali nierdzewnej. Noż oferuje doskonałą przyczepność, a ochrona palca dodatkową bezpieczeństwo dla użytkownika. Noż ma typowy hak Ilves, dzięki czemu łatwo podnieść pojemnik kawy z ognia obozowego. Lekka skórzana szata jest ozdobiona starymi wzorami z wczesnych dni Martini, które były ręcznie drukowane w tym czasie. Ta piękna szata jest dostępna tylko dla modelu Złoty Lynx."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "25 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "curly birch"
+          "name": "Materiał obsługi",
+          "value": "kręcony burak"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather"
+          "name": "Materiał z obudowy",
+          "value": "skórze"
         }
       ]
     }

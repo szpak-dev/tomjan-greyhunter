@@ -4,52 +4,52 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/186015",
   "manufacturer": "marttiini",
   "category_slug": "hunting",
-  "category_name": "Hunting",
+  "category_name": "Łowstwo",
   "name": "Condor Classic",
   "name_short": "",
   "slug": "condor-classic",
   "model_name": "",
-  "lead": "",
+  "lead": "Teksturowana gumka jest połączona z legendarnym ostrzem noża Lynx, oferującym nieporównywalną ostrość i charakterystykę tradycyjnego przepływu krwi.",
   "description": [
-    "The textured rubber handle is combined with the legendary blade of the Lynx knife offering incomparable sharpness and featuring the traditional blood groove.",
-    "For those who prefer knives with wood handles we have a",
-    "available."
+    "Teksturowana gumka jest połączona z legendarnym ostrzem noża Lynx, oferującym nieporównywalną ostrość i charakterystykę tradycyjnego przepływu krwi.",
+    "Dla tych, którzy wolą noże z drewnianymi uchwytami mamy",
+    "dostępne."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "23 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "rubber, black"
+          "name": "Materiał obsługi",
+          "value": "gumowe, czarne"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather, black"
+          "name": "Materiał z obudowy",
+          "value": "skórę, czarną"
         }
       ]
     }

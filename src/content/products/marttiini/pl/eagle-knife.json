@@ -4,65 +4,65 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/555010W",
   "manufacturer": "marttiini",
   "category_slug": "design-knives",
-  "category_name": "Design Knives",
+  "category_name": "Noże projektowe",
   "name": "Eagle Knife",
   "name_short": "",
   "slug": "eagle-knife",
   "model_name": "",
-  "lead": "",
+  "lead": "Ostrze i niezawodne, zaprojektowane do codziennego użytku i wykonane tak, aby trwało przez całe życie.",
   "description": [
-    "Sharp and reliable, designed for daily use and built to last a lifetime. That is why the Eagle Knife is a timeless and respected gift item.",
-    "Kotkapuukko was the first product in Marttiini’s range of animal themed knives, and it remains one of our most popular models. The eagle head pommel was designed by the famous jewelry designer Jorma Laine in the mid-1970s and it quickly became a success, leading to the production of other knives with brass bolsters.",
-    "In many cultures, the eagle symbolizes strength, freedom, and keen vision. It is often associated with courage and leadership. For example, in ancient Rome, the eagle was the symbol of the Roman Empire, and in the United States, the bald eagle represents freedom and independence.",
-    "The versatile Eagle Knife is a reliable knife fit for both outdoor enthusiasts and collectors. The stainless steel blade (1.4034, HRC 53,5-55) is versatile, while the heat-treated curly birch handle's wax coating ensures durability for years.",
-    "Every Eagle Knife is delivered in an elegant wooden box."
+    "Ostrze i niezawodne, zaprojektowane do codziennego użytku i wykonane tak, aby trwało przez całe życie.",
+    "Kotkapuukko był pierwszym produktem w gamie noży martinińskich na tematy zwierzęce i pozostaje jednym z naszych najpopularniejszych modeli.",
+    "Na przykład w starożytnym Rzymie orzeł był symbolem Cesarstwa Rzymskiego, a w Stanach Zjednoczonych orzeł łysy reprezentuje wolność i niezależność.",
+    "Wszechstronny noż Orła jest niezawodnym nożem odpowiednim zarówno dla entuzjastów zewnętrznych, jak i kolekcjonerów.",
+    "Każdy noż Orła jest dostarczany w eleganckiej drewnianej skrzynce."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "22 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Stainless steel 1.4034 / X46Cr13, HRC 53,5-55"
+          "name": "Materiał ostrza",
+          "value": "Stal nierdzewna 1.4034 / X46Cr13, HRC 53,5-55"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Heat treated curly birch, waxed, cast ferrules"
+          "name": "Materiał obsługi",
+          "value": "Ciepłonoobrobione kręcone birki, woskowane, odlewane ferrule"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Leather, black"
+          "name": "Materiał z obudowy",
+          "value": "Skóra, czarna"
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "packaging",
-          "name": "Packaging",
-          "value": "wooden gift box"
+          "name": "Opakowanie",
+          "value": "drewniana skrzynka prezentów"
         }
       ]
     }

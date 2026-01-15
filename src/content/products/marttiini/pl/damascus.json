@@ -4,64 +4,64 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/557010W",
   "manufacturer": "marttiini",
   "category_slug": "design-knives",
-  "category_name": "Design Knives",
+  "category_name": "Noże projektowe",
   "name": "Damascus",
   "name_short": "",
   "slug": "damascus",
   "model_name": "",
-  "lead": "",
+  "lead": "Noż Marttiini Damascus jest wykonany z stali nierdzewnej z Damaszku, gdzie za pomocą specjalnej technologii łączą się dwie różne stali najwyższej klasy w 120 warstwach.",
   "description": [
-    "The blade of the Marttiini Damascus knife is from stainless Damascus steel, where, by means of special technology two different top-grade steels are combined into 120 layers. The interlayering of the two different steels and the highly specialised machining bring out the beautiful pattern on the blade.",
-    "The handle of the knife is made of Finnish curly birch, and the ferrules are cast. The beautiful pattern on the blade is echoed on the ferrule at the end of the handle.",
-    "Marttiini Damascus knives are numbered by the production year, making each knife is a unique collector's item.",
-    "Each knife is delivered in an elegant wooden gift box."
+    "Noż Marttiini Damascus jest wykonany z stali nierdzewnej z Damaszku, gdzie za pomocą specjalnej technologii łączą się dwie różne stali najwyższej klasy w 120 warstwach.",
+    "Łącznik noża jest wykonany z fińskiego kręconego birku, a szczotki są odlewane.",
+    "Noże z Damaszku Marttiini są numerowane według roku produkcji, co sprawia, że każdy noż jest wyjątkowym przedmiotem kolekcjonerskim.",
+    "Każdy nóż jest dostarczany w eleganckiej drewnianej pudełce."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "10 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "20 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Damascus steel RWL34 & PMC27, HRC 60"
+          "name": "Materiał ostrza",
+          "value": "Stal z Damaszku RWL34 & PMC27, HRC 60"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Curly birch, vaxed, cast ferrules"
+          "name": "Materiał obsługi",
+          "value": "Węzełkowy, węzełkowy, węzełkowy"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Leather, brown"
+          "name": "Materiał z obudowy",
+          "value": "Skóra, brązowa"
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "packaging",
-          "name": "Packaging",
-          "value": "Wooden gift box"
+          "name": "Opakowanie",
+          "value": "Skrzynka darmowa drewniana"
         }
       ]
     }

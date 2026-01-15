@@ -4,7 +4,7 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559013W",
   "manufacturer": "marttiini",
   "category_slug": "unique-by-marttiini",
-  "category_name": "Unique By Marttiini",
+  "category_name": "Unikalny przez Marttiini",
   "name": "Raja",
   "name_short": "",
   "slug": "raja",
@@ -14,54 +14,54 @@
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "10 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "22 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
-          "value": "180g"
+          "name": "Waga",
+          "value": "180 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Damascus"
+          "name": "Materiał ostrza",
+          "value": "Damaszek"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Reindeer Antler Bone, curly birch"
+          "name": "Materiał obsługi",
+          "value": "Renier Antler Bone, kręcony birch"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Leather, White"
+          "name": "Materiał z obudowy",
+          "value": "Skóra, biała"
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "packaging",
-          "name": "Packaging",
-          "value": "Wooden Unique Gift Box"
+          "name": "Opakowanie",
+          "value": "Drzewna wyjątkowa pudełka prezentów"
         }
       ]
     }

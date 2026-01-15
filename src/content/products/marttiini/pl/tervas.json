@@ -4,67 +4,67 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559032W",
   "manufacturer": "marttiini",
   "category_slug": "unique-by-marttiini",
-  "category_name": "Unique By Marttiini",
+  "category_name": "Unikalny przez Marttiini",
   "name": "Tervas",
   "name_short": "",
   "slug": "tervas",
   "model_name": "",
-  "lead": "Handmade",
+  "lead": "Ten wyjątkowy nóż Tervas ma swoją nazwę i kolor od żywicystego kształtu drzewa konoferowego.",
   "description": [
-    "This unique Tervas knife gets its name and color from the resinous stump of a conifer tree. Tervas is warm brown, smells of resin, and is the best material for campfire wood. Hikers can use it to light a fire even in the rain.",
-    "The handle of the Tervas knife is made of heat-treated curly birch and reindeer antler. The stunning 10 cm Damascus blade is stainless steel, and the black sheath is made of genuine leather."
+    "Ten wyjątkowy nóż Tervas ma swoją nazwę i kolor od żywicystego kształtu drzewa konoferowego.",
+    "Łącznik noża Tervas jest wykonany z obróbki cieplnej kręconej birki i rdzeniowego rogu."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "10 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "22,3 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
-          "value": "140g"
+          "name": "Waga",
+          "value": "140 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Damascus"
+          "name": "Materiał ostrza",
+          "value": "Damaszek"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Heat-treated curly birch, reindeer antler bone, colored birch"
+          "name": "Materiał obsługi",
+          "value": "Gotowo oczyszczona kręcona birka, kość roniowa, kolorowa birka"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Leather, Black"
+          "name": "Materiał z obudowy",
+          "value": "Skóra, Czarna"
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "packaging",
-          "name": "Packaging",
-          "value": "Wooden Unique Gift Box"
+          "name": "Opakowanie",
+          "value": "Drzewna wyjątkowa pudełka prezentów"
         }
       ]
     }

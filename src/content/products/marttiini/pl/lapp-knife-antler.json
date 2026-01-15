@@ -4,51 +4,51 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/2230010",
   "manufacturer": "marttiini",
   "category_slug": "design-knives",
-  "category_name": "Design Knives",
+  "category_name": "Noże projektowe",
   "name": "Lapp Knife Antler",
   "name_short": "",
   "slug": "lapp-knife-antler",
   "model_name": "",
-  "lead": "",
+  "lead": "Łącznik tradycyjnego noża Lapp, znany również jako noż leuku, łączy w sobie fińską kręconą bieżę z kościem rdzeniowym.",
   "description": [
-    "The handle of this traditional Lapp knife, also known as the leuku knife, combines Finnish curly birch with reindeer antler bone. The stainless chrome steel blade has a beautiful etched engraving with a Lappish theme. The leather sheath also reflects traditional Arctic patterns.",
-    "This leuku knife is an excellent gift idea for all those who have lost their hearts to northern nature!"
+    "Łącznik tradycyjnego noża Lapp, znany również jako noż leuku, łączy w sobie fińską kręconą bieżę z kościem rdzeniowym.",
+    "Ten nóż leuku jest doskonałym darem dla tych, którzy stracili serca z powodu północnej natury!"
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "22 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel X46Cr13, HRC 53-55"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej X46Cr13, HRC 53-55"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Finnish curly birch & reindeer antler bone"
+          "name": "Materiał obsługi",
+          "value": "Finowska kręcona birka i renowa kość rogu"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather"
+          "name": "Materiał z obudowy",
+          "value": "skórze"
         }
       ]
     }

@@ -4,50 +4,50 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/131012",
   "manufacturer": "marttiini",
   "category_slug": "traditional",
-  "category_name": "Traditional",
+  "category_name": "Tradycyjne",
   "name": "Lynx Forged",
   "name_short": "",
   "slug": "lynx-forged",
   "model_name": "",
-  "lead": "The traditional Lynx Knife with a forged steel blade",
+  "lead": "Płytka jest wykonana z stali węglowej i jest doskonała do rzeźby; łatwo ją ostrzyć do oryginalnej ostrości.",
   "description": [
-    "The blade is made of carbon steel and is perfect for carving; it is also easy to sharpen to its original sharpness. The handle is beautifully waxed curly birch, adding elegance and durability to the knife. The sheath is a traditional Ilves sheath made from genuine vegetable-tanned leather. This knife is an excellent choice for both carving and hiking."
+    "Płytka jest wykonana z stali węglowej i jest doskonała do rzeźby; łatwo ją ostrzyć do oryginalnej ostrości."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "23 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Carbon steel 1.2235 / 80CrV2, HRC 59.5"
+          "name": "Materiał ostrza",
+          "value": "Węglowa stali 1.2235 / 80CrV2, HRC 59.5"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Curly Birch"
+          "name": "Materiał obsługi",
+          "value": "Kręcona Birka"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Leather"
+          "name": "Materiał z obudowy",
+          "value": "Skórze"
         }
       ]
     }

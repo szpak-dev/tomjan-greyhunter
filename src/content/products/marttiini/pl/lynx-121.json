@@ -4,50 +4,50 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/121010",
   "manufacturer": "marttiini",
   "category_slug": "traditional",
-  "category_name": "Traditional",
+  "category_name": "Tradycyjne",
   "name": "Lynx 121",
   "name_short": "",
   "slug": "lynx-121",
   "model_name": "",
-  "lead": "",
+  "lead": "Ten użyteczny noż ogólnego przeznaczenia jest szczególnie odpowiedni do rzeźbiania suszonego mięsa i precyzyjnego cięcia drewna.",
   "description": [
-    "This handy general purpose knife is especially suitable for carving dried salted meat and for the precise cutting of wood. The knife features an easy to maintain stainless chrome steel blade and a leather sheath in the traditional style."
+    "Ten użyteczny noż ogólnego przeznaczenia jest szczególnie odpowiedni do rzeźbiania suszonego mięsa i precyzyjnego cięcia drewna."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "9 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "20 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "curly birch"
+          "name": "Materiał obsługi",
+          "value": "kręcony burak"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather"
+          "name": "Materiał z obudowy",
+          "value": "skórze"
         }
       ]
     }

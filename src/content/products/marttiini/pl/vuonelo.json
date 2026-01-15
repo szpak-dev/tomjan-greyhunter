@@ -4,66 +4,66 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559043W",
   "manufacturer": "marttiini",
   "category_slug": "unique-by-marttiini",
-  "category_name": "Unique By Marttiini",
+  "category_name": "Unikalny przez Marttiini",
   "name": "Vuonelo",
   "name_short": "",
   "slug": "vuonelo",
   "model_name": "",
-  "lead": "Handmade",
+  "lead": "Vuonelo jest lapiskim słowem odnoszącym się do kobiecego renifera w wieku ponad jednego roku. Symbolizuje żywotność i silne piękno północnej pustyni. Podobnie noż Vuonelo odzwierciedla tę młodzieńczą energię i delikatność, łącząc elegancję z północną tradycją w naprawdę wyjątkowej formie.",
   "description": [
-    "Vuonelo is a Lappish word, referring to a female reindeer over one year old – a young maiden. It symbolizes vitality and the strong beauty of the northern wilderness. In the same way, the Vuonelo knife reflects this youthful energy and delicacy, combining elegance with northern tradition in a truly unique form."
+    "Vuonelo jest lapiskim słowem odnoszącym się do kobiecego renifera w wieku ponad jednego roku. Symbolizuje żywotność i silne piękno północnej pustyni. Podobnie noż Vuonelo odzwierciedla tę młodzieńczą energię i delikatność, łącząc elegancję z północną tradycją w naprawdę wyjątkowej formie."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "10 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "26 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
+          "name": "Waga",
           "value": "220 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Damascus"
+          "name": "Materiał ostrza",
+          "value": "Damaszek"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Reindeer antler bone, curly birch, colored wood veneers"
+          "name": "Materiał obsługi",
+          "value": "Kość rągów roniowych, kręcony brzik, kolorowe płytki drewniane"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Leather, blue"
+          "name": "Materiał z obudowy",
+          "value": "Skóra, niebieska"
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "packaging",
-          "name": "Packaging",
-          "value": "Wooden Unique Gift Box"
+          "name": "Opakowanie",
+          "value": "Drzewna wyjątkowa pudełka prezentów"
         }
       ]
     }

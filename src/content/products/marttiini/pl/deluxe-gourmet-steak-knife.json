@@ -4,48 +4,47 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/750115",
   "manufacturer": "marttiini",
   "category_slug": "kitchen",
-  "category_name": "Kitchen",
+  "category_name": "Kuchnia",
   "name": "Deluxe Gourmet Steak Knife",
   "name_short": "",
   "slug": "deluxe-gourmet-steak-knife",
   "model_name": "",
-  "lead": "",
+  "lead": "Ostrze noże do steka są niezbędną częścią ustawienia stołu, gdy potrzebne są bardzo ostre noże.",
   "description": [
-    "Sharp steak knives are an essential part of the table setting when very sharp knives are required.",
-    "These knives are available also as a 6 knife set in a wooden storage box (",
-    ").",
-    "We recommend hand wash."
+    "Ostrze noże do steka są niezbędną częścią ustawienia stołu, gdy potrzebne są bardzo ostre noże.",
+    "Noże te dostępne są również jako noże 6 ustawione w drewnianym pudełku do przechowywania (",
+    "Zalecamy mycie rąk."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "10 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "21 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "heat treated birch, brown"
+          "name": "Materiał obsługi",
+          "value": "gorąco przetworzona birka, brązowa"
         }
       ]
     }

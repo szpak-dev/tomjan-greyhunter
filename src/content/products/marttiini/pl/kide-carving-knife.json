@@ -4,52 +4,52 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/426110",
   "manufacturer": "marttiini",
   "category_slug": "kitchen",
-  "category_name": "Kitchen",
+  "category_name": "Kuchnia",
   "name": "Kide Carving Knife",
   "name_short": "",
   "slug": "kide-carving-knife",
   "model_name": "",
-  "lead": "",
+  "lead": "Doskonały ogólny noż kuchenny do łatwego cięcia, obcięcia i cięcia.",
   "description": [
-    "An excellent general kitchen knife for effortless chopping, dicing and cutting.",
-    "The Kide series consists of sharp, easy-care kitchen knives and a roast fork. The German stainless steel and forged construction make them durable and they remain sharp in use. The Santoprene® handle is easy to keep clean and offers a good grip.",
-    "Ergonomic handle is comfortable to use. We recommend hand wash and sharpening with Marttiini sharpeners."
+    "Doskonały ogólny noż kuchenny do łatwego cięcia, obcięcia i cięcia.",
+    "Seria Kide składa się z ostrych, łatwych do pielęgnacji noży kucheniowych i żarówki pieczonej. Niemiecka stal nierdzewna i kształtowana konstrukcja sprawiają, że są one trwałe i pozostają ostre w użyciu. Chwyt Santoprene® jest łatwy do utrzymania w czystości i zapewnia dobrą chwyt.",
+    "Ergonomiczna ręcznika jest wygodna do użytku."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "21 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "32,9 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
-          "value": "182g"
+          "name": "Waga",
+          "value": "182 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel 1.4116"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej 1.4116"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "rubber (Santoprene)"
+          "name": "Materiał obsługi",
+          "value": "gumowe (Santoprene)"
         }
       ]
     }

@@ -4,64 +4,64 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/444010",
   "manufacturer": "marttiini",
   "category_slug": "outdoor",
-  "category_name": "Outdoor",
+  "category_name": "Na zewnątrz",
   "name": "Cabin Chef Kitchen Knife",
   "name_short": "",
   "slug": "cabin-chef-kitchen-knife",
   "model_name": "",
-  "lead": "Cabin Chef Knife design inspired by northern nature, powered by form and function",
+  "lead": "Ten noż szefa jest wszechstronnym nożem kuchennym, który bardzo płynnie cięwa, rozcina, rezygnuje z kawałków. Jeśli potrzebujesz tylko jednego noża do kempingu i kuchni w kabinie, znalazłeś idealny noż!",
   "description": [
-    "This Chef Knife is a versatile kitchen knife that cuts, chops, slices and dices extremely smoothly. If you need only one knife for your camping and cabin kitchen, youve found the perfect knife! The Chef Knife is also a great, practical gift idea for anyone.",
-    "The handle is made of Finnish thermally modified birch a material known for its durability and graceful aging as well as warm and pleasant feel grip. The matte finish ensures a safe grip even when wet.",
-    "The blade of the Chef Knife is made of high-quality, durable stainless steel.",
-    "The harmonious combination of beautiful design and practicality, as well as durable natural materials, guarantee that the Cabin Chef knives are a pleasure to use, time and time again.",
-    "We recommend hand wash."
+    "Ten noż szefa jest wszechstronnym nożem kuchennym, który bardzo płynnie cięwa, rozcina, rezygnuje z kawałków. Jeśli potrzebujesz tylko jednego noża do kempingu i kuchni w kabinie, znalazłeś idealny noż!",
+    "Głoda jest wykonana z fińskiego termicznie zmodyfikowanego brodowca, materiału znanym ze swojej trwałości i eleganckiego starzenia, a także ciepłego i przyjemnego przyczepienia.",
+    "Noż szefa jest wykonany z wysokiej jakości, trwałej stali nierdzewnej.",
+    "Harmoniczne połączenie pięknego projektu i praktyczności, a także trwałe naturalne materiały gwarantują, że noże Cabin Chef są przyjemne do użycia, wielokrotnie.",
+    "Zalecamy mycie rąk."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "14 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "25,5 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
+          "name": "Waga",
           "value": "85 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel (8Cr14MoV)"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej (8Cr14MoV)"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "heat treated birch, waxed"
+          "name": "Materiał obsługi",
+          "value": "Oczyszczona termicznie birka, woskowana"
         },
         {
           "id": "ferrule-material",
-          "name": "Ferrule material",
-          "value": "stainless steel"
+          "name": "Materiał ferrule",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather, brown"
+          "name": "Materiał z obudowy",
+          "value": "skórę, brązową"
         }
       ]
     }

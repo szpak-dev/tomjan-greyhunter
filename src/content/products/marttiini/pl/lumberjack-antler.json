@@ -4,55 +4,55 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/127013",
   "manufacturer": "marttiini",
   "category_slug": "design-knives",
-  "category_name": "Design Knives",
+  "category_name": "Noże projektowe",
   "name": "Lumberjack Antler",
   "name_short": "",
   "slug": "lumberjack-antler",
   "model_name": "",
-  "lead": "Beauty and uncompromising functionality",
+  "lead": "Szukasz wiarygodnego noża, aby towarzyszyć ci w podróży wędrówkowych? Nie szukaj dalej  Lumberjack Antler wspiera cię.",
   "description": [
-    "Looking for a reliable all-around knife to accompany you on your hiking trips? Look no further – the Lumberjack Antler's got your back. The carbon steel blade is easy to keep razor-sharp, while the heat-treated birch handle brings a breath of warmth to the design. Finished with reindeer antler for that feel of Northern mysticism."
+    "Szukasz wiarygodnego noża, aby towarzyszyć ci w podróży wędrówkowych? Nie szukaj dalej  Lumberjack Antler wspiera cię."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "10 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "22 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
+          "name": "Waga",
           "value": "140 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "carbon steel 1.2003 / X75Cr1, HRC 55-57"
+          "name": "Materiał ostrza",
+          "value": "Węglowa stali 1.2003 / X75Cr1, HRC 55-57"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "heat-treated birch & reindeer antler bone"
+          "name": "Materiał obsługi",
+          "value": "ciepłoobróbkowe kości burkowe i renowe"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather, brown"
+          "name": "Materiał z obudowy",
+          "value": "skórę, brązową"
         }
       ]
     }

@@ -4,46 +4,46 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/745114P",
   "manufacturer": "marttiini",
   "category_slug": "kitchen",
-  "category_name": "Kitchen",
+  "category_name": "Kuchnia",
   "name": "CKP Vegetable Knife",
   "name_short": "",
   "slug": "ckp-vegetable-knife",
   "model_name": "",
-  "lead": "",
+  "lead": "Elastyczna ostrza jest również doskonała do czyszczenia małych ryb.",
   "description": [
-    "The flexible blade is also excellent for cleaning small fish.",
-    "We recommend hand wash."
+    "Elastyczna ostrza jest również doskonała do czyszczenia małych ryb.",
+    "Zalecamy mycie rąk."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "10 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "20 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "rubber"
+          "name": "Materiał obsługi",
+          "value": "gumowe"
         }
       ]
     }

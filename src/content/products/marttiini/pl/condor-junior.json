@@ -4,51 +4,51 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/186010",
   "manufacturer": "marttiini",
   "category_slug": "outdoor",
-  "category_name": "Outdoor",
+  "category_name": "Na zewnątrz",
   "name": "Condor Junior",
   "name_short": "",
   "slug": "condor-junior",
   "model_name": "",
-  "lead": "",
+  "lead": "Bezpieczny zaokrąglony końcówek chroni młodszych rzeźbiarzy przed ranami szczelnymi i cięciami końcówkami.",
   "description": [
-    "The safe rounded tip protects junior carvers from puncture wounds and tip cuts. The blade is made from easy to maintain stainless steel. The sharpening of the blade is naturally the same as in the knives of more experienced carvers.",
-    "Roughened rubber handle and finger guard ensure a firm grip of the knife. The handle fits into the hand of a child also by its size. And a proper knife certainly comes with the proper leather sheath."
+    "Bezpieczny zaokrąglony końcówek chroni młodszych rzeźbiarzy przed ranami szczelnymi i cięciami końcówkami.",
+    "Wykorzystany gumą ręcznik i ochrona palców zapewniają mocną chwytę noża, który nawet pod względem wielkości pasuje do ręki dziecka."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "8 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "18 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel, rounded tip"
+          "name": "Materiał ostrza",
+          "value": "z stali nierdzewnej, z zaokrąglonymi końcami"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "rubber, black"
+          "name": "Materiał obsługi",
+          "value": "gumowe, czarne"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather, black"
+          "name": "Materiał z obudowy",
+          "value": "skórę, czarną"
         }
       ]
     }

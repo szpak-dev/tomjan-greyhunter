@@ -4,66 +4,66 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559031W",
   "manufacturer": "marttiini",
   "category_slug": "unique-by-marttiini",
-  "category_name": "Unique By Marttiini",
+  "category_name": "Unikalny przez Marttiini",
   "name": "Paljakka",
   "name_short": "",
   "slug": "paljakka",
   "model_name": "",
-  "lead": "Handmade",
+  "lead": "Obszar bez drzew jest nazywany \"paljakką\". Często jest to pusty, skalisty teren z niewielką roślinnością.",
   "description": [
-    "The treeless area of the fell is called \"paljakka.\" Often, it is a barren, rocky terrain with little vegetation. This description fits this unique knife well. The earthy colors are represented in the handle made from reindeer antler. The 6 cm blade is stunning Damascus steel with beautiful patterns. The black sheath is genuine leather."
+    "Obszar bez drzew jest nazywany \"paljakką\". Często jest to pusty, skalisty teren z niewielką roślinnością."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "6 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "16,1 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
-          "value": "160g"
+          "name": "Waga",
+          "value": "160 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Damascus"
+          "name": "Materiał ostrza",
+          "value": "Damaszek"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Reindeer antler bone, Volcano White Paper, colored birch"
+          "name": "Materiał obsługi",
+          "value": "Kość roniowa, Wulkan Biała Książka, kolorowa birka"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Leather, Black"
+          "name": "Materiał z obudowy",
+          "value": "Skóra, Czarna"
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "packaging",
-          "name": "Packaging",
-          "value": "Wooden Unique Gift Box"
+          "name": "Opakowanie",
+          "value": "Drzewna wyjątkowa pudełka prezentów"
         }
       ]
     }

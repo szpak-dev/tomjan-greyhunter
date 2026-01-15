@@ -4,54 +4,54 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/352015",
   "manufacturer": "marttiini",
   "category_slug": "outdoor",
-  "category_name": "Outdoor",
+  "category_name": "Na zewnątrz",
   "name": "Tundra GR",
   "name_short": "",
   "slug": "tundra-gr",
   "model_name": "",
-  "lead": "The Tundra is a tough performer",
+  "lead": "Tundra to pełnokrwawy noż wszechstronny dla wymagającego użytkownika. Ten noż jest zaprojektowany do ciężkiego użytku. Wykonany z stali nierdzewnej o wysokiej wytrzymałości, pełna konstrukcja i solidne ostrze zapewniają doskonałą trwałość.",
   "description": [
-    "The Tundra is a full-blooded bushcraft all-round knife for the demanding user. This bushcraft knife is designed for heavy-duty use. Made of of high-strength stainless steel, the full tang structure and robust blade provide excellent durability. The blade and the full tang are 3.5 mm thick.",
-    "On this knife, traditional materials go hand in hand with modern design. The handle is made of Finnish curly birch. The red details on the handle and leather sheath seal the dynamic look.",
-    "The Tundra knife is available with two handle options: deadwood-like, gray-waxed curly birch (Tundra GR) and natural-colored, waxed curly birch",
-    ". The surface of the waxed wood and the design of the handle ensure a firm grip. The sturdy leather sheath is reinforced with rivets.",
-    "If needed, the knife handle parts can be re-tightened. The screw has a Torx T10 head."
+    "Tundra to pełnokrwawy noż wszechstronny dla wymagającego użytkownika. Ten noż jest zaprojektowany do ciężkiego użytku. Wykonany z stali nierdzewnej o wysokiej wytrzymałości, pełna konstrukcja i solidne ostrze zapewniają doskonałą trwałość.",
+    "Na tym nożu tradycyjne materiały idą ręką w rękę z nowoczesnym projektem.",
+    "Noż Tundry dostępny jest z dwoma opcjami obsługi: martwego drewna, szarej woskowanej kręconej birki (Tundra GR) i naturalnego koloru, woskowanej kręconej birki",
+    "- powierzchnia woskowanego drewna i konstrukcja uchwytu zapewniają solidną przyczepność.",
+    "W razie potrzeby można ponownie przycisnąć części ręczników noża."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "22 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "curly birch & color waxed"
+          "name": "Materiał obsługi",
+          "value": "kręcony birch & kolorowy woskowany"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather, black"
+          "name": "Materiał z obudowy",
+          "value": "skórę, czarną"
         }
       ]
     }

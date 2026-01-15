@@ -4,64 +4,63 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/134012",
   "manufacturer": "marttiini",
   "category_slug": "traditional",
-  "category_name": "Traditional",
+  "category_name": "Tradycyjne",
   "name": "Lynx 134",
   "name_short": "",
   "slug": "lynx-134",
   "model_name": "",
-  "lead": "",
+  "lead": "Noż 134 Lynx łączy praktyczne cechy z oszałamiającymi szczegółami.",
   "description": [
-    "The 134 Lynx knife combines practical features with stunning details. This impressive knife is perfect for any outdoors person or",
-    ".",
-    "The handle is made of waxed curly birch – the cast finger guard adds a hint of luxury. The blade is made of practical stainless chrome steel. A durable and beautiful leather sheath is included.",
-    "The same knife is available also with a different sheath design :"
+    "Noż 134 Lynx łączy praktyczne cechy z oszałamiającymi szczegółami.",
+    "Łącznik wykonany jest z woskowego kręconego birki  odlewany ochrona palca dodać wskazówkę luksusu. Ostrze wykonane jest z praktycznej nierdzewnej stali chromowej. trwałe i piękne skórzane obudowy są włączone.",
+    "Ten sam nóż jest dostępny również w innym kształcie obudowy:"
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "22 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Stainless steel 1.4034 / X46Cr13, HRC 53.5-55"
+          "name": "Materiał ostrza",
+          "value": "Stal nierdzewna 1.4034 / X46Cr13, HRC 53.5-55"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Curly birch, waxed, finger guard of cast"
+          "name": "Materiał obsługi",
+          "value": "Węże, oświetlone, oświetlające palce"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Leather"
+          "name": "Materiał z obudowy",
+          "value": "Skórze"
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "sharpening-angle",
-          "name": "Sharpening angle",
-          "value": "22 degrees / Scandi grind"
+          "name": "Uostrzenie kąta",
+          "value": "22 stopnie / Grinding Scandi"
         }
       ]
     }

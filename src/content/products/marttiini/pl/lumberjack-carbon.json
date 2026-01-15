@@ -4,53 +4,52 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/127012",
   "manufacturer": "marttiini",
   "category_slug": "outdoor",
-  "category_name": "Outdoor",
+  "category_name": "Na zewnątrz",
   "name": "Lumberjack Carbon",
   "name_short": "",
   "slug": "lumberjack-carbon",
   "model_name": "",
-  "lead": "",
+  "lead": "Ostrze wykonane jest z stali węglowej, która jest doskonała do rzeźby i łatwa do ponownego ostrzenia do pierwotnej ostrości. Pamiętaj, aby należycie zadbać o swój nóż węglowy: zawsze starannie suszyć nóż po każdym użyciu i regularnie olejować nóż niezasalonym olejem.",
   "description": [
-    "The blade is made of carbon steel that is perfect for carving and is easy to re-sharpen to its original sharpness. Remember to take proper care of your carbon steel knife: always dry the blade carefully after each use and oil the blade with unsalted oil on a regular basis. This will ensure your knife will serve you loyally from one year to the next.",
-    "The handle of this knife is made from stained birch. Its surface is slightly textured so you easily get a firm, safe grip of the knife.",
-    "This knife is also available with a stainless steel blade (",
-    ")."
+    "Ostrze wykonane jest z stali węglowej, która jest doskonała do rzeźby i łatwa do ponownego ostrzenia do pierwotnej ostrości. Pamiętaj, aby należycie zadbać o swój nóż węglowy: zawsze starannie suszyć nóż po każdym użyciu i regularnie olejować nóż niezasalonym olejem.",
+    "Łącznik tego noża jest wykonany z zabarwionej birki, a jego powierzchnia ma niewielką teksturę, dzięki czemu można łatwo uzyskać mocne, bezpieczne chwytanie noża.",
+    "Noż ten jest również dostępny z ostrzem ze stali nierdzewnej ("
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "10 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "22 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "carbon steel 1.2003 / X75Cr1, HRC 55-57"
+          "name": "Materiał ostrza",
+          "value": "Węglowa stali 1.2003 / X75Cr1, HRC 55-57"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "birch, stained"
+          "name": "Materiał obsługi",
+          "value": "Birka, zabarwiona"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather, brown"
+          "name": "Materiał z obudowy",
+          "value": "skórę, brązową"
         }
       ]
     }

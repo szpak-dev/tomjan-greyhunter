@@ -4,66 +4,66 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559040W",
   "manufacturer": "marttiini",
   "category_slug": "unique-by-marttiini",
-  "category_name": "Unique By Marttiini",
+  "category_name": "Unikalny przez Marttiini",
   "name": "Puzzle",
   "name_short": "",
   "slug": "puzzle",
   "model_name": "",
-  "lead": "Handmade",
+  "lead": "Ten wyjątkowy nóż ucieleśnia zarówno słońce, jak i cień.",
   "description": [
-    "This unique knife embodies both sun and shadow. The handle beautifully alternates between dark, heat-treated curly birch and light curly birch, with reindeer antler adding a lively contrast. The blade is a stunning 6 cm Damascus steel, and the sheath is crafted from black leather."
+    "Ten wyjątkowy nóż ucieleśnia zarówno słońce, jak i cień."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "6 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "17,5 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
-          "value": "120g"
+          "name": "Waga",
+          "value": "120 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Damascus"
+          "name": "Materiał ostrza",
+          "value": "Damaszek"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Reindeer antler bone, heat-treated curly birch, colored birch, curly birch"
+          "name": "Materiał obsługi",
+          "value": "Kość rągów rdzeniczych, gorąco obróbany kręcony brzik, kolorowy brzik, kręcony brzik"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Leather, Black"
+          "name": "Materiał z obudowy",
+          "value": "Skóra, Czarna"
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "packaging",
-          "name": "Packaging",
-          "value": "Wooden Unique Gift Box"
+          "name": "Opakowanie",
+          "value": "Drzewna wyjątkowa pudełka prezentów"
         }
       ]
     }

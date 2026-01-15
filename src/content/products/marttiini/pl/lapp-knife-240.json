@@ -4,52 +4,51 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/240010",
   "manufacturer": "marttiini",
   "category_slug": "traditional",
-  "category_name": "Traditional",
+  "category_name": "Tradycyjne",
   "name": "Lapp knife 240",
   "name_short": "",
   "slug": "lapp-knife-240",
   "model_name": "",
-  "lead": "",
+  "lead": "Noż Lapp 240 jest jednym z najpopularniejszych noży Marttiini i nadal utrzymuje swoje miejsce na szczycie oceny sprzedaży po wielu latach ciągłej produkcji. Noż jest doskonały dla turystów i myśliwych, którzy są aktywnymi użytkownikami noży, a także stanowi idealny prezent lub suvenir z podróży do Finlandii.",
   "description": [
-    ".",
-    "The Lapp knife 240 is one of Marttiini's most popular knives and continues to maintain its place at the top of the sales ratings after many years of continuous production. The knife is excellent for hikers and hunters who are active knife users, and it also makes an ideal present or souvenir from a trip to Finland.",
-    "The stainless chrome steel blade features a beautiful etched engraving depicting a Lappish theme, whilst the pattern on the sheath also reflects a strong Lappish heritage."
+    "Noż Lapp 240 jest jednym z najpopularniejszych noży Marttiini i nadal utrzymuje swoje miejsce na szczycie oceny sprzedaży po wielu latach ciągłej produkcji. Noż jest doskonały dla turystów i myśliwych, którzy są aktywnymi użytkownikami noży, a także stanowi idealny prezent lub suvenir z podróży do Finlandii.",
+    "Ostrze z nierdzewnej stali chromowej posiada piękne rzeźbienie przedstawiające temat lapskiego, natomiast wzór na płaszczyźnie odzwierciedla również silne dziedzictwo lapskie."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "13 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "24 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "curly birch, varnished"
+          "name": "Materiał obsługi",
+          "value": "węgielny, lakierowany"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather, light brown"
+          "name": "Materiał z obudowy",
+          "value": "skórę, jasko brązową"
         }
       ]
     }

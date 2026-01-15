@@ -4,50 +4,50 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/709012",
   "manufacturer": "marttiini",
   "category_slug": "outdoor",
-  "category_name": "Outdoor",
+  "category_name": "Na zewnątrz",
   "name": "Mushroom Knife",
   "name_short": "",
   "slug": "mushroom-knife",
   "model_name": "",
-  "lead": "",
+  "lead": "Noż z grzybami Marttiini ma w końcu uchwytu przydatny szczotek do czyszczenia, aby prawidłowo usunąć wszelkie szczątki z grzybów. Noż ma dokładnie odpowiedni kształt i długość do cięcia delikatnych grzybów. Noż jest zaprojektowany tak, aby był całkowicie praktyczny i jest wyposażony w skórzoną szatę, którą można trzymać w kieszeni lub na pasie.",
   "description": [
-    "The Marttiini mushroom knife features a handy cleaning brush at the end of the handle for neatly removing any debris from the mushrooms. The blade is exactly the right shape and length for cutting delicate mushrooms. The knife is designed to be totally practical and it is supplied with a leather sheath to be kept in the pocket or on the belt."
+    "Noż z grzybami Marttiini ma w końcu uchwytu przydatny szczotek do czyszczenia, aby prawidłowo usunąć wszelkie szczątki z grzybów. Noż ma dokładnie odpowiedni kształt i długość do cięcia delikatnych grzybów. Noż jest zaprojektowany tak, aby był całkowicie praktyczny i jest wyposażony w skórzoną szatę, którą można trzymać w kieszeni lub na pasie."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "6,5 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "18,5 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "plastic"
+          "name": "Materiał obsługi",
+          "value": "plastikowe"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather"
+          "name": "Materiał z obudowy",
+          "value": "skórze"
         }
       ]
     }

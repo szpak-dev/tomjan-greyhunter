@@ -4,53 +4,52 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/378024T",
   "manufacturer": "marttiini",
   "category_slug": "hunting",
-  "category_name": "Hunting",
+  "category_name": "Łowstwo",
   "name": "Martef Skinning Hook",
   "name_short": "",
   "slug": "martef-skinning-hook",
   "model_name": "",
-  "lead": "",
+  "lead": "Śmieci i wilgotność odpychające powłoki Martef zmniejszają tarcie do prawie zera, chroniąc jednocześnie ostrze przed korozją.",
   "description": [
-    "The dirt and moisture repelling Martef coating reduces friction to almost zero whilst protecting the blade against corrosion. Due to the coating the blade moves extremely smoothly through cut meat or fish, and cleaning the blade after use is extremely easy.",
-    "is an excellent tool for opening deer. The hook at the back of the knife helps to open the animal without touching internal organs, whilst the round shape of the blade ensures that the hide comes away cleanly and intact. Hook is not suitable for cutting bones. The hook can be sharpened with a pen type sharpener (such as the",
-    ").",
-    "The orange rubber handle and finger guard ensure user comfort and safety. Due to the sharpening angle of the stainless chrome steel blade, the knife can be used as a normal knife. A true multi-purpose knife for hunters."
+    "Śmieci i wilgotność odpychające powłoki Martef zmniejszają tarcie do prawie zera, chroniąc jednocześnie ostrze przed korozją.",
+    "Jest to doskonały narzędzie do otwierania jelenia. Hak na tylnej części noża pomaga otwierać zwierzę bez dotykania narządów wewnętrznych, podczas gdy okrągły kształt ostrza zapewnia, że skóra wychodzi czysta i nienaruszona. Hak nie nadaje się do cięcia kości.",
+    "Pomarańczowa gumka i ochrona palców zapewniają komfort i bezpieczeństwo użytkownika."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "25 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel, Martef coating"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej, powłoki Martef"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "rubber, orange"
+          "name": "Materiał obsługi",
+          "value": "gumy, pomarańczowe"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather. black"
+          "name": "Materiał z obudowy",
+          "value": "Skóra, czarna"
         }
       ]
     }

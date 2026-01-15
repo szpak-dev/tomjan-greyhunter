@@ -4,61 +4,61 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/970110",
   "manufacturer": "marttiini",
   "category_slug": "folding-knives",
-  "category_name": "Folding Knives",
+  "category_name": "Łączące się noże",
   "name": "Black 8 Folding Knife",
   "name_short": "",
   "slug": "black-8-folding-knife",
   "model_name": "",
-  "lead": "A convenient folding knife with a stylish, chromium plated steel blade",
+  "lead": "Łącznik wykonany jest z kompozytowego G10 wzmocnionego włóknami. Ośmiocentymetrowe zamki ostrza w pozycji operacyjnej z zamkiem obudowy. Łącznik jest wyposażony w przyczepkę paskową, która pozwala wygodnie utrzymać składany nóż w zasięgu.",
   "description": [
-    "The handle is made of fiber-reinforced composite G10. Eight-centimeter blade locks in the operating position with the liner lock. The handle is equipped with a belt clip, which allows the folding knife to be kept conveniently at your reach."
+    "Łącznik wykonany jest z kompozytowego G10 wzmocnionego włóknami. Ośmiocentymetrowe zamki ostrza w pozycji operacyjnej z zamkiem obudowy. Łącznik jest wyposażony w przyczepkę paskową, która pozwala wygodnie utrzymać składany nóż w zasięgu."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "8 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "18 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
-          "value": "99g"
+          "name": "Waga",
+          "value": "99 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Stainless steel, chromium plated. Liner lock"
+          "name": "Materiał ostrza",
+          "value": "Stal z stali nierdzewnej, pokryty chromiumem."
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "G10, black. Belt clip"
+          "name": "Materiał obsługi",
+          "value": "G10, czarny."
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "packaging",
-          "name": "Packaging",
-          "value": "Cardboard gift box"
+          "name": "Opakowanie",
+          "value": "Kartonowa skrzynka prezentów"
         }
       ]
     }

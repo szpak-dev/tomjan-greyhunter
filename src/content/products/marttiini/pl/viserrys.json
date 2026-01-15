@@ -4,66 +4,66 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559020W",
   "manufacturer": "marttiini",
   "category_slug": "unique-by-marttiini",
-  "category_name": "Unique By Marttiini",
+  "category_name": "Unikalny przez Marttiini",
   "name": "Viserrys",
   "name_short": "",
   "slug": "viserrys",
   "model_name": "",
-  "lead": "Handmade - Since 1928",
+  "lead": "Ten wyjątkowy model jest zainspirowany wiosną i radosnym śpiewem ptaków sezonu.",
   "description": [
-    "This unique model is inspired by spring and the cheerful birdsong of the season. The handle features a variety of materials that harmonize beautifully: reindeer antler, heat-treated birch, curly birch, and dyed veneer. The blade is a handy 6 cm Damascus steel, and the sheath is made of genuine black leather."
+    "Ten wyjątkowy model jest zainspirowany wiosną i radosnym śpiewem ptaków sezonu."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "6 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "15,9 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
-          "value": "120g"
+          "name": "Waga",
+          "value": "120 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Damascus"
+          "name": "Materiał ostrza",
+          "value": "Damaszek"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Reindeer antler bone, heat-treated curly birch, colored birch, curly birch"
+          "name": "Materiał obsługi",
+          "value": "Kość rągów rdzeniczych, gorąco obróbany kręcony brzik, kolorowy brzik, kręcony brzik"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Leather, black"
+          "name": "Materiał z obudowy",
+          "value": "Skóra, czarna"
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "packaging",
-          "name": "Packaging",
-          "value": "Wooden Unique Gift Box"
+          "name": "Opakowanie",
+          "value": "Drzewna wyjątkowa pudełka prezentów"
         }
       ]
     }

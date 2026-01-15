@@ -4,55 +4,54 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/836014T",
   "manufacturer": "marttiini",
   "category_slug": "fishing",
-  "category_name": "Fishing",
+  "category_name": "Rybołówstwo",
   "name": "Martef Filleting Knife 19",
   "name_short": "",
   "slug": "martef-filleting-knife-19",
   "model_name": "",
-  "lead": "",
+  "lead": "Położenie Martef zmniejsza tarcie do prawie zera, chroniąc jednocześnie ostrze przed korozją.",
   "description": [
-    "The Martef coating reduces friction to almost zero while protecting the blade against corrosion. Cleaning the blade after use is extremely easy.",
-    "The textured rubber handle and the finger guard ensure a firm grip of the knife even in difficult conditions. This blade length is suitable for processing fish of about 2-3 kg.",
-    "Many other kitchen chores, such as slicing vegetables, become easy with this knife. The filleting knife is supplied with a leather sheath.",
-    "We recommend hand wash.",
-    "This knife is also available with a plastic sheath (",
-    ")."
+    "Położenie Martef zmniejsza tarcie do prawie zera, chroniąc jednocześnie ostrze przed korozją.",
+    "Teksturowana gumka i ochrona palców zapewniają solidną przyczepność noża nawet w trudnych warunkach.",
+    "Wiele innych zadań w kuchni, takich jak cięcie warzyw, łatwiej jest wykonywać nożem.",
+    "Zalecamy mycie rąk.",
+    "Noż ten jest również dostępny z plastikową obradą ("
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "19 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "31 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel, Martef coating"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej, powłoki Martef"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "rubber, blue"
+          "name": "Materiał obsługi",
+          "value": "gumy, niebieskie"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather, black"
+          "name": "Materiał z obudowy",
+          "value": "skórę, czarną"
         }
       ]
     }

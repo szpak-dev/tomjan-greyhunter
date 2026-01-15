@@ -4,61 +4,61 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/131013",
   "manufacturer": "marttiini",
   "category_slug": "traditional",
-  "category_name": "Traditional",
+  "category_name": "Tradycyjne",
   "name": "Lynx Black Edition",
   "name_short": "",
   "slug": "lynx-black-edition",
   "model_name": "",
-  "lead": "Classic Lynx knife with an updated modern black look",
+  "lead": "Sztuczna szklana szklana ostrza jest idealna do rzeźbienia, a także łatwa do wyostrzenia do pierwotnej ostrości.",
   "description": [
-    "The forged carbon steel blade is perfect for carving; it is also easy to sharpen to its original sharpness."
+    "Sztuczna szklana szklana ostrza jest idealna do rzeźbienia, a także łatwa do wyostrzenia do pierwotnej ostrości."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "23 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Carbon steel 80CrV2, HRC 59.5"
+          "name": "Materiał ostrza",
+          "value": "Węglowa stali 80CrV2, HRC 59,5"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Black birch, protective oil coating"
+          "name": "Materiał obsługi",
+          "value": "Czarna birka, powłoka ochronna olejowa"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Black leather"
+          "name": "Materiał z obudowy",
+          "value": "Czarna skóra"
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "sharpening-angle",
-          "name": "Sharpening angle",
-          "value": "22 degrees / Scandi grind"
+          "name": "Węg ostrzenia",
+          "value": "22 stopnie / Grinding Scandi"
         }
       ]
     }

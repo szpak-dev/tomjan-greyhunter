@@ -4,46 +4,46 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/819114P",
   "manufacturer": "marttiini",
   "category_slug": "kitchen",
-  "category_name": "Kitchen",
+  "category_name": "Kuchnia",
   "name": "CKP Fish Fork",
   "name_short": "",
   "slug": "ckp-fish-fork",
   "model_name": "",
-  "lead": "",
+  "lead": "Wyróżnia się, że szczotka sprawdza swoją wartość, gdy usuwa się skórę z filetu rybnego. Szczotka rybna zapewnia dobrą przyczepność ryb lub filetu, nie obawiając się, że nóż prześlizgnie się na palcach. Szczotka rybna martini ma normalną ręcznikę noża, dzięki czemu można uzyskać najlepszą możliwą przyczepność.",
   "description": [
-    "The fork really proves its worth when removing the skin from a fish fillet. The fish fork ensures a good grip of the fish or fillet, without having to worry that the knife will slip onto your fingers. The Marttiini fish fork has a normal knife handle to enable you to get the best possible grip.",
-    "We recommend hand wash."
+    "Wyróżnia się, że szczotka sprawdza swoją wartość, gdy usuwa się skórę z filetu rybnego. Szczotka rybna zapewnia dobrą przyczepność ryb lub filetu, nie obawiając się, że nóż prześlizgnie się na palcach. Szczotka rybna martini ma normalną ręcznikę noża, dzięki czemu można uzyskać najlepszą możliwą przyczepność.",
+    "Zalecamy mycie rąk."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "5 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "17 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "rubber"
+          "name": "Materiał obsługi",
+          "value": "gumowe"
         }
       ]
     }

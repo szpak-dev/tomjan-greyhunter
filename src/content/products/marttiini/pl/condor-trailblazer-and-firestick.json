@@ -4,57 +4,57 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/185019TC",
   "manufacturer": "marttiini",
   "category_slug": "outdoor",
-  "category_name": "Outdoor",
+  "category_name": "Na zewnątrz",
   "name": "Condor Trailblazer and Firestick",
   "name_short": "",
   "slug": "condor-trailblazer-and-firestick",
   "model_name": "",
-  "lead": "Condor Trailblazer",
+  "lead": "Noż i zapalniczka do ognia są połączone w kartonowym pudełku podarunkowym po specjalnej cenie. Noż Pioneer wykonany jest z powłokanej stali nierdzewnej i posiada wygodną gumę.",
   "description": [
-    "Essential products for hiking conveniently in one package! The knife and fire starters come together in a cardboard gift box at a special price. The Pioneer knife is made of coated stainless steel and features a comfortable rubber handle. The fire starters provide extra security, as they work even when wet, in case matches get soaked.",
-    "(185018T) Hunting and Outdoor knife. The dirt and moisture repelling Martef coating reduces friction. Safe rubber handle with finger guard.",
-    "(1516110) If your matches get wet or you run out of lighter fluid, you can always get a fire going with it. Our fire stick provides a hot spark even in the most severe weather conditions. Just pull the striker or the back of your knife firmly down the length of the stick and direct the sparks towards you tinder. Any dry material like wood chips and moss will do the trick. Enjoy your campfire!"
+    "Noż i zapalniczka do ognia są połączone w kartonowym pudełku podarunkowym po specjalnej cenie. Noż Pioneer wykonany jest z powłokanej stali nierdzewnej i posiada wygodną gumę.",
+    "(185018T) Noż łowczy i zewnętrzny. Śmieci i wilgotność odpychające powłoki Martef zmniejszają tarcie.",
+    "(1516110) Jeśli twoje zapałki będą mokre lub zabraknie ci lekkiej płynu, zawsze możesz mieć z nim ogień. Nasz kij ognia zapewnia gorącą iskrę nawet w najcięższych warunkach pogodowych. Po prostu pociągnij striker lub tylną stronę noża mocno wzdłuż długości kijka i skieruj iskrę w kierunku ciebie."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "23 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
+          "name": "Waga",
           "value": "227 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Stainless Steel, Martef"
+          "name": "Materiał ostrza",
+          "value": "Stal nierdzewna, Martef"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Rubber, black"
+          "name": "Materiał obsługi",
+          "value": "Gumowe, czarne"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Leather, black"
+          "name": "Materiał z obudowy",
+          "value": "Skóra, czarna"
         }
       ]
     }

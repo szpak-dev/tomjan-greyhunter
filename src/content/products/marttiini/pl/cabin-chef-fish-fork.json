@@ -4,64 +4,64 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/440010",
   "manufacturer": "marttiini",
   "category_slug": "outdoor",
-  "category_name": "Outdoor",
+  "category_name": "Na zewnątrz",
   "name": "Cabin Chef Fish Fork",
   "name_short": "",
   "slug": "cabin-chef-fish-fork",
   "model_name": "",
-  "lead": "The Cabin Chef Fish Fork design inspired by northern nature, powered by form and function",
+  "lead": "Fork rybny zapewnia dobrą przyczepność ryb, nie obawiając się, że nóż prześlizgnie się na palcach.",
   "description": [
-    "The Cabin Chef Fish Fork is a handy tool for fish filleting. The Fish Fork ensures a good grip of the fish, without having to worry that the knife will slip onto your fingers.",
-    "The handle is made of Finnish thermally modified birch a material known for its durability and graceful aging as well as warm and pleasant feel grip. The matte finish ensures a safe grip even when wet.",
-    "The blade of the Fish Fork is made of high-quality, durable stainless steel.",
-    "The Fish Fork is part of the Cabin Chef set designed by Harri Koskinen. The harmonious combination of beautiful design and practicality, as well as durable natural materials, guarantee that the Cabin Chef knives are a pleasure to use, time and time again.",
-    "We recommend hand wash."
+    "Fork rybny zapewnia dobrą przyczepność ryb, nie obawiając się, że nóż prześlizgnie się na palcach.",
+    "Głoda jest wykonana z fińskiego termicznie zmodyfikowanego brodowca, materiału znanym ze swojej trwałości i eleganckiego starzenia, a także ciepłego i przyjemnego przyczepienia.",
+    "Płytka Fork Fish jest wykonana z wysokiej jakości, trwałej stali nierdzewnej.",
+    "Połączenie pięknego designu i praktyczności, a także trwałych naturalnych materiałów gwarantuje, że noże kabiny szefa są przyjemne do użycia, wielokrotnie.",
+    "Zalecamy mycie rąk."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "7,5 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "19 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
+          "name": "Waga",
           "value": "86 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel (8Cr14MoV)"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej (8Cr14MoV)"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "heat treated birch"
+          "name": "Materiał obsługi",
+          "value": "gorąco przetworzona birka"
         },
         {
           "id": "ferrule-material",
-          "name": "Ferrule material",
-          "value": "stainless steel"
+          "name": "Materiał ferrule",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather, brown"
+          "name": "Materiał z obudowy",
+          "value": "skórę, brązową"
         }
       ]
     }

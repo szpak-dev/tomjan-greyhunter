@@ -4,56 +4,56 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/709015",
   "manufacturer": "marttiini",
   "category_slug": "outdoor",
-  "category_name": "Outdoor",
+  "category_name": "Na zewnątrz",
   "name": "Mushroom Knife Ruska",
   "name_short": "",
   "slug": "mushroom-knife-ruska",
   "model_name": "",
-  "lead": "",
+  "lead": "W języku fińskim słowo ruska jest używane do opisu początku jesieni, kiedy liście zmieniają się w jasne kolory, takie jak czerwony, żółty i pomarańczowy.",
   "description": [
-    "In Finnish language the word ‘ruska’ is used to describe the beginning of autumn when the leaves change to bright colours like red, yellow and orange. It’s also the best time for mushroom foraging.",
-    "Bright red handle makes it easier to find the knife in the nature, as it might sometimes get lost. The shape of the curved blade enables smooth slicing of the stem without affecting or uprooting the underlying fungi mycelium. The brush is stiff enough to remove dirt, debris and bugs, but soft enough to not damage the mushrooms. The knife comes in a genuine, chrome tanned matte black leather sheath with silver foil de-bossing. The elastic attachment cord makes it easy to attach the sheath to various places like the belt, belt loop, wrist or the basket handle."
+    "W języku fińskim słowo ruska jest używane do opisu początku jesieni, kiedy liście zmieniają się w jasne kolory, takie jak czerwony, żółty i pomarańczowy.",
+    "Jasny czerwony ręcznik ułatwia znalezienie noża w przyrodzie, ponieważ czasami może się zgubić. Kształt zakrzywionego ostrza umożliwia płynne cięcie stawu bez wpływu na lub wyrzucania podstawowego grzyba mycelium. Pędzel jest wystarczająco sztywny, aby usuwać brud, szczątki i owady, ale wystarczająco miękkie, aby nie uszkodzić grzybów. Noż ma prawdziwą, chromowo oprażoną matową sztukę skóry z srebrną folią de-bossing."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "5 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "16 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Stainless steel"
+          "name": "Materiał ostrza",
+          "value": "Pozostałe stali nierdzewnych"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Plastic"
+          "name": "Materiał obsługi",
+          "value": "Plasty"
         },
         {
           "id": "brush",
-          "name": "Brush",
-          "value": "Nylon"
+          "name": "Szczotka",
+          "value": "Węgiel"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Chrome tanned leather"
+          "name": "Materiał z obudowy",
+          "value": "Skórze chromowe"
         }
       ]
     }

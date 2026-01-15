@@ -4,50 +4,50 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/543015",
   "manufacturer": "marttiini",
   "category_slug": "outdoor",
-  "category_name": "Outdoor",
+  "category_name": "Na zewnątrz",
   "name": "Ranger",
   "name_short": "",
   "slug": "ranger",
   "model_name": "",
-  "lead": "",
+  "lead": "Marttiini Ranger to solidny i niezawodny noż dziki, który cięwa, rzeźbi i nawet rozdziela drewno.",
   "description": [
-    "Marttiini Ranger is a robust and reliable wilderness knife that cuts, carves and even splits firewood. The handle combines the colors of Finnish curly birch and thermally heated birch. The strong Lapp knife blade is made of stainless steel and is designed in accordance to ancient Lapp knife principles."
+    "Marttiini Ranger to solidny i niezawodny noż dziki, który cięwa, rzeźbi i nawet rozdziela drewno."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "16 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "29 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel X46Cr13, HRC 53-55"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej X46Cr13, HRC 53-55"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Finnish curly birch & heat-treated birch"
+          "name": "Materiał obsługi",
+          "value": "Finowska bieżka kręcona i bieżka poddawana obróbce cieplnej"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather"
+          "name": "Materiał z obudowy",
+          "value": "skórze"
         }
       ]
     }

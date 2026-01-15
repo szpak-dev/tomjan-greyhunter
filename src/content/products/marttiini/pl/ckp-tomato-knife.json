@@ -4,46 +4,46 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/750114P",
   "manufacturer": "marttiini",
   "category_slug": "kitchen",
-  "category_name": "Kitchen",
+  "category_name": "Kuchnia",
   "name": "CKP Tomato Knife",
   "name_short": "",
   "slug": "ckp-tomato-knife",
   "model_name": "",
-  "lead": "",
+  "lead": "Noż ten ma ostrą ostrę, która bez bzdury przecina skórę pomidora. Idealnie nadaje się do cięcia cienkiego kawałka pomidora. Oczywiście noż może wykonywać inne prace cięcia i cięcia wymagające precyzji.",
   "description": [
-    "This knife has a serrated blade that cuts into the tomato skin with no nonsense. It is ideal for cutting thin tomato slices. Naturally, the knife can manage other cutting and slicing jobs that require precision.",
-    "We recommend hand wash."
+    "Noż ten ma ostrą ostrę, która bez bzdury przecina skórę pomidora. Idealnie nadaje się do cięcia cienkiego kawałka pomidora. Oczywiście noż może wykonywać inne prace cięcia i cięcia wymagające precyzji.",
+    "Zalecamy mycie rąk."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "10 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "20 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "rubber"
+          "name": "Materiał obsługi",
+          "value": "gumowe"
         }
       ]
     }

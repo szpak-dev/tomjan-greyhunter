@@ -4,66 +4,66 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/131030",
   "manufacturer": "marttiini",
   "category_slug": "design-knives",
-  "category_name": "Design Knives",
+  "category_name": "Noże projektowe",
   "name": "Aapa",
   "name_short": "",
   "slug": "aapa",
   "model_name": "",
-  "lead": "The characteristics of two strong traditional knives combined into one",
+  "lead": "Odważny nóż Aapa ucieleśnia surową atmosferę finskiego krajobrazu błota. Model łączy typowe cechy dwóch silnych tradycyjnych nóżów: ostrze klasycznego noża Lapp i uchwyt noża Lynx.",
   "description": [
-    "The bold Aapa knife embodies the harsh atmosphere of the Finnish swamp landscape. The model combines the typical characteristics of two strong traditional knives: the blade of a classic Lapp knife and the handle of a Lynx knife. The blade is made of forged carbon steel. The handle is an earthy mix of curly birch waxed in a tar tone and reindeer antler bone. The new sheath type has a wider holster."
+    "Odważny nóż Aapa ucieleśnia surową atmosferę finskiego krajobrazu błota. Model łączy typowe cechy dwóch silnych tradycyjnych nóżów: ostrze klasycznego noża Lapp i uchwyt noża Lynx."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
-          "value": "23 cm"
+          "name": "Całkowita długość",
+          "value": "23 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
+          "name": "Waga",
           "value": "176 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "forged carbon steel 80CrV2, HRC 59.5"
+          "name": "Materiał ostrza",
+          "value": "Węglowa stal fałszowany 80CrV2, HRC 59,5"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "colour-waxed curly birch, reindeer antler bone, protective oil"
+          "name": "Materiał obsługi",
+          "value": "kolorowa woskowo kręcona birka, kość roniowego rogu, olej ochronny"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather, black"
+          "name": "Materiał z obudowy",
+          "value": "skórę, czarną"
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "sharpening-angle",
-          "name": "Sharpening angle",
-          "value": "22 degrees / Scandi grind"
+          "name": "Węg ostrzenia",
+          "value": "22 stopnie / Grinding Scandi"
         }
       ]
     }

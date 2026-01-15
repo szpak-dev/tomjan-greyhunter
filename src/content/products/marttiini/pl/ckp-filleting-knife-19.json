@@ -4,47 +4,47 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/757114P",
   "manufacturer": "marttiini",
   "category_slug": "kitchen",
-  "category_name": "Kitchen",
+  "category_name": "Kuchnia",
   "name": "CKP Filleting Knife 19",
   "name_short": "",
   "slug": "ckp-filleting-knife-19",
   "model_name": "",
-  "lead": "",
+  "lead": "Teksturowana ręcznik i ochrona palców zapewniają bezpieczną i mocną chwytę noża podczas obsługi ryby ślizgowej.",
   "description": [
-    "The textured handle and finger guard ensure a safe and firm grip of the knife while you are handling a slippery fish. Handling the fish becomes easier when using a",
-    "in addition to the sharp knife.",
-    "We recommend hand wash."
+    "Teksturowana ręcznik i ochrona palców zapewniają bezpieczną i mocną chwytę noża podczas obsługi ryby ślizgowej.",
+    "Oprócz ostrego noża.",
+    "Zalecamy mycie rąk."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "19 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "31 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "rubber"
+          "name": "Materiał obsługi",
+          "value": "gumowe"
         }
       ]
     }

@@ -4,62 +4,62 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/552017W",
   "manufacturer": "marttiini",
   "category_slug": "design-knives",
-  "category_name": "Design Knives",
+  "category_name": "Noże projektowe",
   "name": "Salmon Filleting Knife",
   "name_short": "",
   "slug": "salmon-filleting-knife",
   "model_name": "",
-  "lead": "From wild waters to perfect cuts",
+  "lead": "Kojamo nie jest zwykłym lososem. Jest dużym, królem Finlandii w dzikich rzekach. Znany ze swojej siły, piękna i legendarnego blasku (mówią, że jego skały świecą jasniej niż gwiazdy), Kojamo rządził wódami północnymi od pokoleń.",
   "description": [
-    "The Kojamo is no ordinary salmon. He’s the big, hooked-jawed old male—the king of Finland’s wild rivers. Known for his strength, beauty, and legendary glow (they say his scales shine brighter than the stars), Kojamo has ruled the northern waters for generations. Marttiini created Salmon Filleting Knife as a tribute to this mighty fish.",
-    "Sharp, flexible, and built to last—this knife makes filleting effortless anywhere, from lakeside to kitchen. With a durable heat-treated curly birch handle, cast ferrules and elegant gift box, it’s made for both collectors and everyday anglers."
+    "Kojamo nie jest zwykłym lososem. Jest dużym, królem Finlandii w dzikich rzekach. Znany ze swojej siły, piękna i legendarnego blasku (mówią, że jego skały świecą jasniej niż gwiazdy), Kojamo rządził wódami północnymi od pokoleń.",
+    "Ostrze, elastyczne i trwałe, noż ten sprawia, że filetowanie jest łatwe wszędzie, od brzegu jeziora po kuchnię."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "19 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "31 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Stainless steel X46Cr13, HRC 53-55"
+          "name": "Materiał ostrza",
+          "value": "Pozostałe urządzenia i urządzenia"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Finnish heat-treated curly birch, waxed, cust ferrules"
+          "name": "Materiał obsługi",
+          "value": "Finowska gorąco oczyszczona kręcona birka, woskowana, cust ferrules"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Leather, black"
+          "name": "Materiał z obudowy",
+          "value": "Skóra, czarna"
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "packaging",
-          "name": "Packaging",
-          "value": "Wooden gift box"
+          "name": "Opakowanie",
+          "value": "Skrzynka darmowa drewniana"
         }
       ]
     }

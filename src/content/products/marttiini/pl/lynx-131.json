@@ -4,52 +4,52 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/131010",
   "manufacturer": "marttiini",
   "category_slug": "traditional",
-  "category_name": "Traditional",
+  "category_name": "Tradycyjne",
   "name": "Lynx 131",
   "name_short": "",
   "slug": "lynx-131",
   "model_name": "",
-  "lead": "",
+  "lead": "Noż ten pozostał w gamie Marttiini niemal nieprzerwanie od czasu utworzenia firmy w 1928 roku.",
   "description": [
-    "This knife has remained in the Marttiini range almost continuously since the company was formed in 1928. The years have not reduced its popularity as the king of general purpose knives. This knife continues to be one of Marttiini's best selling knives.",
-    "A traditional curly birch handle combined with the legendary sharp Lynx blade with the characteristic design feature of the slightly upturned blade tip. The design and decorations on the sheath also reflect our strong northern roots.",
-    "An excellent general purpose knife for all outdoor activities!"
+    "Noż ten pozostał w gamie Marttiini niemal nieprzerwanie od czasu utworzenia firmy w 1928 roku.",
+    "Tradycyjna, kręcona bryczka w połączeniu z legendarnym ostrym ostrym ostrzem Lynx z charakterystyczną cechą konstrukcyjną lekko odwróconej końcówki ostrza.",
+    "Doskonały noż ogólnego przeznaczenia dla wszystkich aktywności na zewnątrz!"
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "22 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "curly birch, varnished"
+          "name": "Materiał obsługi",
+          "value": "węgielny, lakierowany"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather, brown"
+          "name": "Materiał z obudowy",
+          "value": "skórę, brązową"
         }
       ]
     }

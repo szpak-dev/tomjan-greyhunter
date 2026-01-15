@@ -4,56 +4,56 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/126010",
   "manufacturer": "marttiini",
   "category_slug": "design-knives",
-  "category_name": "Design Knives",
+  "category_name": "Noże projektowe",
   "name": "Kierinki",
   "name_short": "",
   "slug": "kierinki",
   "model_name": "",
-  "lead": "",
+  "lead": "Kierinki jest nożem zaprojektowanym przez naszego wykwalifikowanego rzeźbiarza, który pokazuje piękno rzemiosła.",
   "description": [
-    "Kierinki is a knife designed by our skilled carpenter, showcasing the beauty of craftsmanship. Its handle combines thermally treated birch and curly birch, seamlessly complementing each other. The blade is made of wavy carbon steel, mimicking the unique marks of hand forging. The genuine brown sheath is adorned with beautiful gold foil detailing, depicting the intricacies of the carbon steel.",
-    "This exquisite piece of craftsmanship is named after the hometown of our founder, Janne Marttiini, Kierinki. The village still houses the first workshop where Janne began honing his blacksmithing skills. Kierinki is suitable for all users and makes an excellent gift. It is versatile and can be used for hunting, fishing, and all kinds of outdoor activities."
+    "Kierinki jest nożem zaprojektowanym przez naszego wykwalifikowanego rzeźbiarza, który pokazuje piękno rzemiosła.",
+    "W tej wiosce znajduje się jeszcze pierwszy warsztat, w którym Janne zaczął doskonalić swoje umiejętności sztucznego. Kierinki jest odpowiedni dla wszystkich użytkowników i jest doskonałym prezentem. Jest wszechstronny i może być używany do polowania, rybołówstwa i wszelkiego rodzaju aktywności na zewnątrz."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "23 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
-          "value": "136g"
+          "name": "Waga",
+          "value": "136 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade",
           "name": "Blade",
-          "value": "Carbon steel, Forged Blade 1.2235 / 80CrV2, HRC 59.5"
+          "value": "Węglowa stal, sztuczna ostrza 1.2235 / 80CrV2, HRC 59.5"
         },
         {
           "id": "handle",
-          "name": "Handle",
-          "value": "Heat-treated burch / curly birch"
+          "name": "Ręcznik",
+          "value": "Gotowo oczyszczona burka / kręcona birka"
         },
         {
           "id": "sheath",
-          "name": "Sheath",
-          "value": "Leather, light brown"
+          "name": "Szafki",
+          "value": "Skóra, jasko brązowa"
         }
       ]
     }

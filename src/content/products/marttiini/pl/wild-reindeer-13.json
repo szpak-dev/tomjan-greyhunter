@@ -4,50 +4,50 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/542015",
   "manufacturer": "marttiini",
   "category_slug": "design-knives",
-  "category_name": "Design Knives",
+  "category_name": "Noże projektowe",
   "name": "Wild Reindeer 13",
   "name_short": "",
   "slug": "wild-reindeer-13",
   "model_name": "",
-  "lead": "",
+  "lead": "Wszechstronny Wild Reindeer 13 jest niezawodnym nożem dla entuzjastów zewnętrznych. Noż Lynx, z rankiem krwi i lekko odwróconym końcem ostrza, jest symbolicznym modelem ostrza Marttiini, opracowanym w latach 30. przez samego Janne Marttiini. Noż ze stali nierdzewnej (1.4034, HRC 53,5-55) zapewnia trwałość, podczas gdy kształtowana rękawica oferuje mocne chwyt.",
   "description": [
-    "The versatile Wild Reindeer 13 is a reliable all-around knife for outdoor enthusiasts. The Lynx blade, with a blood groove and a slightly upturned blade tip, is an iconic Marttiini blade model, developed in the ’30s by Janne Marttiini himself. The stainless steel blade (1.4034, HRC 53,5-55) delivers durability while the shaped handle offers a firm grip."
+    "Wszechstronny Wild Reindeer 13 jest niezawodnym nożem dla entuzjastów zewnętrznych. Noż Lynx, z rankiem krwi i lekko odwróconym końcem ostrza, jest symbolicznym modelem ostrza Marttiini, opracowanym w latach 30. przez samego Janne Marttiini. Noż ze stali nierdzewnej (1.4034, HRC 53,5-55) zapewnia trwałość, podczas gdy kształtowana rękawica oferuje mocne chwyt."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "13 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "25 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel 1.4034 / X46Cr13, HRC 53.5-55"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej 1.4034 / X46Cr13, HRC 53.5-55"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "curly birch & reindeer antler bone"
+          "name": "Materiał obsługi",
+          "value": "kręcony brzosynek i rdzeniony róg kości"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather"
+          "name": "Materiał z obudowy",
+          "value": "skórze"
         }
       ]
     }

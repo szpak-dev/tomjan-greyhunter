@@ -4,67 +4,67 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/559041W",
   "manufacturer": "marttiini",
   "category_slug": "unique-by-marttiini",
-  "category_name": "Unique By Marttiini",
+  "category_name": "Unikalny przez Marttiini",
   "name": "Auhto",
   "name_short": "",
   "slug": "auhto",
   "model_name": "",
-  "lead": "Handmade",
+  "lead": "Auhto odnosi się do roślin na brzegu rzeki, który jest rozległym lasem położonym wzdłuż rzek i strumieni.",
   "description": [
-    "Auhto refers to a riverside grove, which is a lush forest type located along rivers and streams. These areas are rich in deciduous trees and offer beautiful landscapes and diverse nature, making them excellent hiking destinations.",
-    "In the Auhto unique knife, you can sense the green lushness of spring as nature awakens after winter. The handle is made of reindeer antler, dyed birch, and vulcanized fiber, representing this magnificent grove. The blade is a 6 cm Damascus steel blade, and the black sheath is made of genuine leather."
+    "Auhto odnosi się do roślin na brzegu rzeki, który jest rozległym lasem położonym wzdłuż rzek i strumieni.",
+    "W niepowtarzalnym nożie Auhto można odczuć zieloną lustrość wiosny, gdy natura budzi się po zimie."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "6 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "16,7 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
-          "value": "160g"
+          "name": "Waga",
+          "value": "160 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Damascus"
+          "name": "Materiał ostrza",
+          "value": "Damaszek"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Reindeer antler bone, Elforyn, volcano yellow paper, colored birch"
+          "name": "Materiał obsługi",
+          "value": "Kość roniowa, Elforyn, żółty papier wulkaniczny, kolorowa birka"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Leather, Black"
+          "name": "Materiał z obudowy",
+          "value": "Skóra, Czarna"
         }
       ]
     },
     {
       "id": "properties",
-      "name": "PROPERTIES",
+      "name": "Właściwości",
       "properties": [
         {
           "id": "packaging",
-          "name": "Packaging",
-          "value": "Wooden Unique Gift Box"
+          "name": "Opakowanie",
+          "value": "Drzewna wyjątkowa pudełka prezentów"
         }
       ]
     }

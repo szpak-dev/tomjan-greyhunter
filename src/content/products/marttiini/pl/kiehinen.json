@@ -4,52 +4,52 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/535010",
   "manufacturer": "marttiini",
   "category_slug": "outdoor",
-  "category_name": "Outdoor",
+  "category_name": "Na zewnątrz",
   "name": "Kiehinen",
   "name_short": "",
   "slug": "kiehinen",
   "model_name": "",
-  "lead": "",
+  "lead": "Ostrze wykonane jest z tradycyjnej stali węglowej, która jest doskonała do rzeźbienia drewna i łatwa do ponownego ostrzenia do oryginalnej ostrości w razie potrzeby.",
   "description": [
-    "The blade is made of traditional carbon steel that is perfect for carving wood, and easy to re-sharpen to its original sharpness when needed.",
-    "The handle is made of Finnish curly birch and the knife is protected with a beautiful natural coloured leather sheath.",
-    "This knife is suitable for the daily use of both campers and craftsmen as well as for fishermen and hunters."
+    "Ostrze wykonane jest z tradycyjnej stali węglowej, która jest doskonała do rzeźbienia drewna i łatwa do ponownego ostrzenia do oryginalnej ostrości w razie potrzeby.",
+    "Ręcznik wykonany jest z fińskiego kręconego birku, a nóż jest chroniony piękną naturalną skórą.",
+    "Noż ten nadaje się do codziennego użytku zarówno kempingowców, jak i rzemieślników, jak i rybaków i myśliwych."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "9 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "19,5 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "carbon steel"
+          "name": "Materiał ostrza",
+          "value": "stal węglowy"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "curly birch, vaxed"
+          "name": "Materiał obsługi",
+          "value": "węgiel, węgiel, węgiel"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather"
+          "name": "Materiał z obudowy",
+          "value": "skórze"
         }
       ]
     }

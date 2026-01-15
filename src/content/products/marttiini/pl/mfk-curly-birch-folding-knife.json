@@ -4,50 +4,50 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/915111",
   "manufacturer": "marttiini",
   "category_slug": "folding-knives",
-  "category_name": "Folding Knives",
+  "category_name": "Łączące się noże",
   "name": "MFK Curly Birch Folding Knife",
   "name_short": "",
   "slug": "mfk-curly-birch-folding-knife",
   "model_name": "",
-  "lead": "MFK Curly Birch is a multipurpose folding knife for outdoor and general use",
+  "lead": "Łącznik jest ozdobiony piękną fińską kręconą birką. Łącznik wykonany jest z japońskiej stali nierdzewnej i ma satynowy wykończenie.",
   "description": [
-    "The handle is decorated with beautiful Finnish curly birch. The blade is made of japanese stainless steel and has a satin finish. Belt clip on the handle."
+    "Łącznik jest ozdobiony piękną fińską kręconą birką. Łącznik wykonany jest z japońskiej stali nierdzewnej i ma satynowy wykończenie."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "8 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "19 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
-          "value": "126g"
+          "name": "Waga",
+          "value": "126 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Stainless steel. Liner lock"
+          "name": "Materiał ostrza",
+          "value": "Nierdzewna stal."
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Curly birch. Belt clip"
+          "name": "Materiał obsługi",
+          "value": "Kręcony brzosynek."
         }
       ]
     }

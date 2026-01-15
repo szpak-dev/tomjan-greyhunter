@@ -4,55 +4,55 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/184019",
   "manufacturer": "marttiini",
   "category_slug": "hunting",
-  "category_name": "Hunting",
+  "category_name": "Łowstwo",
   "name": "Condor Big Game",
   "name_short": "",
   "slug": "condor-big-game",
   "model_name": "",
-  "lead": "",
+  "lead": "Ten noż jest specjalnie zaprojektowany dla solidnej przyczepy. Jego 13 cm długi ostrz jest wykonany z mat-polityrowanego stali chromowej, zapewniając doskonałą trwałość. Noż jest konkurencyjna cena w porównaniu z podobnymi modelem, ale jakość pozostaje równie wysoka. Głoś guma zapewnia bezpieczną przyczepność nawet gdy ręce są mokre.",
   "description": [
-    "This hunting and hiking knife is specifically designed for a firm grip. Its 13 cm long blade is made of matte-polished chrome steel, ensuring excellent durability. The knife is competitively priced compared to similar models, but the quality remains equally high. The rubber handle provides a secure grip even when your hands are wet."
+    "Ten noż jest specjalnie zaprojektowany dla solidnej przyczepy. Jego 13 cm długi ostrz jest wykonany z mat-polityrowanego stali chromowej, zapewniając doskonałą trwałość. Noż jest konkurencyjna cena w porównaniu z podobnymi modelem, ale jakość pozostaje równie wysoka. Głoś guma zapewnia bezpieczną przyczepność nawet gdy ręce są mokre."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "13 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "26 cm"
         },
         {
           "id": "weight",
-          "name": "Weight",
+          "name": "Waga:",
           "value": "214 g"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "Stainless steel"
+          "name": "Materiał ostrza",
+          "value": "Pozostałe stali nierdzewnych"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "Rubber"
+          "name": "Materiał obsługi",
+          "value": "Gumienie"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "Leather"
+          "name": "Materiał z obudowy",
+          "value": "Skórze"
         }
       ]
     }

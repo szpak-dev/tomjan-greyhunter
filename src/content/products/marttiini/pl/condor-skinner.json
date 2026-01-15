@@ -4,52 +4,52 @@
   "url": "https://www.marttiini.fi/epages/MarttiiniShop.sf/en_GB/?ObjectPath=/Shops/MarttiiniShop/Products/186014",
   "manufacturer": "marttiini",
   "category_slug": "hunting",
-  "category_name": "Hunting",
+  "category_name": "Łowstwo",
   "name": "Condor Skinner",
   "name_short": "",
   "slug": "condor-skinner",
   "model_name": "",
-  "lead": "",
+  "lead": "Teksturowana gumka i ochrona palców zapewniają bezpieczną i solidną przyczepność w najbardziej wymagających warunkach lasów.",
   "description": [
-    "The textured rubber handle and the finger guard ensure a safe and firm grip in the most demanding forest conditions.",
-    "The easy to maintain stainless chrome steel blade maintains its sharpness for a long time. The design of the blade is extremely suitable for handling game, whilst carving is also effortless with this knife. Not suitable for splitting bones.",
-    "For sharpening we recommend the Marttiini diamond sharpener."
+    "Teksturowana gumka i ochrona palców zapewniają bezpieczną i solidną przyczepność w najbardziej wymagających warunkach lasów.",
+    "Łatwe do utrzymania szczeliny z stali nierdzewnej chromowanej utrzymuje swoją ostrość przez długi czas.",
+    "Do ostrości zalecamy ostrość diamentów Marttiini."
   ],
   "attribute_groups": [
     {
       "id": "dimensions",
-      "name": "DIMENSIONS",
+      "name": "Rozmiary",
       "properties": [
         {
           "id": "length-of-blade",
-          "name": "Length of blade",
+          "name": "Długość ostrza",
           "value": "11 cm"
         },
         {
           "id": "total-length",
-          "name": "Total length",
+          "name": "Całkowita długość",
           "value": "23 cm"
         }
       ]
     },
     {
       "id": "materials",
-      "name": "MATERIALS",
+      "name": "Materiały",
       "properties": [
         {
           "id": "blade-material",
-          "name": "Blade material",
-          "value": "stainless steel"
+          "name": "Materiał ostrza",
+          "value": "stali nierdzewnej"
         },
         {
           "id": "handle-material",
-          "name": "Handle material",
-          "value": "rubber"
+          "name": "Materiał obsługi",
+          "value": "gumowe"
         },
         {
           "id": "sheath-material",
-          "name": "Sheath material",
-          "value": "leather"
+          "name": "Materiał z obudowy",
+          "value": "skórze"
         }
       ]
     }
