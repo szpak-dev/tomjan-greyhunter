@@ -22,5 +22,6 @@
         "Founded in Finland, the company specializes in premium knife production for hunters and outdoor enthusiasts.",
         "Known for innovative designs and superior craftsmanship in blade manufacturing."
     ],
-    "domains": ["hunting knives", "outdoor equipment", "cutlery", "sporting knives"]
+    "domains": ["hunting knives", "outdoor equipment", "cutlery", "sporting knives"],
+    "imageOrientation": "portrait"
 }

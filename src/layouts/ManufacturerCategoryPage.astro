@@ -20,7 +20,7 @@ export type Props = {
 const { manufacturer, category, products } = Astro.props;
 const t = siteRepository.getTranslator(manufacturer.lang);
 ---
-<Page id="manufacturerCategoryPage" gap={5} animation="animate-fade-in">
+<Page id="manufacturerCategoryPage" gap={4} animation="animate-fade-in">
     <Hero title={manufacturer.name} slogan={category.name} />
     <Section id="categoryProducts" heading={t("headings.my-offer")} divider={true}>
         <Grid cols={{ xs: 1, md: 4 }} gap={4} animate="animate-stagger">

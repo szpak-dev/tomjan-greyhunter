@@ -26,7 +26,7 @@ const { manufacturers, newProducts, sliderItems, mossaicImages, lang } =
 const t = siteRepository.getTranslator(lang);
 ---
 
-<Page id="frontPage" gap={5}>
+<Page id="frontPage" gap={4} animation="animate-fade-in">
   <Section id="promoSlider">
     <Slider items={sliderItems} />
   </Section>
@@ -42,7 +42,7 @@ const t = siteRepository.getTranslator(lang);
   </Section>
 
   <Section id="newInOffer" heading={t("headings.new-in-offer")} divider={true}>
-    <Grid cols={{ xs: 1, md: 3 }} gap={3} animate="animate-stagger">
+    <Grid cols={{ xs: 1, md: 3 }} gap={4} animate="animate-stagger">
       {newProducts.map((product) => (
         <GridItem>
           <ProductCard 
@@ -58,7 +58,7 @@ const t = siteRepository.getTranslator(lang);
   </Section>
 
   <Section id="passionMossaic" heading={t("headings.passion")} divider={true}>
-    <Grid cols={{ xs: 2, md: 4 }} gap={3} animate="animate-stagger">
+    <Grid cols={{ xs: 2, md: 4 }} gap={4} animate="animate-stagger">
       {mossaicImages.map((image) => (
         <GridItem>
           <CldImage

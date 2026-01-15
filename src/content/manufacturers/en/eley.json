@@ -22,5 +22,6 @@
         "Specializing in precision ammunition for shooters and hunters worldwide.",
         "Known for consistent quality and performance in rifle and shotgun ammunition."
     ],
-    "domains": ["ammunition", "firearms ammunition", "sporting ammunition", "shooting"]
+    "domains": ["ammunition", "firearms ammunition", "sporting ammunition", "shooting"],
+    "imageOrientation": "landscape"
 }

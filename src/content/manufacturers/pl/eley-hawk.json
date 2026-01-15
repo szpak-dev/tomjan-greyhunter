@@ -22,5 +22,6 @@
         "Zaprojektowana dla zawodowych strzelców i poważnych myśliwych wymagających najwyższej dokładności.",
         "Reprezentuje szczyt precyzji produkcji amunicji i kontroli jakości."
     ],
-    "domains": ["amunicja premium", "amunicja precyzyjna", "strzelanie konkurencyjne", "amunicja"]
+    "domains": ["amunicja premium", "amunicja precyzyjna", "strzelanie konkurencyjne", "amunicja"],
+    "imageOrientation": "landscape"
 }

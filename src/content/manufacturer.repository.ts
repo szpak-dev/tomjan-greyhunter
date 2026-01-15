@@ -12,10 +12,11 @@ export type Manufacturer = {
     name: string;
     logoImage: string;
     website: string;
-    link: string; // External URL or internal path for the manufacturer page
+    link: string; 
     socials: SocialLink[];
     description: string[];
     domains: string[]; // List of domain names associated with the manufacturer
+    imageOrientation: "portrait" | "landscape";
 }
 
 export async function findAll(lang: string): Promise<Manufacturer[]> {

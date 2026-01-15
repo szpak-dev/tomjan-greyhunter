@@ -1,5 +1,5 @@
 ---
-import { CldImage } from "astro-cloudinary";
+import ProductImage from "../components/product/ProductImage.astro";
 import ProductSpecification from "../components/product/ProductSpecification.astro";
 import Section from "../components/ui/Section.astro";
 import Page from "../components/utils/Page.astro";
@@ -23,11 +23,7 @@ const { manufacturer, product } = Astro.props;
 
   <div class="row mt-5 gap-4 gap-md-0">
     <div class="col-md-6 d-flex justify-content-center align-items-center animate-fade-in-left">
-      <CldImage
-        src={product.images[0]}
-        alt={product.name}
-        width={600}
-      />
+      <ProductImage {product} {manufacturer} />
     </div>
     <div class="col-md-6 animate-fade-in-right mt-3 mt-md-0">
       <Section id="productSpecification" heading="Specification" divider={true}>

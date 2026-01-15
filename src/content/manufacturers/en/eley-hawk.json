@@ -22,5 +22,6 @@
         "Designed for competitive shooters and serious hunters demanding superior accuracy.",
         "Represents the pinnacle of precision ammunition manufacturing and quality control."
     ],
-    "domains": ["premium ammunition", "precision ammunition", "competitive shooting", "ammunition"]
+    "domains": ["premium ammunition", "precision ammunition", "competitive shooting", "ammunition"],
+    "imageOrientation": "landscape"
 }

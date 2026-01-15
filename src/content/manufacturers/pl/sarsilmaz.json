@@ -27,5 +27,6 @@
         "Dzięki dziesięcioleciom doświadczenia, Sarsilmaz produkuje niezawodną i innowacyjną broń dla myśliwych i strzelców sportowych.",
         "Uznawana na całym świecie za jakość rzemiosła i nowoczesny projekt broni."
     ],
-    "domains": ["broń", "karabiny myśliwskie", "uzbrojenie sportowe", "produkcja broni"]
+    "domains": ["broń", "karabiny myśliwskie", "uzbrojenie sportowe", "produkcja broni"],
+    "imageOrientation": "landscape"
 }

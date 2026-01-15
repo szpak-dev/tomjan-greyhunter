@@ -22,5 +22,6 @@
         "Założona w Finlandii firma specjalizuje się w produkcji noży premium dla myśliwych i miłośników przyrody.",
         "Znana z innowacyjnych projektów i doskonałego rzemiosła w produkcji ostrzy."
     ],
-    "domains": ["noże myśliwskie", "sprzęt outdoor", "noże sportowe", "noże do cięcia"]
+    "domains": ["noże myśliwskie", "sprzęt outdoor", "noże sportowe", "noże do cięcia"],
+    "imageOrientation": "portrait"
 }

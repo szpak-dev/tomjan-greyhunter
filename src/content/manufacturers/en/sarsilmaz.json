@@ -27,5 +27,6 @@
         "With decades of experience, Sarsilmaz produces reliable and innovative firearms for hunting and sport shooting.",
         "Recognized internationally for quality craftsmanship and modern firearm design."
     ],
-    "domains": ["firearms", "hunting rifles", "sporting weapons", "weapons manufacturing"]
+    "domains": ["firearms", "hunting rifles", "sporting weapons", "weapons manufacturing"],
+    "imageOrientation": "landscape"
 }

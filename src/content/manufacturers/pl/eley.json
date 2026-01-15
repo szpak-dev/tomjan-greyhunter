@@ -22,5 +22,6 @@
         "Specjalizuje się w precyzyjnej amunicji dla strzelców i myśliwych na całym świecie.",
         "Znany z konsekwentnej jakości i wydajności amunicji karabinowej i śrutowej."
     ],
-    "domains": ["amunicja", "amunicja sportowa", "strzelanie", "broń"]
+    "domains": ["amunicja", "amunicja sportowa", "strzelanie", "broń"],
+    "imageOrientation": "landscape"
 }

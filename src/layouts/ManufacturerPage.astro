@@ -20,7 +20,7 @@ const { manufacturer, categories, ownerStory } = Astro.props;
 const t = siteRepository.getTranslator(manufacturer.lang);
 ---
 
-<Page id="manufacturerPage" gap={5} animation="animate-fade-in">
+<Page id="manufacturerPage" gap={4} animation="animate-fade-in">
   <Section id="ownerStory" heading={t("headings.owner-story")} divider={true}>
     <OwnerStory 
         manufacturer={manufacturer} 
