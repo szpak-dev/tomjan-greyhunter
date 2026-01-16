@@ -49,12 +49,30 @@ export type Product = {
 export async function findProducts(manufacturer: string, lang: string): Promise<Product[]> {
     const products = await getCollection("products");
     const filtered = products.filter((p) => p.data.lang === lang && p.data.manufacturer === manufacturer);
+    filtered.sort((a, b) => a.data.name.localeCompare(b.data.name));
 
     return filtered.map((p) => {
         const product = p.data as Product;
         product.link = getProductUrl(product, lang);
         return product;
     });
+}
+
+export async function findCategoryProducts(manufacturer: string, category_slug: string, lang: string): Promise<Product[]> {
+    const products = await findProducts(manufacturer, lang);
+    
+    // console.log('productRepository.findCategoryProducts()', manufacturer, category_slug, lang)
+    return products.filter((p) => p.category_slug === category_slug);
+}
+
+export async function getFirstCategoryProduct(manufacturer: string, category_slug: string, lang: string): Promise<Product> {
+    const products = await findCategoryProducts(manufacturer, category_slug, lang);
+
+    if (products.length === 0) {
+        throw new Error(`No products found for category ${category_slug}`);
+    }
+    
+    return products[0];
 }
 
 export async function findNewProducts(manufacturer: string, lang: string): Promise<Product[]> {

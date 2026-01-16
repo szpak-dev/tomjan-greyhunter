@@ -1,21 +1,48 @@
 ---
 import Layout from "../../../../layouts/Layout.astro";
 import ManufacturerCategoryPage from "../../../../layouts/ManufacturerCategoryPage.astro";
-import { categoryRepository, manufacturerRepository, productRepository, siteRepository } from "../../../../content";
+import { Breadcrumb } from "astro-bootstrap";
+import { makeUrl } from "../../../../libs/url";
+
+import {
+  categoryRepository,
+  manufacturerRepository,
+  productRepository,
+  siteRepository,
+} from "../../../../content";
 
 export async function getStaticPaths() {
-  const languages = ["en", "pl"];
-  const manufacturers = ["marttiini"];
+  const languages = siteRepository.getAvailableLanguages().map((l) => l.code);
   const paths = [];
 
   for (const lang of languages) {
+    const marttiini = await manufacturerRepository.get("marttiini", lang);
+    const manufacturers = [marttiini];
+
     for (const manufacturer of manufacturers) {
-      const categories = await categoryRepository.findCategories(lang);
-      const manufacturerCategories = categories.filter((c) => c.manufacturer === manufacturer);
-      
-      for (const category of manufacturerCategories) {
+      const categories = await categoryRepository.findManufacturerCategories(
+        manufacturer.id,
+        lang
+      );
+
+      for (const category of categories) {
+        const products = await productRepository.findCategoryProducts(
+          manufacturer.id,
+          category.slug,
+          lang
+        );
+
         paths.push({
-          params: { lang, manufacturer, category: category.slug }
+          params: {
+            lang,
+            manufacturer: manufacturer.id,
+            category: category.slug,
+          },
+          props: {
+            manufacturer,
+            category,
+            products,
+          },
         });
       }
     }
@@ -24,22 +51,54 @@ export async function getStaticPaths() {
   return paths;
 }
 
-const { lang, manufacturer, category } = Astro.params;
-const manufacturerData = await manufacturerRepository.get(manufacturer, lang);
-const products = await productRepository.findProducts(manufacturer, lang);
-const categoryData = await categoryRepository.getCategoryBySlug(category, lang);
-const categoryProducts = products.filter((p) => p.category_slug === category);
+const { lang } = Astro.params;
+const { manufacturer, category, products } = Astro.props;
+
 const socials = siteRepository.getSocialAccounts();
 const owner = siteRepository.getSiteOwner();
 const languages = siteRepository.getAvailableLanguages();
 const currentLanguage = siteRepository.getLanguage(lang);
 const navigationItems = siteRepository.getNavigationItems(lang);
+const t = siteRepository.getTranslator(lang);
+
+// Build navigation items for all languages
+const allNavigationItems: Record<string, any[]> = {};
+for (const language of languages) {
+  allNavigationItems[language.code] = siteRepository.getNavigationItems(language.code);
+}
 ---
 
-<Layout title={manufacturerData.name} {lang} {socials} {owner} {languages} {currentLanguage} {navigationItems}>
-  <ManufacturerCategoryPage 
-    manufacturer={manufacturerData} 
-    category={categoryData}
-    products={categoryProducts} 
+<Layout
+  title={manufacturer.name}
+  {lang}
+  {socials}
+  {owner}
+  {languages}
+  {currentLanguage}
+  {navigationItems}
+  {allNavigationItems}
+>
+  <Breadcrumb>
+    <Breadcrumb.Item>
+      <a
+        href={makeUrl(Astro, {
+          targetLocale: lang,
+          path: makeUrl(Astro, { targetLocale: lang, path: "/" }),
+        })}
+      >
+        {t("nav.home")}
+      </a>
+    </Breadcrumb.Item>
+    <Breadcrumb.Item>
+      <a href={makeUrl(Astro, { targetLocale: lang, path: manufacturer.id })}>
+        {manufacturer.name}
+      </a>
+    </Breadcrumb.Item>
+  </Breadcrumb>
+
+  <ManufacturerCategoryPage
+    manufacturer={manufacturer}
+    category={category}
+    products={products}
   />
 </Layout>

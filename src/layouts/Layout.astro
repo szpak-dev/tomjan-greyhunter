@@ -23,10 +23,11 @@ interface Props {
   languages: AvailableLanguage[];
   currentLanguage: AvailableLanguage;
   navigationItems: NavigationItem[];
-  currentSlug?: string;
+  currentId?: string;
+  allNavigationItems: Record<string, NavigationItem[]>;
 }
 
-const { title, mainClass, lang, socials, owner, languages, currentLanguage, navigationItems, currentSlug } = Astro.props;
+const { title, mainClass, lang, socials, owner, languages, currentLanguage, navigationItems, currentId, allNavigationItems } = Astro.props;
 ---
 
 <!doctype html>
@@ -40,7 +41,7 @@ const { title, mainClass, lang, socials, owner, languages, currentLanguage, navi
     <title>{title}</title>
   </head>
   <body class="d-flex flex-column min-vh-100 bg-light">
-    <Header {lang} {socials} {languages} {currentLanguage} {navigationItems} {currentSlug} />
+    <Header {lang} {socials} {languages} {currentLanguage} {navigationItems} {currentId} {allNavigationItems} />
     <main class={"container flex-grow-1 py-4 " + (mainClass ?? "")}>
       <slot />
     </main>

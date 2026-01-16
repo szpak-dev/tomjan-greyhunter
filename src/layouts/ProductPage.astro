@@ -5,35 +5,52 @@ import Section from "../components/ui/Section.astro";
 import Page from "../components/utils/Page.astro";
 
 import type { Manufacturer } from "../content/manufacturer.repository";
+import type { Category } from "../content/category.repository";
 import type { Product } from "../content/product.repository";
 
 export type Props = {
   manufacturer: Manufacturer;
+  category: Category;
   product: Product;
 };
 
-const { manufacturer, product } = Astro.props;
+const { manufacturer, category, product } = Astro.props;
 ---
 
 <Page id="productPage" gap={5} animation="animate-fade-in">
   <div class="heading d-flex flex-column animate-fade-in-up">
     <h1 class="fw-bold text-center m-0">{product.name}</h1>
-    <h2 class="h3 text-secondary text-center m-0">{product.category_name}</h2>
+    <h2 class="h3 text-secondary text-center m-0">{category.name}</h2>
   </div>
 
   <div class="row mt-5 gap-4 gap-md-0">
-    <div class="col-md-6 d-flex justify-content-center align-items-center animate-fade-in-left">
+    <div
+      class="col-md-6 d-flex justify-content-center align-items-center animate-fade-in-left"
+    >
       <ProductImage {product} {manufacturer} />
     </div>
     <div class="col-md-6 animate-fade-in-right mt-3 mt-md-0">
       <Section id="productSpecification" heading="Specification" divider={true}>
-        {product.attribute_groups.map((specification) => <ProductSpecification {specification} />)}
+        {
+          product.attribute_groups.map((specification) => (
+            <ProductSpecification {specification} />
+          ))
+        }
       </Section>
-        <Section id="productDescription" heading="Description" divider={true} class="mt-5">
-          <div class="bg-white p-2">
-            { product.description.map((paragraph) => ( <p class="text fw-light lh-base">{paragraph}</p> )) }
-          </div>
-        </Section>
+      <Section
+        id="productDescription"
+        heading="Description"
+        divider={true}
+        class="mt-5"
+      >
+        <div class="bg-white p-2">
+          {
+            product.description.map((paragraph) => (
+              <p class="text fw-light lh-base">{paragraph}</p>
+            ))
+          }
+        </div>
+      </Section>
     </div>
   </div>
 </Page>

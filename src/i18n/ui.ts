@@ -7,6 +7,7 @@ export const defaultLang = 'pl';
 
 export const ui = {
     en: {
+        'nav.home': 'Home',
         'nav.company': 'Company',
         'nav.partners': 'Business Partners',
         'nav.databank': 'Data Bank',
@@ -43,6 +44,7 @@ export const ui = {
         'contact.registration-id': 'Registration ID',
     },
     pl: {
+        'nav.home': 'Strona Główna',
         'nav.company': 'O Firmie',
         'nav.partners': 'Partnerzy Biznesowi',
         'nav.databank': 'Baza Danych',

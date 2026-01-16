@@ -141,7 +141,7 @@ export function getOwnerStory(manufacturerId: string, lang: string): string {
         },
         "sarsilmaz": {
             "en": "Sarsilmaz represents the modern face of Turkish firearms engineering. With decades of proven excellence, they've earned recognition worldwide for their reliability and innovative designs. Whether for hunting or sport shooting, Sarsilmaz firearms combine precision manufacturing with timeless quality. I partnered with them because they understand that a firearm must be dependable when it matters most.",
-            "pl": "Sarsilmaz reprezentuje nowoczesną twarz tureckiej inżynierii strzeleckiej. Dzięki dziesięcioleciom sprawdzonej doskonałości zdobyli uznanie na całym świecie za niezawodność i innowacyjne projekty. Niezależnie od tego, czy chodzi o łowiectwo czy sport strzelecki, karabiny Sarsilmaz łączą precyzyjną produkcję z ponadczasową jakością. Zawiązałem z nimi partnerstwo, ponieważ wiedzą, że broń musi być niezawodna, gdy to się liczy najbardziej."
+            "pl": "Sarsilmaz reprezentuje nowoczesne oblicze tureckiej inżynierii strzeleckiej. Dzięki dziesięcioleciom sprawdzonej doskonałości zdobyli uznanie na całym świecie za niezawodność i innowacyjne projekty. Niezależnie od tego, czy chodzi o łowiectwo czy sport strzelecki, karabiny Sarsilmaz łączą precyzyjną produkcję z ponadczasową jakością. Zawiązałem z nimi partnerstwo, ponieważ wiedzą, że broń musi być niezawodna, gdy to się liczy najbardziej."
         },
         "eley": {
             "en": "Over 140 years of ammunition manufacturing expertise. Eley's name is synonymous with precision and consistency in the shooting world. Their commitment to quality control and performance has made them the choice of serious hunters and competitive shooters globally. When I considered ammunition suppliers, there was no question—Eley's heritage and proven track record spoke for themselves.",
@@ -164,7 +164,7 @@ export type ContentPage = {
     paragraphs: string[];
 };
 
-export function getContentPage(slug: string, lang: string): ContentPage {
+export function getContentPage(id: string, lang: string): ContentPage {
     const pages: ContentPage[] = [
         {
             id: "about-company",
@@ -203,23 +203,24 @@ export function getContentPage(slug: string, lang: string): ContentPage {
             id: "contact",
             lang: "pl",
             title: "Kontakt",
-            slug: "contact",
+            slug: "kontakt",
             paragraphs: [
                 "Skontaktuj się ze mną. Jestem tutaj, aby pomóc i odpowiedzieć na wszelkie pytania, które możesz mieć."
             ],
         },
     ];
 
-    const page = pages.find((p) => p.slug === slug && p.lang === lang);
+    const page = pages.find((p) => p.id === id && p.lang === lang);
     
     if (!page) {
-        throw new Error(`Content page with slug '${slug}' not found for lang '${lang}'`);
+        throw new Error(`Content page with id '${id}' not found for lang '${lang}'`);
     }
 
     return page;
 }
 
 export type NavigationItem = {
+    id: string;
     slug: string;
     name: string;
     path: string;
@@ -229,12 +230,12 @@ export type NavigationItem = {
 export function getNavigationItems(lang: string): NavigationItem[] {
     const items: Record<string, NavigationItem[]> = {
         "en": [
-            { slug: "about-company", name: "About Company", path: "/en/company/", icon: "bi bi-building" },
-            { slug: "contact", name: "Contact", path: "/en/contact/", icon: "bi bi-envelope" },
+            { id: "about-company", slug: "about-company", name: "Company", path: "/en/about-company/", icon: "bi bi-building" },
+            { id: "contact", slug: "contact", name: "Contact", path: "/en/contact/", icon: "bi bi-envelope" },
         ],
         "pl": [
-            { slug: "o-firmie", name: "O Firmie", path: "/pl/company/", icon: "bi bi-building" },
-            { slug: "kontakt", name: "Kontakt", path: "/pl/contact/", icon: "bi bi-envelope" },
+            { id: "about-company", slug: "o-firmie", name: "O Firmie", path: "/pl/o-firmie/", icon: "bi bi-building" },
+            { id: "contact", slug: "kontakt", name: "Kontakt", path: "/pl/kontakt/", icon: "bi bi-envelope" },
         ],
     };
 

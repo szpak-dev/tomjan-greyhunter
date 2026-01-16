@@ -1,5 +1,6 @@
 import { getCollection } from "astro:content";
 import { getRelativeLocaleUrl } from "astro:i18n";
+import { productRepository } from ".";
 import { VISIBLE_CATEGORIES } from "./filters.config";
 
 export type Category = {
@@ -13,31 +14,39 @@ export type Category = {
 }
 
 export async function findCategories(lang: string): Promise<Category[]> {
-    const categories = await getCollection("categories");
-    const products = await getCollection("products");
+    const collectionCategories = await getCollection("categories");
     
-    const result = categories
-        .filter((c) => VISIBLE_CATEGORIES[c.data.manufacturer]?.includes(c.data.slug) && c.data.lang === lang)
-        .map((c) => {
-            const category = c.data as Category;
-            category.link = getCategoryUrl(category, lang);
-            
-            const firstProduct = products.find(
-                (p) => p.data.lang === lang && 
-                       p.data.manufacturer === category.manufacturer &&
-                       p.data.category_slug === category.slug
-            );
-
-            if (!firstProduct) {
-                throw new Error(`No products found for category ${category.slug} in language ${lang}`);
-            }
-            
-            category.image = firstProduct.data.images[0];
-            
-            return category;
+    const categories = collectionCategories
+        .map((c) => c.data as Category)
+        .filter((category) => category.lang === lang)
+        .filter((category) => {
+            const visibleSlugs = VISIBLE_CATEGORIES[category.manufacturer];
+            return visibleSlugs ? visibleSlugs.includes(category.slug) : true;
         });
+    
+    categories.forEach(async (category) => {
+        const {manufacturer, slug} = category;
 
-    return result;
+        try {
+            const product = await productRepository.getFirstCategoryProduct(manufacturer, slug, lang);
+            category.image = product.images.length > 0 ? product.images[0] : "";
+        } catch (error) {
+            console.warn(`No products found for category ${category.slug}`);
+            category.image = "";
+        }
+    });
+
+    return categories.map((category) => {
+        category.link = getCategoryUrl(category, lang);
+        return category;
+    });
+}
+
+export async function findManufacturerCategories(manufacturer: string, lang: string): Promise<Category[]> {
+    const categories = await findCategories(lang);
+
+    // console.log('categoryRepository.findManufacturerCategories()', lang, manufacturer, categories)
+    return categories.filter((category) => category.manufacturer === manufacturer);
 }
 
 export async function getCategoryBySlug(slug: string, lang: string): Promise<Category> {

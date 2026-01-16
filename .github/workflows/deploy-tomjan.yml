@@ -105,7 +105,7 @@ jobs:
       
       - name: Reload Caddy
         run: |
-          sudo systemctl reload caddy
+          sudo service caddy reload
           echo "Caddy server reloaded"
       
       - name: Verify deployment

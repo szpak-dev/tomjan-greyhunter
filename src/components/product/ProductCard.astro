@@ -3,9 +3,11 @@ import type { Product } from "../../content/product.repository";
 import { makeUrl } from "../../libs/url";
 import { queryValue } from "../../libs/queries";
 import Card from "../ui/Card.astro";
+import type { Category } from "../../content/category.repository";
 
 export type Props = {
   product: Product;
+  category: Category
   badgeQueries?: {
     variant: string;
     propKeys: string[];

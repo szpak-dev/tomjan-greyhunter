@@ -19,9 +19,15 @@ const owner = siteRepository.getSiteOwner();
 const languages = siteRepository.getAvailableLanguages();
 const currentLanguage = siteRepository.getLanguage(lang);
 const navigationItems = siteRepository.getNavigationItems(lang);
+
+// Build navigation items for all languages
+const allNavigationItems: Record<string, any[]> = {};
+for (const language of languages) {
+  allNavigationItems[language.code] = siteRepository.getNavigationItems(language.code);
+}
 ---
 
-<Layout title="Grey Hunter - Tomasz Jantos" {lang} {socials} {owner} {languages} {currentLanguage} {navigationItems}>
+<Layout title="Grey Hunter - Tomasz Jantos" {lang} {socials} {owner} {languages} {currentLanguage} {navigationItems} {allNavigationItems}>
   <FrontPage 
     {lang}
     {sliderItems}

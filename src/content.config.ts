@@ -28,6 +28,21 @@ const manufacturers = defineCollection({
     }),
 });
 
+const categories = defineCollection({
+    schema: z.object({
+        id: z.string(),
+        lang: z.string(),
+        manufacturer: z.string(),
+        name: z.string(),
+        slug: z.string(),
+    }),
+    loader: glob({
+        pattern: "**/*.json", base: "./src/content/categories", generateId: ({ entry, data }) => {
+            return entry;
+        }
+    }),
+});
+
 const attributeSchema = z.object({
     id: z.string(),
     name: z.string(),
@@ -76,17 +91,6 @@ const products = defineCollection({
         variants: z.array(variantSchema).default([]),
         extra_data: z.array(extraValueSchema).default([]),
         images: z.array(z.string()).default([]),
-    }),
-});
-
-const categories = defineCollection({
-    loader: glob({ pattern: "**/*.json", base: "./src/content/categories" }),
-    schema: z.object({
-        id: z.string(),
-        lang: z.string(),
-        manufacturer: z.string(),
-        name: z.string(),
-        slug: z.string(),
     }),
 });
 
