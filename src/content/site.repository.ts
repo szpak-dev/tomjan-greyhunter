@@ -36,26 +36,7 @@ export function getTranslator(lang: string) {
     return useTranslations(validLang as keyof typeof ui);
 }
 
-export type MossaicPicture = {
-    image_url: string;
-};
 
-export function getMossaic(): MossaicPicture[] {
-    return [
-        { image_url: 'tomjan/collage/m-0' },
-        { image_url: 'tomjan/collage/m-1' },
-        { image_url: 'tomjan/collage/m-2' },
-        { image_url: 'tomjan/collage/m-3' },
-        { image_url: 'tomjan/collage/m-4' },
-        { image_url: 'tomjan/collage/m-5' },
-        { image_url: 'tomjan/collage/m-6' },
-        { image_url: 'tomjan/collage/m-7' },
-        { image_url: 'tomjan/collage/m-8' },
-        { image_url: 'tomjan/collage/m-9' },
-        { image_url: 'tomjan/collage/m-10' },
-        { image_url: 'tomjan/collage/m-11' },
-    ]
-}
 
 export type SocialAccount = {
     name: string;
@@ -118,19 +99,6 @@ export function getSiteOwner(): SiteOwner {
         },
         socials: getSocialAccounts(),
     };
-}
-
-export function getSliderItems(manufacturer: string): { image: string; altText: string; }[] {
-    const mapping: Record<string, { image: string; altText: string; }[]> = {
-        "marttiini": [
-            { image: "greyhunter.com.pl/slider-0", altText: "Slider Item 0", },
-            { image: "greyhunter.com.pl/slider-1", altText: "Slider Item 1", },
-            { image: "greyhunter.com.pl/slider-2", altText: "Slider Item 2", },
-            { image: "greyhunter.com.pl/slider-3", altText: "Slider Item 3", },
-        ],
-    }
-
-    return mapping[manufacturer] || [];
 }
 
 export function getOwnerStory(manufacturerId: string, lang: string): string {

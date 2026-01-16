@@ -1,5 +1,5 @@
 import { defineCollection, z } from 'astro:content';
-import { glob } from 'astro/loaders'; // Not available with legacy API
+import { glob } from 'astro/loaders';
 
 const manufacturers = defineCollection({
     schema: z.object({
@@ -21,8 +21,7 @@ const manufacturers = defineCollection({
         domains: z.array(z.string()).default([]),
     }),
     loader: glob({
-        pattern: "**/*.json", base: "./src/content/manufacturers", generateId: ({ entry, data }) => {
-            // Use the full path including language directory as ID
+        pattern: "**/*.json", base: "./src/content/manufacturers", generateId: ({ entry }) => {
             return entry;
         }
     }),
@@ -37,7 +36,7 @@ const categories = defineCollection({
         slug: z.string(),
     }),
     loader: glob({
-        pattern: "**/*.json", base: "./src/content/categories", generateId: ({ entry, data }) => {
+        pattern: "**/*.json", base: "./src/content/categories", generateId: ({ entry }) => {
             return entry;
         }
     }),

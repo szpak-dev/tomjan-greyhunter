@@ -20,7 +20,7 @@ export type Manufacturer = {
     link: ManufacturerLink; 
     socials: SocialLink[];
     description: string[];
-    domains: string[]; // List of domain names associated with the manufacturer
+    domains: string[];
     imageOrientation: "portrait" | "landscape";
 }
 
@@ -34,9 +34,11 @@ export async function findAll(lang: string): Promise<Manufacturer[]> {
 export async function get(id: string, lang: string): Promise<Manufacturer> {
     const manufacturers = await findAll(lang);
     const manufacturer = manufacturers.find((m) => m.id === id);
+
     if (!manufacturer) {
         throw new Error(`Manufacturer with id '${id}' not found for lang '${lang}'`);
     }
+
     return manufacturer;
 }
 

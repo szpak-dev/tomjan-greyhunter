@@ -1,6 +1,6 @@
 ---
-import { siteRepository, manufacturerRepository, productRepository, frontpageRepository } from "../../content";
-import type { MossaicPicture } from "../../content/site.repository";
+import { siteRepository, manufacturerRepository, frontpageRepository } from "../../content";
+import type { MossaicPicture } from "../../content/frontpage.repository";
 import FrontPage from "../../layouts/FrontPage.astro";
 import Layout from "../../layouts/Layout.astro";
 
@@ -9,12 +9,12 @@ export async function getStaticPaths() {
 }
 
 const { lang } = Astro.params;
-const sliderItems = siteRepository.getSliderItems("marttiini");
+const sliderItems = frontpageRepository.getSliderItems("marttiini");
 const looseManufacturers = await manufacturerRepository.findAll(lang);
 const manufacturers = manufacturerRepository.sortForFrontPage(looseManufacturers);
 const newProducts = await frontpageRepository.findNewProducts("marttiini", lang);
 
-const mossaicImages: MossaicPicture[] = siteRepository.getMossaic();
+const mossaicImages: MossaicPicture[] = frontpageRepository.getMossaic();
 const socials = siteRepository.getSocialAccounts();
 const owner = siteRepository.getSiteOwner();
 const languages = siteRepository.getAvailableLanguages();
