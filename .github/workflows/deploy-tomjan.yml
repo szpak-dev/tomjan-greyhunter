@@ -48,6 +48,13 @@ jobs:
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
         working-directory: ${{ env.BUILD_PATH }}
       
+      - name: Clean build cache and dist
+        run: |
+          rm -rf dist
+          rm -rf .astro
+          rm -rf node_modules/.astro
+        working-directory: ${{ env.BUILD_PATH }}
+      
       - name: Check required environment variables
         env:
           PUBLIC_CLOUDINARY_CLOUD_NAME: ${{ secrets.PUBLIC_CLOUDINARY_CLOUD_NAME }}
