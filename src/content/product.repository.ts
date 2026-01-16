@@ -1,6 +1,5 @@
 import { getCollection } from "astro:content";
 import { getRelativeLocaleUrl } from "astro:i18n";
-import { NEW_PRODUCTS } from "./filters.config";
 
 export type Attribute = {
     id: string;
@@ -60,8 +59,6 @@ export async function findProducts(manufacturer: string, lang: string): Promise<
 
 export async function findCategoryProducts(manufacturer: string, category_slug: string, lang: string): Promise<Product[]> {
     const products = await findProducts(manufacturer, lang);
-    
-    // console.log('productRepository.findCategoryProducts()', manufacturer, category_slug, lang)
     return products.filter((p) => p.category_slug === category_slug);
 }
 
@@ -73,11 +70,6 @@ export async function getFirstCategoryProduct(manufacturer: string, category_slu
     }
     
     return products[0];
-}
-
-export async function findNewProducts(manufacturer: string, lang: string): Promise<Product[]> {
-    const products = await findProducts(manufacturer, lang);
-    return products.filter((p) => p.lang === lang && NEW_PRODUCTS[manufacturer]?.includes(p.slug));
 }
 
 export async function getProductBySlug(manufacturer: string, slug: string, lang: string): Promise<Product> {

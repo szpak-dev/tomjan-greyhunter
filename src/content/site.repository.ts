@@ -241,3 +241,10 @@ export function getNavigationItems(lang: string): NavigationItem[] {
 
     return items[lang];
 }
+
+export function getAllNavigationItems(): Record<string, NavigationItem[]> {
+    const enItems = getNavigationItems("en");
+    const plItems = getNavigationItems("pl");
+
+    return { en: enItems, pl: plItems };
+}

@@ -51,13 +51,8 @@ const owner = siteRepository.getSiteOwner();
 const languages = siteRepository.getAvailableLanguages();
 const currentLanguage = siteRepository.getLanguage(lang);
 const navigationItems = siteRepository.getNavigationItems(lang);
+const allNavigationItems = siteRepository.getAllNavigationItems();
 const t = siteRepository.getTranslator(lang);
-
-// Build navigation items for all languages
-const allNavigationItems: Record<string, any[]> = {};
-for (const language of languages) {
-  allNavigationItems[language.code] = siteRepository.getNavigationItems(language.code);
-}
 ---
 
 <Layout

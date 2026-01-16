@@ -44,8 +44,6 @@ export async function findCategories(lang: string): Promise<Category[]> {
 
 export async function findManufacturerCategories(manufacturer: string, lang: string): Promise<Category[]> {
     const categories = await findCategories(lang);
-
-    // console.log('categoryRepository.findManufacturerCategories()', lang, manufacturer, categories)
     return categories.filter((category) => category.manufacturer === manufacturer);
 }
 

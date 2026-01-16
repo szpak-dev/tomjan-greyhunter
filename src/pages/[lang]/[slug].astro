@@ -12,13 +12,13 @@ export async function getStaticPaths() {
     const navigationItems = siteRepository.getNavigationItems(language.code);
     for (const item of navigationItems) {
       paths.push({
-        params: { 
+        params: {
           lang: language.code,
-          slug: item.slug
+          slug: item.slug,
         },
         props: {
-          id: item.id
-        }
+          id: item.id,
+        },
       });
     }
   }
@@ -35,12 +35,7 @@ const socials = siteRepository.getSocialAccounts();
 const owner = siteRepository.getSiteOwner();
 const languages = siteRepository.getAvailableLanguages();
 const currentLanguage = siteRepository.getLanguage(lang);
-
-// Build navigation items for all languages
-const allNavigationItems: Record<string, any[]> = {};
-for (const language of languages) {
-  allNavigationItems[language.code] = siteRepository.getNavigationItems(language.code);
-}
+const allNavigationItems = siteRepository.getAllNavigationItems();
 ---
 
 <Layout
@@ -54,9 +49,11 @@ for (const language of languages) {
   currentId={id}
   {allNavigationItems}
 >
-  {id === "contact" ? (
-    <ContactPage {page} {lang} {owner} />
-  ) : (
-    <ContentPage {page} />
-  )}
+  {
+    id === "contact" ? (
+      <ContactPage {page} {lang} {owner} />
+    ) : (
+      <ContentPage {page} />
+    )
+  }
 </Layout>

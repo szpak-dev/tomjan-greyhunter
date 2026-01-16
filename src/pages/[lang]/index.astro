@@ -1,5 +1,5 @@
 ---
-import { siteRepository, manufacturerRepository, productRepository } from "../../content";
+import { siteRepository, manufacturerRepository, productRepository, frontpageRepository } from "../../content";
 import type { MossaicPicture } from "../../content/site.repository";
 import FrontPage from "../../layouts/FrontPage.astro";
 import Layout from "../../layouts/Layout.astro";
@@ -12,22 +12,27 @@ const { lang } = Astro.params;
 const sliderItems = siteRepository.getSliderItems("marttiini");
 const looseManufacturers = await manufacturerRepository.findAll(lang);
 const manufacturers = manufacturerRepository.sortForFrontPage(looseManufacturers);
-const newProducts = await productRepository.findNewProducts("marttiini", lang);
+const newProducts = await frontpageRepository.findNewProducts("marttiini", lang);
+
 const mossaicImages: MossaicPicture[] = siteRepository.getMossaic();
 const socials = siteRepository.getSocialAccounts();
 const owner = siteRepository.getSiteOwner();
 const languages = siteRepository.getAvailableLanguages();
 const currentLanguage = siteRepository.getLanguage(lang);
 const navigationItems = siteRepository.getNavigationItems(lang);
-
-// Build navigation items for all languages
-const allNavigationItems: Record<string, any[]> = {};
-for (const language of languages) {
-  allNavigationItems[language.code] = siteRepository.getNavigationItems(language.code);
-}
+const allNavigationItems = siteRepository.getAllNavigationItems();
 ---
 
-<Layout title="Grey Hunter - Tomasz Jantos" {lang} {socials} {owner} {languages} {currentLanguage} {navigationItems} {allNavigationItems}>
+<Layout 
+  title="Grey Hunter - Tomasz Jantos" 
+  {lang} 
+  {socials} 
+  {owner} 
+  {languages} 
+  {currentLanguage} 
+  {navigationItems} 
+  {allNavigationItems}
+>
   <FrontPage 
     {lang}
     {sliderItems}
